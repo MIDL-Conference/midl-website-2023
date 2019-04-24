@@ -1,5 +1,5 @@
 [build]
-  command = "pipenv install && pipenv run python -m mwb . output"
+  command = "python -m mwb . output"
   publish = "output"
 
   [build.environment]
