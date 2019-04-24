@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 width="143.667px" height="112.167px" viewBox="0 0 143.667 112.167" xml:space="preserve">
+<g id="Logo">
+	<g id="Letters">
+		<path fill="#FFFFFF" d="M25.064,82.803l10.523-12.141h7.09v32.742h-8.156V82.967l-8.846,10.266h-1.225l-8.844-10.266v20.438H7.451
+			V70.663h7.082L25.064,82.803z"/>
+		<path fill="#FFFFFF" d="M60.757,70.663v32.742h-8.156V70.663H60.757z"/>
+		<path fill="#FFFFFF" d="M70.657,70.663h14.438c5.578,0,9.988,1.527,13.23,4.582s4.863,7.004,4.863,11.848
+			c0,5.078-1.645,9.066-4.934,11.965s-7.98,4.348-14.074,4.348H70.657V70.663z M78.813,76.663v20.742h5.32
+			c3.453,0,6.094-0.949,7.922-2.848s2.742-4.402,2.742-7.512c0-3.219-0.926-5.754-2.777-7.605s-4.512-2.777-7.98-2.777H78.813z"/>
+		<path fill="#FFFFFF" d="M136.549,97.405v6h-24.961V70.663h8.156v26.742H136.549z"/>
+	</g>
+	<g id="Network">
+		<circle fill="#FFFFFF" cx="49.443" cy="52.438" r="7.831"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="49.443" y1="52.438" x2="90.931" y2="34.552"/>
+		<circle fill="#FFFFFF" cx="90.931" cy="34.552" r="10.054"/>
+		<circle fill="#FFFFFF" cx="24.329" cy="38.324" r="5.717"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="21.582" y1="36.604" x2="49.931" y2="52.552"/>
+		<circle fill="#FFFFFF" cx="119.329" cy="47.324" r="5.717"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="90.443" y1="34.438" x2="119.329" y2="47.324"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="90.443" y1="33.438" x2="110.047" y2="10.042"/>
+		<circle fill="#FFFFFF" cx="110.047" cy="10.042" r="3.436"/>
+	</g>
+</g>
+</svg>
