@@ -3,4 +3,4 @@
   publish = "output"
 
   [build.environment]
-    PIPENV_IGNORE_VIRTUALENVS = 1
+    PIPENV_IGNORE_VIRTUALENVS = "1"
