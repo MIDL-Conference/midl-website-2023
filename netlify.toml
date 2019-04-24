@@ -1,3 +1,6 @@
 [build]
-command = "pipenv install && python -m mwb ./ ./output"
-publish = "output/"
+  command = "pipenv install && pipenv run python -m mwb . output"
+  publish = "output"
+
+  [build.environment]
+    PIPENV_IGNORE_VIRTUALENVS = 1
