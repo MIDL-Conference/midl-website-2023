@@ -1,0 +1,3 @@
+[build]
+command = "pipenv install && python -m mwb ./ ./output"
+publish = "output/"
