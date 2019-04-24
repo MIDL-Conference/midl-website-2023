@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "dbf9f9239eab0a364c2fae19bc926dde4825452c06716f5d8b87b6376453c4ba"
+            "sha256": "b040d6009cd1141b28dba2026a1390a82591f9e2d720fa0a9159be5c17f1be9c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -66,7 +66,7 @@
         "mwb": {
             "editable": true,
             "git": "https://github.com/nlessmann/midl-website-builder.git",
-            "ref": "358a14b247d748125e986d04dc504baea8abb938"
+            "ref": "9dd40efb41f7c03d428f235a6e7c4d8fc6b9274e"
         },
         "pyscss": {
             "hashes": [
