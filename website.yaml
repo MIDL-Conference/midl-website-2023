@@ -1,2 +1,11 @@
 title: "MIDL 2018"
 theme: "midl-website-theme"
+content: "pages"
+
+nav:
+  - title: "Home"
+    path: "/"
+    icon: "admin-home"
+  - title: "Organization"
+    path: "/organization.html"
+    icon: "groups"
