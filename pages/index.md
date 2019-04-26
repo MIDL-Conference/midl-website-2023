@@ -1,3 +1,7 @@
 # Hello world!
 
-This is an example with an icon <span class="dashicons dashicons-admin-settings"></span>.
+This is an example with a link <a href="/">back to the homepage</a>.
+
+<p class="center">
+    <a href="/" class="button">Cool button</a>
+</p>
