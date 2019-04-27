@@ -1,7 +1,7 @@
-title: "MIDL 2019"
+title: "MIDL"
 theme: "midl-website-theme"
-primary-color: "#4E7268"
-content: "pages"
+primary-color: "#506775"
+content: "placeholder"
 
 nav:
   - title: "Home"
