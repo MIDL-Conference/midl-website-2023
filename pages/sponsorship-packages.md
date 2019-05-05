@@ -6,7 +6,7 @@ title: "Sponsorship packages"
 
 ## <span class="sponsors platinum">Platinum</span>
 
-### <span class="sponsors amount">10,000 € (excl. VAT)
+### <span class="sponsors amount">10,000 € (excl. VAT)</span>
 
 * Acknowledgment during the Opening Dinner and Closing Drinks
 * Company name and logo on the conference website and in the conference program book
@@ -17,7 +17,7 @@ title: "Sponsorship packages"
 
 ## <span class="sponsors gold">Gold</span>
 
-### <span class="sponsors amount">4,000 € (excl. VAT)
+### <span class="sponsors amount">4,000 € (excl. VAT)</span>
 
 * Acknowledgment during the Opening Dinner and Closing Drinks
 * Company name and logo on the conference website and in the conference program book
@@ -26,7 +26,7 @@ title: "Sponsorship packages"
 
 ## <span class="sponsors silver">Silver</span>
 
-### <span class="sponsors amount">2,000 € (excl. VAT)
+### <span class="sponsors amount">2,000 € (excl. VAT)</span>
 
 * Acknowledgment during the Opening Dinner and Closing Drinks
 * Company name and logo on the conference website and in the conference program book
