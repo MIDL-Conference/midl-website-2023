@@ -3,7 +3,12 @@ date: ""
 theme: "midl-website-theme"
 primary-color: "#506775"
 content: "placeholder"
+
 twitter: "midl_conference"
+youtube: "channel/UCd87UPUTt-oqTeGi8fQw-_w"
+github: "MIDL-Conference/midl-website"
+show_twitter_feed: no
+show_platform_icons: yes
 
 nav:
   - title: "Home"
