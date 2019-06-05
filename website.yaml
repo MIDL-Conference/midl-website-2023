@@ -6,20 +6,20 @@ content: "placeholder"
 
 twitter: "midl_conference"
 youtube: "channel/UCd87UPUTt-oqTeGi8fQw-_w"
-github: "MIDL-Conference/midl-website"
+github: "MIDL-Conference/midl-website-template"
 show_twitter_feed: no
 show_platform_icons: yes
 
 nav:
   - title: "Home"
     path: "/"
-    icon: "admin-home"
+    icon: "home"
   - title: "Call for papers"
     path: "/call-for-papers.html"
-    icon: "media-document"
+    icon: "bullhorn"
   - title: "Sponsorship"
     path: "/sponsorship-packages.html"
-    icon: "star-filled"
+    icon: "star"
   - title: "Organization"
     path: "/organization.html"
-    icon: "groups"
+    icon: "users"
