@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c202de2f72468947d5ab4d466415ea65b4167f3542af368cdf7804e7bff24d1d"
+            "sha256": "89c47894c1570f1c58eea7d09e9dc544d5eecff472b19eec1feb967954b8358a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -31,10 +31,10 @@
         },
         "markdown": {
             "hashes": [
-                "sha256:fc4a6f69a656b8d858d7503bda633f4dd63c2d70cf80abdc6eafa64c4ae8c250",
-                "sha256:fe463ff51e679377e3624984c829022e2cfb3be5518726b06f608a07a3aad680"
+                "sha256:2e50876bcdd74517e7b71f3e7a76102050edec255b3983403f1a63e7c8a41e7a",
+                "sha256:56a46ac655704b91e5b7e6326ce43d5ef72411376588afa1dd90e881b83c7e8c"
             ],
-            "version": "==3.1"
+            "version": "==3.1.1"
         },
         "markupsafe": {
             "hashes": [
@@ -72,7 +72,7 @@
         "mwb": {
             "editable": true,
             "git": "https://github.com/MIDL-Conference/midl-website-builder.git",
-            "ref": "5d400d601098a9a30be51c4034d2c0ae9a328b54"
+            "ref": "69ecd3fd7a453a8dac974e0b58ab960d66c145fb"
         },
         "pyscss": {
             "hashes": [
