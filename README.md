@@ -15,7 +15,7 @@ repository with a readme or license file.
 4. Clone the template repository and reconfigure the remote location:
 
    ```
-   git clone https://github.com/MIDL-Conference/midl-website-template.git midl-website-20XX
+   git clone --recurse-submodules https://github.com/MIDL-Conference/midl-website-template.git midl-website-20XX
    cd midl-website-20XX
    git remote set-url origin https://github.com/MIDL-Conference/midl-website-20XX.git
    git push origin master
