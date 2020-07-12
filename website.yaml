@@ -4,6 +4,8 @@ theme: "midl-website-theme"
 primary-color: "#506775"
 content: "placeholder"
 
+www: "https://XXXX.midl.io"
+email: "XXXX@midl.io"
 twitter: "midl_conference"
 youtube: "channel/UCd87UPUTt-oqTeGi8fQw-_w"
 github: "MIDL-Conference/midl-website-template"
@@ -12,6 +14,11 @@ show_twitter_button: no
 show_twitter_feed: no
 num_tweets_in_feed: 1
 show_platform_icons: yes
+
+summary: "The Medical Imaging with Deep Learning conference was held from X to X July 20XX"
+opengraph:
+  description: "Medical Imaging with Deep Learning conference, XXX 20XX"
+  image: "/images/foobar.jpg"
 
 nav:
   - title: "Home"
@@ -29,3 +36,5 @@ nav:
   - title: "Organization"
     path: "/organization.html"
     icon: "users"
+
+cdn: "https://static.midl.io"
