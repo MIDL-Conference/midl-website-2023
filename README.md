@@ -12,7 +12,9 @@ repository with a readme or license file.
 
 3. Disable the wiki feature in the settings.
 
-4. Clone the template repository and reconfigure the remote location:
+4. Update website.yaml and pyproject.toml replacing XXXX with the year.
+
+5. Clone the template repository and reconfigure the remote location:
 
    ```
    git clone --recurse-submodules https://github.com/MIDL-Conference/midl-website-template.git midl-website-20XX
@@ -21,28 +23,37 @@ repository with a readme or license file.
    git push origin master
    ```
 
-5. Create a new site on netlify that is linked with this repository. Change the site name to `midl-20XX`.
+6. Create a new site on netlify that is linked with this repository. Change the site name to `midl-20XX`.
 
-6. Replace the content of this readme file with the netlify deploy status button.
+7. Replace the content of this readme file with the netlify deploy status button.
 
 ## Building the website locally
 
 To build the website locally instead of building it automatically on netlify, make sure the following is installed:
 
 * Python 3.7
-* pipenv
+* poetry
 
-Use pipenv to install the website builder and all dependencies:
+Use poetry to install the website builder and all dependencies:
 
 ```
 cd midl-website-20XX
-pipenv sync
+poetry install
 ```
 
 Then run the builder:
 
 ```
-pipenv run python -m mwb . output/
+poetry run python -m mwb . output/
 ```
 
 This builds the website at `.` and writes the generated output into the directory `output/`.
+
+To update the dependencies, run
+
+```
+poetry update
+poetry export --output requirements.txt --without-hashes
+```
+
+This will update poetry.lock and requirements.txt
