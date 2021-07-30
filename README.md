@@ -44,10 +44,11 @@ poetry install
 Then run the builder:
 
 ```
-poetry run python -m mwb . output/
+poetry run python -m mwb . output/ --no-minify --serve
 ```
 
-This builds the website at `.` and writes the generated output into the directory `output/`.
+This builds the website at `.` and writes the generated output into the directory `output/`, then starts a webserver on
+`http://localhost:8000` until you stop it with Ctrl+C.
 
 To update the dependencies, run
 

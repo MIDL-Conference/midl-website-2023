@@ -6,7 +6,7 @@ authors = ["Nikolas Lessmann <773597+nlessmann@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
 python = "~3.7"
-midl-website-builder = {git = "https://github.com/MIDL-Conference/midl-website-builder.git", rev = "1.13"}
+midl-website-builder = {git = "https://github.com/MIDL-Conference/midl-website-builder.git", rev = "1.16"}
 
 [tool.poetry.dev-dependencies]
 
