@@ -1,24 +1,24 @@
-title: "MIDL"
+title: "MIDL 2023"
 date: ""
 theme: "midl-website-theme"
 primary-color: "#506775"
 content: "placeholder"
 
-www: "https://XXXX.midl.io"
-email: "XXXX@midl.io"
+www: "https://2023.midl.io"
+email: "2023@midl.io"
 twitter: "midl_conference"
 youtube: "channel/UCd87UPUTt-oqTeGi8fQw-_w"
-github: "MIDL-Conference/midl-website-template"
+github: "MIDL-Conference"
 
 show_twitter_button: no
 show_twitter_feed: no
 num_tweets_in_feed: 1
 show_platform_icons: yes
 
-summary: "The Medical Imaging with Deep Learning conference was held from X to X July 20XX"
+summary: "The Medical Imaging with Deep Learning conference will be held in Nashville in 2023"
 opengraph:
-  description: "Medical Imaging with Deep Learning conference, XXX 20XX"
-  image: "/images/foobar.jpg"
+  description: "Medical Imaging with Deep Learning conference 2023"
+  image: "/images/nashville.jpg"
 
 nav:
   - title: "Home"
