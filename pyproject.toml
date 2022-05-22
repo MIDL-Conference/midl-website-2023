@@ -5,7 +5,7 @@ description = "Website of the 2023 edition of the MIDL conference series"
 authors = ["Nikolas Lessmann <773597+nlessmann@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
-python = "~3.7"
+python = "~3.8"
 midl-website-builder = {git = "https://github.com/MIDL-Conference/midl-website-builder.git", rev = "1.19"}
 
 [tool.poetry.dev-dependencies]
