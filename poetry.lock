@@ -34,7 +34,7 @@ python-versions = "*"
 
 [[package]]
 name = "importlib-metadata"
-version = "4.6.1"
+version = "4.6.3"
 description = "Read metadata from Python packages"
 category = "main"
 optional = false
@@ -87,7 +87,7 @@ python-versions = ">=3.6"
 
 [[package]]
 name = "MIDL-website-builder"
-version = "1.16"
+version = "1.19"
 description = "Tool for building static websites for the MIDL conference series"
 category = "main"
 optional = false
@@ -105,8 +105,8 @@ pyyaml = "*"
 [package.source]
 type = "git"
 url = "https://github.com/MIDL-Conference/midl-website-builder.git"
-reference = "1.16"
-resolved_reference = "a96df88efd691a4a93a4809ef52187a248b87adf"
+reference = "1.19"
+resolved_reference = "58f3b5ba3345f29c179b4b0c89f6402ae71b7538"
 
 [[package]]
 name = "pyscss"
@@ -166,7 +166,7 @@ testing = ["pytest (>=4.6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytes
 [metadata]
 lock-version = "1.1"
 python-versions = "~3.7"
-content-hash = "dde9402983d2c6e89e480a556fe3e5f3d454680618b47d8095d10d77fd419750"
+content-hash = "a8bcaabaaaa0b6908e3d5fefa9814027c067343f192f8f3c3233629cbc6c4d9a"
 
 [metadata.files]
 beautifulsoup4 = [
@@ -181,8 +181,8 @@ htmlmin = [
     {file = "htmlmin-0.1.12.tar.gz", hash = "sha256:50c1ef4630374a5d723900096a961cff426dff46b48f34d194a81bbe14eca178"},
 ]
 importlib-metadata = [
-    {file = "importlib_metadata-4.6.1-py3-none-any.whl", hash = "sha256:9f55f560e116f8643ecf2922d9cd3e1c7e8d52e683178fecd9d08f6aa357e11e"},
-    {file = "importlib_metadata-4.6.1.tar.gz", hash = "sha256:079ada16b7fc30dfbb5d13399a5113110dab1aa7c2bc62f66af75f0b717c8cac"},
+    {file = "importlib_metadata-4.6.3-py3-none-any.whl", hash = "sha256:51c6635429c77cf1ae634c997ff9e53ca3438b495f10a55ba28594dd69764a8b"},
+    {file = "importlib_metadata-4.6.3.tar.gz", hash = "sha256:0645585859e9a6689c523927a5032f2ba5919f1f7d0e84bd4533312320de1ff9"},
 ]
 jinja2 = [
     {file = "Jinja2-3.0.1-py3-none-any.whl", hash = "sha256:1f06f2da51e7b56b8f238affdd6b4e2c61e39598a378cc49345bc1bd42a978a4"},
