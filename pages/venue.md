@@ -5,7 +5,7 @@ title: "Venue"
 
 # Conference Venue
 
-## Vanderbilt University, Nashville
+## Vanderbilt University, Nashville, TN, USA
 
 ## Nashville
 
