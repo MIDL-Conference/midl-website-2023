@@ -22,7 +22,7 @@ MIDL has a large scope including all areas where deep learning is used to analyz
 
 Submissions presenting validation studies demonstrating clinical relevance and novel applications are encouraged as much as novel methodological contributions. 
 
-Inquiries to the program chairs can be addressed directly to pc@2023.midl.io
+Inquiries to the program chairs can be addressed directly to [2023@midl.io](mailto:2023@midl.io).
 
 ## Two-Track Submissions
 
