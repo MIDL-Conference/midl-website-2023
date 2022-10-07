@@ -31,10 +31,11 @@ Full papers contain methodological developments or well-validated applications o
 
 Short papers are up to 3 pages and can, for example, focus on novel methodological ideas without extensive validation. We also specifically accept short papers discussing recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees. Selection of short papers is based on a light review process via OpenReview. All accepted short papers will be presented at the conference.
 
-## Important Dates
 
+## Submission timeline
+[% .deadlines %]
 ### Full papers
-* **Paper registration deadline** 8 December 2022, 17:00 UTC 
+* **Paper registration deadline** 8 December 2022, 17:00 UTC
 * **Paper submission deadline** 15 December 2022, 23:59 UTC
 * **Reviews due** 24 January 2022
 * **Final decisions** 8 February 2022
@@ -42,3 +43,4 @@ Short papers are up to 3 pages and can, for example, focus on novel methodologic
 ### Short papers
 * **Paper submission deadline** TBD April 2023
 * **Final decisions** TBD May 2023
+[% / %]
