@@ -7,6 +7,7 @@ title: "Organization"
 ## Conference chairs
 
 * [Bennett Landman](https://engineering.vanderbilt.edu/bio/bennett-landman), Vanderbilt University, Nashville, Tennessee, USA
+* [Ipek Oguz](https://engineering.vanderbilt.edu/bio/ipek-oguz), Vanderbilt University, Nashville, Tennessee, USA
 * [Benoit Dawant](https://engineering.vanderbilt.edu/bio/benoit-dawant), Vanderbilt University, Nashville, Tennessee, USA
 
 ## Program chairs and committee
