@@ -19,12 +19,12 @@ title: "Organization"
 
 ## Virtual Arrangement Chair
 
-* [Yuankai Huo](https://engineering.vanderbilt.edu/bio/yuankai-huo),Vanderbilt University, Nashville, Tennessee, USA
+* [Yuankai Huo](https://engineering.vanderbilt.edu/bio/yuankai-huo), Vanderbilt University, Nashville, Tennessee, USA
 
 ## Sponsorship co-chair
 * [Soheil Kolouri](https://mint-vu.github.io/people/soheil_kolouri/index.html), Vanderbilt University, Nashville, Tennessee, USAt
 
 ## Doctoral Symposium Chairs
 
-* [Catie Chang](https://engineering.vanderbilt.edu/bio/catie-chang),Vanderbilt University, Nashville, Tennessee, USA
+* [Catie Chang](https://engineering.vanderbilt.edu/bio/catie-chang), Vanderbilt University, Nashville, Tennessee, USA
 * [Jie Ying](https://engineering.vanderbilt.edu/bio/jieying-wu), Vanderbilt University, Nashville, Tennessee, USA
