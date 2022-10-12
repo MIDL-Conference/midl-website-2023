@@ -22,11 +22,7 @@ MIDL has a large scope including all areas where deep learning is used to analyz
 
 Submissions presenting validation studies demonstrating clinical relevance and novel applications are encouraged as much as novel methodological contributions. 
 
-<<<<<<< HEAD
 Inquiries to the program chairs can be addressed directly to pc@2023.midl.io
-=======
-Inquiries to the program chairs can be addressed directly to [2023@midl.io](mailto:2023@midl.io).
->>>>>>> 00112e459e535a942aa7a79e881367285845100c
 
 ## Two-Track Submissions
 
@@ -35,26 +31,14 @@ Full papers contain methodological developments or well-validated applications o
 
 Short papers are up to 3 pages and can, for example, focus on novel methodological ideas without extensive validation. We also specifically accept short papers discussing recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees. Selection of short papers is based on a light review process via OpenReview. All accepted short papers will be presented at the conference.
 
-<<<<<<< HEAD
 ## Important Dates
 
 ### Full papers
 * **Paper registration deadline** 8 December 2022, 17:00 UTC 
-=======
-
-## Submission timeline
-<!-- [% .deadlines %]
-### Full papers
-* **Paper registration deadline** 8 December 2022, 17:00 UTC
->>>>>>> 00112e459e535a942aa7a79e881367285845100c
 * **Paper submission deadline** 15 December 2022, 23:59 UTC
-* **Reviews due** TBD
-* **Final decisions** TBD
+* **Reviews due** 24 January 2022
+* **Final decisions** 8 February 2022
 
 ### Short papers
 * **Paper submission deadline** TBD April 2023
 * **Final decisions** TBD May 2023
-<<<<<<< HEAD
-=======
-[% / %] -->
->>>>>>> 00112e459e535a942aa7a79e881367285845100c
