@@ -16,6 +16,10 @@ title: "Organization"
 * [Jack Noble](https://engineering.vanderbilt.edu/bio/jack-noble), Vanderbilt University, Nashville, Tennessee, USA
 * [Xiaoxiao Li](https://bmiai.ubc.ca/people/xiaoxiao-li), Univ of British Columbia, British Columbia, Vancouver, Canada
 * [Martin Styner](https://www.med.unc.edu/psych/directory/martin-styner/), Univ. of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA
+* [Christian Baumgartner](https://baumgach.github.io/), University of Tübingen, Tübingen, Germany
+* [Mirabella Rusu](https://profiles.stanford.edu/mirabela-rusu), Stanford University, Stanford, California, USA
+* [Tobias Heimann](https://de.linkedin.com/in/tobias-heimann-9a16a0164), Siemens Healthineers, Germany
+* [Despina Kontos](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p8123294), University of Pennysylvania, Philadelphia, Pennysylvania, USA
 
 ## Virtual Arrangement Chair
 
@@ -28,3 +32,8 @@ title: "Organization"
 
 * [Catie Chang](https://engineering.vanderbilt.edu/bio/catie-chang), Vanderbilt University, Nashville, Tennessee, USA
 * [Jie Ying](https://engineering.vanderbilt.edu/bio/jieying-wu), Vanderbilt University, Nashville, Tennessee, USA
+
+## Website, and Email Communication
+
+* [Daniel Moyer](https://engineering.vanderbilt.edu/bio/daniel-moyer), Vanderbilt University, Nashville, Tennessee, USA
+* [Karthik Ramadass](https://www.vanderbilt.edu/vise/visepeople/karthik-ramadass/), Vanderbilt University, Nashville, Tennessee, USA

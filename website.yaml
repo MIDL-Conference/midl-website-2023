@@ -25,7 +25,7 @@ nav:
     path: "/"
     icon: "home"
   - title: "Aims and Scope"
-    path: "https://www.midl.io/aims-and-scope.html"
+    path: "/aims-and-scope.html"
     icon: "lightbulb"
   - title: "Call for papers"
     path: "/call-for-papers.html"
