@@ -4,7 +4,7 @@ title: "Call for papers"
 
 # Call for papers
 
-We welcome submissions, as full or short papers, for the 6th edition of Medical Imaging with Deep Learning (MIDL 2023). MIDL is a forum for deep learning researchers, clinicians and health-care companies working at the intersection of machine learning and medical image analysis. MIDL 2023 will be a hybrid event, if the pandemic conditions permit, allowing both online and onsite participation in Nashville, USA. 
+We welcome submissions, as full or short papers, for the 6th edition of Medical Imaging with Deep Learning (MIDL 2023). MIDL is a forum for deep learning researchers, clinicians and health-care companies working at the intersection of machine learning and medical image analysis. MIDL 2023 will be an in-person event in Nashville, USA, if the pandemic conditions permit. The conference will be streamed online as always.
 
 MIDL has a large scope including all areas where deep learning is used to analyze biomedical imaging data. Topics of interest include but are not limited to: 
 
@@ -22,7 +22,7 @@ MIDL has a large scope including all areas where deep learning is used to analyz
 
 Submissions presenting validation studies demonstrating clinical relevance and novel applications are encouraged as much as novel methodological contributions. 
 
-Inquiries to the program chairs can be addressed directly to [2023@midl.io](mailto:2023@midl.io).
+Inquiries to the program chairs can be addressed directly to [pc@2023.midl.io](mailto:pc@2023.midl.io).
 
 ## Two-Track Submissions
 
@@ -33,14 +33,13 @@ Short papers are up to 3 pages and can, for example, focus on novel methodologic
 
 
 ## Submission timeline
-<!-- [% .deadlines %]
 ### Full papers
 * **Paper registration deadline** 8 December 2022, 17:00 UTC
 * **Paper submission deadline** 15 December 2022, 23:59 UTC
-* **Reviews due** TBD
-* **Final decisions** TBD
+* **Reviews due** 13 January 2023
+* **Rebuttals** 17-24 January 2023
+* **Final decisions** 8 February 2023
 
 ### Short papers
 * **Paper submission deadline** TBD April 2023
 * **Final decisions** TBD May 2023
-[% / %] -->
