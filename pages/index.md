@@ -9,14 +9,15 @@ page_class: home
     <img alt="Nashville (Tennessee)" src="/images/nashville.jpg">
 </p>
 
-<!-- The [call for papers](/call-for-papers.html) is now out. The deadlines for the full papers are as follow:
+The [call for papers](/call-for-papers.html) is now out. The deadlines for the full papers are as follow:
 [% .deadlines %]
-* **Full paper registration deadline** 8 December 2022, 17:00 UTC
-* **Full paper submission deadline** 15 December 2022, 23:59 UTC
-* **Reviews due** 24 January 2022
-* **Final decisions** 8 February 2022
+* **Paper registration deadline** 8 December 2022, 17:00 UTC
+* **Paper submission deadline** 15 December 2022, 23:59 UTC
+* **Reviews due** 13 January 2023
+* **Rebuttals** 17-24 January 2023
+* **Final decisions** 8 February 2023
 [% / %]
-The dates for the short paper will be announced in the future. -->
+The dates for the short paper will be announced in the future.
 
 {% from "_macros.html" import newsletter %}
 
