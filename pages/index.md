@@ -15,11 +15,11 @@ The [call for papers](/call-for-papers.html) is now out. The deadlines are as fo
 * **Paper registration deadline** 9 January 2023, 17:00 UTC
 * **Paper submission deadline** 15 January 2023, 23:59 UTC
 * **Reviews due** 3 February 2023
-* **Rebuttals** 7-14 February 2023
+* **Rebuttals** 7&ndash;14 February 2023
 * **Final decisions** 24 February 2023
 [% / %]
 
-### Short papers
+## Short papers
 [% .deadlines %]
 * **Paper submission deadline** 7 April 2023
 * **Final decisions** 28 May 2023
