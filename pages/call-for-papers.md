@@ -45,5 +45,5 @@ Short papers are up to 3 pages and can, for example, focus on novel methodologic
 ### Short papers
 [% .deadlines %]
 * **Paper submission deadline** 7 April 2023
-* **Final decisions** 28 May 2023
+* **Final decisions** 28 April 2023
 [% / %]
