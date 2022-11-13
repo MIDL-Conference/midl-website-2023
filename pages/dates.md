@@ -2,11 +2,11 @@
 title: "Important dates"
 ---
 # Important Dates
-
+All deadlines are **23:59 [UTC](https://www.timeanddate.com/worldclock/timezone/utc)**.
 ## Full papers
 [% .deadlines %]
-* **Paper registration deadline** 9 January 2023, 17:00 UTC
-* **Paper submission deadline** 15 January 2023, 23:59 UTC
+* **Paper registration deadline** 8 January 2023
+* **Paper submission deadline** 15 January 2023
 * **Reviews due** 3 February 2023
 * **Rebuttals** 7&ndash;14 February 2023
 * **Final decisions** 24 February 2023
