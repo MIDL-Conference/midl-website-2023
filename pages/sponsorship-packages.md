@@ -32,7 +32,7 @@ page_class: "sponsors"
 ### $2,000
 
 * Company name and logo on the conference website, banners, and in the conference book
-* One registration for the entire conference ($750)
+* One registration for the entire conference 
 
 ## Bronze
 
