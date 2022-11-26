@@ -26,7 +26,7 @@ title: "Organization"
 * [Yuankai Huo](https://engineering.vanderbilt.edu/bio/yuankai-huo), Vanderbilt University, Nashville, Tennessee, USA
 
 ## Sponsorship co-chair
-* [Soheil Kolouri](https://mint-vu.github.io/people/soheil_kolouri/index.html), Vanderbilt University, Nashville, Tennessee, USAt
+* [Soheil Kolouri](https://mint-vu.github.io/people/soheil_kolouri/index.html), Vanderbilt University, Nashville, Tennessee, USA
 
 ## Doctoral Symposium Chairs
 
