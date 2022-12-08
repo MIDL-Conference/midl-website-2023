@@ -24,4 +24,6 @@ Each virtual attendance paper is required to upload (1) the signed license form,
 
 ## Virtual Participation During MIDL 2023
 
-In general, the virtual participation of MIDL 2023 is an asynchronous experience since MIDL 2023 is not a hybrid conference. It means no live presentation is required for virtual participants. However, all virtual participants will have the access to MIDL 2023 live stream to watch all in-person events. The uploaded poster and presentation video will be uploaded to MIDL 2023 virtual platform. One author must join the MIDL group before MIDL 2023. Each paper will be assigned with a unique channel to enable the asynchronous discussion for all MIDL participants during the conference.
+The virtual participation of MIDL 2023 is an asynchronous experience since MIDL 2023 is not a hybrid conference. It means no live presentation is required for virtual participants. However, all virtual participants will have the access to the free MIDL 2023 live stream to watch all oral presentations. The uploaded poster and presentation video will be uploaded to MIDL 2023 website. At least one author must register to MIDL 2023 before the start of the conference, to ensure
+inclusion into the conference proceedings.
+
