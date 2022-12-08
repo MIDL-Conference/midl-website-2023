@@ -47,4 +47,6 @@ All deadlines are **23:59 [UTC](https://www.timeanddate.com/worldclock/timezone/
 [% .deadlines %]
 * **Paper submission deadline** 7 April 2023
 * **Final decisions** 28 April 2023
+
+[Info on Virtual participation](/virtual_participation.html)
 [% / %]
