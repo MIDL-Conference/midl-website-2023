@@ -6,6 +6,12 @@ title: "Author instructions"
 # Author Instructions
 
 ----------
+## Submission Link
+
+Please submit your papers here: [OpenReview Submission Link](https://openreview.net/group?id=MIDL.io/2023/Conference)
+
+**Important**: For the registration deadline, please upload a dummy/blank pdf or your abstract in pdf format. Authors will be able to modify this pdf with the actual submission up until the submission deadline on the 15th."
+
 ## Submission Instructions
 
 MIDL 2023 submissions follow two tracks: full and short papers. All accepted full papers will be published as a volume in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). We will be using [openreview.net](https://openreview.net) as a submission and reviewing platform.
@@ -16,14 +22,11 @@ Short papers are **strictly limited to 3 pages (including references)** and can,
 
 To submit a paper, authors need to have an updated [OpenReview account](https://openreview.net/profile).
 
-**The link will be posted at this location when submission opens.**
-
 Inquiries to the program chairs can be addressed directly to [pc@2023.midl.io](mailto:pc@2023.midl.io).
-
 
 ## Paper registration
 
-To be able to upload the PDF of a full or short paper before the submission deadlines, authors have to create a submission on openreview with title, abstract and author information a week in advance (paper registration deadline, 8 January 2023).
+To be able to upload the PDF of a full or short paper before the submission deadlines, authors have to create a submission on OpenReview with title, abstract and author information a week in advance (paper registration deadline, 8 January 2023).
 
 ## Latex template
 
