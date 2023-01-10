@@ -2,14 +2,16 @@
 title: Medical Imaging with Deep Learning conference 2023
 page_class: home
 ---
+{% from "_macros.html" import button %}
 # Medical Imaging with Deep Learning
 ## Nashville, 10 ‑ 12 July 2023
-
 <p class="primary-photo centered">
     <img alt="Nashville (Tennessee)" src="/images/nashville.jpg">
 </p>
 
-The [call for papers](/call-for-papers.html) is now out. All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**:
+{{ button("Submit a paper", "https://openreview.net/group?id=MIDL.io/2023/Conference") }}
+
+All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**:
 ### Full papers
 [% .deadlines %]
 * **<s>Paper registration deadline</s>** <s>8 January 2023</s>

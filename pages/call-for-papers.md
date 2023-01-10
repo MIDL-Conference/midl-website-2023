@@ -1,7 +1,7 @@
 ---
 title: "Call for papers"
 ---
-
+{% from "_macros.html" import button %}
 # Call for papers
 
 We welcome submissions, as full or short papers, for the 6th edition of Medical Imaging with Deep Learning (MIDL 2023). MIDL is a forum for deep learning researchers, clinicians and health-care companies working at the intersection of machine learning and medical image analysis. MIDL 2023 will be an in-person event in Nashville, USA, if the pandemic conditions permit. **At least one co-author is expected to register for the conference.** The conference will be streamed online as always.
@@ -23,6 +23,8 @@ MIDL has a large scope including all areas where deep learning is used to analyz
 Submissions presenting validation studies demonstrating clinical relevance and novel applications are encouraged as much as novel methodological contributions. 
 
 Inquiries to the program chairs can be addressed directly to [pc@2023.midl.io](mailto:pc@2023.midl.io).
+
+{{ button("Submit a paper", "https://openreview.net/group?id=MIDL.io/2023/Conference") }}
 
 ## Two-Track Submissions
 

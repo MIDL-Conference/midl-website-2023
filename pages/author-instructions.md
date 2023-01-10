@@ -5,10 +5,11 @@ title: "Author instructions"
 {% from "_macros.html" import button %}
 # Author Instructions
 
-----------
+
 ## Submission Link
 
-Please submit your papers here: [OpenReview Submission Link](https://openreview.net/group?id=MIDL.io/2023/Conference)
+{{ button("Submit a paper", "https://openreview.net/group?id=MIDL.io/2023/Conference") }}
+Please submit your papers here on OpenReview: [https://openreview.net/group?id=MIDL.io/2023/Conference](https://openreview.net/group?id=MIDL.io/2023/Conference)
 
 **Important**: For the registration deadline, please upload a dummy/blank pdf or your abstract in pdf format. Authors will be able to modify this pdf with the actual submission up until the submission deadline on the 15th."
 
@@ -31,6 +32,8 @@ To be able to upload the PDF of a full or short paper before the submission dead
 ## Latex template
 
 To prepare your submission to MIDL 2023 either as a full or short paper, please use the LaTeX style files provided at: [https://github.com/MIDL-Conference/MIDLLatexTemplate](https://github.com/MIDL-Conference/MIDLLatexTemplate). Please use the anonymized variant of the template when submitting for review.
+
+{{ button("Submit a paper", "https://openreview.net/group?id=MIDL.io/2023/Conference") }}
 
 ---
 
