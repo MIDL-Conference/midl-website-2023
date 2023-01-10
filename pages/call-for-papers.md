@@ -24,7 +24,11 @@ Submissions presenting validation studies demonstrating clinical relevance and n
 
 Inquiries to the program chairs can be addressed directly to [pc@2023.midl.io](mailto:pc@2023.midl.io).
 
+---
+
 {{ button("Submit a paper", "https://openreview.net/group?id=MIDL.io/2023/Conference") }}
+
+<center><iframe src="https://free.timeanddate.com/countdown/i8o6jz52/n3399/cf11/cm0/cu4/ct5/cs1/ca2/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw576/szh243/tatMIDL%202023%20submission%20deadline/tac000/tptMIDL%202023%20submission%20deadline/tpc000/iso2023-01-15T23:59:59/pd2" allowtransparency="true" frameborder="0" width="644" height="65"></iframe></center>
 
 ## Two-Track Submissions
 
