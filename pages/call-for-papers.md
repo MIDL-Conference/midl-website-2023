@@ -36,7 +36,7 @@ Short papers are up to 3 pages and can, for example, focus on novel methodologic
 All deadlines are **23:59 [UTC](https://www.timeanddate.com/worldclock/timezone/utc)**.
 ### Full papers
 [% .deadlines %]
-* **Paper registration deadline** 8 January 2023
+* **<s>Paper registration deadline</s>** <s>8 January 2023</s>
 * **Paper submission deadline** 15 January 2023
 * **Reviews due** 3 February 2023
 * **Rebuttals** 7&ndash;14 February 2023
