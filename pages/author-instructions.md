@@ -28,7 +28,7 @@ Inquiries to the program chairs can be addressed directly to [pc@2023.midl.io](m
 
 ## Paper registration
 
-To be able to upload the PDF of a full or short paper before the submission deadlines, authors have to create a submission on OpenReview with title, abstract and author information a week in advance (paper registration deadline, 8 January 2023).
+To be able to upload the PDF of a full paper before the submission deadlines, authors have to create a submission on OpenReview with title, abstract and author information a week in advance (paper registration deadline, 8 January 2023).
 
 ## Latex template
 
