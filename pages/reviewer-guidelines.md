@@ -18,6 +18,16 @@ We are committed to openness and transparency. We perform an open review process
 
 ---
 
+## Double-blind review
+This year, MIDL 2023 follows a double-blinded reviewing process, i.e., reviewers and authors do not know each other’s identity.
+
+* Since reviewers will not know who the authors are, it is especially important this year to declare your conflict domains on your Open Review profile to avoid accidental conflict situations.
+* Each submission has been checked by the PC for prominent anonymization problems (author list, acknowledgements, etc.) but more minor issues may have escaped our attention, given the high volume of papers. Thus, please report any potential anonymization violation in your reviews.
+* Reviewers should refrain from attempting to identify authors via online searches, arXiv submissions or other means.
+* If you discover the identity of the authors of a paper, you are responsible for making every effort to treat the paper without considering this information. If you feel unable to complete a fair review, please let your Area Chair as soon as possible so they can make alternative arrangements.
+
+---
+
 The following are instructions on how to create/update TPMS and OpenReview accounts.
 
 ## Create or update your profile on TPMS
