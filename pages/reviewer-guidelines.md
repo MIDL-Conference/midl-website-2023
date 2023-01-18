@@ -21,7 +21,7 @@ We are committed to openness and transparency. We perform an open review process
 ## Double-blind review
 This year, MIDL 2023 follows a double-blinded reviewing process, i.e., reviewers and authors do not know each other’s identity.
 
-* Since reviewers will not know who the authors are, it is especially important this year to declare your conflict domains on your Open Review profile to avoid accidental conflict situations.
+* Since reviewers will not know who the authors are, it is especially important this year to **declare your conflict domains on your Open Review profile** to avoid accidental conflict situations.
 * Each submission has been checked by the PC for prominent anonymization problems (author list, acknowledgements, etc.) but more minor issues may have escaped our attention, given the high volume of papers. Thus, please report any potential anonymization violation in your reviews.
 * Reviewers should refrain from attempting to identify authors via online searches, arXiv submissions or other means.
 * If you discover the identity of the authors of a paper, you are responsible for making every effort to treat the paper without considering this information. If you feel unable to complete a fair review, please let your Area Chair as soon as possible so they can make alternative arrangements.
@@ -49,8 +49,9 @@ Uploading papers is easy, but just in case, here is a nice video that details th
 
 Create an account at [OpenReview](https://openreview.net/) if you do not have one yet. In case you find multiple different accounts under your name, you can ask [info@openreview.net](mailto:info@openreview.net) to merge them. After you log into OpenReview, you will see two tasks to update your information.
 
-### Profile Confirmation
+### Profile informations
 
-* Please verify that your most recent email address as well as older ones (for conflict management) are part of the profile. Please make sure that your OpenReview primary (Preferred) email address is the one that is linked to your TPMS account.
+* Please verify that your most recent email address **as well as older ones (for conflict management)** are part of the profile. Please make sure that your OpenReview primary (Preferred) email address is the one that is linked to your TPMS account.
 * Put a link to your DBLP profile if it is not yet there.
 * Put a link to your Google Scholar profile if it is not yet there.
+* The **Advisors & Other Relations** section can also be filled, if you think some conflicts are not covered by the email domains. Those need to be at least visible to the `MIDL.io/2023/Conference/Program_Chairs` group.
