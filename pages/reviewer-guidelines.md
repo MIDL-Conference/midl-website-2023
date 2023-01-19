@@ -16,6 +16,13 @@ We are committed to openness and transparency. We perform an open review process
 
 {{ button("OpenReview platform", "https://openreview.net/group?id=MIDL.io/2023/Conference") }}
 
+[% .deadlines %]
+* **<s>Paper submission deadline</s>** <s>15 January 2023</s>
+* **Reviews** 24 January 2023&ndash;3 February 2023
+* **Rebuttals** 7&ndash;14 February 2023
+* **Final decisions** <s>24 February 2023</s> 2 March 2023
+[% / %]
+
 ---
 
 ## Double-blind review
