@@ -11,7 +11,7 @@ We are committed to openness and transparency. We perform an open review process
 1. Reviewers should always provide positive, constructive reviews and be as open as possible.
 1. The review should include a short summary, a list of pros and cons, and ideas regarding related and future work in case key developments are missing.
 1. Comments regarding lack of novelty need to be substantiated, e.g., by providing reference(s) to previous work.
-1. Reviewers can be anonymous, but they are eligible for the outstanding reviewer award only if they sign the review.
+1. The reviewers are not required to look at the material in the Appendix/Supplementary Information beyond the 8 pages of the paper.
 1. Reviewers should engage in discussion with the authors during the rebuttal period.
 
 {{ button("OpenReview platform", "https://openreview.net/group?id=MIDL.io/2023/Conference") }}
