@@ -37,7 +37,7 @@ nav:
     path: "/author-instructions.html"
     icon: "pen-nib"
   - title: "Reviewer guidelines"
-    Path: "/reviewer-guidelines.html"
+    path: "/reviewer-guidelines.html"
     icon: "search"
   - title: "Sponsorship"
     path: "/sponsorship-packages.html"
