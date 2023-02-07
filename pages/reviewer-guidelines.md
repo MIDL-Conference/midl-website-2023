@@ -19,7 +19,7 @@ We are committed to openness and transparency. We perform an open review process
 [% .deadlines %]
 * **<s>Paper submission deadline</s>** <s>15 January 2023</s>
 * **Reviews** 24 January 2023&ndash;3 February 2023
-* **Rebuttals** 7&ndash;14 February 2023
+* **Rebuttals** 7&ndash;17 February 2023
 * **Final decisions** <s>24 February 2023</s> 2 March 2023
 [% / %]
 
