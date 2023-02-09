@@ -10,6 +10,8 @@ title: "Author instructions"
 {{ button("Submit a paper", "https://openreview.net/group?id=MIDL.io/2023/Conference") }}
 Please submit your papers here on OpenReview: [https://openreview.net/group?id=MIDL.io/2023/Conference](https://openreview.net/group?id=MIDL.io/2023/Conference)
 
+**REBUTTAL PAGE LIMIT**: Please note that while you can edit the manuscript pdf during the rebuttal period, the 8-page limit (excluding references and appendix) still applies.
+
 **Important**: For the registration deadline, please upload a dummy/blank pdf or your abstract in pdf format. Authors will be able to modify this pdf with the actual submission up until the submission deadline on the 15th.
 
 ## Submission Instructions
