@@ -31,7 +31,7 @@ title: "Organization"
 ## Doctoral Symposium Chairs
 
 * [Catie Chang](https://engineering.vanderbilt.edu/bio/catie-chang), Vanderbilt University, Nashville, Tennessee, USA
-* [Jie Ying](https://engineering.vanderbilt.edu/bio/jieying-wu), Vanderbilt University, Nashville, Tennessee, USA
+* [Jie Ying Wu](https://engineering.vanderbilt.edu/bio/jieying-wu), Vanderbilt University, Nashville, Tennessee, USA
 
 ## Website, and Email Communication
 
