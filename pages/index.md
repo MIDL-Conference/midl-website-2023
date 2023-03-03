@@ -6,11 +6,10 @@ page_class: home
 # Medical Imaging with Deep Learning
 ## Nashville, 10 ‑ 12 July 2023
 <p class="primary-photo centered">
-    <img alt="Nashville (Tennessee)" src="/images/nashville.jpg">
+    <img alt="Nashville (Tennessee)" src="/images/vanderbilt2.jpg">
 </p>
 
 {{ button("OpenReview platform", "https://openreview.net/group?id=MIDL.io/2023/Conference") }}
-{{ button("Reviewer guidelines", "/reviewer-guidelines.html") }}
 
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**:
 ### Full papers
