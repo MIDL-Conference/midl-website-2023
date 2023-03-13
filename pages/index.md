@@ -22,6 +22,7 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 [% / %]
 
 ## Short papers
+**No registration is needed for short papers**, the submission portal will be available shortly.
 [% .deadlines %]
 * **Paper submission deadline** 7 April 2023
 * **Final decisions** 28 April 2023

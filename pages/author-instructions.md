@@ -51,3 +51,5 @@ In addition to original work, authors can choose to submit a shortened version o
 In both cases, dual submission of your paper to a non-peer reviewed website like arXiv is allowed. Similarly, submissions that have been presented at non-archival workshops (i.e., venues that do not have publication proceedings or publish only a very short abstract) do not violate the policy.
 
 This policy will be enforced during the whole reviewing process period.
+
+**No registration is needed for short papers**, the submission portal will be available shortly.
