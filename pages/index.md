@@ -9,7 +9,8 @@ page_class: home
     <img alt="Nashville (Tennessee)" src="/images/vanderbilt2.jpg">
 </p>
 
-{{ button("OpenReview platform", "https://openreview.net/group?id=MIDL.io/2023/Conference") }}
+{{ button("OpenReview", "https://openreview.net/group?id=MIDL.io/2023/Conference") }}
+{{ button("Registration", "/registration.html") }}
 
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**:
 ### Full papers
