@@ -16,6 +16,8 @@ Registration for MIDL 2023 are now open: [https://vanderbilt.irisregistration.co
 
 {{ button("Register", "https://vanderbilt.irisregistration.com/Form/MIDL") }}
 
+The conference, gala and reception venue are described [here](/venue.html). A more detailed program of the conference will be made available in the future.
+
 ## Fees
 
 [% .deadlines %]
@@ -33,6 +35,9 @@ Registration for MIDL 2023 are now open: [https://vanderbilt.irisregistration.co
 | Student Price (late)  | 870 US$          | from 1020 US$                  | from 50 US$/night |
 
 </center>
+
+## Visa letters
+An option to ask for visa letters is available on the registration website. Simply check the box `Do you require a VISA invitation letter?` when filling your informations (first page).
 
 
 ## Housing
