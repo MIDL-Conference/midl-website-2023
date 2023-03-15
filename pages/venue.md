@@ -32,7 +32,7 @@ The gala will be held in the [Nashville Parthenon](https://www.nashvillepartheno
 
 ## NMAAM (reception venue)
 
-The reception drinks will be held at the [National Museum of African Amercain Music](https://www.nmaam.org/).
+The reception drinks will be held at the [National Museum of African American Music](https://www.nmaam.org/).
 
 ![NMAAM](images/NMAAM-5B-Corner-Rooftop-View.jpg)
 
