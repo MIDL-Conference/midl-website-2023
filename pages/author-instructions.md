@@ -7,20 +7,18 @@ title: "Author instructions"
 
 ## Submission Link
 
+**No registration is needed for short papers**.
+
+{{ button("Submit a short paper", "https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track") }}
 {{ button("OpenReview (full paper)", "https://openreview.net/group?id=MIDL.io/2023/Conference") }}
-{{ button("OpenReview (short paper)", "https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track") }}
 
 Please submit your short papers here on OpenReview: [https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track](https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track)
-
-**REBUTTAL PAGE LIMIT**: Please note that while you can edit the manuscript pdf during the rebuttal period, the 8-page limit (excluding references and appendix) still applies.
-
-**Important**: For the registration deadline, please upload a dummy/blank pdf or your abstract in pdf format. Authors will be able to modify this pdf with the actual submission up until the submission deadline on the 15th.
 
 ## Submission Instructions
 
 MIDL 2023 submissions follow two tracks: full and short papers. All accepted full papers will be published as a volume in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). We will be using [openreview.net](https://openreview.net) as a submission and reviewing platform.
 
-Short papers are **strictly limited to 3 pages (excluding references)** and can, for example, focus on novel methodological ideas without extensive validation. We also specifically accept short papers discussing recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees. Selection of short papers is based on a light **(single-blind)** review process via OpenReview. All accepted short papers will be presented at the conference.
+Short papers are **strictly limited to 3 pages (excluding references)** and can, for example, focus on novel methodological ideas without extensive validation. We also specifically accept short papers discussing recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees. Selection of short papers is based on a light **(single-blind)** review process via OpenReview. All accepted short papers will be presented at the conference. **No registration is needed for short papers**.
 
 Full papers contain methodological developments or well-validated applications of deep learning algorithms in medical imaging. The paper length is **limited to 8** pages excluding references and appendix sections. There is no page limit for the references and appendices, but reviewers are not obliged to evaluate any content included in an appendix section. The papers will go through a full, **double-blind** reviewing process via OpenReview. A selection of full papers will be invited for oral presentation. All accepted full papers will be published in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
 
@@ -28,15 +26,11 @@ To submit a paper, authors need to have an updated [OpenReview account](https://
 
 Inquiries to the program chairs can be addressed directly to [pc@2023.midl.io](mailto:pc@2023.midl.io).
 
-## Paper registration
-
-To be able to upload the PDF of a full paper before the submission deadlines, authors have to create a submission on OpenReview with title, abstract and author information a week in advance (paper registration deadline, 8 January 2023).
-
 ## Latex template
 
 To prepare your submission to MIDL 2023 either as a full or short paper, please use the LaTeX style files provided at: [https://github.com/MIDL-Conference/MIDLLatexTemplate](https://github.com/MIDL-Conference/MIDLLatexTemplate). Please use the anonymized variant of the template when submitting for review.
 
-{{ button("Submit a paper", "https://openreview.net/group?id=MIDL.io/2023/Conference") }}
+{{ button("Submit a short paper", "https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track") }}
 
 ---
 

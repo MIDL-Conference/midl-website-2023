@@ -9,9 +9,9 @@ page_class: home
     <img alt="Nashville (Tennessee)" src="/images/nashville.jpg">
 </p>
 
+{{ button("Submit a short paper", "https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track") }}
 {{ button("OpenReview (full paper)", "https://openreview.net/group?id=MIDL.io/2023/Conference") }}
-{{ button("OpenReview (short paper)", "https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track") }}
-{{ button("Registration", "/registration.html") }}
+{{ button("Conference registration", "/registration.html") }}
 
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**:
 ### Full papers
