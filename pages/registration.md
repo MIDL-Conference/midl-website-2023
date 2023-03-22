@@ -24,7 +24,7 @@ The registration can include accommodation at Vanderbilt University itself for t
 
 [% .deadlines %]
 * **Early price end** 6 April 2023
-* **Early price end (short papers only)** 1 May 2023
+* **Early price end (short papers only)** 5 May 2023
 [% / %]
 
 <center>
