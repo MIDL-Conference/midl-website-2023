@@ -16,9 +16,11 @@ Registration for MIDL 2023 are now open: [https://vanderbilt.irisregistration.co
 
 {{ button("Register", "https://vanderbilt.irisregistration.com/Form/MIDL") }}
 
-The conference, gala and reception venue are described [here](/venue.html). A more detailed program of the conference will be made available in the future.
+The conference is hosted at Vanderbilt University, it its [VU Student Life Center](/venue.html). Gala and reception venue are also detailed on the [venue page](/venue.html). A more detailed program of the conference will be made available in the future.
 
 ## Fees
+
+The registration can include accommodation at Vanderbilt University itself for the duration of the conference. It can be extended before and after the conference dates, to facilitate travel to and from Nashville.
 
 [% .deadlines %]
 * **Early price end** 6 April 2023
@@ -27,12 +29,12 @@ The conference, gala and reception venue are described [here](/venue.html). A mo
 
 <center>
 
-|                       | No housing | Vanderbilt accommodations (3 nights) | Additional night |
-|:----------------------|:----------------:|:------------------------------------:|:----------------:|
-| Full Price (early)    | 920 US$          | from 1070 US$                 | from 50 US$/night |
-| Student Price (early) | 770 US$          | from 920 US$                  | from 50 US$/night |
-| Full Price (late)     | 1020 US$         | from 1070 US$                 | from 50 US$/night |
-| Student Price (late)  | 870 US$          | from 1020 US$                  | from 50 US$/night |
+|                       | without housing | including a room at Vanderbilt (3 nights) |
+|:----------------------|:----------------:|:------------------------------------:|
+| Full Price (early)    | 920 US$          | from 1070 US$                 |
+| Student Price (early) | 770 US$          | from 920 US$                  |
+| Full Price (late)     | 1020 US$         | from 1170 US$                 |
+| Student Price (late)  | 870 US$          | from 1020 US$                  |
 
 </center>
 
@@ -52,7 +54,7 @@ Three types of rooms are available:
 
 <center>
 
-| | Price per night |
+| | Price per extra night |
 |:-|-:|
 | Suite single | 73 US$ |
 | Traditional single | 62 US$ |
