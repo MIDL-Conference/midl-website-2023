@@ -32,3 +32,6 @@ All deadlines are **23:59 [UTC-112](https://www.timeanddate.com/time/zones/aoe)/
 <center>
 <a href="https://www.vanderbilt.edu/"><img width="30%" src="/images/Vanderbilt_University_seal.svg.png" alt="Vanderbilt University Logo"></a>
 </center>
+
+---
+Still available: [Reviewer guidelines](/reviewer-guidelines.html)
