@@ -37,3 +37,9 @@ title: "Organization"
 
 * [Daniel Moyer](https://engineering.vanderbilt.edu/bio/daniel-moyer), Vanderbilt University, Nashville, Tennessee, USA
 * [Karthik Ramadass](https://www.vanderbilt.edu/vise/visepeople/karthik-ramadass/), Vanderbilt University, Nashville, Tennessee, USA
+
+
+## Supporting academic organization
+<center>
+<a href="https://www.vanderbilt.edu/"><img width="30%" src="/images/Vanderbilt_University_seal.svg.png" alt="Vanderbilt University Logo"></a>
+</center>

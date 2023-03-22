@@ -30,6 +30,8 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 * **Final decisions** 28 April 2023
 [% / %]
 
-{% from "_macros.html" import newsletter %}
-
-{{ newsletter("2023.midl.io", inline=False) }}
+---
+#### Supporting academic organization
+<center>
+<a href="https://www.vanderbilt.edu/"><img width="30%" src="/images/Vanderbilt_University_seal.svg.png" alt="Vanderbilt University Logo"></a>
+</center>
