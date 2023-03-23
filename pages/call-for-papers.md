@@ -36,7 +36,7 @@ Inquiries to the program chairs can be addressed directly to [pc@2023.midl.io](m
 Conference submissions follow two tracks: full conference papers and short papers.
 Full papers contain methodological developments or well-validated applications of deep learning algorithms in medical imaging. **The paper length is strictly limited to 8 pages excluding references and appendix.** There are no page limits for the references and appendix section. However, reviewers are not obliged to go over the appendices for evaluating a submission. The papers will go through a full reviewing process via OpenReview. A selection of full papers will be invited for oral presentation. All accepted full papers will be published as a volume in the Proceedings of Machine Learning Research. **At least one co-author is expected to present in person.**
 
-Short papers are up to 3 pages (excluding references) and can, for example, focus on novel methodological ideas without extensive validation. We also specifically accept short papers discussing recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees. Selection of short papers is based on a light review process via OpenReview. All accepted short papers will be presented at the conference. **No registration is needed for short papers**, the submission portal will be available shortly.
+Short papers are up to 3 pages (excluding references) and can, for example, focus on novel methodological ideas without extensive validation. We also specifically accept short papers discussing recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees. Selection of short papers is based on a light review process via OpenReview. All accepted short papers will be presented at the conference.
 
 
 ## Submission timeline
@@ -51,7 +51,6 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 [% / %]
 
 ### Short papers
-**No registration is needed for short papers**.
 [% .deadlines %]
 * **Paper submission deadline** 7 April 2023
 * **Final decisions** 28 April 2023
