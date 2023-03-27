@@ -8,7 +8,7 @@ Alongside the main conference, MIDL 2023 will host a doctoral symposium. This
 event is geared towards trainees (graduate students, research assistants, early post-docs)
 and will feature speakers, a career panel, and local Nashville tour events.
 
-[Registration can be done through this google form](https://docs.google.com/forms/d/e/1FAIpQLSc6XEI-30yzPzFA34D4PyPeUw3jI9SLhNx1LPzwo4MXGSPM9g/viewform).
+[Registration can be done through this google form](https://docs.google.com/forms/d/e/1FAIpQLSc6XEI-30yzPzFA34D4PyPeUw3jI9SLhNx1LPzwo4MXGSPM9g/viewform). The doctoral symposium is *free of charge*, with a corresponding MIDL registration.
 
 ## Tentative Schedule
 
