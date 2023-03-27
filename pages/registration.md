@@ -18,6 +18,8 @@ Registration for MIDL 2023 are now open: [https://vanderbilt.irisregistration.co
 
 The conference is hosted at Vanderbilt University, it its [VU Student Life Center](/venue.html). Gala and reception venue are also detailed on the [venue page](/venue.html). A more detailed program of the conference will be made available in the future.
 
+Alongside the main conference, MIDL 2023 will also host a Doctoral Symposium. For details, [please visit the symposium page](/doctoral.html).
+
 ## Fees
 
 The registration can include accommodation at Vanderbilt University itself for the duration of the conference. It can be extended before and after the conference dates, to facilitate travel to and from Nashville.
