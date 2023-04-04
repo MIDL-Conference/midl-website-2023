@@ -41,5 +41,9 @@ title: "Organization"
 
 ## Supporting academic organization
 <center>
-<a href="https://www.vanderbilt.edu/"><img width="30%" src="/images/Vanderbilt_University_seal.svg.png" alt="Vanderbilt University Logo"></a>
+<a href="https://www.vanderbilt.edu/"><img width="80%" src="/images/sponsors/Vanderbilt_Dimensional_V_Black_Lockup.png" alt="Vanderbilt University Logo"></a>
+<br>
+<a href="https://www.vanderbilt.edu/"><img width="35%" src="/images/sponsors/VISE-logo-VUGOLD_tagctr.png" alt="VISE logo"></a>
+&emsp;&emsp;
+<a href="https://www.vanderbilt.edu/"><img width="35%" src="/images/sponsors/VUIIS_logo.png" alt="VUIS Logo"></a>
 </center>
