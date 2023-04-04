@@ -4,7 +4,7 @@ page_class: "sponsors"
 ---
 # Sponsors
 
-## <span class="platinum">Gold</span>
+## <span class="gold">Gold</span>
 
 [% .logos %]
 [![Siemens](/images/sponsors/Siemens_logo_rgb.svg){: width="300"}](https://www.siemens-healthineers.com/)
