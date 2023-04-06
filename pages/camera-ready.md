@@ -75,4 +75,4 @@ MIDL papers are published in the [PMLR proceedings](https://proceedings.mlr.pres
 
 ### Camera ready PDF for OpenReview
 
-You also need to submit the final paper in PDF format in OpenReview using the `Camera Ready Revision` button and the `PDF` field by April 30th.
+You also need to submit the final paper in PDF format in OpenReview using the `Revision` button and the `PDF` field by April 30th.
