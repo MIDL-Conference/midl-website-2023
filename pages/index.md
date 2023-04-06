@@ -26,6 +26,7 @@ All deadlines are **23:59 [UTC-112](https://www.timeanddate.com/time/zones/aoe)/
 [% .deadlines %]
 * **Short paper submission deadline** 7 April 2023
 * **Short paper final decisions** 28 April 2023
+* **Camera ready (full papers only)** 30 April 2023
 [% / %]
 
 ---
