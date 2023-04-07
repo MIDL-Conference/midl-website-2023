@@ -13,8 +13,8 @@ Once your final material is prepared according to the detailed instructions belo
 
 | Item | Field |
 |:------|-------|
-| LaTeX sources | `Supplementary material` (in a single .zip) |
-| PMLR copyright form | `Supplementary material` (in a single .zip) |
+| LaTeX sources | `LaTeX Source` (in a single .zip) |
+| PMLR copyright form | `LaTeX Source` (in a single .zip) |
 | Camera ready PDF | `PDF` |
 | Title | `Title` |
 | Authors | `Authors` |
