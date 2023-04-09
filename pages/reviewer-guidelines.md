@@ -4,7 +4,18 @@ title: "Reviewer guidelines"
 
 {% from "_macros.html" import youtube, button %}
 
-# Review guidelines
+# Short paper review guidelines
+1. Please check right away whether you are in conflict with any of the papers you are assigned and if you spot a conflict, let the PC ([pc@2023.midl.io](pc@2023.midl.io)) know right away. Conflict checks are done automatically but this may be inadequate if your profile does not include your conflict domains.
+2. Reviewers should always provide positive, constructive reviews and be as open as possible.
+3. The review should include a short summary, a list of pros and cons, and preferably ideas regarding related and future work.
+4. Comments regarding lack of novelty need to be substantiated, e.g., by providing reference(s) to previous work.
+5. Keep in mind the short-paper track review process is *single-blind* (even though many authors seem to have made their pdfs anonymous), so it is not a problem if you can see their names.
+6. Importantly, keep in mind the *dual-submission policy*: Authors can submit a shortened version of a recently published/submitted journal paper, but not a paper from a conference with proceedings. Dual submission to arXiv is allowed.
+7. Review deadline is *April 24*. Since we need to release the decisions to the authors on the 28th, there is very little flexibility in this timeline; if you will be unable to meet the deadline please communicate with the PC ([pc@2023.midl.io](pc@2023.midl.io)) in a timely manner.
+
+---
+
+# Full paper review guidelines
 
 We are committed to openness and transparency. We perform an open review process, have open access for all papers presented at MIDL, are transparent with regard to sponsorship packages and involvement from industry at the conference, provide freely available recordings of all presentations on the MIDL website, and we will urge MIDL contributors to use an open access policy as much as possible for the data and code. Reviews should be conducted with these guiding principles in mind.
 
