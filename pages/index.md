@@ -19,8 +19,6 @@ page_class: home
 ---
 
 ## Short papers
-<center><iframe src="https://free.timeanddate.com/countdown/i8ruvlef/n3399/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw448/szh189/tatShort%20paper%20submission%20deadline/tac000/tpc000/iso2023-04-07T23:59:59" allowtransparency="true" frameborder="0" width="408" height="69"></iframe></center>
-
 All deadlines are **23:59 [UTC-112](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**:
 
 [% .deadlines %]

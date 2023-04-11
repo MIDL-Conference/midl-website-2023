@@ -14,7 +14,6 @@ title: "Author instructions"
 
 Please submit your short papers here on OpenReview: [https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track](https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track)
 
-<center><iframe src="https://free.timeanddate.com/countdown/i8ruvlef/n3399/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw448/szh189/tatShort%20paper%20submission%20deadline/tac000/tpc000/iso2023-04-07T23:59:59" allowtransparency="true" frameborder="0" width="408" height="69"></iframe></center>
 
 ## Submission Instructions
 
