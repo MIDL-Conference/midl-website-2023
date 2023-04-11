@@ -24,6 +24,7 @@ page_class: "sponsors"
 [![Nvidia](/images/sponsors/NVIDIA-logo-white-prv.jpg){: height="80"}](https://www.nvidia.com/)
 [![Heartflow](/images/sponsors/Heartflow.png){: height="50"}](https://www.heartflow.com/)
 [![Endothelia](/images/sponsors/Endotheia.png){: height="50"}](https://www.endotheia.com/)
+[![NITRC](/images/sponsors/nitrc.png){: height="50"}](https://www.nitrc.org/)
 [% / %]
 
 ---
