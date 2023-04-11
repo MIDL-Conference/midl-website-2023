@@ -58,7 +58,7 @@ After making sure that your project compiles correctly with the standard `pdflat
 
 1. Please do NOT use the `\begin{thebibliography}` environment.
 
-1. Please ensure that your paper does not exceed the 8 pages limit. Acknowledgements, references and appendix do not count toward that limit, and can appear on pages 9+.
+1. For the camera ready, the page limit is increased from 8 pages to 9 pages, mostly to provide enough space to list all authors. Acknowledgements, references and appendix do not count toward that limit, and can appear on pages 10+.
 
 1. Please be sure to check the author/institution list on the title page is de-anonymized, as well as any previously anonymized citations, github repos, data sources, acknowledgements, and other places.
 
