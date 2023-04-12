@@ -48,9 +48,9 @@ An option to ask for visa letters is available on the registration website. Simp
 ### Vanderbilt Accommodations
 [E. Bronson Ingram](https://www.vanderbilt.edu/ohare/e-bronson-ingram-college/) is a residence hall at Vanderbilt University. All bedrooms include a twin bed, a dresser, closet, desk, and desk chair. All rooms are clean, furnished and air conditioned.
 
-The MIDL guests will receive linens, a hospital blanket, a pillow, and pillowcase and two towels. Please note that all rooms have twin beds with bathrooms down the hall. The rooms have furniture, but nothing else. Guests will need shower shoes, a bathrobe, toiletries, hairdryer, a clock, perhaps a reading lamp. There are no TV’s, radios, coffee makers, micro-fridge, or hangers in the rooms. The Vanderbilt Bookstore is close as is the DG (Dollar General Store) on the corner of 21st Ave. and West End Ave.
+The MIDL guests will receive linens, a hospital blanket, a pillow, a pillowcase and two towels. Please note that all rooms have twin beds with bathrooms down the hall. The rooms have furniture, but nothing else. Guests will need shower shoes, a bathrobe, toiletries, hairdryer, a clock, perhaps a reading lamp. There are no TV’s, radios, coffee makers, micro-fridge, or hangers in the rooms. The Vanderbilt Bookstore is close as is the DG (Dollar General Store) on the corner of 21st Ave. and West End Ave.
   
-There will be an Allied Universal Office will be posted the EBI front lobby 24/7 to help our guests. After 10pm the Allied universal Officers will be checking photo ID’s to get into the building. We also have staff on duty 24/7 if guests get locked out or loses their key and building access card.
+There will be an Allied Universal Office will be posted the EBI front lobby 24/7 to help our guests. After 22:00 the Allied universal Officers will be checking photo ID’s to get into the building. We also have staff on duty 24/7 if guests get locked out or loses their key and building access card.
 
 We offer the possibility to book additional nights, before and after MIDL 2023.
 
