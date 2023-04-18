@@ -1,6 +1,10 @@
 ---
-title: "Important dates"
+title: "Dates and program"
 ---
+# Program at a glance
+[![Short program](images/program.png)](images/program.png)
+Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/zone/usa/nashville).
+
 # Important Dates
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**.
 ## Full papers

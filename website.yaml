@@ -39,7 +39,7 @@ nav:
   - title: "Venue"
     path: "/venue.html"
     icon: "map-marker-alt"
-  - title: "Important dates"
+  - title: "Dates and program"
     path: "/dates.html"
     icon: "calendar"
   - title: "Keynotes"
