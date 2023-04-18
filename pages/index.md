@@ -38,4 +38,4 @@ All deadlines are **23:59 [UTC-112](https://www.timeanddate.com/time/zones/aoe)/
 </center>
 
 ---
-Still available: [Reviewer guidelines](/reviewer-guidelines.html)
+Still available: [Call for papers](/call-for-papers.html), [Reviewer guidelines](/reviewer-guidelines.html).
