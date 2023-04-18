@@ -4,7 +4,7 @@ title: "Virtual participation"
 
 # MIDL 2023 Virtual Participation
 
-**MIDL 2023** is an annual in-person event. Oral presentations will have live streaming. The recordings will be placed on the yearly conference website shortly after the conference. For virtual participation, we refer to multiple MIDL events organised throughout the year, and we strongly suggest pursuing these venues. In exceptional circumstances where engagement with the MIDL 2023 conference is desirable but impossible in person (for any co-author of the accepted work), participation in a limited virtual (non-hybrid) platform for 2023 will be offered. Please note that at the conferences there will be no virtual poster sessions (e.g. laptop presentations next to physical posters) or zoom/pre-recorded lectures given from an empty podium. 
+MIDL 2023 is an annual in-person event. **<u>All oral presentations and keynotes will be freely streamed online.</u>** The recordings will be placed on the yearly conference website shortly after the conference. For virtual participation, we refer to multiple MIDL events organised throughout the year, and we strongly suggest pursuing these venues. In exceptional circumstances where engagement with the MIDL 2023 conference is desirable but impossible in person (for any co-author of the accepted work), participation in a limited virtual (non-hybrid) platform for 2023 will be offered. Please note that at the conferences there will be no virtual poster sessions (e.g. laptop presentations next to physical posters) or zoom/pre-recorded lectures given from an empty podium.
 
 
 ## Registration
