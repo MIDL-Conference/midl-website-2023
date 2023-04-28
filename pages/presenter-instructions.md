@@ -41,11 +41,11 @@ The virtual poster presentation is open to two groups:
 
 1. **Mandatory for virtual poster presenters**: All authors of accepted posters who are
 unable to attend MIDL in-person must register for the virtual poster presentation via
-the above form. Each virtual presenter should submit a short pre-recorded video (.mp4 format)
+the above form. Each virtual presenter should submit a 3-5 minute pre-recorded video (.mp4 format)
 and an e-poster (.pdf format).  
 2. **Optional for oral and onsite poster presenters**: For all onsite oral and poster
 presentations, the virtual presentation option is available, but not required. These
-authors can still submit the above form to display a short pre-recorded video and a PDF poster
+authors can still submit the above form to display a 3-5 minute pre-recorded video and a PDF poster
 on the MIDL website, and join the Gather Town virtual poster session. However, all oral
 and onsite poster presentations must also be presented in-person.  
 
