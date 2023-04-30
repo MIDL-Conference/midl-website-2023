@@ -18,13 +18,13 @@ page_class: home
 
 ---
 
-## Short papers
+## Important dates
 All deadlines are **23:59 [UTC-112](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**:
 
 [% .deadlines %]
-* **Short paper submission deadline** 7 April 2023
-* **Short paper final decisions** 28 April 2023
 * **Camera ready (full papers only)** 30 April 2023
+* **Camera ready (short papers)** Coming soon
+* **Early bird registration** 5 May 2023
 [% / %]
 
 ---
