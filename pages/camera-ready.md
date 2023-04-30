@@ -1,7 +1,7 @@
 ---
 title: "Camera Ready Instructions"
 ---
-# Camera Ready Instructions
+# Camera Ready Instructions for Full Papers (short paper instructions coming soon)
 
 Dear authors, congratulations again for your accepted papers at MIDL 2023.
 
