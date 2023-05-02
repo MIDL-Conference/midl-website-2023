@@ -2,7 +2,7 @@
 title: "Detailed program - coming soon!"
 ---
 
-Please note the program is tentative. 
+Please note the program is tentative. Please note the assignment of short papers to the poster sessions is coming soon; the below program only has papers from the full paper track.
 
 # Monday, July 10
 
