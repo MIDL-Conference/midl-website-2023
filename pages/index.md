@@ -4,7 +4,7 @@ page_class: home
 ---
 {% from "_macros.html" import button %}
 # Medical Imaging with Deep Learning
-## Nashville, 10 ‑ 12 July 2023
+## Nashville, 10—12 July 2023
 <p class="primary-photo centered">
     <img alt="Nashville (Tennessee)" src="/images/nashville.jpg">
 </p>
