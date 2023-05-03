@@ -11,6 +11,8 @@ page_class: home
 
 {{ button("Conference registration", "/registration.html") }}
 
+The accepted short and full papers are already available on OpenReview:
+
 <p class="centered">
     <a href="https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track" class="button">OpenReview (short paper)</a>
     <a href="https://openreview.net/group?id=MIDL.io/2023/Conference" class="button">OpenReview (full paper)</a>
