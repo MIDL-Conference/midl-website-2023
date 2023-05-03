@@ -8,11 +8,9 @@ title: "Author instructions"
 ## Submission Link
 
 <p class="centered">
-    <a href="https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track" class="button">Submit a short paper</a>
+    <a href="https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track" class="button">OpenReview (short paper)</a>
     <a href="https://openreview.net/group?id=MIDL.io/2023/Conference" class="button">OpenReview (full paper)</a>
 </p>
-
-Please submit your short papers here on OpenReview: [https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track](https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track)
 
 
 ## Submission Instructions
@@ -32,7 +30,6 @@ Inquiries to the program chairs can be addressed directly to [pc@2023.midl.io](m
 To prepare your submission to MIDL 2023 either as a full or short paper, please use the LaTeX style files provided at: [https://github.com/MIDL-Conference/MIDLLatexTemplate](https://github.com/MIDL-Conference/MIDLLatexTemplate). Please use the anonymized variant of the template when submitting for review.
 
 <p class="centered">
-    <a href="https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track" class="button">Submit a short paper</a>
     <a href="/camera-ready.html" class="button">Camera ready instructions</a>
 </p>
 

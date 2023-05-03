@@ -27,7 +27,7 @@ Inquiries to the program chairs can be addressed directly to [pc@2023.midl.io](m
 ---
 
 <p class="centered">
-    <a href="https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track" class="button">Submit a short paper</a>
+    <a href="https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track" class="button">OpenReview (short paper)</a>
     <a href="https://openreview.net/group?id=MIDL.io/2023/Conference" class="button">OpenReview (full paper)</a>
 </p>
 
