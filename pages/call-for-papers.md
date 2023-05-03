@@ -48,13 +48,14 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 * **<s>Reviews due</s>** <s>3 February 2023</s>
 * **<s>Rebuttals</s>** <s>7&ndash;17 February 2023</s>
 * **<s>Final decisions</s>** <s>24 February 2023</s> <s>2 March 2023</s>
-* **Camera ready** 30 April 2023
+* **<s>Camera ready</s>** 30 April 2023
 [% / %]
 
 ### Short papers
 [% .deadlines %]
-* **Paper submission deadline** 7 April 2023
-* **Final decisions** 28 April 2023
+* **<s>Paper submission deadline</s>** 7 April 2023
+* **<s>Final decisions</s>** 28 April 2023
+* **Camera ready (short papers)** Coming soon
+[% / %]
 
 [Info on Virtual participation](/virtual_participation.html)
-[% / %]
