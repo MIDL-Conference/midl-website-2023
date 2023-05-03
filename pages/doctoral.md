@@ -2,7 +2,7 @@
 title: "Doctoral Symposium"
 ---
 
-## Doctoral Symposium
+# Doctoral Symposium
 
 Alongside the main MIDL conference, Vanderbilt will host a doctoral symposium on July 9th. This
 event is geared towards trainees (graduate students, research assistants, early post-docs)
