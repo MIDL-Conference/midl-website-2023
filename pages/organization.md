@@ -19,14 +19,15 @@ title: "Organization"
 * [Christian Baumgartner](https://baumgach.github.io/), University of Tübingen, Tübingen, Germany
 * [Mirabella Rusu](https://profiles.stanford.edu/mirabela-rusu), Stanford University, Stanford, California, USA
 * [Tobias Heimann](https://de.linkedin.com/in/tobias-heimann-9a16a0164), Siemens Healthineers, Germany
-* [Despina Kontos](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p8123294), University of Pennysylvania, Philadelphia, Pennysylvania, USA
+* [Despina Kontos](https://www.med.upenn.edu/apps/faculty/index.php/g5455356/p8123294), University of Pennsylvania, Philadelphia, Pennsylvania, USA
 
 ## Virtual Arrangement Chair
 
 * [Yuankai Huo](https://engineering.vanderbilt.edu/bio/yuankai-huo), Vanderbilt University, Nashville, Tennessee, USA
 
-## Sponsorship co-chair
+## Sponsorship Chairs
 * [Soheil Kolouri](https://mint-vu.github.io/people/soheil_kolouri/index.html), Vanderbilt University, Nashville, Tennessee, USA
+* [Benoit Dawant](https://engineering.vanderbilt.edu/bio/benoit-dawant), Vanderbilt University, Nashville, Tennessee, USA
 
 ## Doctoral Symposium Chairs
 
@@ -37,7 +38,7 @@ title: "Organization"
 
 * [Daniel Moyer](https://engineering.vanderbilt.edu/bio/daniel-moyer), Vanderbilt University, Nashville, Tennessee, USA
 * [Karthik Ramadass](https://www.vanderbilt.edu/vise/visepeople/karthik-ramadass/), Vanderbilt University, Nashville, Tennessee, USA
-
+* [Hoel Kervadec](https://hoel.kervadec.science), Erasmus MC, Rotterdam, Netherlands
 
 ## Supporting academic organization
 <center>
