@@ -8,6 +8,7 @@ page_class: "sponsors"
 
 [% .logos %]
 [![Siemens](/images/sponsors/Siemens_logo_rgb.svg){: width="300"}](https://www.siemens-healthineers.com/)
+[![ImFusion](/images/sponsors/imfusion.png){: width="300"}](https://www.imfusion.com/)
 [% / %]
 
 ---
