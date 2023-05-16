@@ -57,6 +57,6 @@ The safety officers may recommend any such actions that will result in a fair an
 
 ## Process
 
-Following the safety officers recommendation, the MIDL Board sub-committee on disciplinary affairs will review all information provided by the safety officers and issue its decision. Unacceptable behavior may cause removal from, or denial of access to, current or future MIDL events; suspension or termination of membership; revocation of any awards or other recognition from MIDL; and other actions, without refund of any applicable registration fees or costs. In addition, violations may be reported to the individual's employer.
+Following the safety officers' recommendation, the MIDL Board sub-committee on disciplinary affairs will review all information provided by the safety officers and issue its decision. Unacceptable behavior may cause removal from, or denial of access to, current or future MIDL events; suspension or termination of membership; revocation of any awards or other recognition from MIDL; and other actions, without refund of any applicable registration fees or costs. In addition, violations may be reported to the individual's employer.
 
 If action is taken, an appeals process will be made available.
