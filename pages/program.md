@@ -137,11 +137,10 @@ Please note the program is tentative. Please note the assignment of short papers
 
 # Wednesday, July 12
 
-## Oral session 7 - Segmentation 2 - 9:00 - 10:00am
+## Oral session 7 - Segmentation 2 - 9:00 - 9:45am
 * MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation
 * Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function
 * GeoLS: Geodesic Label Smoothing for Image Segmentation
-* Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation
 
 ## Oral session 8 - Computer-assisted diagnosis - 1:30 - 2:30pm
 * Sparse Activations for Interpretable Disease Grading
