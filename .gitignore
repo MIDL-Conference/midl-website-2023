@@ -3,3 +3,7 @@
 .idea/
 .vscode/
 /output/
+pages/papers/
+full_papers.csv
+short_papers.csv
+midl_oral_sessions.csv
