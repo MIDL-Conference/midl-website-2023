@@ -42,10 +42,11 @@ if __name__ == "__main__":
         print(f">>> Loaded {len(full_papers_df)} full papers")
 
         short_papers_df = pd.read_csv("short_papers.csv")
-        for _, full_row in full_papers_df.iterrows():
-                title = full_row["title"]
+        for _, short_row in short_papers_df.iterrows():
+                title = short_row["title"]
+                # print(short_row)
 
-                paper = Paper(id=full_row["number"], title=title, authors=full_row["authors"],
+                paper = Paper(id=short_row["number"], title=title, authors=short_row["authors"],
                               or_id="", oral="False",
                               short="True", abstract="", ignore_schedule=True)
                 papers.append(paper)
