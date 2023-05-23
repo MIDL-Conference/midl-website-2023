@@ -2,24 +2,29 @@
 title: "Detailed program - coming soon!"
 ---
 
+{% from "_macros.html" import button, paper %}
+
 Please note the program is tentative. Please note the assignment of short papers to the poster sessions is coming soon; the below program only has papers from the full paper track.
 
 # Monday, July 10
 
 ## Oral session 1 - Segmentation 1 - 9:30 - 10:30am
 
+[% .papers %]
 * MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation
 * SuperMask: Generating High-resolution object masks from multi-view, unaligned low-resolution MRIs
 * Model Adaptive Tooth Segmentation
 * Learning Clinically Acceptable Segmentation of Organs at Risk in Cervical Cancer Radiation Treatment from Clinically Available Annotations
 
 ## Oral session 2 - Unsupervised/weakly supervised methods - 2:00 - 3:00pm
+[% .papers %]
 * Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels
 * Generalizing Unsupervised Anomaly Detection: Towards Unbiased Pathology Screening
 * Unsupervised Stain Decomposition via Inversion Regulation for Multiplex Immunohistochemistry Images
 * DRIMET: Deep Registration-based 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue
 
 ## Oral session 3 - Graph-based methods - 4:00 - 5:00pm
+[% .papers %]
 * DBGDGM: Dynamic Brain Graph Deep Generative Model
 * Tumor Budding T-cell Graphs: Assessing the Need for Resection in pT1 Colorectal Cancer Patients
 * A Geometric Deep Learning Framework for Generation of Virtual Left Ventricles as Graphs
@@ -27,6 +32,7 @@ Please note the program is tentative. Please note the assignment of short papers
 
 ## Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm
 
+[% .papers %]
 * A Geometric Deep Learning Framework for Generation of Virtual Left Ventricles as Graphs
 * DBGDGM: Dynamic Brain Graph Deep Generative Model
 * DRIMET: Deep Registration-based 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue
@@ -71,29 +77,36 @@ Please note the program is tentative. Please note the assignment of short papers
 
 ## Oral session 4 - Neuroimaging - 9:00 - 10:30am
 
+[% .papers %]
 * MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging
 * Decoding natural image stimuli from fMRI data with a surface-based convolutional network
 * Pre-Training Transformers for Fingerprinting to Improve Stress Prediction in fMRI
 * E(3) x SO(3)-Equivariant Networks for Spherical Deconvolution in Diffusion MRI
 * Amortized Normalizing Flows for Transcranial Ultrasound with Uncertainty Quantification
 * Data Consistent Deep Rigid MRI Motion Correction
+[% / %]
 
 ## Oral session 5 - Semi-supervised/self-supervised methods - 2:00 - 3:00pm
 
+[% .papers %]
 * Vision-Language Modelling For Radiological Imaging and Reports In The Low Data Regime
 * Learning to Compare Longitudinal Images
 * Exploring Image Augmentations for Siamese Representation Learning with Chest X-Rays
 * Self-Supervised CSF Inpainting for Improved Accuracy Validation of Cortical Surface Analyses 
+[% / %]
 
 ## Oral session 6 - Synthesis - 4:00 - 5:00pm
 
+[% .papers %]
 * CP2Image: Generating high-quality single-cell images using CellProfiler representations
 * Ultra-NeRF: Neural Radiance Fields for Ultrasound Imaging
 * Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion
 * Know Your Space: Inlier and Outlier Construction for Calibrating Medical OOD Detectors
+[% / %]
 
 ## Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm
 
+[% .papers %]
 * Amortized Normalizing Flows for Transcranial Ultrasound with Uncertainty Quantification
 * Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion
 * CP2Image: Generating high-quality single-cell images using CellProfiler representations
@@ -134,22 +147,28 @@ Please note the program is tentative. Please note the assignment of short papers
 * A deep learning method trained on synthetic data for digital breast tomosynthesis reconstruction
 * Estimating Uncertainty in PET Image Reconstruction via Deep Posterior Sampling
 * Effect of Intensity Standardization on Deep Learning for WML Segmentation in Multi-Centre FLAIR MRI
+[% / %]
 
 # Wednesday, July 12
 
 ## Oral session 7 - Segmentation 2 - 9:15 - 10:00am (note the late start as the virtual poster session wraps up at 9am)
+[% .papers %]
 * MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation
 * Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function
 * GeoLS: Geodesic Label Smoothing for Image Segmentation
+[% / %]
 
 ## Oral session 8 - Computer-assisted diagnosis - 1:30 - 2:30pm
+[% .papers %]
 * Sparse Activations for Interpretable Disease Grading
 * Simple and Efficient Confidence Score for Grading Whole Slide Images
 * Frozen Language Model Helps ECG Zero-Shot Learning
 * An end-to-end framework for diagnosing COVID-19 pneumonia via Parallel Recursive MLP module and Bi-LTSM correlation
+[% / %]
 
 ## Posters - 10:00am - 11:30am & 2:30pm - 3:30pm
 
+[% .papers %]
 * An end-to-end framework for diagnosing COVID-19 pneumonia via Parallel Recursive MLP module and Bi-LTSM correlation
 * Frozen Language Model Helps ECG Zero-Shot Learning
 * GeoLS: Geodesic Label Smoothing for Image Segmentation
@@ -183,6 +202,7 @@ Please note the program is tentative. Please note the assignment of short papers
 * Domain adaptation using optimal transport for invariant learning using histopathology datasets
 * A comparison of self-supervised pretraining approaches for predicting disease risk from chest radiograph images
 * Domain Adaptation using Silver Standard Masks for Lateral Ventricle Segmentation in FLAIR MRI
+[% / %]
 
 
 
