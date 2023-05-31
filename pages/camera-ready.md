@@ -35,9 +35,9 @@ Please make sure your are **not:**
 - using the `times` package (if that was the case, please [contact the program chairs](mailto:pc@2023.midl.io) as soon as possible);
 - overriding the bibligraphystyle (defined in `midl.cls`).
 
-After making sure that your project compiles correctly with the standard `pdflatex` compiler, please include all the following items in a single zip folder LaTeX project:
+Additional considerations:
 
-1. Within your tex file, the document class should be: `\documentclass{midl}` (without the `anon` option), and make sure that all authors and co-authors are listed correctly.
+1. Within your tex file, the document class should be: `\documentclass{midl}` (without the `anon` option), and make sure that all authors and co-authors are listed correctly. Unlike the full papers, the short papers are not assembled into a single volume, so the `\jmlryear{2023}\jmlrworkshop{Full Paper -- MIDL 2023}\jmlrvolume{-- nnn}\editors{Accepted for publication at MIDL 2023}` instructions can be ignored for short papers.
 
 1. For the camera ready, the page limit is still 3 pages. References do not count toward that limit and can appear on pages 4+.
 
