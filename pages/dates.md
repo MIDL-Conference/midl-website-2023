@@ -99,7 +99,7 @@ title: "Dates and program"
   background-color: #96B6BD;
 }
 #t01 {
-  background-color: #BDC0BF;
+  background-color: #FFFFFF;
   font-weight: 350
 }
 
@@ -202,6 +202,17 @@ jQuery(document).ready(function($) {
     });
 });
 </script>
+
+<table id="program" cellspacing="0" border="0">
+     <colgroup width="66"></colgroup>
+     <colgroup width="65"></colgroup>
+     <colgroup width="81"></colgroup>
+     <colgroup span="5" width="138"></colgroup>
+	 <tr>
+		<td id='t01' class='col1' colspan=2 rowspan=2 height="62" align="left" valign=bottom ></td>
+	 </tr>
+</table>
+	
 
 Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/zone/usa/nashville).
 
