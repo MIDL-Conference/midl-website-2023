@@ -96,11 +96,21 @@ title: "Dates and program"
   background-color: #CDDFF0;
 }
 #t00 {
-  background-color: #96B6BD;
-}
+  background-color: #FFFFFF;
+  text-align: center
+  }
 #t01 {
   background-color: #FFFFFF;
   font-weight: 350
+}
+#clr01 {
+  background-color: #E5CFAE; 
+}
+#clr02 {
+  background-color: #41CC1C 
+}
+#t01s {
+  background-color: #FFFFFF;
 }
 
 #cshort_v {
@@ -180,8 +190,8 @@ title: "Dates and program"
     #cposter{   background-color: #248F85;}
 
 td { 
-  border: solid;
-  border-width: 1px 0;
+    border: solid;
+    border-width: 1px 0;
 }
 td:first-child {
   border-top: none;
@@ -203,14 +213,91 @@ jQuery(document).ready(function($) {
 });
 </script>
 
-<table id="program" cellspacing="0" border="0">
+<table id="program" cellspacing="0" border="-1">
      <colgroup width="66"></colgroup>
      <colgroup width="65"></colgroup>
      <colgroup width="81"></colgroup>
      <colgroup span="5" width="138"></colgroup>
 	 <tr>
-		<td id='t01' class='col1' colspan=2 rowspan=2 height="62" align="left" valign=bottom ></td>
-	 </tr>
+		<td id='t01' class='col1' colspan=1 rowspan=1 height="62" width="280" ></td>
+        <td id='t00' class='col2' style="text-align: center" align="center" width="300" rowspan=1 colspan=2 valign=center >Sunday<br>9-Jul</td>
+        <td id='t00' class='col3' style="text-align: center" align="center" width="300" rowspan=1 colspan=2 valign=center >Monday<br>10-Jul</td>
+        <td id='t00' class='col4' style="text-align: center" align="center" width="300" rowspan=1 colspan=2 valign=center >Tuesday<br>11-Jul</td>
+        <td id='t00' class='col5' style="text-align: center" align="center" width="300" rowspan=1 colspan=3 valign=center >Wednesday<br>12-Jul</td>
+        <td id='t00' class='col6' style="text-align: center" align="center" width="300" rowspan=1 colspan=1 valign=center >Thursday<br>13-Jul</td>
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>7:00 - 7:30</td>
+        <td id='t01s' class='col2' style="writing-mode: vertical-lr; text-align: center" align="center" valign=center colspan=1 rowspan=20 width="150">Doctoral Symposium</td>
+        <td id='t01' class='col2' rowspan=3></td>
+        <td id='clr01' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=4>Check-in</td>
+        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=4>Breakfast at Rand</td>
+        <td id='t01' class='col4' rowspan=2></td>
+        <td id='clr02' class='col4' style="text-align: center" align="center" valign=center colspan=1 rowspan=4>Breakfast at Rand</td> 
+        <td id='t01' class='col5' rowspan=2 colspan=2></td>
+        <td id='clr02' class='col5' style="text-align: center" align="center" valign=center colspan=1 rowspan=4>Breakfast at Rand</td> 
+        <td id='t01' class='col6' rowspan=4></td>
+    </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>7:30 - 8:00</td> 
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>8:00 - 8:30</td> 
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>8:30 - 9:00</td>
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>9:00 - 9:30</td> 
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>9:30 - 10:00</td> 
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>10:00 - 10:30</td>
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>10:30 - 11:00</td> 
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:00 - 11:30</td> 
+     </tr>
+    <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:30 - 12:00</td>
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>12:30 - 13:00</td> 
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:00 - 13:30</td> 
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:30 - 14:00</td> 
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>14:00 - 14:30</td> 
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>14:30 - 15:00</td> 
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>15:00 - 15:30</td> 
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>15:30 - 16:00</td> 
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>16:00 - 16:30</td> 
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>16:30 - 17:00</td> 
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>Evening</td> 
+     </tr>
+
+
+
 </table>
 	
 
