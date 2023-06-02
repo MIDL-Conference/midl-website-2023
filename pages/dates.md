@@ -115,6 +115,12 @@ title: "Dates and program"
 #clr04 {
   background-color: #FF7D03
 }
+#clr05 {
+  background-color: #034DFF 
+}
+#clr06 {
+  background-color: #FE03FF 
+}
 #t01s {
   background-color: #FFFFFF;
 }
@@ -272,12 +278,18 @@ jQuery(document).ready(function($) {
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>10:00 - 10:30</td>
+        <td id='clr05' class='col5' rowspan=3 colspan=3 style="text-align: center" align="center" valign=center>Coffee & Posters</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>10:30 - 11:00</td> 
+        <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Coffee</td>
+        <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>MIDL</td>
+        <td id='clr05' class='col4' rowspan=3 colspan=2 style="text-align: center" align="center" valign=center>Coffee & Posters</td>
      </tr>
      <tr>
-        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:00 - 11:30</td> 
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:00 - 11:30</td>
+        <td id='clr06' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Keynote: Dr. Lombaert</td>
+        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Coffee & Posters</td>
      </tr>
     <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:30 - 12:00</td>
