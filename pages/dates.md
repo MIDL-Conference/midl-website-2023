@@ -237,18 +237,23 @@ jQuery(document).ready(function($) {
         <td id='t01' class='col5' rowspan=2 colspan=2></td>
         <td id='clr02' class='col5' style="text-align: center" align="center" valign=center colspan=1 rowspan=4>Breakfast at Rand</td> 
         <td id='t01' class='col6' rowspan=4></td>
-    </tr>
-     <tr>
-        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>7:30 - 8:00</td> 
      </tr>
      <tr>
-        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>8:00 - 8:30</td> 
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>7:30 - 8:00</td>
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>8:00 - 8:30</td>
+        <td id='clr01' class='col4' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center>Check-in</td>
+        <td id='clr01' class='col5' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center>Check-in</td>
+        <td id='clr01' class='col5' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center>Gathertown virtual posters</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>8:30 - 9:00</td>
+        <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Check-in/coffee</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>9:00 - 9:30</td> 
+        <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Welcome</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>9:30 - 10:00</td> 
