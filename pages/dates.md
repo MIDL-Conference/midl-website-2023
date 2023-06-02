@@ -109,6 +109,12 @@ title: "Dates and program"
 #clr02 {
   background-color: #41CC1C 
 }
+#clr03 {
+  background-color: #F1FF03
+}
+#clr04 {
+  background-color: #FF7D03
+}
 #t01s {
   background-color: #FFFFFF;
 }
@@ -254,9 +260,15 @@ jQuery(document).ready(function($) {
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>9:00 - 9:30</td> 
         <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Welcome</td>
+        <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>Welcome</td>
+        <td id='clr03' class='col4' rowspan=3 colspan=2 style="text-align:center" align="center" valign=center>Neuroimaging(6 orals)</td>
+        <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align:center" align="center" valign=center>Segmentation 2(3 orals,session starts at 9:15)</td>
+        <td id='t01' class='col6' rowspan=9 colspan=1 style="writing-mode: vertical-lr; text-align: center" align="center" valign=center colspan=1>NVIDIA Workshop</td>
      </tr>
      <tr>
-        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>9:30 - 10:00</td> 
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>9:30 - 10:00</td>
+        <td id='clr04' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Workshop</td>
+        <td id='clr03' class='col2' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Segmentation 1(4 orals)</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>10:00 - 10:30</td>
