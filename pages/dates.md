@@ -240,7 +240,7 @@ jQuery(document).ready(function($) {
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>7:00 - 7:30</td>
-        <td id='t01s' class='col2' style="writing-mode: vertical-lr; text-align: center" align="center" valign=center colspan=1 rowspan=20 width="150">Doctoral Symposium</td>
+        <td id='t01s' class='col2' style="writing-mode: vertical-lr; text-align: center" align="center" valign=center colspan=1 rowspan=21 width="150">Doctoral Symposium</td>
         <td id='t01' class='col2' rowspan=3></td>
         <td id='clr01' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=4>Check-in</td>
         <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=4>Breakfast at Rand</td>
@@ -291,42 +291,65 @@ jQuery(document).ready(function($) {
         <td id='clr06' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Keynote: Dr. Lombaert</td>
         <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Coffee & Posters</td>
      </tr>
-    <tr>
+     <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:30 - 12:00</td>
+        <td id='clr02' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center>Lunch at Rand</td>
      </tr>
      <tr>
-        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>12:30 - 13:00</td> 
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>12:00 - 12:30</td>
+        <td id='clr04' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Career Panel</td>
+        <td id='clr02' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Lunch at Rand</td>
+        <td id='clr02' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Lunch at Rand</td>
+     </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>12:30 - 13:00</td>
+        <td id='clr06' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center>Keynote Dr. Webster & Dr. Herrell</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:00 - 13:30</td> 
+        <td id='clr02' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Lunch</td>
+        <td id='clr06' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Keynote: Dr. Rohde</td>
+        <td id='clr06' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Keynote: Dr. Yesha</td>
      </tr>
      <tr>
-        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:30 - 14:00</td> 
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:30 - 14:00</td>
+        <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center>Computer-assisted diagnosis(4 orals)</td>
+        <td id='t01' class='col6' rowspan=8></td>
      </tr>
      <tr>
-        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>14:00 - 14:30</td> 
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>14:00 - 14:30</td>
+        <td id='clr06' class='col2' rowspan=6 style="text-align: center" align="center" valign=center>Grand Ole Opry/Opryland</td>
+        <td id='clr03' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Unsupervised/weakly supervised methods(4 orals)</td>
+        <td id='clr03' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Semi-supervised/self-supervised methods(4 orals)</td>
      </tr>
      <tr>
-        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>14:30 - 15:00</td> 
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>14:30 - 15:00</td>
+        <td id='clr05' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center>Coffee & Posters</td>
      </tr>
      <tr>
-        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>15:00 - 15:30</td> 
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>15:00 - 15:30</td>
+        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Coffee & Posters</td>
+        <td id='clr05' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Coffee & Posters</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>15:30 - 16:00</td> 
+        <td id='clr01' class='col5' rowspan=1 colspan=3 style="text-align: center" align="center" valign=center>Awards & closing</td>
      </tr>
      <tr>
-        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>16:00 - 16:30</td> 
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>16:00 - 16:30</td>
+        <td id='clr03' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Graph-based methods(4 orals)</td>
+        <td id='clr03' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Synthesis(4 orals)</td>
+        <td id='clr02' class='col5' rowspan=3 colspan=3 style="text-align: center" align="center" valign=center>Dinner at Rand until 7PM</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>16:30 - 17:00</td> 
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>Evening</td> 
+        <td id='clr06' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Stillery dinner/drinks/music</td>
+        <td id='clr06' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>Reception at NMAAM</td>
+        <td id='clr06' class='col4' rowspan=1 colspan=2 style="text=align: center" align="center" valign=center>Gala at Parthenon</td>
      </tr>
-
-
-
 </table>
 	
 
