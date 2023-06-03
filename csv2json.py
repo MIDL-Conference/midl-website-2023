@@ -47,8 +47,8 @@ if __name__ == "__main__":
                 # print(short_row)
 
                 paper = Paper(id=short_row["number"], title=title, authors=short_row["authors"],
-                              or_id="", oral="False",
-                              short="True", abstract="", ignore_schedule=True)
+                              or_id=short_row["forum"], oral="False",
+                              short="True", abstract=short_row["abstract"], ignore_schedule=True)
                 papers.append(paper)
 
         print(f">>> Loaded {len(short_papers_df)} short papers")
