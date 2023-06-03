@@ -2136,7 +2136,7 @@
         "title": "Visualizing chest X-ray dataset biases using GANs"
     },
     "S098": {
-        "abstract": "Data augmentation (DA), an effective regularization technique, generates training samples to enhance the diversity of data and the richness of label information for training modern deep learning models. mixup, a popular recent DA method, augments training datasets with convex combinations of original samples pairs, but can generate undesirable samples, with data being sampled off the manifold and with incorrect labels. In this work, we propose $\\zeta$-mixup, a generalization of mixup with provably and demonstrably desirable properties that allows for convex combinations of $N \\geq 2$ samples, thus leading to more realistic and diverse outputs that incorporate information from $N$ original samples using a $p$-series interpolant. We show that, compared to mixup, $\\zeta$-mixup better preserves the intrinsic dimensionality of the original datasets, a desirable property for training generalizable models, and is at least as fast as mixup. Evaluation on several natural and medical image datasets shows that $\\zeta$-mixup outperforms mixup, CutMix, and traditional DA methods.",
+        "abstract": "Data augmentation (DA), an effective regularization technique, generates training samples to enhance the diversity of data and the richness of label information for training modern deep learning models. mixup, a popular recent DA method, augments training datasets with convex combinations of original samples pairs, but can generate undesirable samples, with data being sampled off the manifold and with incorrect labels. In this work, we propose \u03b6-mixup, a generalization of mixup with provably and demonstrably desirable properties that allows for convex combinations of $N \\geq 2$ samples, thus leading to more realistic and diverse outputs that incorporate information from $N$ original samples using a $p$-series interpolant. We show that, compared to mixup, \u03b6-mixup better preserves the intrinsic dimensionality of the original datasets, a desirable property for training generalizable models, and is at least as fast as mixup. Evaluation on several natural and medical image datasets shows that \u03b6-mixup outperforms mixup, CutMix, and traditional DA methods.",
         "authors": "Kumar Abhishek, Colin Joseph Brown, Ghassan Hamarneh",
         "award": "",
         "id": "98",
@@ -2145,7 +2145,7 @@
         "pmlr_url": "",
         "schedule": "",
         "short": "True",
-        "title": "$\\zeta$-mixup: Richer, More Realistic Mixing of Multiple Images"
+        "title": "\u03b6-mixup: Richer, More Realistic Mixing of Multiple Images"
     },
     "S099": {
         "abstract": "B-cell lymphomas are complex entities consisting of a component of malignant B-cells admixed in a local tumor microenvironment (TME) inflammatory milieu.  Discrete characterization of both compartments can drive deeper understanding of pathophysiology, allowing more accurate diagnoses and prognostic predictions. However, limitations in both pathologist time and input tissue to generate multiple stains can greatly limit accurate identification of minute, cellular-level regions of interest necessary to achieve the full potential of spatial biology.  Here, we present a novel method to perform precise sampling of cells for transcriptomic analysis using virtual staining of autofluorescence images via deep learning algorithms. We validated the performance of the model on regions of interest (ROIs) identified on chemically stained images by board certified pathologists against virtually stained images. The results confirmed the usability and accuracy of the workflow and identified distinct transcriptomic profiles across a range of virtually identified ROIs, raising the possibility of our workflow\u2019s applicability across a broader range of pathologies and tissue types.",
@@ -2385,7 +2385,7 @@
         "pmlr_url": "",
         "schedule": "",
         "short": "True",
-        "title": "Artificial Intelligence and Radiologists at Prostate Cancer Detection in MRI \u2014 The PI-CAI Challenge"
+        "title": "Artificial Intelligence and Radiologists at Prostate Cancer Detection in MRI - The PI-CAI Challenge"
     },
     "S127": {
         "abstract": "Accurate segmentation of perivascular space (PVS) is essential for its quantitative analysis and clinical applications. Various segmentation methods have been proposed, but semi-supervised learning methods have never been attempted. Here, a 3D multi-channel, multi-scale semi-supervised PVS segmentation (M2SS-PVS) network is proposed. The proposed network incorporated multi-scale image features in the encoder and applied a few strategies to mitigate class imbalance issue. The proposed M2SS-PVS network segmented PVS with the highest accuracy and high sensitivity among all the tested supervised and semi-supervised methods.",

@@ -53,8 +53,23 @@ if __name__ == "__main__":
 
         print(f">>> Loaded {len(short_papers_df)} short papers")
 
+        paper_dict: dict[str, Paper] = {p.conf_id: p for p in papers}
+        json_dict: dict = json.loads(json.dumps(paper_dict, cls=PaperEncoder, indent=4, sort_keys=True))
+        print(">>> First conversion to json")
+
+        patch_file: str = "patch.json"
+        with open(patch_file, 'r') as pf:
+                patch: dict = json.load(pf)
+
+        print(">>> Patching")
+        pprint(patch)
+
+        for p in patch:
+                json_dict[p] |= patch[p]
+        print(f">> Patched json with {patch_file}")
+
         print(f">>> Writing {len(papers)} to papers.json...")
         with open("papers.json", 'w') as sink:
-                json.dump({p.conf_id: p for p in papers}, sink, cls=PaperEncoder, indent=4, sort_keys=True)
+                json.dump(json_dict, sink, indent=4, sort_keys=True)
 
         # print(full_papers_csv)

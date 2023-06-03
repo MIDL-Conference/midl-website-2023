@@ -103,7 +103,7 @@ Please note the program is tentative. Please note the assignment of short papers
 * Overcoming Interpretability and Accuracy Trade-off in Medical Imaging
 * Image Entropy and Numeric Representation for MRI Semantic Segmentation
 * Characterizing Continual Learning Scenarios for Tumor Classification in Histopathology Images
-* Zeta-mixup: Richer, More Realistic Mixing of Multiple Images
+* ζ-mixup: Richer, More Realistic Mixing of Multiple Images
 * Facial AU-aid hypomimia diagnosis based on GNN
 * Transforming Radiology Workflows: Pretraining for Automated Chest X-ray Report Generation
 * Automatic Contrast Phase Detection on Abdominal Computed Tomography using Clinically-Inspired Techniques
@@ -310,7 +310,7 @@ Please note the program is tentative. Please note the assignment of short papers
 * Expansion Microscopy Imaging Isotropic Restoration by Unsupervised Deep Learning
 * Applying spatial attention-based autoencoder learning of latent representation for unsupervised characterization of tumor microenvironment
 * Bias Field Correction in MRI with Hampel Noise Denoising Diffusion Probabilistic Model
-* Artificial Intelligence and Radiologists at Prostate Cancer Detection in MRI ‚Äî The PI-CAI Challenge
+* Artificial Intelligence and Radiologists at Prostate Cancer Detection in MRI - The PI-CAI Challenge
 * TSNet: Integrating Dental Position Prior and Symptoms for Tooth Segmentation from CBCT Images
 [% / %]
 
