@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     papers: list[Paper] = [Paper(ignore_schedule=True, **v) for (k, v) in raw_papers.items()]
 
-    title_lookup: dict[str, Paper] = {p.title.lower(): p for p in papers}
+    title_lookup: dict[str, Paper] = {p.title.lower().strip(): p for p in papers}
 
     template: str
     with open(template_path, 'r') as f:
@@ -46,11 +46,11 @@ if __name__ == "__main__":
         # int_id: int = int(m[1])
         # print(m[0], int_id)
         # print(papers[int_id])
-        match_title: str = m[1]
+        match_title: str = m[1].lower().strip()
         content: str
 
-        if match_title.lower() in title_lookup:
-            content = str(title_lookup[match_title.lower()])
+        if match_title.lower().strip() in title_lookup:
+            content = str(title_lookup[match_title.lower().strip()])
         else:
             print(f"NOT FOUND: {match_title}")
             content = match_title
