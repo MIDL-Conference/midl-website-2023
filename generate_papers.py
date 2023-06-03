@@ -9,7 +9,7 @@ from paper import Paper
 
 
 if __name__ == "__main__":
-    assert len(argv) == 5
+    assert len(argv) == 4
 
     template_path: Path = Path(argv[1])
     assert template_path.exists()
@@ -18,8 +18,6 @@ if __name__ == "__main__":
     assert papers_path.exists()
 
     dest_path: Path = Path(argv[3])
-
-    root_slides: Path = Path(argv[4])
 
     raw_papers: dict[str, dict]
     with open(papers_path, 'r') as pf:
