@@ -1,7 +1,7 @@
 CC = python3
 CFLAGS = -m mwb
 
-.PHONY: pages/papers
+.PHONY: all pages/papers
 
 DEBUG =
 
@@ -11,6 +11,8 @@ $(TARGET): FORCE
 	rm -rf $@
 	$(CC) $(CFLAGS) . $@ $(DEBUG)
 # 	chmod -R +x $@
+
+all: papers.json pages/papers pages/scientific-program.md $(TARGET)
 
 papers.json: full_papers.csv short_papers.csv midl_oral_sessions.csv
 	$(CC) csv2json.py
