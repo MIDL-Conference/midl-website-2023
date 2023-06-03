@@ -15,6 +15,7 @@ Please note the program is tentative. Please note the assignment of short papers
 * SuperMask: Generating High-resolution object masks from multi-view, unaligned low-resolution MRIs
 * Model Adaptive Tooth Segmentation
 * Learning Clinically Acceptable Segmentation of Organs at Risk in Cervical Cancer Radiation Treatment from Clinically Available Annotations
+[% / %]
 
 ## Oral session 2 - Unsupervised/weakly supervised methods - 2:00 - 3:00pm
 [% .papers %]
@@ -22,6 +23,7 @@ Please note the program is tentative. Please note the assignment of short papers
 * Generalizing Unsupervised Anomaly Detection: Towards Unbiased Pathology Screening
 * Unsupervised Stain Decomposition via Inversion Regulation for Multiplex Immunohistochemistry Images
 * DRIMET: Deep Registration-based 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue
+[% / %]
 
 ## Oral session 3 - Graph-based methods - 4:00 - 5:00pm
 [% .papers %]
@@ -29,8 +31,10 @@ Please note the program is tentative. Please note the assignment of short papers
 * Tumor Budding T-cell Graphs: Assessing the Need for Resection in pT1 Colorectal Cancer Patients
 * A Geometric Deep Learning Framework for Generation of Virtual Left Ventricles as Graphs
 * Vesselformer: Towards Complete 3D Vessel Graph Generation from Images
+[% / %]
 
 ## Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm
+### Full paper track
 
 [% .papers %]
 * A Geometric Deep Learning Framework for Generation of Virtual Left Ventricles as Graphs
@@ -72,6 +76,43 @@ Please note the program is tentative. Please note the assignment of short papers
 * One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities
 * nnUNet meets pathology: Bridging the gap for application to whole slide images and computational biomarkers
 * Image2SSM: Localization-aware Deep Learning Framework for Statistical Shape Modeling Directly from Images
+[% / %]
+
+### Short paper track
+
+[% .papers %]
+* Implementation considerations for deep learning with diffusion MRI streamline tractography
+* Uncertainty-based Quality Controlled T1 Mapping and ECV Analysis using Bayesian Vision Transformer
+* Human-Guided Design to Explain Deep Learning-based Pneumothorax Classifier
+* End-to-End Spermatozoid Detection in Cytology WSI for Forensic Pathology Workflow
+* Real-Time Quantitative Ultrasound and Radar Knowledge-Based Medical Imaging
+* Exploring the Role of Explainability for Uncovering Bias in Deep Learning-based Medical Image Analysis
+* Distributed learning effectiveness in medical image analysis when trained with limited dataset
+* Generation of Multi-modal Brain Tumor MRIs with Disentangled Latent Diffusion Model
+* Data-Free One-Shot Federated Regression: An Application to Bone Age Assessment
+* Segmentation of seventy-one anatomical structures necessary for the evaluation of guideline-conform clinical target volumes in head and neck cancers
+* Automatic renal perfusion estimation on postoperative PCASL MRI based on deep learning image analysis and segmentation 
+* A General Stitching Solution for Whole-Brain 3D Nuclei Instance Segmentation from Microscopy Images
+* Active learning for medical image segmentation with stochastic batches
+* Learning Retinal Representations from Multi-modal Imaging via Contrastive Pre-training
+* Combining Anomaly Detection and Supervised Learning for Medical Image Segmentation
+* Interactive Cell Detection in H&E-stained slides of Diffuse Gastric Cancer
+* PRISM: Probabilistic Interactive Segmentation for Medical Images
+* Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging
+* Deep Learning-Based Segmentation of Locally Advanced Breast Cancer on MRI in Relation to Residual Cancer Burden: A Multi-Institutional Cohort Study
+* Overcoming Interpretability and Accuracy Trade-off in Medical Imaging
+* Image Entropy and Numeric Representation for MRI Semantic Segmentation
+* Characterizing Continual Learning Scenarios for Tumor Classification in Histopathology Images
+* Zeta-mixup: Richer, More Realistic Mixing of Multiple Images
+* Facial AU-aid hypomimia diagnosis based on GNN
+* Transforming Radiology Workflows: Pretraining for Automated Chest X-ray Report Generation
+* Automatic Contrast Phase Detection on Abdominal Computed Tomography using Clinically-Inspired Techniques
+* A Novel Approach for Assessment of Clonal Hematopoiesis of Indeterminate Potential Using Deep Neural Networks
+* Deep Learning based Automatic Segmentation of the Levator Ani Muscle from 3D Endovaginal Ultrasound Images
+* Radiomics using disentangled latent features from deep representation learning in soft-tissue sarcoma
+* Semi-supervised learning in perivascular space segmentation using MRI images
+* Benchmark and Boosted Segmentation on Dental Panoramic Radiographs
+[% / %]
 
 # Tuesday, July 11
 
@@ -106,6 +147,7 @@ Please note the program is tentative. Please note the assignment of short papers
 
 ## Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm
 
+### Full paper track
 [% .papers %]
 * Amortized Normalizing Flows for Transcranial Ultrasound with Uncertainty Quantification
 * Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion
@@ -147,6 +189,40 @@ Please note the program is tentative. Please note the assignment of short papers
 * A deep learning method trained on synthetic data for digital breast tomosynthesis reconstruction
 * Estimating Uncertainty in PET Image Reconstruction via Deep Posterior Sampling
 * Effect of Intensity Standardization on Deep Learning for WML Segmentation in Multi-Centre FLAIR MRI
+[% / %]
+
+### Short paper track
+[% .papers %]
+* DD-CISENet: Dual-Domain Cross-Iteration Squeeze and Excitation Network for Accelerated MRI Reconstruction
+* Exploring shared memory architectures for end-to-end gigapixel deep learning
+* Outlier Detection for Mammograms
+* Contrast Invariant Feature Representations for Segmentation and Registration of Medical Images
+* Dilation-Erosion Methods for Radiograph Annotation in Total Knee Replacement
+* Neural Operator Learning for Ultrasound Tomography Inversion
+* Deep learning-based segmentation of rabbit fetal skull with limited and sub-optimal training labels
+* A Comparative Study of Unsupervised Adversarial Domain Adaptation Strategies in Multiple-instance Learning Frameworks for Digital Pathology
+* Unsupervised Plaque Segmentation on Whole Slide Images
+* GammaFocus: An image augmentation method to focus model attention for classification
+* Equivariant and Denoising CNNs to Decouple Intensity and Spatial Features for Motion Tracking in Fetal Brain MRI
+* Comp2Comp: Open-Source Body Composition Assessment on Computed Tomography
+* High-Fidelity Image Synthesis from Pulmonary Nodule Lesion Maps using Semantic Diffusion Model
+* Robust Identification of White Matter Hyperintensities in Uncontrolled Settings Using Deep Learning
+* Nearest Neighbor Radiomics for Self-Supervised Chest X-ray Pneumonia Identification
+* Zero-shot CT Field-of-view Completion with Unconditional Generative Diffusion Prior
+* Regularization by Denoising Diffusion Process for MRI Reconstruction
+* Digital Staining of Unpaired White and Blue Light Cystoscopy Videos for Bladder Cancer Detection in the Clinic
+* Towards Realistic Ultrasound Fetal Brain Imaging Synthesis
+* Assessing Deep Learning Methodologies for Automatic Segmentation of the Velopharyngeal Mechanism
+* On the dice loss variants and sub-patching
+* Anomaly Detection using Cascade Variational Autoencoder Coupled with Zero Shot Learning
+* Virtual staining overlay enabled combined morphological and spatial transcriptomic analysis of individual malignant B cells and local tumor microenvironments
+* Exploring the Optimal Operating MR Contrast for Brain Ventricle Parcellation
+* High-resolution 3D Maps of Left Atrial Displacements using an Unsupervised Image Registration Neural Network
+* Pre-training Segmentation Models for Histopathology
+* An end-to-end Complex-valued Neural Network approach for k-space interpolation in Parallel MRI
+* Improving Zero-Shot Detection of Low Prevalence Chest Pathologies using Domain Pre-trained Language Models
+* CSGAN: a consistent structural GAN for AS-OCT image despeckling by image translation
+* Synthetic Medical Image Generation Using Latent Diffusion Models and Large Language Models
 [% / %]
 
 # Wednesday, July 12
@@ -204,6 +280,39 @@ Please note the program is tentative. Please note the assignment of short papers
 * Domain Adaptation using Silver Standard Masks for Lateral Ventricle Segmentation in FLAIR MRI
 [% / %]
 
+### Short paper track
+[% .papers %]
+* Segmentation of Lipid Droplets in Histological Images
+* High Frequency Structural MRI Signal conditioned MRA Synthesis with Denoising Diffusion probabilistic Model
+* Deep model-based optoacoustic image reconstruction (DeepMB)
+* Towards Robust Computation of Cardiothoracic Ratio from Chest X-Ray
+* Uncovering Structural-Functional Coupling Alterations for Neurodegenerative Diseases
+* A Deep-Learning Based Approach to Accelerate Groundtruth Generation for Biomarker Status Identification in Chromogenic Duplex Images
+* Temporal Monte Carlo Dropout for Robust Uncertainty Quantification: Application to Point-of-Care Ultrasound-guided Nerve Blocks
+* 3D Body Composition Segmentation in Abdomen and Pelvis CT using Subdivided Labels and Random Patch
+* Automatic quantification of TSR as a prognostic marker for pancreatic cancer.
+* Local and global feature aggregation for accurate epithelial cell classification using graph attention mechanisms in histopathology images
+* Make nnUNets Small Again
+* Shape Equivariant Learning for Robust MRI Segmentation
+* Brain age prediction using multi-hop graph attention module(MGA) with convolutional neural network
+* SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model
+* Learning Patient Rotation Using Synthetic X-ray Images from 3D CT Volumes
+* 3D Supervised Contrastive-Learning Network for Classification of Ovarian Neoplasms
+* On the robustness of regressing tumor percentage as an explainable detector in histopathology whole-slide images
+* Uncertainty for Proximal Femur Fractures Classification
+* Caption generation from histopathology whole-slide images using pre-trained transformers
+* Mitigating Representation Shift in Unicentric Data through Logit Perturbation for Robust Histology Image Segmentation
+* Inter-Scale Dependency Modeling for Skin Lesion Segmentation with Transformer-based Networks
+* Visualizing chest X-ray dataset biases using GANs
+* Investigate Sex Dimorphism of Cerebral Myelination Across Lifespan by Leveraging Conditional Variational Autoencoder
+* FFCL: Forward-Forward Contrastive Learning for Improved Medical Image Classification
+* Deep Learning Regression of Cardiac Phase on Real-Time MRI
+* Expansion Microscopy Imaging Isotropic Restoration by Unsupervised Deep Learning
+* Applying spatial attention-based autoencoder learning of latent representation for unsupervised characterization of tumor microenvironment
+* Bias Field Correction in MRI with Hampel Noise Denoising Diffusion Probabilistic Model
+* Artificial Intelligence and Radiologists at Prostate Cancer Detection in MRI ‚Äî The PI-CAI Challenge
+* TSNet: Integrating Dental Position Prior and Symptoms for Tooth Segmentation from CBCT Images
+[% / %]
 
 
 [![Short program](images/program.png)](images/program.png)

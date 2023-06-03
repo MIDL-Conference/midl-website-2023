@@ -1,7 +1,53 @@
 ---
 title: "Camera Ready Instructions"
 ---
-# Camera Ready Instructions for Full Papers (short paper instructions coming soon)
+
+# NEW: Camera Ready Instructions for Short Papers 
+
+Dear authors, congratulations again for your accepted short papers at MIDL 2023.
+
+Once your final pdf is prepared according to the detailed instructions below, please **upload and update on OpenReview by June 15th** (by clicking the `Revision` button) the following fields:
+
+<center>
+
+| Item | Field |
+|:------|-------|
+| Camera ready PDF | `PDF` |
+| Title | `Title` |
+| Authors | `Authors` |
+| Keywords | `Keywords` |
+| Abstract | `Abstract` |
+
+</center>
+
+
+## Detailed Instructions
+
+You only need to upload one file to OpenReview, the PDF of the camera-ready version of the paper. Note that unlike the full paper track, the LaTeX source of license file are **not** needed.
+
+
+### Preparing the camera-ready submission
+Prepare your camera ready using the **latest** version of the LaTeX MIDL template (`midl-shortpaper`):  [https://github.com/MIDL-Conference/MIDLLatexTemplate](https://github.com/MIDL-Conference/MIDLLatexTemplate)
+
+Please make sure your are **not:**
+
+- overriding the options of the `hyperref` package (loaded automatically);
+- using the `times` package (if that was the case, please [contact the program chairs](mailto:pc@2023.midl.io) as soon as possible);
+- overriding the bibligraphystyle (defined in `midl.cls`).
+
+Additional considerations:
+
+1. Within your tex file, the document class should be: `\documentclass{midl}` (without the `anon` option), and make sure that all authors and co-authors are listed correctly. Unlike the full papers, the short papers are not assembled into a single volume, so the `\jmlryear{2023}\jmlrworkshop{Full Paper -- MIDL 2023}\jmlrvolume{-- nnn}\editors{Accepted for publication at MIDL 2023}` instructions can be ignored for short papers.
+
+1. For the camera ready, the page limit is still 3 pages. References do not count toward that limit and can appear on pages 4+.
+
+1. Please be sure to check the author/institution list on the title page is de-anonymized, as well as any previously anonymized citations, github repos, data sources, acknowledgements, and other places.
+
+1. Please incorporate feedback from the reviewers to the extent possible in your final submission.
+
+1. When you are ready, submit the final paper in PDF format in OpenReview using the `Revision` button and the `PDF` field by June 15th.
+
+# Camera Ready Instructions for Full Papers 
 
 Dear authors, congratulations again for your accepted papers at MIDL 2023.
 
