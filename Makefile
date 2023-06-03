@@ -12,7 +12,7 @@ $(TARGET): FORCE
 	$(CC) $(CFLAGS) . $@ $(DEBUG)
 # 	chmod -R +x $@
 
-all: papers.json pages/papers pages/scientific-program.md $(TARGET)
+all: papers.json pages/papers pages/program.md $(TARGET)
 
 papers.json: full_papers.csv short_papers.csv midl_oral_sessions.csv
 	$(CC) csv2json.py
@@ -20,7 +20,7 @@ papers.json: full_papers.csv short_papers.csv midl_oral_sessions.csv
 pages/papers: pages/papers/paper.template papers.json
 	$(CC) generate_papers.py $^ $(@D)
 
-pages/scientific-program.md: pages/program.md papers.json
+pages/program.md: pages/program.txt papers.json
 	$(CC) gen_scientific_program.py $^ $@
 
 
