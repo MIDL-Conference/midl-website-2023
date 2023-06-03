@@ -71,8 +71,11 @@ class Paper():
         sanitized_abstract = repr(sanitized_abstract)
         # sanitized_abstract: str = repr(self.abstract)
 
-        return f'''{{{{ paper(\'{self.title}\',
-        \'{f'{", ".join(self.authors)}'}\',
+        sanitized_authors: list[str] = [a.replace("'", "\\'") for a in self.authors]
+        sanitized_title: str = self.title.replace("'", "\\'")
+
+        return f'''{{{{ paper(\'{sanitized_title}\',
+        \'{f'{", ".join(sanitized_authors)}'}\',
         openreview=\'{f'https://openreview.net/forum?id={self.or_id}'}\',
         pdf=\'{self.pdf_url}\',
         id='{self.conf_id}',
