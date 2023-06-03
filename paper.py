@@ -25,7 +25,7 @@ class Paper():
         assert not (self.short and self.pmlr_url)
 
         self.pdf_url: str
-        if self.short:
+        if self.short or True:
             self.pdf_url = f'https://openreview.net/pdf?id={self.or_id}'
         else:
             pmlr_id: str = self.pmlr_url.split('/')[-1].replace(".html", "")
