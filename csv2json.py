@@ -68,6 +68,20 @@ if __name__ == "__main__":
                 json_dict[p] |= patch[p]
         print(f">> Patched json with {patch_file}")
 
+        title_dict: dict[str, str] = {json_dict[pid]["title"].strip().lower(): pid for pid in json_dict}
+        with open("pages/program.txt", 'r') as program:
+                current_day: str = ""
+                current_time: str = ""
+                cur_title: str
+                for line in program:
+                        if line.startswith("# "):
+                                current_day = line[2:-1]
+                        elif line.startswith("## "):
+                                current_time = line[3:]
+                        elif line.startswith("* "):
+                                cur_title = line[2:].strip().lower()
+                                json_dict[title_dict[cur_title]]["schedule"] += f"{current_day}: {current_time}"
+
         print(f">>> Writing {len(papers)} to papers.json...")
         with open("papers.json", 'w') as sink:
                 json.dump(json_dict, sink, indent=4, sort_keys=True)
