@@ -2202,6 +2202,28 @@ Please note the program is tentative.
 }}
 [% / %]
 
+### Melba journal to conference track
+
+[% .papers %]
+{{ paper('Joint Frequency and Image Space Learning for MRI Reconstruction and Analysis',
+        'Nalini M., Singh, Juan Eugenio, Iglesias, Elfar Adalsteinsson, Adrian V., Dalca, Polina Golland',
+        openreview='https://openreview.net/forum?id=',
+        pdf='https://openreview.net/pdf?id=',
+        id='M018',
+        paper='papers/M018',
+        proceedings='',
+        abstract="We propose neural network layers that explicitly combine frequency and image feature representations and show that they can be used as a versatile building block for reconstruction from frequency space data. Our work is motivated by the challenges arising in MRI acquisition where the signal is a corrupted Fourier transform of the desired image. The proposed joint learning schemes enable both correction of artifacts native to the frequency space and manipulation of image space representations to reconstruct coherent image structures at every layer of the network. This is in contrast to most current deep learning approaches for image reconstruction that treat frequency and image space features separately and often operate exclusively in one of the two spaces. We demonstrate the advantages of joint convolutional learning for a variety of tasks, including motion correction, denoising, reconstruction from undersampled acquisitions, and combined undersampling and motion correction on simulated and real world multicoil MRI data. The joint models produce consistently high quality output images across all tasks and datasets. When integrated into a state of the art unrolled optimization network with physics-inspired data consistency constraints for undersampled reconstruction, the proposed architectures significantly improve the optimization landscape, which yields an order of magnitude reduction of training time. This result suggests that joint representations are particularly well suited for MRI signals in deep learning networks. Our code and pretrained models are publicly available at <a href=\\'https://github.com/nalinimsingh/interlacer\\'>https://github.com/nalinimsingh/interlacer</a>.")
+}}
+{{ paper('Deep Weakly-Supervised Learning Methods for Classification and Localization in Histology Images: A Survey',
+        'Jérôme Rony, Soufiane Belharbi, Jose Dolz, Ismail, Ben Ayed, Luke McCaffrey, Eric Granger',
+        openreview='https://openreview.net/forum?id=',
+        pdf='https://openreview.net/pdf?id=',
+        id='M004',
+        paper='papers/M004',
+        proceedings='',
+        abstract="Using state-of-the-art deep learning (DL) models to diagnose cancer from histology data presents several challenges related to the nature and availability of labeled histology images, including image size, stain variations, and label ambiguity. In addition, cancer grading and the localization of regions of interest (ROIs) in such images normally rely on both image- and pixel-level labels, with the latter requiring a costly annotation process. Deep weakly-supervised object localization (WSOL) methods provide different strategies for low-cost training of DL models. Given only image-class annotations, these methods can be trained to simultaneously classify an image, and yield class activation maps (CAMs) for ROI localization. This paper provides a review of deep WSOL methods to identify and locate diseases in histology images, without the need for pixel-level annotations. We propose a taxonomy in which these methods are divided into bottom-up and top-down methods according to the information flow in models. Although the latter have seen only limited progress, recent bottom-up methods are currently  driving a lot of progress with the use of deep WSOL methods. Early works focused on designing different spatial pooling functions. However, those methods quickly peaked in term of localization accuracy and revealed a major limitation, namely, – the under-activation of CAMs, which leads to high false negative localization. Subsequent works aimed to alleviate this shortcoming and recover the complete object from the background, using different techniques such as perturbation, self-attention, shallow features, pseudo-annotation, and task decoupling.<br>In the present paper, representative deep WSOL methods from our taxonomy are also evaluated and compared in terms of classification and localization accuracy using two challenging public histology datasets – one for colon cancer (GlaS), and a second, for breast cancer (CAMELYON16). Overall, the results indicate poor localization performance, particularly for generic methods that were initially designed to process natural images. Methods designed to address the challenges posed by histology data often use priors such as ROI size, or additional pixel-wise supervision estimated from a pre-trained classifier, allowing them to achieve better results. However, all the methods suffer from high false positive/negative localization. Classification performance is mainly affected by the model selection process, which uses either the classification or the localization metric. Finally, four key challenges are identified in the application of deep WSOL methods in histology, namely, – under-/over-activation of CAMs, sensitivity to thresholding, and model selection – and research avenues are provided to mitigate them. Our code is publicly available at <a href=\\'https://github.com/jeromerony/survey_wsl_histology\\'>https://github.com/jeromerony/survey_wsl_histology</a>")
+}}
+[% / %]
 
 [![Short program](images/program.png)](images/program.png)
 Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/zone/usa/nashville).

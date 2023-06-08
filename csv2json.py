@@ -68,6 +68,25 @@ if __name__ == "__main__":
                 json_dict[p] |= patch[p]
         print(f">> Patched json with {patch_file}")
 
+        with open("melba.json", 'r') as melba:
+                melba_json = json.load(melba)
+
+        for mp in melba_json:
+                id_: int = int(mp['melba_id'].split(':')[1])
+                authors_: str = ", ".join(a.split('#')[0] for a in mp['authors'])
+                json_dict[f"M{id_:03d}"] = {'abstract': mp['abstract'],
+                                            'authors': authors_,
+                                            'award': None,
+                                            'id': id_,
+                                            'or_id': "",
+                                            'oral': "False",
+                                            'pmlr_url': "",
+                                            'schedule': "",
+                                            'short': "False",
+                                            'melba': "True",
+                                            'title': mp['title']}
+        print(f">>> Loaded {len(melba_json)} for melba to journal to conf")
+
         title_dict: dict[str, str] = {json_dict[pid]["title"].strip().lower(): pid for pid in json_dict}
         with open("pages/program.txt", 'r') as program:
                 current_day: str = ""

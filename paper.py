@@ -6,13 +6,14 @@ from typing import List
 
 class Paper():
     def __init__(self, id: str, title: str, authors: str, or_id: str, oral: str, short: str,
-                 abstract: str, schedule: str = "", ignore_schedule: bool = False,
+                 abstract: str, schedule: str = "", ignore_schedule: bool = False, melba: str = "False",
                  award: str = "", pmlr_url=""):
         self.id: int = int(id)
         self.title: str = title
         self.authors: List[str] = authors.split('|')
         self.or_id: str = or_id
         self.oral: bool = oral == "True"
+        self.melba: bool = melba == "True"
         self.short: bool = short == "True"
         self.poster: bool = (not self.short) and (not self.oral)
         self.abstract: str = abstract
@@ -57,6 +58,8 @@ class Paper():
         self.sanitized_abstract = sanitized_abstract
 
         self.conf_sign: str = "O" if self.oral else ("S" if self.short else "P")
+        if self.melba:
+            self.conf_sign = "M"
 
         self.conf_id: str = f"{self.conf_sign}{self.id:03d}"
         self.url: str = f"papers/{self.conf_id}"
@@ -94,6 +97,7 @@ class PaperEncoder(json.JSONEncoder):
                     "or_id": paper.or_id,
                     "oral": str(paper.oral),
                     "short": str(paper.short),
+                    "melba": str(paper.melba),
                     "abstract": paper.abstract,
                     "schedule": "\n".join(paper.schedule),
                     "award": paper.award,

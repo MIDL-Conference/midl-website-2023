@@ -314,6 +314,12 @@ Please note the program is tentative.
 * TSNet: Integrating Dental Position Prior and Symptoms for Tooth Segmentation from CBCT Images
 [% / %]
 
+### Melba journal to conference track
+
+[% .papers %]
+* Joint Frequency and Image Space Learning for MRI Reconstruction and Analysis
+* Deep Weakly-Supervised Learning Methods for Classification and Localization in Histology Images: A Survey
+[% / %]
 
 [![Short program](images/program.png)](images/program.png)
 Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/zone/usa/nashville).
