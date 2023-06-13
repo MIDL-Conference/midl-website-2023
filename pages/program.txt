@@ -111,6 +111,8 @@ Please note the program is tentative.
 * Radiomics using disentangled latent features from deep representation learning in soft-tissue sarcoma
 * Semi-supervised learning in perivascular space segmentation using MRI images
 * Benchmark and Boosted Segmentation on Dental Panoramic Radiographs
+* Uncovering Structural-Functional Coupling Alterations for Neurodegenerative Diseases
+
 [% / %]
 
 # Tuesday, July 11
@@ -285,7 +287,6 @@ Please note the program is tentative.
 * High Frequency Structural MRI Signal conditioned MRA Synthesis with Denoising Diffusion probabilistic Model
 * Deep model-based optoacoustic image reconstruction (DeepMB)
 * Towards Robust Computation of Cardiothoracic Ratio from Chest X-Ray
-* Uncovering Structural-Functional Coupling Alterations for Neurodegenerative Diseases
 * A Deep-Learning Based Approach to Accelerate Groundtruth Generation for Biomarker Status Identification in Chromogenic Duplex Images
 * Temporal Monte Carlo Dropout for Robust Uncertainty Quantification: Application to Point-of-Care Ultrasound-guided Nerve Blocks
 * 3D Body Composition Segmentation in Abdomen and Pelvis CT using Subdivided Labels and Random Patch
