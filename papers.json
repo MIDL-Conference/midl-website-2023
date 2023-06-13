@@ -242,7 +242,7 @@
         "or_id": "ruaXPgZCk6i",
         "oral": "True",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Oral session 3 - Graph-based methods - 4:00 - 5:00pm\nMonday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Monday, July 10: Oral session 3 - Graph-based methods - 4:00 - 4:45pm\nMonday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
         "short": "False",
         "title": "Tumor Budding T-cell Graphs: Assessing the Need for Resection in pT1 Colorectal Cancer Patients"
     },
@@ -320,7 +320,7 @@
         "or_id": "WHS3Zv9pxz",
         "oral": "True",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Oral session 3 - Graph-based methods - 4:00 - 5:00pm\nMonday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
         "short": "False",
         "title": "DBGDGM: Dynamic Brain Graph Deep Generative Model"
     },
@@ -333,7 +333,7 @@
         "or_id": "X_AJqHfE1H",
         "oral": "True",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Oral session 3 - Graph-based methods - 4:00 - 5:00pm\nMonday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Monday, July 10: Oral session 3 - Graph-based methods - 4:00 - 4:45pm\nMonday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
         "short": "False",
         "title": "Vesselformer: Towards Complete 3D Vessel Graph Generation from Images"
     },
@@ -437,7 +437,7 @@
         "or_id": "Ao0D2HMB8P",
         "oral": "True",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Oral session 3 - Graph-based methods - 4:00 - 5:00pm\nMonday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Monday, July 10: Oral session 3 - Graph-based methods - 4:00 - 4:45pm\nMonday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
         "short": "False",
         "title": "A Geometric Deep Learning Framework for Generation of Virtual Left Ventricles as Graphs"
     },
@@ -1672,7 +1672,7 @@
         "or_id": "CU82z90ppTS",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
         "short": "True",
         "title": "Uncovering Structural-Functional Coupling Alterations for Neurodegenerative Diseases"
     },

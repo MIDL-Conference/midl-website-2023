@@ -89,17 +89,8 @@ Please note the program is tentative.
 }}
 [% / %]
 
-## Oral session 3 - Graph-based methods - 4:00 - 5:00pm
+## Oral session 3 - Graph-based methods - 4:00 - 4:45pm
 [% .papers %]
-{{ paper('DBGDGM: Dynamic Brain Graph Deep Generative Model',
-        'Alexander Campbell, Simeon Emilov Spasov, Nicola Toschi, Pietro Lio',
-        openreview='https://openreview.net/forum?id=WHS3Zv9pxz',
-        pdf='https://openreview.net/pdf?id=WHS3Zv9pxz',
-        id='O139',
-        paper='papers/O139',
-        proceedings='',
-        abstract='Graphs are a natural representation of brain activity derived from functional magnetic imaging (fMRI) data. It is well known that clusters of anatomical brain regions, known as functional connectivity networks (FCNs), encode temporal relationships which can serve as useful biomarkers for understanding brain function and dysfunction. Previous works, however, ignore the temporal dynamics of the brain and focus on static graphs. In this paper, we propose a dynamic brain graph deep generative model (DBGDGM) which simultaneously clusters brain regions into temporally evolving communities and learns dynamic unsupervised node embeddings. Specifically, DBGDGM represents brain graph nodes as embeddings sampled from a distribution over communities that evolve over time. We parameterise this community distribution using neural networks that learn from subject and node embeddings as well as past community assignments. Experiments demonstrate DBGDGM outperforms baselines in graph generation, dynamic link prediction, and is comparable for graph classification. Finally, an analysis of the learnt community distributions reveals overlap with known FCNs reported in neuroscience literature.')
-}}
 {{ paper('Tumor Budding T-cell Graphs: Assessing the Need for Resection in pT1 Colorectal Cancer Patients',
         'Linda Studer, JM Bokhorst, I Nagtegaal, Inti Zlobec, Heather Dawson, Andreas Fischer',
         openreview='https://openreview.net/forum?id=ruaXPgZCk6i',
@@ -767,6 +758,15 @@ Please note the program is tentative.
         paper='papers/S130',
         proceedings='',
         abstract="Panoramic radiographs, also known as orthopantomograms, are routinely used by dentists to get a better understanding of the patient\\'s oral condition and perform orthodontics; however, most dentists\\' use of them is rough which may cause medical negligence due to physician burnout and time limitation. To reduce the dentists\\' workflow, we define a mission to segment five orals structures including Alveolarcrest, Condyle, Neuraltube, Sinusmaxillaris, and Teeth on Panoramic radiographs. A Cascaded Multi-scale Mask2former(CMMask2former) method is proposed for this task. For the small objects, we specially design multi-scale masked attention for the mask area. Overall, the whole structure is designed in a cascade way of two stages for localization and prediction. Our results demonstrate a superior prediction performance compared to other methods.")
+}}
+{{ paper('Uncovering Structural-Functional Coupling Alterations for Neurodegenerative Diseases',
+        'Tingting Dan, Guorong Wu',
+        openreview='https://openreview.net/forum?id=CU82z90ppTS',
+        pdf='https://openreview.net/pdf?id=CU82z90ppTS',
+        id='S020',
+        paper='papers/S020',
+        proceedings='',
+        abstract="A confluence of neuroscience and clinical studies suggests that disrupted structural connectivity (SC) and functional connectivity (FC) in the brain is an early signs of neurodegenerative diseases. However, current methods lack the neuroscience foundation to understand how these altered coupling mechanisms contribute to cognitive decline. To address this issue, we spotlight a neural oscillation model that characterizes the behavior of neural oscillators coupled via nerve fibers throughout the brain. Tailored a physics-guided graph neural network (GNN), which can predict self-organized functional fluctuations and generate a novel biomarker for early detection of neurodegeneration through altered SC-FC coupling. Our method outperforms conventional coupling methods, providing higher accuracy and revealing the mechanistic role of coupling alterations in disease progression. We evaluate the biomarker using the ADNI dataset for Alzheimer\\'s disease diagnosis.")
 }}
 [% / %]
 
@@ -1965,15 +1965,6 @@ Please note the program is tentative.
         paper='papers/S015',
         proceedings='',
         abstract="The cardiothoracic ratio (CTR) plays an important role in early detection of cardiac enlargement related diseases in chest X-ray (CXR) examinations. Since its measurement would be time-consuming, its evaluation in clinical practice is done by a visual assessment: it is highly subjective and its robustness is undermined by some acquisition issues such as lung clipping or patient orientation variation. No work addressing the problem of clipped lungs in the CTR estimation has been found in the literature.  For these reasons, aiming for a robust method, we firstly proposed a segmentation-based approach for automatic measurement of the CTR (based only on the lung segmentation mask) able to handle clipped anatomy cases. Secondly, the proposed method was validated on a large dataset allowing us to corroborate earlier research results with manual CTR computation in which the mean CTR increases with the age of the patients and there is a noticeable difference between men and women\\'s CTR. Lastly, a new rotational invariant metric was proposed, showing it to be more robust to different patient orientations.")
-}}
-{{ paper('Uncovering Structural-Functional Coupling Alterations for Neurodegenerative Diseases',
-        'Tingting Dan, Guorong Wu',
-        openreview='https://openreview.net/forum?id=CU82z90ppTS',
-        pdf='https://openreview.net/pdf?id=CU82z90ppTS',
-        id='S020',
-        paper='papers/S020',
-        proceedings='',
-        abstract="A confluence of neuroscience and clinical studies suggests that disrupted structural connectivity (SC) and functional connectivity (FC) in the brain is an early signs of neurodegenerative diseases. However, current methods lack the neuroscience foundation to understand how these altered coupling mechanisms contribute to cognitive decline. To address this issue, we spotlight a neural oscillation model that characterizes the behavior of neural oscillators coupled via nerve fibers throughout the brain. Tailored a physics-guided graph neural network (GNN), which can predict self-organized functional fluctuations and generate a novel biomarker for early detection of neurodegeneration through altered SC-FC coupling. Our method outperforms conventional coupling methods, providing higher accuracy and revealing the mechanistic role of coupling alterations in disease progression. We evaluate the biomarker using the ADNI dataset for Alzheimer\\'s disease diagnosis.")
 }}
 {{ paper('A Deep-Learning Based Approach to Accelerate Groundtruth Generation for Biomarker Status Identification in Chromogenic Duplex Images',
         'Satarupa Mukherjee, Qinle Ba, Jim Martin, Yao Nie',
