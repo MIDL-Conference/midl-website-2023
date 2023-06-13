@@ -112,7 +112,6 @@ Please note the program is tentative.
 * Semi-supervised learning in perivascular space segmentation using MRI images
 * Benchmark and Boosted Segmentation on Dental Panoramic Radiographs
 * Uncovering Structural-Functional Coupling Alterations for Neurodegenerative Diseases
-
 [% / %]
 
 # Tuesday, July 11
