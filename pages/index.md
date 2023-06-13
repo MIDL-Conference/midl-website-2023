@@ -9,14 +9,14 @@ page_class: home
     <img alt="Nashville (Tennessee)" src="/images/nashville.jpg">
 </p>
 
-{{ button("Conference registration", "/registration.html") }}
-
-The accepted short and full papers are already available on OpenReview:
 
 <p class="centered">
-    <a href="https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track" class="button">OpenReview (short paper)</a>
-    <a href="https://openreview.net/group?id=MIDL.io/2023/Conference" class="button">OpenReview (full paper)</a>
+    <a href="/registration.html" class="button">Registration</a>
+    <a href="/program.html" class="button">Scientific program</a>
 </p>
+
+The accepted [short](https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track) and [full](https://openreview.net/group?id=MIDL.io/2023/Conference) papers are still available on OpenReview:
+
 
 ---
 
