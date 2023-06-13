@@ -137,8 +137,8 @@ Please note the program is tentative.
         'Alexander Campbell, Simeon Emilov Spasov, Nicola Toschi, Pietro Lio',
         openreview='https://openreview.net/forum?id=WHS3Zv9pxz',
         pdf='https://openreview.net/pdf?id=WHS3Zv9pxz',
-        id='O139',
-        paper='papers/O139',
+        id='P139',
+        paper='papers/P139',
         proceedings='',
         abstract='Graphs are a natural representation of brain activity derived from functional magnetic imaging (fMRI) data. It is well known that clusters of anatomical brain regions, known as functional connectivity networks (FCNs), encode temporal relationships which can serve as useful biomarkers for understanding brain function and dysfunction. Previous works, however, ignore the temporal dynamics of the brain and focus on static graphs. In this paper, we propose a dynamic brain graph deep generative model (DBGDGM) which simultaneously clusters brain regions into temporally evolving communities and learns dynamic unsupervised node embeddings. Specifically, DBGDGM represents brain graph nodes as embeddings sampled from a distribution over communities that evolve over time. We parameterise this community distribution using neural networks that learn from subject and node embeddings as well as past community assignments. Experiments demonstrate DBGDGM outperforms baselines in graph generation, dynamic link prediction, and is comparable for graph classification. Finally, an analysis of the learnt community distributions reveals overlap with known FCNs reported in neuroscience literature.')
 }}
