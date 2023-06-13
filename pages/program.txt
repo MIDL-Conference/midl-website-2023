@@ -25,9 +25,8 @@ Please note the program is tentative.
 * DRIMET: Deep Registration-based 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue
 [% / %]
 
-## Oral session 3 - Graph-based methods - 4:00 - 5:00pm
+## Oral session 3 - Graph-based methods - 4:00 - 4:45pm
 [% .papers %]
-* DBGDGM: Dynamic Brain Graph Deep Generative Model
 * Tumor Budding T-cell Graphs: Assessing the Need for Resection in pT1 Colorectal Cancer Patients
 * A Geometric Deep Learning Framework for Generation of Virtual Left Ventricles as Graphs
 * Vesselformer: Towards Complete 3D Vessel Graph Generation from Images
