@@ -267,29 +267,29 @@ jQuery(document).ready(function($) {
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>9:00 - 9:30</td> 
         <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Welcome</td>
         <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>Welcome</td>
-        <td id='clr03' class='col4' rowspan=3 colspan=2 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Neuroimaging(6 orals)</td>
-        <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Segmentation 2(3 orals,session starts at 9:15)</td>
+        <td id='clr03' class='col4' rowspan=3 colspan=2 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Neuroimaging (6 orals)</td>
+        <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Segmentation 2 (3 orals,session starts at 9:15)</td>
         <td id='t01' class='col6' rowspan=9 colspan=1 style="writing-mode: vertical-lr; text-align: center" align="center" valign=center colspan=1>NVIDIA Workshop</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>9:30 - 10:00</td>
         <td id='clr04' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Workshop</td>
-        <td id='clr03' class='col2' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Segmentation 1(4 orals)</td>
+        <td id='clr03' class='col2' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Segmentation 1 (4 orals)</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>10:00 - 10:30</td>
-        <td id='clr05' class='col5' rowspan=3 colspan=3 style="text-align: center" align="center" valign=center>Coffee & Posters</td>
+        <td id='clr05' class='col5' rowspan=3 colspan=3 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>10:30 - 11:00</td> 
         <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Coffee</td>
         <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>MIDL</td>
-        <td id='clr05' class='col4' rowspan=3 colspan=2 style="text-align: center" align="center" valign=center>Coffee & Posters</td>
+        <td id='clr05' class='col4' rowspan=3 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:00 - 11:30</td>
-        <td id='clr06' class='col2' rowspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. Lombaert</td>
-        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Coffee & Posters</td>
+        <td id='clr06' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Keynote: Dr. Lombaert</td>
+        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:30 - 12:00</td>
@@ -313,23 +313,23 @@ jQuery(document).ready(function($) {
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:30 - 14:00</td>
-        <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Computer-assisted diagnosis(4 orals)</td>
+        <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Computer-assisted diagnosis (4 orals)</td>
         <td id='t01' class='col6' rowspan=8></td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>14:00 - 14:30</td>
         <td id='clr06' class='col2' rowspan=6 style="text-align: center" align="center" valign=center>Grand Ole Opry/Opryland</td>
-        <td id='clr03' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Unsupervised/weakly supervised methods(4 orals)</td>
-        <td id='clr03' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Semi-supervised/self-supervised methods(4 orals)</td>
+        <td id='clr03' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Unsupervised/weakly supervised methods (4 orals)</td>
+        <td id='clr03' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Semi-supervised/self-supervised methods (4 orals)</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>14:30 - 15:00</td>
-        <td id='clr05' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center>Coffee & Posters</td>
+        <td id='clr05' class='col5' rowspan=2 colspan=3 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>15:00 - 15:30</td>
-        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Coffee & Posters</td>
-        <td id='clr05' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Coffee & Posters</td>
+        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters</td>
+        <td id='clr05' class='col4' rowspan=2 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>15:30 - 16:00</td> 
@@ -337,8 +337,8 @@ jQuery(document).ready(function($) {
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>16:00 - 16:30</td>
-        <td id='clr03' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Graph-based methods(4 orals)</td>
-        <td id='clr03' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Synthesis(4 orals)</td>
+        <td id='clr03' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Graph-based methods (4 orals)</td>
+        <td id='clr03' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Synthesis (4 orals)</td>
         <td id='clr02' class='col5' rowspan=3 colspan=3 style="text-align: center" align="center" valign=center>Dinner at Rand until 7PM</td>
      </tr>
      <tr>
