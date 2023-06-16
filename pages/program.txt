@@ -221,7 +221,6 @@ Please note the program is tentative.
 * An end-to-end Complex-valued Neural Network approach for k-space interpolation in Parallel MRI
 * Improving Zero-Shot Detection of Low Prevalence Chest Pathologies using Domain Pre-trained Language Models
 * CSGAN: a consistent structural GAN for AS-OCT image despeckling by image translation
-* Synthetic Medical Image Generation Using Latent Diffusion Models and Large Language Models
 [% / %]
 
 # Wednesday, July 12
