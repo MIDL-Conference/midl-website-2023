@@ -96,7 +96,6 @@ Please note the program is tentative.
 * Learning Retinal Representations from Multi-modal Imaging via Contrastive Pre-training
 * Combining Anomaly Detection and Supervised Learning for Medical Image Segmentation
 * Interactive Cell Detection in H&E-stained slides of Diffuse Gastric Cancer
-* PRISM: Probabilistic Interactive Segmentation for Medical Images
 * Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging
 * Deep Learning-Based Segmentation of Locally Advanced Breast Cancer on MRI in Relation to Residual Cancer Burden: A Multi-Institutional Cohort Study
 * Overcoming Interpretability and Accuracy Trade-off in Medical Imaging
