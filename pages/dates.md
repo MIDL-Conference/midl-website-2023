@@ -267,8 +267,8 @@ jQuery(document).ready(function($) {
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>9:00 - 9:30</td> 
         <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Welcome</td>
         <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>Welcome</td>
-        <td id='clr03' class='col4' rowspan=3 colspan=2 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Neuroimaging (6 orals)</td>
-        <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Segmentation 2 (3 orals,session starts at 9:15)</td>
+        <td id='clr03' class='col4' rowspan=3 colspan=2 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Neuroimaging (5 orals, session ends at 10:15)</td>
+        <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Segmentation 2 (3 orals, session starts at 9:15)</td>
         <td id='t01' class='col6' rowspan=9 colspan=1 style="writing-mode: vertical-lr; text-align: center" align="center" valign=center colspan=1>NVIDIA Workshop</td>
      </tr>
      <tr>
