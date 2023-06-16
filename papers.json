@@ -448,9 +448,9 @@
         "id": "218",
         "melba": "False",
         "or_id": "6Wbj3QCo4U4",
-        "oral": "True",
+        "oral": "False",
         "pmlr_url": "",
-        "schedule": "Tuesday, July 11: Oral session 4 - Neuroimaging - 9:00 - 10:30am\nTuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
         "short": "False",
         "title": "MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging"
     },
@@ -2114,7 +2114,7 @@
         "or_id": "JomCgnkmlX",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "",
         "short": "True",
         "title": "PRISM: Probabilistic Interactive Segmentation for Medical Images"
     },
@@ -2257,7 +2257,7 @@
         "or_id": "lfcgIxHsvG",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "",
         "short": "True",
         "title": "Mitigating Representation Shift in Unicentric Data through Logit Perturbation for Robust Histology Image Segmentation"
     },
@@ -2634,7 +2634,7 @@
         "or_id": "EyVbjdbQZwt",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "",
         "short": "True",
         "title": "Synthetic Medical Image Generation Using Latent Diffusion Models and Large Language Models"
     },

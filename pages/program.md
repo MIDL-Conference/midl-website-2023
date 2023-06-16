@@ -624,15 +624,6 @@ Please note the program is tentative.
         proceedings='',
         abstract='We present an interactive detection model to improve the cell annotation workflow of diffuse gastric cancer. The model relates image and user inputs and is trained to detect three types of cells in diffuse gastric cancer histology. We measure model multi-class cell detection performance as per-class F1 score and we show that it increases with the number of user input clicks. Moreover, we show that the proposed interactive annotation approach substantially reduces the number of required user actions needed for complete image annotation, achieving a 17\\% reduction for the multi-class case. Future work will implement an iterative approach to filter out recurring false positives for further performance improvement.')
 }}
-{{ paper('PRISM: Probabilistic Interactive Segmentation for Medical Images',
-        'Hallee E. Wong, Marianne Rakic, John Guttag, Adrian V Dalca',
-        openreview='https://openreview.net/forum?id=JomCgnkmlX',
-        pdf='https://openreview.net/pdf?id=JomCgnkmlX',
-        id='S074',
-        paper='papers/S074',
-        proceedings='',
-        abstract=' Deep learning models are effective for medical image analysis tasks such as segmentation. However, training these models requires substantial amounts of labeled data, most often annotated manually. This labelling process is tedious and time-consuming for human annotators. Interactive segmentation tools seek to alleviate this problem, most often by predicting completed segmentations from limited user inputs. But for a new domain or task, the segmentation task is ambiguous. To address this setting, we propose PRISM, a model for PRobabilistic Interactive Segmentation for Medical images that takes an input image and partial segmentation, and predicts possible next steps for the segmentation. The user can choose among multiple predicted larger segmentations and perhaps make a small number of corrections before inputting the updated segmentation back into the system. By predicting multiple larger partial segmentations at each iteration rather than attempting to fully complete the segmentation in one step, the system enables users to produce accurate segmentations for not previously seen objects with fewer corrections. We demonstrate PRISM can be used to interactively complete unseen ambiguous segmentation tasks through experiments with abdominal CT from WORD.')
-}}
 {{ paper('Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging',
         'Ruining Deng, Can Cui, Quan Liu, Tianyuan Yao, Lucas Walker Remedios, Shunxing Bao, Bennett A. Landman, Yucheng Tang, Lee E. Wheless, Lori A. Coburn, Keith T. Wilson, Yaohong Wang, Agnes B. Fogo, Haichun Yang, Yuankai Huo',
         openreview='https://openreview.net/forum?id=lUZGyTRzxq',
@@ -772,18 +763,9 @@ Please note the program is tentative.
 
 # Tuesday, July 11
 
-## Oral session 4 - Neuroimaging - 9:00 - 10:30am
+## Oral session 4 - Neuroimaging - 9:00 - 10:15am
 
 [% .papers %]
-{{ paper('MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging',
-        'Yuanyuan Wei, Roger Tam, Xiaoying Tang',
-        openreview='https://openreview.net/forum?id=6Wbj3QCo4U4',
-        pdf='https://openreview.net/pdf?id=6Wbj3QCo4U4',
-        id='O218',
-        paper='papers/O218',
-        proceedings='',
-        abstract='Recent applications of deep convolutional neural networks in medical imaging raise concerns about their interpretability. While most explainable deep learning applications use post hoc methods (such as GradCAM) to generate feature attribution maps, there is a new type of case-based reasoning models, namely ProtoPNet and its variants, which identify prototypes during training and compare input image patches with those prototypes. We propose the first medical prototype network (MProtoNet) to extend ProtoPNet to brain tumor classification with 3D multi-parametric magnetic resonance imaging (mpMRI) data. To address different requirements between 2D natural images and 3D mpMRIs especially in terms of localizing attention regions, a new attention module with soft masking and online-CAM loss is introduced. Soft masking helps sharpen attention maps, while online-CAM loss directly utilizes image-level labels when training the attention module. MProtoNet achieves statistically significant improvements in interpretability metrics of both correctness and localization coherence (with a best activation precision of $0.713\\pm0.058$) without human-annotated labels during training, when compared with GradCAM and several ProtoPNet variants. The source code is available at https://github.com/aywi/mprotonet.')
-}}
 {{ paper('Decoding natural image stimuli from fMRI data with a surface-based convolutional network',
         'Zijin Gu, Keith Jamison, Amy Kuceyeski, Mert R. Sabuncu',
         openreview='https://openreview.net/forum?id=V5vvti2Y9PA',
@@ -1002,8 +984,8 @@ Please note the program is tentative.
         'Yuanyuan Wei, Roger Tam, Xiaoying Tang',
         openreview='https://openreview.net/forum?id=6Wbj3QCo4U4',
         pdf='https://openreview.net/pdf?id=6Wbj3QCo4U4',
-        id='O218',
-        paper='papers/O218',
+        id='P218',
+        paper='papers/P218',
         proceedings='',
         abstract='Recent applications of deep convolutional neural networks in medical imaging raise concerns about their interpretability. While most explainable deep learning applications use post hoc methods (such as GradCAM) to generate feature attribution maps, there is a new type of case-based reasoning models, namely ProtoPNet and its variants, which identify prototypes during training and compare input image patches with those prototypes. We propose the first medical prototype network (MProtoNet) to extend ProtoPNet to brain tumor classification with 3D multi-parametric magnetic resonance imaging (mpMRI) data. To address different requirements between 2D natural images and 3D mpMRIs especially in terms of localizing attention regions, a new attention module with soft masking and online-CAM loss is introduced. Soft masking helps sharpen attention maps, while online-CAM loss directly utilizes image-level labels when training the attention module. MProtoNet achieves statistically significant improvements in interpretability metrics of both correctness and localization coherence (with a best activation precision of $0.713\\pm0.058$) without human-annotated labels during training, when compared with GradCAM and several ProtoPNet variants. The source code is available at https://github.com/aywi/mprotonet.')
 }}
@@ -1541,15 +1523,6 @@ Please note the program is tentative.
         paper='papers/S123',
         proceedings='',
         abstract='Anterior segment optical coherence tomography (AS-OCT) is a recent imaging technique for visualizing the physiological structure of the anterior segment. The speckle noise inherited in ASOCT images degrades the visual quality and hampers the subsequent medical analysis. Previous work was devoted to removing the speckles and acquiring satisfying images. According to the clinical requirements, it might be desirable to maintain locally higher data fidelity instead of enforcing visually appealing but rather wrong image structural features. Catering to this expectation, we propose a Consistent Structural Generative Adversarial Network (CSGAN) to learn the clean style of low-speckle in repeated AS-OCT images and simultaneously preserve the tiny but vital structural knowledge among the latent feature, spatial and frequency domains. Specifically, we design a latent constraint into the generator to capture the inherent content in the feature domain and adopt the perceptual similarities to directly preserve structural detail in the spatial dimension. Besides, we introduce a focal frequency scheme that adaptively represents and distinguishes hard frequencies to compensate for the spatial loss and refine the generated image to improve image quality. Finally, the experimental results demonstrate that the CSGAN can achieve satisfactory despeckling results with preserving structural details on the AS-Casia dataset.')
-}}
-{{ paper('Synthetic Medical Image Generation Using Latent Diffusion Models and Large Language Models',
-        'Krishna Sri Ipsit Mantri, Nevasini Sasikumar',
-        openreview='https://openreview.net/forum?id=EyVbjdbQZwt',
-        pdf='https://openreview.net/pdf?id=EyVbjdbQZwt',
-        id='S128',
-        paper='papers/S128',
-        proceedings='',
-        abstract='Generative models have been very popular in generating real high-quality images. Diffusion probabilistic models in particular, have generated realistic natural images from textual input. However, they do not perform that well for medical data. Synthetic images may play a crucial role in privacy-preserving artificial intelligence and can also be used to augment small datasets. In this work, we propose using Large Language Language Models (LLMs) as prompt refiners for text-to-image latent diffusion models. We train the StableDiffusion model on the MedICaT dataset to generate medically correct images. Our results indicate that using an LLM to refine the prompts and input it to the latent diffusion model assists in generating accurate medical images.')
 }}
 [% / %]
 
@@ -2091,15 +2064,6 @@ Please note the program is tentative.
         paper='papers/S085',
         proceedings='',
         abstract='The recent advent of foundation models and large language models has enabled scientists to leverage large-scale knowledge of pretrained (vision) transformers and efficiently tailor it to downstream tasks. This technology can potentially automate multiple aspects of cancer diagnosis in digital pathology, from whole-slide image classification to generating pathology reports while training with pairs of images and text from the diagnostic conclusion. In this work, we orchestrate a set of weakly-supervised transformer-based models with a first aim to address both whole-slide image classification and captioning, addressing the automatic generation of the conclusion of pathology reports in the form of image captions. We report our first results on a multicentric multilingual dataset of colon polyps and biopsies. We achieve high diagnostic accuracy with no supervision and cheap computational adaptation.')
-}}
-{{ paper('Mitigating Representation Shift in Unicentric Data through Logit Perturbation for Robust Histology Image Segmentation',
-        'Raja Muhammad Saad Bashir, Talha Qaiser, SHAN E AHMED RAZA, Nasir Rajpoot',
-        openreview='https://openreview.net/forum?id=lfcgIxHsvG',
-        pdf='https://openreview.net/pdf?id=lfcgIxHsvG',
-        id='S089',
-        paper='papers/S089',
-        proceedings='',
-        abstract='Semantic segmentation is a crucial task in computational pathology (CPath), but deep learning (DL) methods often struggle to generalise well to different domains due to colour variations and domain shifts. Multicentric data acquisition can help mitigate this challenge, but it is often difficult to obtain large-scale pathology data. In this study, we propose a framework incorporating logit perturbations, a form of logit augmentation that leverages predictive uncertainty, stain normalisation and class weights to improve segmentation performance when trained on limited unicentric annotated data. Our experiments demonstrate that the proposed framework boosts the baseline Dice-score by 6\\% when trained with unicentric centre data.')
 }}
 {{ paper('Inter-Scale Dependency Modeling for Skin Lesion Segmentation with Transformer-based Networks',
         'Sania Eskandari, Janet Lumpp',
