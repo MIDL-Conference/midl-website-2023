@@ -299,7 +299,6 @@ Please note the program is tentative.
 * On the robustness of regressing tumor percentage as an explainable detector in histopathology whole-slide images
 * Uncertainty for Proximal Femur Fractures Classification
 * Caption generation from histopathology whole-slide images using pre-trained transformers
-* Mitigating Representation Shift in Unicentric Data through Logit Perturbation for Robust Histology Image Segmentation
 * Inter-Scale Dependency Modeling for Skin Lesion Segmentation with Transformer-based Networks
 * Visualizing chest X-ray dataset biases using GANs
 * Investigate Sex Dimorphism of Cerebral Myelination Across Lifespan by Leveraging Conditional Variational Autoencoder
