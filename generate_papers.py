@@ -23,7 +23,7 @@ if __name__ == "__main__":
     with open(papers_path, 'r') as pf:
         raw_papers = json.load(pf)
 
-    papers: dict[str, Paper] = {k: Paper(**v, ignore_schedule=True) for (k, v) in raw_papers.items()}
+    papers: dict[str, Paper] = {k: Paper(**v) for (k, v) in raw_papers.items()}
 
     with open(template_path, 'r') as f:
         empty_template: str = f.read()

@@ -27,7 +27,7 @@ if __name__ == "__main__":
     with open(papers_path, 'r') as pf:
         raw_papers = json.load(pf)
 
-    papers: list[Paper] = [Paper(ignore_schedule=True, **v) for (k, v) in raw_papers.items()]
+    papers: list[Paper] = [Paper(**v) for (k, v) in raw_papers.items()]
 
     title_lookup: dict[str, Paper] = {p.title.lower().strip(): p for p in papers}
 

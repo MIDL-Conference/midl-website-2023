@@ -42,15 +42,6 @@ class Paper():
         if self.short:
             assert not self.oral
 
-        if not ignore_schedule:
-            try:
-                if not self.oral:
-                    assert len(self.schedule) == 1
-                else:
-                    assert len(self.schedule) == 2
-            except AssertionError:
-                print(self.id, self.schedule)
-
         sanitized_abstract: str = self.abstract.replace("'", "\\'")
         sanitized_abstract = sanitized_abstract.replace('"', '\\"')
         sanitized_abstract = sanitized_abstract.replace('\n', '')
@@ -64,6 +55,8 @@ class Paper():
         self.conf_id: str = f"{self.conf_sign}{self.id:03d}"
         self.url: str = f"papers/{self.conf_id}"
 
+        if not ignore_schedule and not self.schedule:
+                print(self.conf_id, self.title, self.schedule)
         # self.__class__.__name__: str = "Paper"
 
     def __str__(self) -> str:
