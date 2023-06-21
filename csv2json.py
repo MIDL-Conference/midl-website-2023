@@ -66,6 +66,14 @@ if __name__ == "__main__":
 
         for p in patch:
                 json_dict[p] |= patch[p]
+        # Go back and forth, because some conf_id might have changed due to the patch, bit messy
+        # (for instance, orals that are downgrade to posters)
+        json_dict = json.loads(json.dumps({p.conf_id: p for p in [Paper(**v, ignore_schedule=True)
+                                                                  for v in json_dict.values()]},
+                                          cls=PaperEncoder,
+                                          indent=4,
+                                          sort_keys=True))
+
         print(f">> Patched json with {patch_file}")
 
         with open("melba.json", 'r') as melba:

@@ -311,19 +311,6 @@
         "short": "False",
         "title": "E(3) x SO(3)-Equivariant Networks for Spherical Deconvolution in Diffusion MRI"
     },
-    "O139": {
-        "abstract": "Graphs are a natural representation of brain activity derived from functional magnetic imaging (fMRI) data. It is well known that clusters of anatomical brain regions, known as functional connectivity networks (FCNs), encode temporal relationships which can serve as useful biomarkers for understanding brain function and dysfunction. Previous works, however, ignore the temporal dynamics of the brain and focus on static graphs. In this paper, we propose a dynamic brain graph deep generative model (DBGDGM) which simultaneously clusters brain regions into temporally evolving communities and learns dynamic unsupervised node embeddings. Specifically, DBGDGM represents brain graph nodes as embeddings sampled from a distribution over communities that evolve over time. We parameterise this community distribution using neural networks that learn from subject and node embeddings as well as past community assignments. Experiments demonstrate DBGDGM outperforms baselines in graph generation, dynamic link prediction, and is comparable for graph classification. Finally, an analysis of the learnt community distributions reveals overlap with known FCNs reported in neuroscience literature.",
-        "authors": "Alexander Campbell, Simeon Emilov Spasov, Nicola Toschi, Pietro Lio",
-        "award": "",
-        "id": "139",
-        "melba": "False",
-        "or_id": "WHS3Zv9pxz",
-        "oral": "False",
-        "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
-        "short": "False",
-        "title": "DBGDGM: Dynamic Brain Graph Deep Generative Model"
-    },
     "O140": {
         "abstract": "The reconstruction of graph representations from Images (Image-to-graph) is a frequent task, especially vessel graph extraction from biomedical images. Traditionally, this problem is tackled by a two-stage process: segmentation followed by skeletonization. However, the ambiguity in the heuristic-based pruning of the centerline graph from the skeleta makes it hard to achieve a compact yet faithful graph representation. Recently, \\textit{Relationformer} proposed an end-to-end solution to extract graphs directly from images. However, it does not consider edge features, particularly radius information, which is crucial in many applications such as flow simulation. Further, Relationformer predicts only patch-based graphs. In this work, we address these two shortcomings. We propose a task-specific token, namely radius-token, which explicitly focuses on capturing radius information between two nodes. Second, we propose an efficient algorithm to infer a large 3D graph from patch inference. Finally, we show experimental results on a synthetic vessel dataset and achieve the first 3D complete graph prediction. Code is available at \\url{https://github.com/****}. ",
         "authors": "Chinmay Prabhakar, Suprosanna Shit, Johannes C. Paetzold, Ivan Ezhov, Rajat Koner, Hongwei Li, Florian Sebastian Kofler, bjoern menze",
@@ -440,19 +427,6 @@
         "schedule": "Monday, July 10: Oral session 3 - Graph-based methods - 4:00 - 4:45pm\nMonday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
         "short": "False",
         "title": "A Geometric Deep Learning Framework for Generation of Virtual Left Ventricles as Graphs"
-    },
-    "O218": {
-        "abstract": "Recent applications of deep convolutional neural networks in medical imaging raise concerns about their interpretability. While most explainable deep learning applications use post hoc methods (such as GradCAM) to generate feature attribution maps, there is a new type of case-based reasoning models, namely ProtoPNet and its variants, which identify prototypes during training and compare input image patches with those prototypes. We propose the first medical prototype network (MProtoNet) to extend ProtoPNet to brain tumor classification with 3D multi-parametric magnetic resonance imaging (mpMRI) data. To address different requirements between 2D natural images and 3D mpMRIs especially in terms of localizing attention regions, a new attention module with soft masking and online-CAM loss is introduced. Soft masking helps sharpen attention maps, while online-CAM loss directly utilizes image-level labels when training the attention module. MProtoNet achieves statistically significant improvements in interpretability metrics of both correctness and localization coherence (with a best activation precision of $0.713\\pm0.058$) without human-annotated labels during training, when compared with GradCAM and several ProtoPNet variants. The source code is available at https://github.com/aywi/mprotonet.",
-        "authors": "Yuanyuan Wei, Roger Tam, Xiaoying Tang",
-        "award": "",
-        "id": "218",
-        "melba": "False",
-        "or_id": "6Wbj3QCo4U4",
-        "oral": "False",
-        "pmlr_url": "",
-        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
-        "short": "False",
-        "title": "MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging"
     },
     "O221": {
         "abstract": "Image augmentations are quintessential for effective visual representation learning across self-supervised learning techniques. While augmentation strategies for natural imaging have been studied extensively, medical images are vastly different from their natural counterparts. Thus, it is unknown whether common augmentation strategies employed in Siamese representation learning generalize to medical images and to what extent. To address this challenge, in this study, we systematically assess the effect of various augmentations on the quality and robustness of the learned representations. We train and evaluate Siamese Networks for abnormality detection on chest X-Rays across three large datasets (MIMIC-CXR, CheXpert and VinDr-CXR). We investigate the efficacy of the learned representations through experiments involving linear probing, fine-tuning, zero-shot transfer, and data efficiency. Finally, we identify a set of augmentations that yield robust representations that generalize well to both out-of-distribution data and diseases, while outperforming supervised baselines using just zero-shot transfer and linear probes by up to 20%.",
@@ -1091,6 +1065,19 @@
         "short": "False",
         "title": "DBGSL: Dynamic Brain Graph Structure Learning"
     },
+    "P139": {
+        "abstract": "Graphs are a natural representation of brain activity derived from functional magnetic imaging (fMRI) data. It is well known that clusters of anatomical brain regions, known as functional connectivity networks (FCNs), encode temporal relationships which can serve as useful biomarkers for understanding brain function and dysfunction. Previous works, however, ignore the temporal dynamics of the brain and focus on static graphs. In this paper, we propose a dynamic brain graph deep generative model (DBGDGM) which simultaneously clusters brain regions into temporally evolving communities and learns dynamic unsupervised node embeddings. Specifically, DBGDGM represents brain graph nodes as embeddings sampled from a distribution over communities that evolve over time. We parameterise this community distribution using neural networks that learn from subject and node embeddings as well as past community assignments. Experiments demonstrate DBGDGM outperforms baselines in graph generation, dynamic link prediction, and is comparable for graph classification. Finally, an analysis of the learnt community distributions reveals overlap with known FCNs reported in neuroscience literature.",
+        "authors": "Alexander Campbell, Simeon Emilov Spasov, Nicola Toschi, Pietro Lio",
+        "award": "",
+        "id": "139",
+        "melba": "False",
+        "or_id": "WHS3Zv9pxz",
+        "oral": "False",
+        "pmlr_url": "",
+        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "short": "False",
+        "title": "DBGDGM: Dynamic Brain Graph Deep Generative Model"
+    },
     "P143": {
         "abstract": "Colonoscopy is considered the most effective screening test to detect colorectal cancer (CRC) and its precursor lesions, i.e., polyps. However, the procedure experiences high miss rates due to polyp heterogeneity and inter-observer dependency. Hence, several deep learning powered systems have been proposed considering the criticality of polyp detection and segmentation in clinical practices. Despite achieving improved outcomes, the existing automated approaches are inefficient in attaining real-time processing speed. Moreover, they suffer from a significant performance drop when evaluated on inter-patient data, especially those collected from different centers. Therefore, we intend to develop a novel real-time deep learning based architecture, Transformer based Residual network (TransNetR), for colon polyp segmentation and evaluate its diagnostic performance. The proposed architecture, TransNetR, is an encoder-decoder network that consists of a pre-trained ResNet50 as the encoder, three decoder blocks, and an upsampling layer at the end of the network. TransNetR obtains a high dice coefficient of 0.8706 and a mean Intersection over union of 0.8016 and retains a real-time processing speed of 54.60 on the Kvasir-SEG dataset. Apart from this,  the major contribution of the work lies in exploring the generalizability of the TransNetR by testing the proposed algorithm on the out-of-distribution (test distribution is unknown and different from training distribution) dataset. As a use case, we tested our proposed algorithm on the PolypGen (6 unique centers) dataset and two other popular polyp segmentation benchmarking datasets. We obtained state-of-the-art performance on all three datasets during out-of-distribution testing. The source code of TransNetR is available at https://github.com/Anonymous/TransNetR. ",
         "authors": "Debesh Jha, Nikhil Kumar Tomar, Vanshali Sharma, Ulas Bagci",
@@ -1389,6 +1376,19 @@
         "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
         "short": "False",
         "title": "One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities"
+    },
+    "P218": {
+        "abstract": "Recent applications of deep convolutional neural networks in medical imaging raise concerns about their interpretability. While most explainable deep learning applications use post hoc methods (such as GradCAM) to generate feature attribution maps, there is a new type of case-based reasoning models, namely ProtoPNet and its variants, which identify prototypes during training and compare input image patches with those prototypes. We propose the first medical prototype network (MProtoNet) to extend ProtoPNet to brain tumor classification with 3D multi-parametric magnetic resonance imaging (mpMRI) data. To address different requirements between 2D natural images and 3D mpMRIs especially in terms of localizing attention regions, a new attention module with soft masking and online-CAM loss is introduced. Soft masking helps sharpen attention maps, while online-CAM loss directly utilizes image-level labels when training the attention module. MProtoNet achieves statistically significant improvements in interpretability metrics of both correctness and localization coherence (with a best activation precision of $0.713\\pm0.058$) without human-annotated labels during training, when compared with GradCAM and several ProtoPNet variants. The source code is available at https://github.com/aywi/mprotonet.",
+        "authors": "Yuanyuan Wei, Roger Tam, Xiaoying Tang",
+        "award": "",
+        "id": "218",
+        "melba": "False",
+        "or_id": "6Wbj3QCo4U4",
+        "oral": "False",
+        "pmlr_url": "",
+        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
+        "short": "False",
+        "title": "MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging"
     },
     "P219": {
         "abstract": "Digital Breast Tomosynthesis (DBT) is an X-ray imaging modality enabling the reconstruction of 3D volumes of breasts. DBT is mainly used for cancer screening, and is intended to replace conventional mammography in the coming years. However, DBT reconstructions are impeded by several types of artefacts induced by the geometry of the device itself, degrading the image quality and limiting its resolution along the thickness of the compressed breast. In this study, we propose a deep-learning-based pipeline to address the DBT reconstruction problem, focusing on the removal of sparse-view and limited-angle artefacts. Specifically, this procedure is composed of two steps: a classic reconstruction algorithm is first applied on normalised projections, then a deep neural network is tasked with erasing the artefacts present in the obtained volumes. A major difficulty to solve our problem is the lack of real conditions artefact-free data. To overcome this complication, we resort to a new dataset comprised of synthetic breast texture phantoms. We then show that our training method and database strategy are promising to tackle the problem as they improve the informational value of planes orthogonal to the detector, which are not currently used by radiologists due to their poor quality. Eventually, we assess the impact of removing the bias components from the network and using stacks of slices as inputs, with regard to the generalisation ability of our approach on both synthetic and clinical data.",
