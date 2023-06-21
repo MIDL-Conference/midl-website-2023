@@ -99,7 +99,7 @@
         "or_id": "_P59zCfXOt",
         "oral": "True",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\nWednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "Reproducibility of the Methods in Medical Imaging with Deep Learning."
     },
@@ -372,7 +372,7 @@
         "or_id": "diXhe9kUnQ",
         "oral": "True",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation"
     },
@@ -567,7 +567,7 @@
         "or_id": "PEWigppmw3b",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "A Robust Mean Teacher Framework for Semi-Supervised Cell Detection in Histopathology Images"
     },
@@ -606,7 +606,7 @@
         "or_id": "A0MyiAwE_E4",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "Rotation-Scale Equivariant Steerable Filters"
     },
@@ -658,7 +658,7 @@
         "or_id": "zhpP7zluLBk",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "Video pretraining advances 3D deep learning on chest CT tasks"
     },
@@ -749,7 +749,7 @@
         "or_id": "80ZHtBKHKHo",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "Semantic Segmentation of 3D Medical Images Through a Kaleidoscope: Data from the Osteoarthritis Initiative"
     },
@@ -801,7 +801,7 @@
         "or_id": "aZ0OuYMSMMZ",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "Multimodal Image-Text Matching Improves Retrieval-based Chest X-Ray Report Generation"
     },
@@ -827,7 +827,7 @@
         "or_id": "WjrcYNTPunQ",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "Incomplete learning of multi-modal connectome for brain disorder diagnosis via modal-mixup and deep supervision"
     },
@@ -879,7 +879,7 @@
         "or_id": "d7J0IiMqcZd",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "Spatial Correspondence between Graph Neural Network-Segmented Images"
     },
@@ -996,7 +996,7 @@
         "or_id": "9mPSPWo5tzu",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "Semi-supervised Learning with Contrastive and Topology Losses for Catheter Segmentation and Misplacement Prediction"
     },
@@ -1061,7 +1061,7 @@
         "or_id": "Us31horKNLG",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "DBGSL: Dynamic Brain Graph Structure Learning"
     },
@@ -1074,7 +1074,7 @@
         "or_id": "WHS3Zv9pxz",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "DBGDGM: Dynamic Brain Graph Deep Generative Model"
     },
@@ -1204,7 +1204,7 @@
         "or_id": "L-N1uAxfQk1",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "Evaluating Adversarial Robustness of Low dose CT Recovery"
     },
@@ -1256,7 +1256,7 @@
         "or_id": "eF_6td_piu-",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "TransRP: Transformer-based PET/CT feature extraction incorporating clinical data for recurrence-free survival prediction in oropharyngeal cancer"
     },
@@ -1269,7 +1269,7 @@
         "or_id": "P3tSZhxBwJw",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "Trainable Prototype Enhanced Multiple Instance Learning for Whole Slide Image Classification"
     },
@@ -1282,7 +1282,7 @@
         "or_id": "Umyz5JHIXpD",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "FUSQA: Fetal Ultrasound Segmentation Quality Assessment"
     },
@@ -1295,7 +1295,7 @@
         "or_id": "QXjGotk45lb",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "SegPrompt: Using Segmentation Map as a Better Prompt to Finetune Deep Models for Kidney Stone Classification"
     },
@@ -1308,7 +1308,7 @@
         "or_id": "3_qtVh7gTyy",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "Intra- and Inter-Cellular Awareness for 3D Neuron Tracking and Segmentation in Large-Scale Connectomics"
     },
@@ -1360,7 +1360,7 @@
         "or_id": "nmZRTaZZv5Z",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "Domain adaptation using optimal transport for invariant learning using histopathology datasets"
     },
@@ -1386,7 +1386,7 @@
         "or_id": "6Wbj3QCo4U4",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging"
     },
@@ -1646,7 +1646,7 @@
         "or_id": "B2Cb5y2A6DJ",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "Real-Time Quantitative Ultrasound and Radar Knowledge-Based Medical Imaging"
     },
@@ -1711,7 +1711,7 @@
         "or_id": "dI6wYt1qr1o",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "A Deep-Learning Based Approach to Accelerate Groundtruth Generation for Biomarker Status Identification in Chromogenic Duplex Images"
     },
@@ -1763,7 +1763,7 @@
         "or_id": "4HHb2cTgbO1",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "Generation of Multi-modal Brain Tumor MRIs with Disentangled Latent Diffusion Model"
     },
@@ -1802,7 +1802,7 @@
         "or_id": "A--Xy77jTa",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "Data-Free One-Shot Federated Regression: An Application to Bone Age Assessment"
     },
@@ -1932,7 +1932,7 @@
         "or_id": "VcgBBAQfMP",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "Comp2Comp: Open-Source Body Composition Assessment on Computed Tomography"
     },
@@ -1945,7 +1945,7 @@
         "or_id": "TyA5AyU_tSv",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "Shape Equivariant Learning for Robust MRI Segmentation"
     },
@@ -1971,7 +1971,7 @@
         "or_id": "2M-2-75emE",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "High-Fidelity Image Synthesis from Pulmonary Nodule Lesion Maps using Semantic Diffusion Model"
     },
@@ -1997,7 +1997,7 @@
         "or_id": "newlahoISt1",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\nWednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "Learning Retinal Representations from Multi-modal Imaging via Contrastive Pre-training"
     },
@@ -2049,7 +2049,7 @@
         "or_id": "rUpjCWd0BB",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\nWednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "Nearest Neighbor Radiomics for Self-Supervised Chest X-ray Pneumonia Identification"
     },
@@ -2101,7 +2101,7 @@
         "or_id": "BC4UYzbLRZ",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "3D Supervised Contrastive-Learning Network for Classification of Ovarian Neoplasms"
     },
@@ -2179,7 +2179,7 @@
         "or_id": "kvpAErerdkc",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "Uncertainty for Proximal Femur Fractures Classification"
     },
@@ -2231,7 +2231,7 @@
         "or_id": "BSf6JALJoc",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "Overcoming Interpretability and Accuracy Trade-off in Medical Imaging"
     },
@@ -2309,7 +2309,7 @@
         "or_id": "e6B-OAcJfuD",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "Characterizing Continual Learning Scenarios for Tumor Classification in Histopathology Images"
     },
@@ -2348,7 +2348,7 @@
         "or_id": "iXjsAarmqn",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "\u03b6-mixup: Richer, More Realistic Mixing of Multiple Images"
     },
@@ -2387,7 +2387,7 @@
         "or_id": "BLWmZy6kSL7",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "Facial AU-aid hypomimia diagnosis based on GNN"
     },
@@ -2452,7 +2452,7 @@
         "or_id": "5063TZgHfQm",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\nWednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
         "short": "True",
         "title": "Deep Learning Regression of Cardiac Phase on Real-Time MRI"
     },
@@ -2465,7 +2465,7 @@
         "or_id": "B8e-iS9j43",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "Automatic Contrast Phase Detection on Abdominal Computed Tomography using Clinically-Inspired Techniques"
     },
@@ -2491,7 +2491,7 @@
         "or_id": "NiUSj5tDKf",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "Expansion Microscopy Imaging Isotropic Restoration by Unsupervised Deep Learning"
     },
@@ -2517,7 +2517,7 @@
         "or_id": "7mwxN2h7SM",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "An end-to-end Complex-valued Neural Network approach for k-space interpolation in Parallel MRI"
     },
@@ -2556,7 +2556,7 @@
         "or_id": "tQvYo-DMrO",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "Improving Zero-Shot Detection of Low Prevalence Chest Pathologies using Domain Pre-trained Language Models"
     },
@@ -2569,7 +2569,7 @@
         "or_id": "Ob7xQXamjo_",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Wednesday, July 12: Posters - 10:00am - 11:30am & 2:30pm - 3:30pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "Bias Field Correction in MRI with Hampel Noise Denoising Diffusion Probabilistic Model"
     },
@@ -2595,7 +2595,7 @@
         "or_id": "JY4oJg6-gc",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Tuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "True",
         "title": "CSGAN: a consistent structural GAN for AS-OCT image despeckling by image translation"
     },
