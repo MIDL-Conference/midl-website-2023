@@ -242,8 +242,8 @@ jQuery(document).ready(function($) {
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>7:00 - 7:30</td>
         <td id='t01s' class='col2' style="writing-mode: vertical-lr; text-align: center" align="center" valign=middle colspan=1 rowspan=21 width="150"><a href='doctoral.html'>Doctoral Symposium</a></td>
         <td id='t01' class='col2' rowspan=3></td>
-        <td id='clr01' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=4>Check-in</td>
-        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=4>Breakfast at Rand</td>
+        <td id='clr01' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=4>Check-in at Student Life Center Lobby</td>
+        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=2>Breakfast at Rand</td>
         <td id='t01' class='col4' rowspan=2></td>
         <td id='clr02' class='col4' style="text-align: center" align="center" valign=center colspan=1 rowspan=4>Breakfast at Rand</td> 
         <td id='t01' class='col5' rowspan=2 colspan=2></td>
@@ -255,41 +255,42 @@ jQuery(document).ready(function($) {
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>8:00 - 8:30</td>
-        <td id='clr01' class='col4' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center>Check-in</td>
-        <td id='clr01' class='col5' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center>Check-in</td>
+        <td id='clr01' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=2>Poster setup time</td>
+        <td id='clr01' class='col4' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center>Check-in at Student Life Center Lobby</td>
+        <td id='clr01' class='col5' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center>Check-in at Student Life Center Lobby</td>
         <td id='clr01' class='col5' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center>Gathertown virtual posters</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>8:30 - 9:00</td>
-        <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Check-in/coffee</td>
+        <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Check-in/coffee at Featheringill Atrium</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>9:00 - 9:30</td> 
-        <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Welcome</td>
-        <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>Welcome</td>
-        <td id='clr03' class='col4' rowspan=3 colspan=2 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Neuroimaging (5 orals, session ends at 10:15)</td>
-        <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Segmentation 2 (3 orals, session starts at 9:15)</td>
-        <td id='t01' class='col6' rowspan=9 colspan=1 style="writing-mode: vertical-lr; text-align: center" align="center" valign=center colspan=1>NVIDIA Workshop</td>
+        <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Welcome at Featheringill Auditorium</td>
+        <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>Welcome at Student Life Center Ballroom B/C</td>
+        <td id='clr03' class='col4' rowspan=3 colspan=2 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Neuroimaging (5 orals, session ends at 10:15) at Student Life Center Ballroom B/C</td>
+        <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Segmentation 2 (3 orals, session starts at 9:15) at Student Life Center Ballroom B/C</td>
+        <td id='t01' class='col6' rowspan=9 colspan=1 style="writing-mode: vertical-lr; text-align: center" align="center" valign=center colspan=1>NVIDIA Workshop at Featheringill Atrium</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>9:30 - 10:00</td>
-        <td id='clr04' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Workshop</td>
-        <td id='clr03' class='col2' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Segmentation 1 (4 orals)</td>
+        <td id='clr04' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Workshop at Featheringill Auditorium</td>
+        <td id='clr03' class='col2' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Segmentation 1 (4 orals) at Student Life Center Ballroom B/C</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>10:00 - 10:30</td>
-        <td id='clr05' class='col5' rowspan=3 colspan=3 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters</td>
+        <td id='clr05' class='col5' rowspan=3 colspan=3 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters<br><br>Student Life Center Ballroom A and Board of Trust Meeting Room</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>10:30 - 11:00</td> 
-        <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Coffee</td>
+        <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Coffee at Featheringill Atrium</td>
         <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>MIDL</td>
-        <td id='clr05' class='col4' rowspan=3 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters</td>
+        <td id='clr05' class='col4' rowspan=3 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters<br><br>Student Life Center Ballroom A and Board of Trust Meeting Room</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:00 - 11:30</td>
-        <td id='clr06' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Keynote: Dr. Lombaert</td>
-        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters</td>
+        <td id='clr06' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Keynote: Dr. Lombaert at Featheringill Auditorium</td>
+        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters<br><br>Student Life Center Ballroom A and Board of Trust Meeting Room</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:30 - 12:00</td>
@@ -297,61 +298,72 @@ jQuery(document).ready(function($) {
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>12:00 - 12:30</td>
-        <td id='clr04' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Career Panel</td>
+        <td id='clr04' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Career Panel at Featheringill Auditorium</td>
         <td id='clr02' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Lunch at Rand</td>
         <td id='clr02' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Lunch at Rand</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>12:30 - 13:00</td>
-        <td id='clr06' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote Dr. Webster & Dr. Herrell</td>
+        <td id='clr06' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote Dr. Webster & Dr. Herrell<br><br>Student Life Center Ballroom B/C</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:00 - 13:30</td> 
-        <td id='clr02' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Lunch</td>
-        <td id='clr06' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. Rohde</td>
-        <td id='clr06' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. Yesha</td>
+        <td id='clr02' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Lunch at Featheringill Atrium</td>
+        <td id='clr06' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. Rohde<br><br>Student Life Center Ballroom B/C</td>
+        <td id='clr06' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. Yesha<br><br>Student Life Center Ballroom B/C</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:30 - 14:00</td>
-        <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Computer-assisted diagnosis (4 orals)</td>
+        <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Computer-assisted diagnosis (4 orals) at Student Life Center Ballroom B/C</td>
         <td id='t01' class='col6' rowspan=8></td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>14:00 - 14:30</td>
-        <td id='clr06' class='col2' rowspan=6 style="text-align: center" align="center" valign=center>Grand Ole Opry/Opryland</td>
-        <td id='clr03' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Unsupervised/weakly supervised methods (4 orals)</td>
-        <td id='clr03' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Semi-supervised/self-supervised methods (4 orals)</td>
+        <td id='clr06' class='col2' rowspan=6 style="text-align: center" align="center" valign=center>Grand Ole Opry/Opryland<br><br>Transportation to Grand Ole Opry: Meet by 24th Street Entrance to Featheringill Hill</td>
+        <td id='clr03' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Unsupervised/weakly supervised methods (4 orals) at Student Life Center Ballroom B/C</td>
+        <td id='clr03' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Semi-supervised/self-supervised methods (4 orals) at Student Life Center Ballroom B/C</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>14:30 - 15:00</td>
-        <td id='clr05' class='col5' rowspan=2 colspan=3 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters</td>
+        <td id='clr05' class='col5' rowspan=2 colspan=3 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters<br><br>Student Life Center Ballroom A and Board of Trust Meeting Room</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>15:00 - 15:30</td>
-        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters</td>
-        <td id='clr05' class='col4' rowspan=2 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters</td>
+        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters<br><br>Student Life Center Ballroom A and Board of Trust Meeting Room</td>
+        <td id='clr05' class='col4' rowspan=2 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters<br><br>Student Life Center Ballroom A and Board of Trust Meeting Room</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>15:30 - 16:00</td> 
-        <td id='clr01' class='col5' rowspan=1 colspan=3 style="text-align: center" align="center" valign=center>Awards & closing</td>
+        <td id='clr01' class='col5' rowspan=1 colspan=3 style="text-align: center" align="center" valign=center>Awards & closing<br><br>Student Life Center Ballroom B/C</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>16:00 - 16:30</td>
-        <td id='clr03' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Graph-based methods (3 orals, session ends at 4:45 PM)</td>
-        <td id='clr03' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Synthesis (4 orals)</td>
-        <td id='clr02' class='col5' rowspan=3 colspan=3 style="text-align: center" align="center" valign=center>Dinner at Rand until 7PM</td>
+        <td id='clr03' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Graph-based methods (3 orals, session ends at 4:45 PM) at Student Life Center Ballroom B/C</td>
+        <td id='clr03' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Synthesis (4 orals) at Student Life Center Ballroom B/C</td>
+        <td id='clr02' class='col5' rowspan=3 colspan=3 style="text-align: center" align="center" valign=center>Dinner at Rand until 7PM at Student Life Center Ballroom B/C</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>16:30 - 17:00</td> 
      </tr>
      <tr>
-        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>Evening</td> 
-        <td id='clr06' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Stillery dinner/drinks/music</td>
-        <td id='clr06' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>Reception at NMAAM</td>
-        <td id='clr06' class='col4' rowspan=1 colspan=2 style="text=align: center" align="center" valign=center>Gala at Parthenon</td>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>Evening</td>
+        <td id='clr06' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Stillery dinner/drinks/music<br><br>Transportation to Stillery: Meet by 24th Street Entrance to Featheringill Hill</td>
+        <td id='clr01' class='col3' rowspan=1 colspan=1 style="text-align: center" align="center" valign=center>Poster removal <strong>5-5:30PM</strong></td>
+        <td id='clr06' class='col3' rowspan=1 colspan=1 style="text-align: center" align="center" valign=center>Buses at <strong>6PM</strong><br>Reception at NMAAM <strong>6:30-10PM</strong></td>
+    <td id='clr06' class='col4' rowspan=1 colspan=2 style="text=align: center" align="center" valign=center>Walk to Parthenon at <strong>6-6:30PM</strong><br>Reception at <strong>6:30-7:30PM</strong><br>Dinner at <strong>7:30-8:30PM</strong><br>Music <strong>8:30-9:30PM</strong></td>
      </tr>
 </table>
-	
+
+<br><a href="https://goo.gl/maps/RST8v5mrsRLp43vv7">Student Life Center: 310, 25th Avenue South, Nashville, TN 37240</a><br>
+
+The buses that will go to the Reception at NMAAM will stop in front of the Student Life Center.<br>
+<a href="https://goo.gl/maps/tiaWtWRMnmbs1fCx7">NMAMM: 510 Broadway, Nashville, TN 37203</a><br>
+
+<a href="https://goo.gl/maps/K5P3wbDXpSRrATcD8">Parthenon: 2500 West End Ave, Nashville, TN 37203</a><br>
+
+<a href="https://goo.gl/maps/BibtMigmEVRTxZTm9">Rand Dining Hall</a><br>
+
+<a href="https://goo.gl/maps/kgsXjChubP9QYb7D6">Featheringill Hall</a><br>
 
 Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/zone/usa/nashville).
 
