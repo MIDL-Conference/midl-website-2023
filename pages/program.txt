@@ -244,6 +244,8 @@ Please note the program is tentative.
 * 3D Supervised Contrastive-Learning Network for Classification of Ovarian Neoplasms
 * Characterizing Continual Learning Scenarios for Tumor Classification in Histopathology Images
 * MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging
+* MEDIMP: 3D Medical Images and clinical Prompts for renal transplant representation learning
+* Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion
 * Whole brain radiomics for clustered federated personalization in brain tumor segmentation
 * One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities
 [% / %]

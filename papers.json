@@ -177,7 +177,7 @@
         "or_id": "3QnxUSzR7iu",
         "oral": "True",
         "pmlr_url": "",
-        "schedule": "Tuesday, July 11: Oral session 6 - Synthesis - 4:00 - 5:00pm\nTuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Tuesday, July 11: Oral session 6 - Synthesis - 4:00 - 5:00pm\nTuesday, July 11: Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm\nWednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion"
     },
@@ -697,7 +697,7 @@
         "or_id": "jt-ochRhqG",
         "oral": "False",
         "pmlr_url": "",
-        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\n",
+        "schedule": "Monday, July 10: Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm\nWednesday, July 12: Virtual poster session - 8:00 - 9:00am\n",
         "short": "False",
         "title": "MEDIMP: 3D Medical Images and clinical Prompts for renal transplant representation learning"
     },
