@@ -1722,7 +1722,7 @@ Please note the program is tentative.
 }}
 [% / %]
 
-## Oral session 7 - Segmentation 2 - 9:15 - 10:00am (note the late start as the virtual poster session wraps up at 9am)
+## Oral session 7 - Segmentation 2 - 9:30 - 10:00am
 [% .papers %]
 {{ paper('MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation',
         'Sanaz Karimijafarbigloo, Reza Azad, Amirhossein Kazerouni, Saeed Ebadollahi, Dorit Merhof',
@@ -2239,5 +2239,4 @@ Please note the program is tentative.
 }}
 [% / %]
 
-[![Short program](images/program.png)](images/program.png)
-Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/zone/usa/nashville).
+<a href="dates.html"><strong>Full program schedule</strong></a>
