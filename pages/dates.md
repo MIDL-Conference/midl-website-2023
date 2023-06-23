@@ -245,9 +245,9 @@ jQuery(document).ready(function($) {
         <td id='clr01' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=4>Check-in at Student Life Center Lobby</td>
         <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=2>Breakfast at Rand</td>
         <td id='t01' class='col4' rowspan=2></td>
-        <td id='clr02' class='col4' style="text-align: center" align="center" valign=center colspan=1 rowspan=4>Breakfast at Rand</td> 
+        <td id='clr02' class='col4' style="text-align: center" align="center" valign=center colspan=1 rowspan=2>Breakfast at Rand</td> 
         <td id='t01' class='col5' rowspan=2 colspan=2></td>
-        <td id='clr02' class='col5' style="text-align: center" align="center" valign=center colspan=1 rowspan=4>Breakfast at Rand</td> 
+        <td id='clr02' class='col5' style="text-align: center" align="center" valign=center colspan=1 rowspan=2>Breakfast at Rand</td> 
         <td id='t01' class='col6' rowspan=4></td>
      </tr>
      <tr>
@@ -256,9 +256,9 @@ jQuery(document).ready(function($) {
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>8:00 - 8:30</td>
         <td id='clr01' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=2>Poster setup time</td>
-        <td id='clr01' class='col4' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center>Check-in at Student Life Center Lobby</td>
+        <td id='clr01' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Check-in at Student Life Center Lobby</td>
         <td id='clr01' class='col5' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center>Check-in at Student Life Center Lobby</td>
-        <td id='clr01' class='col5' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center>Gathertown virtual posters</td>
+        <td id='clr01' class='col5' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Gathertown virtual posters</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>8:30 - 9:00</td>
