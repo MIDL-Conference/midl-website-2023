@@ -45,6 +45,6 @@ Nashville International Airport (IATA: BNA, ICAO: KBNA, FAA LID: BNA) is a publi
 
 There are a multitude of taxis standing by to take passengers from the airport to Vanderbilt University. A number of shuttle companies service the Nashville Airport. Details can be found at [http://www.nashintl.com/ground_trans/bus.aspx](http://www.nashintl.com/ground_trans/bus.aspx) for those conference attendees who would like to reserve a shuttle ahead of time. There is also a car rental facility at the airport. Nine of the most common rental companies are represented and available to disperse cars and/or vans.
 
-### On-campus parking options
+### On-campus parking
 
-The Vanderbilt Office of Conferences will reserve parking passes for all guests in advance through Vanderbilt Traffic & Parking Department.
+Vanderbilt is a walkable community, and all transportation during the conference is provided. We discourage use of cars during the conference. If there is a specific accommodation needed, please reach out to MIDL to arrange for appropriate parking access.
