@@ -68,7 +68,6 @@ Please note the program is tentative.
 * A comparative evaluation of image-to-image translation methods for stain transfer in histopathology
 * OFDVDnet: A Sensor Fusion Approach for Video Denoising in Fluorescence-Guided Surgery
 * On Sensitivity and Robustness of Normalization Schemes to Input Distribution Shifts in Automatic MR Image Diagnosis
-* One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities
 * nnUNet meets pathology: Bridging the gap for application to whole slide images and computational biomarkers
 * Image2SSM: Localization-aware Deep Learning Framework for Statistical Shape Modeling Directly from Images
 [% / %]
@@ -155,7 +154,6 @@ Please note the program is tentative.
 * Deformable Image Registration with Geometry-informed Implicit Neural Representations
 * 3D Medical Axial Transformer: A Lightweight Transformer Model for 3D Brain Tumor Segmentation
 * Joint cortical registration of geometry and function using semi-supervised learning
-* Whole brain radiomics for clustered federated personalization in brain tumor segmentation
 * Considerations for data acquisition and modeling strategies: Mitosis detection in computational pathology
 * Automatic 3D/2D Deformable Registration in Minimally Invasive Liver Resection using a Mesh Recovery Network
 * Improving Stain Invariance of CNNs for Segmentation by Fusing Channel Attention and Domain-Adversarial Training
@@ -246,6 +244,8 @@ Please note the program is tentative.
 * 3D Supervised Contrastive-Learning Network for Classification of Ovarian Neoplasms
 * Characterizing Continual Learning Scenarios for Tumor Classification in Histopathology Images
 * MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging
+* Whole brain radiomics for clustered federated personalization in brain tumor segmentation
+* One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities
 [% / %]
 
 ## Oral session 7 - Segmentation 2 - 9:15 - 10:00am (note the late start as the virtual poster session wraps up at 9am)
