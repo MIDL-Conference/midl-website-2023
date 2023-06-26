@@ -359,7 +359,7 @@ jQuery(document).ready(function($) {
 </table>
 
 <br><strong>SLC-A, SLC-B&C, SLC Lobby:</strong> Student Life Center - A. Student Life Center -B, Student Life Center Lobby
-<br><strong>SLC BoT:</strong> SLC BoT
+<br><strong>SLC BoT:</strong> SLC Board of Trust Meeting Room
 <br><strong>FGH:</strong> Featheringill Hall
 
 <br><a href="https://goo.gl/maps/RST8v5mrsRLp43vv7">SLC(Student Life Center): 310, 25th Avenue South, Nashville, TN 37240</a><br>
