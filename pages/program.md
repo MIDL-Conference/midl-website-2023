@@ -1722,7 +1722,7 @@ Please note the program is tentative.
 }}
 [% / %]
 
-## Oral session 7 - Segmentation 2 - 9:30 - 10:00am
+## Oral session 7 - Segmentation 2 - 9:30 - 10:15am
 [% .papers %]
 {{ paper('MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation',
         'Sanaz Karimijafarbigloo, Reza Azad, Amirhossein Kazerouni, Saeed Ebadollahi, Dorit Merhof',

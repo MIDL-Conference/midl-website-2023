@@ -232,7 +232,7 @@ jQuery(document).ready(function($) {
      <colgroup span="5" width="138"></colgroup>
 	 <tr>
 		<td id='t01' class='col1' colspan=1 rowspan=1 height="62" width="280" ></td>
-        <td id='t00' class='col2' style="text-align: center" align="center" width="300" rowspan=1 colspan=2 valign=center >Sunday<br>9-Jul</td>
+        <td id='t00' class='col2' style="text-align: center" align="center" width="350" rowspan=1 colspan=2 valign=center >Sunday<br>9-Jul</td>
         <td id='t00' class='col3' style="text-align: center" align="center" width="300" rowspan=1 colspan=2 valign=center >Monday<br>10-Jul</td>
         <td id='t00' class='col4' style="text-align: center" align="center" width="300" rowspan=1 colspan=2 valign=center >Tuesday<br>11-Jul</td>
         <td id='t00' class='col5' style="text-align: center" align="center" width="300" rowspan=1 colspan=3 valign=center >Wednesday<br>12-Jul</td>
@@ -256,9 +256,11 @@ jQuery(document).ready(function($) {
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>8:00 - 8:30</td>
         <td id='clr01' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=2>Poster setup time</td>
-        <td id='clr01' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Check-in at SLC Lobby</td>
+        <td id='clr01' class='col4' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center>Check-in at SLC Lobby</td>
+        <td id='clr01' class='col4' style="text-align: center" align="center" valign=center colspan=1 rowspan=2>Poster setup time</td>
         <td id='clr01' class='col5' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center>Check-in at SLC Lobby</td>
-        <td id='clr01' class='col5' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Gathertown virtual posters</td>
+        <td id='clr01' class='col5' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center>Gathertown virtual posters</td>
+        <td id='clr01' class='col5' style="text-align: center" align="center" valign=center colspan=1 rowspan=2>Poster setup time</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>8:30 - 9:00</td>
@@ -305,13 +307,13 @@ jQuery(document).ready(function($) {
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>12:30 - 13:00</td>
-        <td id='clr06' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote Dr. Webster & Dr. HerrellSLC B/C</td>
+        <td id='clr06' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote Dr. Webster & Dr. Herrell SLC B/C</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:00 - 13:30</td> 
         <td id='clr02' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Lunch at FGH Atrium</td>
-        <td id='clr06' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. RohdeSLC B/C</td>
-        <td id='clr06' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. YeshaSLC B/C</td>
+        <td id='clr06' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. Rohde SLC B/C</td>
+        <td id='clr06' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. Yesha SLC B/C</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:30 - 14:00</td>
@@ -351,7 +353,8 @@ jQuery(document).ready(function($) {
         <td id='clr06' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Stillery dinner/drinks/musicTransportation to Stillery: Meet by 24th Street Entrance to FGH</td>
         <td id='clr01' class='col3' rowspan=1 colspan=1 style="text-align: center" align="center" valign=center>Poster removal <strong>5-5:30PM</strong></td>
         <td id='clr06' class='col3' rowspan=1 colspan=1 style="text-align: center" align="center" valign=center>Buses at <strong>6PM</strong><br>Reception at NMAAM <strong>6:30-10PM</strong></td>
-    <td id='clr06' class='col4' rowspan=1 colspan=2 style="text=align: center" align="center" valign=center>Walk to Parthenon at <strong>6-6:30PM</strong><br>Reception at <strong>6:30-7:30PM</strong><br>Dinner at <strong>7:30-8:30PM</strong><br>Music <strong>8:30-9:30PM</strong></td>
+        <td id='clr01' class='col4' rowspan=1 colspan=1 style="text-align: center" align="center" valign=center>Poster removal <strong>5-5:30PM</strong></td>
+        <td id='clr06' class='col4' rowspan=1 colspan=1 style="text-align: center" align="center" valign=center>Walk to Parthenon at <strong>6-6:30PM</strong><br>Reception at <strong>6:30-7:30PM</strong><br>Dinner at <strong>7:30-8:30PM</strong><br>Music <strong>8:30-9:30PM</strong></td>
      </tr>
 </table>
 
