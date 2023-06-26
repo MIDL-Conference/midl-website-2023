@@ -305,13 +305,13 @@ jQuery(document).ready(function($) {
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>12:30 - 13:00</td>
-        <td id='clr06' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote Dr. Webster & Dr. HerrellSLC B/C</td>
+        <td id='clr06' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote Dr. Webster & Dr. Herrell SLC B/C</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:00 - 13:30</td> 
         <td id='clr02' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Lunch at FGH Atrium</td>
-        <td id='clr06' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. RohdeSLC B/C</td>
-        <td id='clr06' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. YeshaSLC B/C</td>
+        <td id='clr06' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. Rohde SLC B/C</td>
+        <td id='clr06' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. Yesha SLC B/C</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:30 - 14:00</td>
