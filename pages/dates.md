@@ -232,7 +232,7 @@ jQuery(document).ready(function($) {
      <colgroup span="5" width="138"></colgroup>
 	 <tr>
 		<td id='t01' class='col1' colspan=1 rowspan=1 height="62" width="280" ></td>
-        <td id='t00' class='col2' style="text-align: center" align="center" width="300" rowspan=1 colspan=2 valign=center >Sunday<br>9-Jul</td>
+        <td id='t00' class='col2' style="text-align: center" align="center" width="350" rowspan=1 colspan=2 valign=center >Sunday<br>9-Jul</td>
         <td id='t00' class='col3' style="text-align: center" align="center" width="300" rowspan=1 colspan=2 valign=center >Monday<br>10-Jul</td>
         <td id='t00' class='col4' style="text-align: center" align="center" width="300" rowspan=1 colspan=2 valign=center >Tuesday<br>11-Jul</td>
         <td id='t00' class='col5' style="text-align: center" align="center" width="300" rowspan=1 colspan=3 valign=center >Wednesday<br>12-Jul</td>
