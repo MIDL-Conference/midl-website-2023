@@ -286,7 +286,7 @@ jQuery(document).ready(function($) {
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>10:30 - 11:00</td> 
         <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Coffee at FGH Atrium</td>
-        <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>MIDL</td>
+        <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>MIDL Special Session at SLC B&C</td>
         <td id='clr05' class='col4' rowspan=3 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
         <td id='clr05' class='col5' rowspan=2 colspan=3 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters SLC A and BoT (starts at 10:15AM)</td>
      </tr>
