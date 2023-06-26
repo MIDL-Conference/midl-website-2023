@@ -353,7 +353,8 @@ jQuery(document).ready(function($) {
         <td id='clr06' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Stillery dinner/drinks/musicTransportation to Stillery: Meet by 24th Street Entrance to FGH</td>
         <td id='clr01' class='col3' rowspan=1 colspan=1 style="text-align: center" align="center" valign=center>Poster removal <strong>5-5:30PM</strong></td>
         <td id='clr06' class='col3' rowspan=1 colspan=1 style="text-align: center" align="center" valign=center>Buses at <strong>6PM</strong><br>Reception at NMAAM <strong>6:30-10PM</strong></td>
-    <td id='clr06' class='col4' rowspan=1 colspan=2 style="text=align: center" align="center" valign=center>Walk to Parthenon at <strong>6-6:30PM</strong><br>Reception at <strong>6:30-7:30PM</strong><br>Dinner at <strong>7:30-8:30PM</strong><br>Music <strong>8:30-9:30PM</strong></td>
+        <td id='clr01' class='col4' rowspan=1 colspan=1 style="text-align: center" align="center" valign=center>Poster removal <strong>5-5:30PM</strong></td>
+        <td id='clr06' class='col4' rowspan=1 colspan=1 style="text-align: center" align="center" valign=center>Walk to Parthenon at <strong>6-6:30PM</strong><br>Reception at <strong>6:30-7:30PM</strong><br>Dinner at <strong>7:30-8:30PM</strong><br>Music <strong>8:30-9:30PM</strong></td>
      </tr>
 </table>
 
