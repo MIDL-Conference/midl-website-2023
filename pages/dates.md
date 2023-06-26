@@ -271,7 +271,7 @@ jQuery(document).ready(function($) {
         <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Welcome at FGH Auditorium</td>
         <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>Welcome at SLC B/C</td>
         <td id='clr03' class='col4' rowspan=3 colspan=2 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Neuroimaging (5 orals, session ends at 10:15) at SLC B/C</td>
-        <td id='clr01' class='col5' rowspan=1 colspan=3 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Sponsor talk</td>
+        <td id='clr01' class='col5' rowspan=1 colspan=3 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Sponsor talk at SLC B/C</td>
         <td id='t01' class='col6' rowspan=9 colspan=1 style="writing-mode: vertical-lr; text-align: center" align="center" valign=center colspan=1><a href="workshop_agenda.html">NVIDIA Workshop at FGH Atrium</a></td>
      </tr>
      <tr>
