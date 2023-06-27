@@ -8,7 +8,7 @@ Alongside the main MIDL conference, Vanderbilt will host a doctoral symposium on
 event is geared towards trainees (graduate students, research assistants, early post-docs)
 and will feature speakers, a career panel, and local Nashville tour events.
 
-Registration has reached its maximum capactity and is now closed now!
+Registration has reached its maximum capactity and is now closed!
 
 ## Tentative Schedule
 
