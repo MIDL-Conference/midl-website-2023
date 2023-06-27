@@ -55,6 +55,8 @@ Alleged violations to this Code of Conduct should be reported in a timely fashio
 
 The safety officers may recommend any such actions that will result in a fair and just conclusion of the situation, with the ultimate goal of ensuring that MIDL events provide a welcoming environment, free from threatening conduct, harassment, and intimidation.
 
+<a href="https://engineering.vanderbilt.edu/bio/cynthia-paschal">Cynthia B. Paschal</a> is the appointed Ombudsperson for MIDL 2023.
+
 ## Process
 
 Following the safety officers' recommendation, the MIDL Board sub-committee on disciplinary affairs will review all information provided by the safety officers and issue its decision. Unacceptable behavior may cause removal from, or denial of access to, current or future MIDL events; suspension or termination of membership; revocation of any awards or other recognition from MIDL; and other actions, without refund of any applicable registration fees or costs. In addition, violations may be reported to the individual's employer.
