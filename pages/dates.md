@@ -351,7 +351,7 @@ jQuery(document).ready(function($) {
         <td id='t01' class='col2' rowspan=1></td>
         <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align:center" align="center" valign-center>Poster removal</td>
         <td id='clr01' class='col4' rowspan=1 colspan=2 style="text-align:center" align="center" valign-center>Poster removal</td>
-        <td id='clr02' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center>Dinner at Rand until 7PM</td>
+        <td id='t01' class='col5' rowspan=1 colspan=3 style="text-align: center" align="center" valign=center></td>
    </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>Evening</td>
@@ -359,6 +359,7 @@ jQuery(document).ready(function($) {
         <td id='clr06' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Dinner at FGH</td>
         <td id='clr06' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>Buses at <strong>6PM</strong><br>Reception at NMAAM <strong>6:30-10PM</strong></td>
         <td id='clr06' class='col4' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>Walk to Parthenon at <strong>6-6:30PM</strong><br>Reception at <strong>6:30-7:30PM</strong><br>Dinner at <strong>7:30-8:30PM</strong><br>Music <strong>8:30-9:30PM</strong></td>
+        <td id='clr02' class='col5' rowspan=1 colspan=3 style="text-align: center" align="center" valign=center>Dinner at Rand until 7PM</td>
      </tr>
 </table>
 
