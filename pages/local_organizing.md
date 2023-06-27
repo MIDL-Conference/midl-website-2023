@@ -1,6 +1,6 @@
- ---
- title: Local Organizing Committee
- ---
+---
+title: Local Organizing Committee
+---
 
 <strong>Special appreciation to our dedicated local organizing committee:</strong>
 
