@@ -244,10 +244,8 @@ jQuery(document).ready(function($) {
         <td id='t01' class='col2' rowspan=3></td>
         <td id='clr01' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=4>Check-in at SLC Lobby</td>
         <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=2>Breakfast at Rand</td>
-        <td id='t01' class='col4' rowspan=2></td>
-        <td id='clr02' class='col4' style="text-align: center" align="center" valign=center colspan=1 rowspan=2>Breakfast at Rand</td> 
-        <td id='t01' class='col5' rowspan=2 colspan=2></td>
-        <td id='clr02' class='col5' style="text-align: center" align="center" valign=center colspan=1 rowspan=2>Breakfast at Rand</td> 
+        <td id='clr02' class='col4' style="text-align: center" align="center" valign=center colspan=2 rowspan=2>Breakfast at Rand</td> 
+        <td id='clr02' class='col5' style="text-align: center" align="center" valign=center colspan=3 rowspan=2>Breakfast at Rand</td> 
         <td id='t01' class='col6' rowspan=4></td>
      </tr>
      <tr>
@@ -288,7 +286,7 @@ jQuery(document).ready(function($) {
         <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Coffee at FGH Atrium</td>
         <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>MIDL Special Session at SLC B&C</td>
         <td id='clr05' class='col4' rowspan=3 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
-        <td id='clr05' class='col5' rowspan=2 colspan=3 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters SLC A and BoT (starts at 10:15AM)</td>
+        <td id='clr05' class='col5' rowspan=3 colspan=3 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters SLC A and BoT (starts at 10:15AM)</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:00 - 11:30</td>
@@ -297,27 +295,26 @@ jQuery(document).ready(function($) {
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:30 - 12:00</td>
-        <td id='clr02' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center>Lunch at Rand</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>12:00 - 12:30</td>
         <td id='clr04' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Career Panel at FGH Auditorium</td>
         <td id='clr02' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Lunch at Rand</td>
         <td id='clr02' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center>Lunch at Rand</td>
+        <td id='clr02' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center>Lunch at Rand</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>12:30 - 13:00</td>
-        <td id='clr06' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote Dr. Webster & Dr. Herrell SLC B/C</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:00 - 13:30</td> 
         <td id='clr02' class='col2' rowspan=2 style="text-align: center" align="center" valign=center>Lunch at FGH Atrium</td>
         <td id='clr06' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. Rohde SLC B/C</td>
         <td id='clr06' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. Yesha SLC B/C</td>
+        <td id='clr06' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote Dr. Webster SLC B/C</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:30 - 14:00</td>
-        <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Computer-assisted diagnosis (4 orals) at SLC B/C</td>
         <td id='t01' class='col6' rowspan=8></td>
      </tr>
      <tr>
@@ -325,36 +322,43 @@ jQuery(document).ready(function($) {
         <td id='clr06' class='col2' rowspan=6 style="text-align: center" align="center" valign=center>Grand Ole Opry/OprylandTransportation to Grand Ole Opry: Meet by 24th Street Entrance to FGH</td>
         <td id='clr03' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Unsupervised/weakly supervised methods (4 orals) at SLC B/C</td>
         <td id='clr03' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Semi-supervised/self-supervised methods (4 orals) at SLC B/C</td>
+        <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Computer-assisted diagnosis (4 orals) at SLC B/C</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>14:30 - 15:00</td>
-        <td id='clr05' class='col5' rowspan=2 colspan=3 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>15:00 - 15:30</td>
         <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
         <td id='clr05' class='col4' rowspan=2 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
+        <td id='clr05' class='col5' rowspan=2 colspan=3 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>15:30 - 16:00</td> 
-        <td id='clr01' class='col5' rowspan=1 colspan=3 style="text-align: center" align="center" valign=center>Awards & closing SLC B/C</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>16:00 - 16:30</td>
         <td id='clr03' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Graph-based methods (3 orals, session ends at 4:45 PM) at SLC B/C</td>
         <td id='clr03' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Synthesis (4 orals) at SLC B/C</td>
-        <td id='clr02' class='col5' rowspan=3 colspan=3 style="text-align: center" align="center" valign=center>Dinner at Rand until 7PM</td>
+        <td id='clr01' class='col5' rowspan=1 colspan=3 style="text-align: center" align="center" valign=center>Awards & closing SLC B/C</td>
      </tr>
      <tr>
-        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>16:30 - 17:00</td> 
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>16:30 - 17:00</td>
+        <td id='clr01' class='col5' rowspan=1 colspan=3 style="text-align:center" align="center" valign-center>Poster removal</td>
      </tr>
+     <tr>
+        <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>17:00 - 17:30</td>
+        <td id='t01' class='col2' rowspan=1></td>
+        <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align:center" align="center" valign-center>Poster removal</td>
+        <td id='clr01' class='col4' rowspan=1 colspan=2 style="text-align:center" align="center" valign-center>Poster removal</td>
+        <td id='clr02' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center>Dinner at Rand until 7PM</td>
+   </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>Evening</td>
-        <td id='clr06' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Stillery dinner/drinks/musicTransportation to Stillery: Meet by 24th Street Entrance to FGH</td>
-        <td id='clr01' class='col3' rowspan=1 colspan=1 style="text-align: center" align="center" valign=center>Poster removal <strong>5-5:30PM</strong></td>
-        <td id='clr06' class='col3' rowspan=1 colspan=1 style="text-align: center" align="center" valign=center>Buses at <strong>6PM</strong><br>Reception at NMAAM <strong>6:30-10PM</strong></td>
-        <td id='clr01' class='col4' rowspan=1 colspan=1 style="text-align: center" align="center" valign=center>Poster removal <strong>5-5:30PM</strong></td>
-        <td id='clr06' class='col4' rowspan=1 colspan=1 style="text-align: center" align="center" valign=center>Walk to Parthenon at <strong>6-6:30PM</strong><br>Reception at <strong>6:30-7:30PM</strong><br>Dinner at <strong>7:30-8:30PM</strong><br>Music <strong>8:30-9:30PM</strong></td>
+        <td id='clr06' class='col2' rowspan=1 style="text-align:center" align="center" valign=center>Stillery dinner/drinks/music Transportation to Stillery:  Meet by 24th Street Entrance to FGH</td>
+        <td id='clr06' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Dinner at FGH</td>
+        <td id='clr06' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>Buses at <strong>6PM</strong><br>Reception at NMAAM <strong>6:30-10PM</strong></td>
+        <td id='clr06' class='col4' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>Walk to Parthenon at <strong>6-6:30PM</strong><br>Reception at <strong>6:30-7:30PM</strong><br>Dinner at <strong>7:30-8:30PM</strong><br>Music <strong>8:30-9:30PM</strong></td>
      </tr>
 </table>
 
