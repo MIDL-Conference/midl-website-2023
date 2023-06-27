@@ -26,7 +26,7 @@ Entry-, intermediate-, and advanced-level researchers are encouraged to join the
 
 ##Registration
 
-For attending the workshop online, Register at https://monaimidlmeetup.splashthat.com/. For those attending the conference in-person, no registration is required for attending the workshop in-person. 
+For attending the workshop online, Register at <a href="https://monaimidlmeetup.splashthat.com/">https://monaimidlmeetup.splashthat.com/</a>. For those attending the conference in-person, no registration is required for attending the workshop in-person. 
 
 # Workshop
 
