@@ -24,6 +24,10 @@ This year, we’re offering the flexibility to attend either in person or online
 
 Entry-, intermediate-, and advanced-level researchers are encouraged to join the bootcamp, but some experience applying deep learning to medical imaging would be useful. And while experience with PyTorch programming isn’t a requirement, it would be beneficial.
 
+##Registration
+
+For attending the workshop online, Register at https://monaimidlmeetup.splashthat.com/. For those attending the conference in-person, no registration is required for attending the workshop in-person. 
+
 # Workshop
 
 ## Agenda

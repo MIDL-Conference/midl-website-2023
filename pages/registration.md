@@ -12,11 +12,9 @@ table, td, th{
 
 # Registration
 
-Registration for MIDL 2023 are now open: [https://vanderbilt.irisregistration.com/Form/MIDL](https://vanderbilt.irisregistration.com/Form/MIDL)
+Registration for MIDL 2023 are now closed.
 
-{{ button("Register", "https://vanderbilt.irisregistration.com/Form/MIDL") }}
-
-The conference is hosted at Vanderbilt University, it its [VU Student Life Center](/venue.html). Gala and reception venue are also detailed on the [venue page](/venue.html). A more detailed program of the conference will be made available in the future.
+The conference is hosted at Vanderbilt University, in the [VU Student Life Center](/venue.html). Gala and reception venue are also detailed on the [venue page](/venue.html). A more detailed program of the conference will be made available in the future.
 
 Alongside the main MIDL conference, Vanderbilt will also host a Doctoral Symposium on July 9th. For details, [please visit the symposium page](/doctoral.html).
 
