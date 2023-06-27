@@ -737,7 +737,7 @@ Please note the program is tentative.
 }}
 [% / %]
 
-## Oral session 6 - Synthesis - 4:00 - 5:00pm
+## Oral session 6 - Synthesis - 4:00 - 4:45pm
 
 [% .papers %]
 {{ paper('CP2Image: Generating high-quality single-cell images using CellProfiler representations',
@@ -757,15 +757,6 @@ Please note the program is tentative.
         paper='papers/O190',
         proceedings='',
         abstract='We present a physics-enhanced implicit neural representation (INR) for ultrasound (US) imaging that learns tissue properties from overlapping US sweeps. Our proposed method leverages a ray-tracing-based neural rendering for novel view US synthesis. Recent publications demonstrated that INR models could encode a representation of a three-dimensional scene from a set of two-dimensional US frames. However, these models fail to consider the view-dependent changes in appearance and geometry intrinsic to US imaging. In our work, we discuss direction-dependent changes in the scene and show that a physics-inspired rendering improves the fidelity of US image synthesis. In particular, we demonstrate experimentally that our proposed method generates geometrically accurate B-mode images for regions with ambiguous representation owing to view-dependent differences of the US images. We conduct our experiments using simulated B-mode US sweeps of the liver and acquired US sweeps of a spine phantom tracked with a robotic arm. The experiments corroborate that our method generates US frames that enable consistent volume compounding from previously unseen views. To the best of our knowledge, the presented work is the first to address view-dependent US image synthesis using INR.')
-}}
-{{ paper('Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion',
-        'Shaheer U. Saeed, Tom Syer, Wen Yan, Qianye Yang, Mark Emberton, Shonit Punwani, Matthew John Clarkson, Dean Barratt, Yipeng Hu',
-        openreview='https://openreview.net/forum?id=3QnxUSzR7iu',
-        pdf='https://openreview.net/pdf?id=3QnxUSzR7iu',
-        id='O053',
-        paper='papers/O053',
-        proceedings='',
-        abstract='We propose an image synthesis mechanism for multi-sequence prostate MR images conditioned on text, to control lesion presence and sequence, as well as to generate paired bi-parametric images conditioned on images e.g. for generating diffusion-weighted MR from T2-weighted MR for paired data, which are two challenging tasks in pathological image synthesis. Our proposed mechanism utilises and builds upon the recent stable diffusion model by proposing image-based conditioning for paired data generation. We validate our method using 2D image slices from real suspected prostate cancer patients. The realism of the synthesised images is validated by means of a blind expert evaluation for identifying real versus fake images, where a radiologist with 4 years experience reading urological MR only achieves 59.4\\% accuracy across all tested sequences (where chance is 50\\%). For the first time, we evaluate the realism of the generated pathology by blind expert identification of the presence of suspected lesions, where we find that the clinician performs similarly for both real and synthesised images, with a 2.9 percentage point difference in lesion identification accuracy between real and synthesised images, demonstrating the potentials in radiological training purposes. Furthermore, we also show that a machine learning model, trained for lesion identification, shows better performance (76.2\\% vs 70.4\\%, statistically significant improvement) when trained with real data augmented by synthesised data as opposed to training with only real images, demonstrating usefulness for model training.')
 }}
 {{ paper('Know Your Space: Inlier and Outlier Construction for Calibrating Medical OOD Detectors',
         'Vivek Narayanaswamy, Yamen Mubarka, Rushil Anirudh, Deepta Rajan, Andreas Spanias, Jayaraman J. Thiagarajan',
@@ -790,15 +781,6 @@ Please note the program is tentative.
         paper='papers/O159',
         proceedings='',
         abstract='We present a novel approach to transcranial ultrasound computed tomography that utilizes normalizing flows to improve the speed of imaging and provide Bayesian uncertainty quantification. Our method combines physics-informed methods and data-driven methods to accelerate the reconstruction of the final image. We make use of a physics-informed summary statistic to incorporate the known ultrasound physics with the goal of compressing large incoming observations. This compression enables efficient training of the normalizing flow and standardizes the size of the data regardless of imaging configurations. The combinations of these methods results in fast uncertainty-aware image reconstruction that generalizes to a variety of transducer configurations. We evaluate our approach with in silico experiments and demonstrate that it can significantly improve the imaging speed while quantifying uncertainty. We validate the quality of our image reconstructions by comparing against the traditional physics-only method and also verify that our provided uncertainty is calibrated with the error. ')
-}}
-{{ paper('Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion',
-        'Shaheer U. Saeed, Tom Syer, Wen Yan, Qianye Yang, Mark Emberton, Shonit Punwani, Matthew John Clarkson, Dean Barratt, Yipeng Hu',
-        openreview='https://openreview.net/forum?id=3QnxUSzR7iu',
-        pdf='https://openreview.net/pdf?id=3QnxUSzR7iu',
-        id='O053',
-        paper='papers/O053',
-        proceedings='',
-        abstract='We propose an image synthesis mechanism for multi-sequence prostate MR images conditioned on text, to control lesion presence and sequence, as well as to generate paired bi-parametric images conditioned on images e.g. for generating diffusion-weighted MR from T2-weighted MR for paired data, which are two challenging tasks in pathological image synthesis. Our proposed mechanism utilises and builds upon the recent stable diffusion model by proposing image-based conditioning for paired data generation. We validate our method using 2D image slices from real suspected prostate cancer patients. The realism of the synthesised images is validated by means of a blind expert evaluation for identifying real versus fake images, where a radiologist with 4 years experience reading urological MR only achieves 59.4\\% accuracy across all tested sequences (where chance is 50\\%). For the first time, we evaluate the realism of the generated pathology by blind expert identification of the presence of suspected lesions, where we find that the clinician performs similarly for both real and synthesised images, with a 2.9 percentage point difference in lesion identification accuracy between real and synthesised images, demonstrating the potentials in radiological training purposes. Furthermore, we also show that a machine learning model, trained for lesion identification, shows better performance (76.2\\% vs 70.4\\%, statistically significant improvement) when trained with real data augmented by synthesised data as opposed to training with only real images, demonstrating usefulness for model training.')
 }}
 {{ paper('CP2Image: Generating high-quality single-cell images using CellProfiler representations',
         'Yanni Ji, Marie Cutiongco, Bjørn Sand Jensen, Ke Yuan',
@@ -1722,7 +1704,7 @@ Please note the program is tentative.
 }}
 [% / %]
 
-## Oral session 7 - Segmentation 2 - 9:30 - 10:15am
+## Oral session 7 - Segmentation 2 - 9:15 - 10:00am (note the late start as the virtual poster session wraps up at 9am)
 [% .papers %]
 {{ paper('MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation',
         'Sanaz Karimijafarbigloo, Reza Azad, Amirhossein Kazerouni, Saeed Ebadollahi, Dorit Merhof',
@@ -2239,4 +2221,5 @@ Please note the program is tentative.
 }}
 [% / %]
 
-<a href="dates.html"><strong>Full program schedule</strong></a>
+[![Short program](images/program.png)](images/program.png)
+Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/zone/usa/nashville).
