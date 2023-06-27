@@ -78,4 +78,7 @@ nav:
   - title: "Organization"
     path: "/organization.html"
     icon: "users"
+  - title: "Local Organizing Committee"
+    path: "/local_organizing.html"
+    icon: "user-tie"
 cdn: "https://static.midl.io"
