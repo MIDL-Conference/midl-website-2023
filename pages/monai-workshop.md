@@ -1,8 +1,8 @@
 ---
-title: "Workshop"
+title: "MONAI Workshop"
 ---
 
-# NVIDIA Workshop
+# MONAI Workshop
 
 ## Overview of MONAI
 
