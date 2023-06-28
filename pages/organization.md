@@ -40,6 +40,31 @@ title: "Organization"
 * [Karthik Ramadass](https://www.vanderbilt.edu/vise/visepeople/karthik-ramadass/), Vanderbilt University, Nashville, Tennessee, USA
 * [Hoel Kervadec](https://hoel.kervadec.science), Erasmus MC, Rotterdam, Netherlands
 
+## Local organizing committee
+
+* Ayberk Acar
+* Jumanh Atoum
+* Cathy Cui
+* Ruining Deng
+* Yubo Fan
+* Chenyu Gao
+* Hao Li
+* Xueyuan Li
+* Han Liu
+* Quan Liu
+* David Lu
+* Andrew McNeil
+* Cheng Qiu
+* Bowen Qu
+* Mingxing Rao
+* Jiacheng Wang
+* Kate Wang
+* Shiyu Wang
+* Hanliang Xu
+* Tianyuan Yao
+* Xing Yao
+* Yike Zhang
+
 ## Supporting academic organization
 <center>
 <a href="https://www.vanderbilt.edu/"><img width="80%" src="/images/sponsors/Vanderbilt_Dimensional_V_Black_Lockup.png" alt="Vanderbilt University Logo"></a>
