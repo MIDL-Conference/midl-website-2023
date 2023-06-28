@@ -40,4 +40,4 @@ All deadlines are **23:59 [UTC-112](https://www.timeanddate.com/time/zones/aoe)/
 </center>
 
 ---
-Still available: [Aims and scope](/aims-and-scope.html), [Author instructions](/author-instructions.html), [Call for papers](/call-for-papers.html), [Reviewer guidelines](/reviewer-guidelines.html).
+Still available: [Aims and scope](/aims-and-scope.html), [Author instructions](/author-instructions.html), [Call for papers](/call-for-papers.html), [Camera ready instructions](/camera-ready.html), [Registration](/registration.html), [Reviewer guidelines](/reviewer-guidelines.html).
