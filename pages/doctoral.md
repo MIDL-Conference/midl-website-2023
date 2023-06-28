@@ -21,16 +21,9 @@ Registration has reached its maximum capactity and is now closed!
 | 10:30 AM          | CV peer review/career center workshop | | FGH Auditorium (VU)       |
 | 12:00 PM          | Career Panel                          | | FGH Auditorium (VU)       |
 | 12:45 PM          | Lunch                                 | | FGH Atrium (VU)       |
-| &nbsp; 2:00 PM    | Transportation to Grand Ole Opry      | | Bus            |
+| &nbsp; 2:00 PM    | Transportation to Grand Ole Opry      | | Bus - Meet by 24th Street Entrance to Featheringill Hall          |
 | &nbsp; 2:30 PM    | Grand Ole Opry Tour                   | | Grand Ole Opry |
 | &nbsp; 3:45 PM    | Wander Opryland                       | | Opryland       |
 | &nbsp; 5:00 PM    | Transportation to the Stillery        | | Bus            |
 | &nbsp; 5:30 PM    | Drinks/dinner/music                   | | The Stillery   |
-
-
-
-
-
-
-
 
