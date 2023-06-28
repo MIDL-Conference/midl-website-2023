@@ -30,6 +30,8 @@ For attending the workshop online, Register at [https://monaimidlmeetup.splashth
 
 ## Agenda
 
+Date: 13th July, 2023
+
 | Time  | &nbsp; &nbsp; | Activity                |  &nbsp; &nbsp; | Presenter(s)                    |
 |-------|-|---------------------------------------|-|------------------------------------------------|
 | 09:00 | | MONAI Overview and Open Science       | | Stephen Aylward (Kitware)                      |
