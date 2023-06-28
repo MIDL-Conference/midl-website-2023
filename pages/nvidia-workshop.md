@@ -2,7 +2,7 @@
 title: "Workshop"
 ---
 
-# Nvidia Workshop
+# NVIDIA Workshop
 
 ## Overview of MONAI
 
