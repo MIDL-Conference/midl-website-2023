@@ -8,7 +8,7 @@ Please note the program is tentative.
 
 # Monday, July 10
 
-## Oral session 1 - Segmentation 1 - 9:30 - 10:30am
+## Oral session 1 - Segmentation 1 — 9:30–10:30
 
 [% .papers %]
 {{ paper('MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation',
@@ -49,7 +49,7 @@ Please note the program is tentative.
 }}
 [% / %]
 
-## MIDL board special session - 10:30 - 11:00am
+## MIDL board special session — 10:30–11:00
 [% .papers %]
 {{ paper('Reproducibility of the Methods in Medical Imaging with Deep Learning.',
         'Attila Simkó, Anders Garpebring, Joakim Jonsson, Tufve Nyholm, Tommy Löfstedt',
@@ -62,7 +62,7 @@ Please note the program is tentative.
 }}
 [% / %]
 
-## Oral session 2 - Unsupervised/weakly supervised methods - 2:00 - 3:00pm
+## Oral session 2 - Unsupervised/weakly supervised methods — 14:00–15:00
 [% .papers %]
 {{ paper('Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels',
         'Adam Casson, Siqi Liu, Ran A Godrich, Hamed Aghdam, Brandon Rothrock, Kasper Malfroid, Christopher Kanan, Thomas Fuchs',
@@ -102,7 +102,7 @@ Please note the program is tentative.
 }}
 [% / %]
 
-## Oral session 3 - Graph-based methods - 4:00 - 4:45pm
+## Oral session 3 - Graph-based methods — 16:00–17:00
 [% .papers %]
 {{ paper('Tumor Budding T-cell Graphs: Assessing the Need for Resection in pT1 Colorectal Cancer Patients',
         'Linda Studer, JM Bokhorst, I Nagtegaal, Inti Zlobec, Heather Dawson, Andreas Fischer',
@@ -133,7 +133,7 @@ Please note the program is tentative.
 }}
 [% / %]
 
-## Posters - 11:00am - 12:00pm & 3:00pm - 4:00pm
+## Posters — 11:00–12:00 & 15:00–16:00
 ### Full paper track
 
 [% .papers %]
@@ -659,7 +659,7 @@ Please note the program is tentative.
 
 # Tuesday, July 11
 
-## Oral session 4 - Neuroimaging - 9:00 - 10:15am
+## Oral session 4 - Neuroimaging — 9:00–10:15
 
 [% .papers %]
 {{ paper('Decoding natural image stimuli from fMRI data with a surface-based convolutional network',
@@ -709,7 +709,7 @@ Please note the program is tentative.
 }}
 [% / %]
 
-## Oral session 5 - Semi-supervised/self-supervised methods - 2:00 - 3:00pm
+## Oral session 5 - Semi-supervised/self-supervised methods — 14:00–15:00
 
 [% .papers %]
 {{ paper('Vision-Language Modelling For Radiological Imaging and Reports In The Low Data Regime',
@@ -750,7 +750,7 @@ Please note the program is tentative.
 }}
 [% / %]
 
-## Oral session 6 - Synthesis - 4:00 - 4:45pm
+## Oral session 6 - Synthesis — 16:00–17:00
 
 [% .papers %]
 {{ paper('CP2Image: Generating high-quality single-cell images using CellProfiler representations',
@@ -782,7 +782,7 @@ Please note the program is tentative.
 }}
 [% / %]
 
-## Posters - 10:30am - 12:00pm & 3:00pm - 4:00pm
+## Posters — 10:30–12:00 & 15:00–16:00
 
 ### Full paper track
 [% .papers %]
@@ -1298,7 +1298,7 @@ Please note the program is tentative.
 
 # Wednesday, July 12
 
-## Virtual poster session - 8:00 - 9:00am
+## Virtual poster session - 8:00–9:00
 
 [% .papers %]
 {{ paper('A Robust Mean Teacher Framework for Semi-Supervised Cell Detection in Histopathology Images',
@@ -1717,7 +1717,7 @@ Please note the program is tentative.
 }}
 [% / %]
 
-## Oral session 7 - Segmentation 2 - 9:15 - 10:00am (note the late start as the virtual poster session wraps up at 9am)
+## Oral session 7 - Segmentation 2 — 9:30–10:15
 [% .papers %]
 {{ paper('MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation',
         'Sanaz Karimijafarbigloo, Reza Azad, Amirhossein Kazerouni, Saeed Ebadollahi, Dorit Merhof',
@@ -1748,7 +1748,7 @@ Please note the program is tentative.
 }}
 [% / %]
 
-## Oral session 8 - Computer-assisted diagnosis - 1:30 - 2:30pm
+## Oral session 8 - Computer-assisted diagnosis — 14:00–15:00
 [% .papers %]
 {{ paper('Sparse Activations for Interpretable Disease Grading',
         'Kerol R. Djoumessi Donteu, Indu Ilanchezian, Laura Kühlewein, Hanna Faber, Christian F. Baumgartner, Bubacarr Bah, Philipp Berens, Lisa M. Koch',
@@ -1788,8 +1788,8 @@ Please note the program is tentative.
 }}
 [% / %]
 
-## Posters - 10:00am - 11:30am & 2:30pm - 3:30pm
-
+## Posters — 10:15–12:00 & 15:00–16:00
+### Full paper track
 [% .papers %]
 {{ paper('An end-to-end framework for diagnosing COVID-19 pneumonia via Parallel Recursive MLP module and Bi-LTSM correlation',
         'Yiwen Liu, Wenyu Xing, Mingbo Zhao, MINGQUAN LIN',
