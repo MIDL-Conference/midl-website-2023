@@ -373,8 +373,8 @@ The buses that will go to the Reception at NMAAM will stop in front of the SLC.<
 
 Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/zone/usa/nashville).
 
-# Important Dates
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**.
+
 ## Full papers
 [% .deadlines %]
 * **<s>Paper registration deadline</s>** <s>8 January 2023</s>
@@ -382,13 +382,13 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 * **<s>Reviews due</s>** <s>3 February 2023</s>
 * **<s>Rebuttals</s>** <s>7&ndash;17 February 2023</s>
 * **<s>Final decisions</s>** <s>24 February 2023</s> <s>2 March 2023</s>
-* **<s>Camera ready</s>** 30 April 2023
+* **<s>Camera ready</s>** <s>30 April 2023</s>
 [% / %]
 
 ## Short papers
 [% .deadlines %]
-* **<s>Paper submission deadline</s>** 7 April 2023
-* **<s>Final decisions</s>** 28 April 2023
+* **<s>Paper submission deadline</s>** <s>7 April 2023</s>
+* **<s>Final decisions</s>** <s>28 April 2023</s>
 * **Camera ready (short papers)** Coming soon
 [% / %]
 
