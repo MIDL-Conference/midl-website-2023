@@ -269,7 +269,7 @@ Please note the program is tentative.
 [% / %]
 
 ## Posters — 10:15–12:00 & 15:00–16:00
-
+### Full paper track
 [% .papers %]
 * An end-to-end framework for diagnosing COVID-19 pneumonia via Parallel Recursive MLP module and Bi-LTSM correlation
 * Frozen Language Model Helps ECG Zero-Shot Learning
