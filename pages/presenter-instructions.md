@@ -12,7 +12,7 @@ The default for poster presentations is also onsite and in-person.
 The oral session schedule can be found on the program page: [https://2023.midl.io/program.html](https://2023.midl.io/program.html)
 
 Each oral presentation will be 12 minutes in length, with 3 minutes for questions.
-Presenters are asked to submit slides beforehand in either Powerpoint or PDF formats. Slide upload directions have been emailed out to all first and senior authors, please follow the directions in that email. If you did not receive and email, please email daniel.moyer@vanderbilt.edu.
+Presenters are asked to submit slides beforehand in either Powerpoint or PDF formats. Slide upload directions have been emailed out to all first and senior authors, please follow the directions in that email. If you did not receive an email, please email daniel.moyer@vanderbilt.edu.
 
 Prior to your scheduled presentation session, please check your slides in the speaker ready room. Changes at the podium will not be possible.
 
