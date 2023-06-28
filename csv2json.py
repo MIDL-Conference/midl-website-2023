@@ -112,7 +112,6 @@ if __name__ == "__main__":
         for _, row in midl_virtual_df.iterrows():
                 # print(row["Paper #"], row["Video link"])
                 if str(row["Video link"]) != "nan":
-                        row["Video link"]
                         json_dict[row["Paper #"]]["yt_full"] = row["Video link"]
 
         print(f">>> Writing {len(papers)} to papers.json...")

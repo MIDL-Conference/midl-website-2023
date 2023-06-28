@@ -52,7 +52,6 @@ if __name__ == "__main__":
         # if yt_link and (root_slides / paper.slides[1:]).exists():
         #     result = result.replace("PRESENTATION", f"{{{{ presentation('{yt_link}', '{paper.slides}', 720, 450) }}}}")
         if yt_link:
-            print(yt_link)
             result = result.replace("PRESENTATION", f"{{{{ youtube('{yt_link.split('/')[-1]}') }}}}")
         else:
             result = result.replace("PRESENTATION", "")
