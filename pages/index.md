@@ -11,25 +11,12 @@ page_class: home
 
 
 <p class="centered">
-    <a href="/registration.html" class="button">Registration</a>
     <a href="/program.html" class="button">Scientific program</a>
 </p>
 
-The accepted [short](https://openreview.net/group?id=MIDL.io/2023/Short_Paper_Track) and [full](https://openreview.net/group?id=MIDL.io/2023/Conference) papers are still available on OpenReview:
-
 
 ---
 
-## Important dates
-All deadlines are **23:59 [UTC-112](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**:
-
-[% .deadlines %]
-* **Camera ready (full papers only)** 30 April 2023
-* **Camera ready (short papers)** Coming soon
-* **Early bird registration** 5 May 2023
-[% / %]
-
----
 #### Supporting academic organization
 <center>
 <a href="https://www.vanderbilt.edu/"><img width="70%" src="/images/sponsors/Vanderbilt_Dimensional_V_Black_Lockup.png" alt="Vanderbilt University Logo"></a>
