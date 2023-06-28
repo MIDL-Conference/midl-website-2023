@@ -8,7 +8,7 @@ Please note the program is tentative.
 
 # Monday, July 10
 
-## Oral session 1 - Segmentation 1 - 9:30–10:30
+## Oral session 1 - Segmentation 1 — 9:30–10:30
 
 [% .papers %]
 * MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation
@@ -17,12 +17,12 @@ Please note the program is tentative.
 * Learning Clinically Acceptable Segmentation of Organs at Risk in Cervical Cancer Radiation Treatment from Clinically Available Annotations
 [% / %]
 
-## MIDL board special session - 10:30–11:00
+## MIDL board special session — 10:30–11:00
 [% .papers %]
 * Reproducibility of the Methods in Medical Imaging with Deep Learning.
 [% / %]
 
-## Oral session 2 - Unsupervised/weakly supervised methods - 14:00–15:00
+## Oral session 2 - Unsupervised/weakly supervised methods — 14:00–15:00
 [% .papers %]
 * Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels
 * Generalizing Unsupervised Anomaly Detection: Towards Unbiased Pathology Screening
@@ -30,14 +30,14 @@ Please note the program is tentative.
 * DRIMET: Deep Registration-based 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue
 [% / %]
 
-## Oral session 3 - Graph-based methods - 16:00–17:00
+## Oral session 3 - Graph-based methods — 16:00–17:00
 [% .papers %]
 * Tumor Budding T-cell Graphs: Assessing the Need for Resection in pT1 Colorectal Cancer Patients
 * A Geometric Deep Learning Framework for Generation of Virtual Left Ventricles as Graphs
 * Vesselformer: Towards Complete 3D Vessel Graph Generation from Images
 [% / %]
 
-## Posters - 11:00–12:00 & 15:00–16:00
+## Posters — 11:00–12:00 & 15:00–16:00
 ### Full paper track
 
 [% .papers %]
@@ -107,7 +107,7 @@ Please note the program is tentative.
 
 # Tuesday, July 11
 
-## Oral session 4 - Neuroimaging - 9:00–10:15
+## Oral session 4 - Neuroimaging — 9:00–10:15
 
 [% .papers %]
 * Decoding natural image stimuli from fMRI data with a surface-based convolutional network
@@ -117,7 +117,7 @@ Please note the program is tentative.
 * Data Consistent Deep Rigid MRI Motion Correction
 [% / %]
 
-## Oral session 5 - Semi-supervised/self-supervised methods - 14:00–15:00
+## Oral session 5 - Semi-supervised/self-supervised methods — 14:00–15:00
 
 [% .papers %]
 * Vision-Language Modelling For Radiological Imaging and Reports In The Low Data Regime
@@ -126,7 +126,7 @@ Please note the program is tentative.
 * Self-Supervised CSF Inpainting for Improved Accuracy Validation of Cortical Surface Analyses 
 [% / %]
 
-## Oral session 6 - Synthesis - 16:00–17:00
+## Oral session 6 - Synthesis — 16:00–17:00
 
 [% .papers %]
 * CP2Image: Generating high-quality single-cell images using CellProfiler representations
@@ -134,7 +134,7 @@ Please note the program is tentative.
 * Know Your Space: Inlier and Outlier Construction for Calibrating Medical OOD Detectors
 [% / %]
 
-## Posters - 10:30–12:00 & 15:00–16:00
+## Posters — 10:30–12:00 & 15:00–16:00
 
 ### Full paper track
 [% .papers %]
@@ -253,14 +253,14 @@ Please note the program is tentative.
 * One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities
 [% / %]
 
-## Oral session 7 - Segmentation 2 - 9:30–10:15
+## Oral session 7 - Segmentation 2 — 9:30–10:15
 [% .papers %]
 * MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation
 * Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function
 * GeoLS: Geodesic Label Smoothing for Image Segmentation
 [% / %]
 
-## Oral session 8 - Computer-assisted diagnosis - 14:00–15:00
+## Oral session 8 - Computer-assisted diagnosis — 14:00–15:00
 [% .papers %]
 * Sparse Activations for Interpretable Disease Grading
 * Simple and Efficient Confidence Score for Grading Whole Slide Images
@@ -268,7 +268,7 @@ Please note the program is tentative.
 * An end-to-end framework for diagnosing COVID-19 pneumonia via Parallel Recursive MLP module and Bi-LTSM correlation
 [% / %]
 
-## Posters - 10:15–12:00 & 15:00–16:00
+## Posters — 10:15–12:00 & 15:00–16:00
 
 [% .papers %]
 * An end-to-end framework for diagnosing COVID-19 pneumonia via Parallel Recursive MLP module and Bi-LTSM correlation
