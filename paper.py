@@ -7,7 +7,7 @@ from typing import List
 class Paper():
     def __init__(self, id: str, title: str, authors: str, or_id: str, oral: str, short: str,
                  abstract: str, schedule: str = "", ignore_schedule: bool = False, melba: str = "False",
-                 award: str = "", pmlr_url=""):
+                 award: str = "", pmlr_url="", slides: str = "", yt_full: str | None = None):
         self.id: int = int(id)
         self.title: str = title
         self.authors: List[str] = authors.split('|')
@@ -17,9 +17,9 @@ class Paper():
         self.short: bool = short == "True"
         self.poster: bool = (not self.short) and (not self.oral)
         self.abstract: str = abstract
-        # self.slides: str = slides
+        self.slides: str = slides
         # self.yt_teaser: str = yt_teaser
-        # self.yt_full: str = yt_full
+        self.yt_full: str | None = yt_full
         self.award: str = award
 
         self.pmlr_url: str = pmlr_url
@@ -77,7 +77,8 @@ class Paper():
         id='{self.conf_id}',
         paper='{self.url}',
         proceedings='{self.pmlr_url}',
-        abstract={sanitized_abstract})
+        abstract={sanitized_abstract},
+        video='{self.yt_full}')
 }}}}'''
 
 
@@ -94,6 +95,8 @@ class PaperEncoder(json.JSONEncoder):
                     "abstract": paper.abstract,
                     "schedule": "\n".join(paper.schedule),
                     "award": paper.award,
-                    "pmlr_url": paper.pmlr_url}
+                    "pmlr_url": paper.pmlr_url,
+                    "yt_full": paper.yt_full,
+                    "slides": paper.slides}
 
         return json.JSONEncoder.default(self, paper)

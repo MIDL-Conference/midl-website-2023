@@ -32,8 +32,6 @@ if __name__ == "__main__":
                 title = full_row["title"]
                 is_oral = title in session_map
 
-                schedule: str = session_map[title] if is_oral else ""
-
                 paper = Paper(id=full_row["number"], title=title, authors=full_row["authors"],
                               or_id=full_row["forum"].split('=')[1], oral=str(is_oral),
                               short="False", abstract=full_row["abstract"], ignore_schedule=True)
@@ -108,6 +106,14 @@ if __name__ == "__main__":
                         elif line.startswith("* "):
                                 cur_title = line[2:].strip().lower()
                                 json_dict[title_dict[cur_title]]["schedule"] += f"{current_day}: {current_time}"
+
+        print(">>> Adding virtual information")
+        midl_virtual_df = pd.read_csv("virtual_papers.csv")
+        for _, row in midl_virtual_df.iterrows():
+                # print(row["Paper #"], row["Video link"])
+                if str(row["Video link"]) != "nan":
+                        row["Video link"]
+                        json_dict[row["Paper #"]]["yt_full"] = row["Video link"]
 
         print(f">>> Writing {len(papers)} to papers.json...")
         with open("papers.json", 'w') as sink:
