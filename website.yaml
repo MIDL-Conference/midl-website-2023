@@ -52,7 +52,7 @@ nav:
     path: "/virtual_participation.html"
     icon: "laptop"
   - title: "Nvidia Workshop"
-    path: "/workshop_agenda.html"
+    path: "/nvidia-workshop.html"
     icon: "ticket-alt"
   # - title: "Call for papers"
   #   path: "/call-for-papers.html"
