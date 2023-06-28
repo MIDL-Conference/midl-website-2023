@@ -42,6 +42,19 @@ title: "Organization"
 
 ## Local organizing committee
 
+### Local Organization Lead 
+* Teagan Stewart
+
+### VISE Organization 
+* Lead Michelle Bukowski 
+
+### VISE Tours 
+* Jesse dAlmeida 
+* Jason Shrand 
+* Abbie Weeks 
+* Jie Ying Wu 
+
+### Members
 * Ayberk Acar
 * Jumanh Atoum
 * Cathy Cui
