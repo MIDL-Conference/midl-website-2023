@@ -78,4 +78,7 @@ nav:
   - title: "Organization"
     path: "/organization.html"
     icon: "users"
+  - title: "FAQ"
+    path: "/faq.html"
+    icon: "question-circle"
 cdn: "https://static.midl.io"

@@ -12,7 +12,7 @@ table, td, th{
 
 # Registration
 
-Registration for MIDL 2023 are now closed.
+Registration for MIDL 2023 is now closed.
 
 The conference is hosted at Vanderbilt University, in the [VU Student Life Center](/venue.html). Gala and reception venue are also detailed on the [venue page](/venue.html). A more detailed program of the conference will be made available in the future.
 
