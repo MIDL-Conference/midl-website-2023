@@ -1,5 +1,5 @@
 ---
-title: "Detailed program - coming soon!"
+title: "Detailed program"
 ---
 
 {% from "_macros.html" import button, paper %}
@@ -15,6 +15,11 @@ Please note the program is tentative.
 * SuperMask: Generating High-resolution object masks from multi-view, unaligned low-resolution MRIs
 * Model Adaptive Tooth Segmentation
 * Learning Clinically Acceptable Segmentation of Organs at Risk in Cervical Cancer Radiation Treatment from Clinically Available Annotations
+[% / %]
+
+## MIDL board special session - 10:30 - 11:00am
+[% .papers %]
+* Reproducibility of the Methods in Medical Imaging with Deep Learning.
 [% / %]
 
 ## Oral session 2 - Unsupervised/weakly supervised methods - 2:00 - 3:00pm

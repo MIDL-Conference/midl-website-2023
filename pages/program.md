@@ -1,5 +1,5 @@
 ---
-title: "Detailed program - coming soon!"
+title: "Detailed program"
 ---
 
 {% from "_macros.html" import button, paper %}
@@ -46,6 +46,19 @@ Please note the program is tentative.
         paper='papers/O100',
         proceedings='',
         abstract='Deep learning models benefit from training with a large dataset (labeled or unlabeled). Following this motivation, we present an approach to learn a deep learning model for the automatic segmentation of Organs at Risk (OARs) in cervical cancer radiation treatment from a large clinically available dataset of Computed Tomography (CT) scans containing data inhomogeneity, label noise, and missing annotations. We employ simple heuristics for automatic data cleaning to minimize data inhomogeneity and label noise. Further, we develop a semi-supervised learning approach utilizing a teacher-student setup, annotation imputation, and uncertainty-guided training to learn in presence of missing annotations. Our experimental results show that learning from a large dataset with our approach yields a significant improvement in the test performance despite missing annotations in the data. Further, the contours generated from the segmentation masks predicted by our model are found to be equally clinically acceptable as manually generated contours.')
+}}
+[% / %]
+
+## MIDL board special session - 10:30 - 11:00am
+[% .papers %]
+{{ paper('Reproducibility of the Methods in Medical Imaging with Deep Learning.',
+        'Attila Simkó, Anders Garpebring, Joakim Jonsson, Tufve Nyholm, Tommy Löfstedt',
+        openreview='https://openreview.net/forum?id=_P59zCfXOt',
+        pdf='https://openreview.net/pdf?id=_P59zCfXOt',
+        id='O029',
+        paper='papers/O029',
+        proceedings='',
+        abstract='Concerns about the reproducibility of deep learning research are more prominent than ever, with no clear solution in sight. The Medical Imaging with Deep Learning (MIDL) conference has made advancements in employing empirical rigor with regards to reproducibility by advocating open access, and recently also recommending authors to make their code public---both aspects being adopted by the majority of the conference submissions.  We have evaluated all accepted full paper submissions to MIDL between 2018 and 2022 using established, but adjusted guidelines addressing the reproducibility and quality of the public repositories.  The evaluations show that publishing repositories and using public datasets are becoming more popular, which helps traceability, but the quality of the repositories shows room for improvement in every aspect. Merely 22% of all submissions contain a repository that was deemed repeatable using our evaluations.  From the commonly encountered issues during the evaluations, we propose a set of guidelines for machine learning-related research for medical imaging applications, adjusted specifically for future submissions to MIDL. We presented our results to future MIDL authors who were eager to continue an open discussion on the topic of code reproducibility.')
 }}
 [% / %]
 
