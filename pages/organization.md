@@ -45,14 +45,15 @@ title: "Organization"
 ### Local Organization Lead 
 * Teagan Stewart
 
-### VISE Organization 
-* Lead Michelle Bukowski 
+### VISE Organization Lead
+* Michelle Bukowski 
 
 ### VISE Tours 
 * Jesse dAlmeida 
 * Jason Shrand 
 * Abbie Weeks 
-* Jie Ying Wu 
+* Jie Ying Wu
+* David Lu
 
 ### Members
 * Ayberk Acar
