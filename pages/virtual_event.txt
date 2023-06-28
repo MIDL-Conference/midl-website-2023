@@ -1,6 +1,54 @@
 ---
 title: "Virtual event"
 ---
+{% from "_macros.html" import paper %}
 # Virtual event
 
-TBA
+[% .papers %]
+* A Robust Mean Teacher Framework for Semi-Supervised Cell Detection in Histopathology Images
+* Real-Time Quantitative Ultrasound and Radar Knowledge-Based Medical Imaging
+* A Deep-Learning Based Approach to Accelerate Groundtruth Generation for Biomarker Status Identification in Chromogenic Duplex Images
+* Generation of Multi-modal Brain Tumor MRIs with Disentangled Latent Diffusion Model
+* Reproducibility of the Methods in Medical Imaging with Deep Learning.
+* Data-Free One-Shot Federated Regression: An Application to Bone Age Assessment
+* Rotation-Scale Equivariant Steerable Filters
+* Comp2Comp: Open-Source Body Composition Assessment on Computed Tomography
+* Shape Equivariant Learning for Robust MRI Segmentation
+* Video pretraining advances 3D deep learning on chest CT tasks
+* Learning Retinal Representations from Multi-modal Imaging via Contrastive Pre-training
+* Nearest Neighbor Radiomics for Self-Supervised Chest X-ray Pneumonia Identification
+* Semantic Segmentation of 3D Medical Images Through a Kaleidoscope: Data from the Osteoarthritis Initiative
+* Multimodal Image-Text Matching Improves Retrieval-based Chest X-Ray Report Generation
+* Uncertainty for Proximal Femur Fractures Classification
+* Incomplete learning of multi-modal connectome for brain disorder diagnosis via modal-mixup and deep supervision
+* Overcoming Interpretability and Accuracy Trade-off in Medical Imaging
+* ζ-mixup: Richer, More Realistic Mixing of Multiple Images
+* Facial AU-aid hypomimia diagnosis based on GNN
+* Automatic Contrast Phase Detection on Abdominal Computed Tomography using Clinically-Inspired Techniques
+* Expansion Microscopy Imaging Isotropic Restoration by Unsupervised Deep Learning
+* Improving Zero-Shot Detection of Low Prevalence Chest Pathologies using Domain Pre-trained Language Models
+* Bias Field Correction in MRI with Hampel Noise Denoising Diffusion Probabilistic Model
+* CSGAN: a consistent structural GAN for AS-OCT image despeckling by image translation
+* Semi-supervised Learning with Contrastive and Topology Losses for Catheter Segmentation and Misplacement Prediction
+* DBGSL: Dynamic Brain Graph Structure Learning
+* DBGDGM: Dynamic Brain Graph Deep Generative Model
+* Evaluating Adversarial Robustness of Low dose CT Recovery
+* Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation
+* TransRP: Transformer-based PET/CT feature extraction incorporating clinical data for recurrence-free survival prediction in oropharyngeal cancer
+* Trainable Prototype Enhanced Multiple Instance Learning for Whole Slide Image Classification
+* FUSQA: Fetal Ultrasound Segmentation Quality Assessment
+* SegPrompt: Using Segmentation Map as a Better Prompt to Finetune Deep Models for Kidney Stone Classification
+* Intra- and Inter-Cellular Awareness for 3D Neuron Tracking and Segmentation in Large-Scale Connectomics
+* Domain adaptation using optimal transport for invariant learning using histopathology datasets
+* High-Fidelity Image Synthesis from Pulmonary Nodule Lesion Maps using Semantic Diffusion Model
+* Deep Learning Regression of Cardiac Phase on Real-Time MRI
+* An end-to-end Complex-valued Neural Network approach for k-space interpolation in Parallel MRI
+* Spatial Correspondence between Graph Neural Network-Segmented Images
+* 3D Supervised Contrastive-Learning Network for Classification of Ovarian Neoplasms
+* Characterizing Continual Learning Scenarios for Tumor Classification in Histopathology Images
+* MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging
+* MEDIMP: 3D Medical Images and clinical Prompts for renal transplant representation learning
+* Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion
+* Whole brain radiomics for clustered federated personalization in brain tumor segmentation
+* One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities
+[% / %]
