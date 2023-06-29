@@ -22,6 +22,8 @@ The city was settled in 1779 and permanently became state capital in 1843. The c
 The conference will be held in the [VU Student Life Center](https://www.vanderbilt.edu/studentcenters/explore/floor-1/)
 ![VUSLC](images/vustudentlifecenter_1591090503553.jpg)
 
+![VUMAP](images/Vandy_walk_map.png)
+
 ## Nashville Parthenon (Gala venue)
 
 The gala will be held in the [Nashville Parthenon](https://www.nashvilleparthenon.com/), a [full-scale reconstruction](https://en.wikipedia.org/wiki/Parthenon_%28Nashville%29) of the original Parthenon.
