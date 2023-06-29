@@ -28,16 +28,7 @@ Registration has reached its maximum capactity and is now closed!
 | &nbsp; 5:30 PM    | Drinks/dinner/music                   | | The Stillery   |
 
 
----
-title: "Keynotes"
-page_class: "keynotes"
----
-
-{% from "_macros.html" import button, youtube %}
-
-<!-- page_class: "keynotes-without-details" -->
-# Keynote speakers
-
+# Keynote speaker
 
 ## Prof. Hervé Lombaert, Montreal ![Portrait of Hervé Lombaert](/images/keynotes/herve.jpeg){: width="180" }
 #### Medical Image Segmentation - from Cubicle to Lab
