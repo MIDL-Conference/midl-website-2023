@@ -38,5 +38,5 @@ Registration has reached its maximum capactity and is now closed!
 
 **Biography:** Hervé Lombaert is an Associate Professor at ETS Montreal, Canada, where he holds a Canada Research Chair in Shape Analysis in Medical Imaging. His research focuses on the statistics and analysis of shapes in the context of machine learning and medical imaging. His work on graph analysis has impacted the performance of several applications in medical imaging, from the early image segmentation techniques with graph cuts, to recent surface analysis with spectral graph theory and graph convolutional networks. Hervé has authored over 80 papers, 5 patents, and earned several awards, such as the IPMI Erbsmann Prize. He had the chance to work in multiple centers, including Inria (Sophia-Antipolis, France), Microsoft Research (Cambridge, UK), Siemens Corporate Research (Princeton, NJ), McGill University (Canada), and the University of Montreal (Canada).
 
-More at [https://profs.etsmtl.ca/hlombaert]
+More at [https://profs.etsmtl.ca/hlombaert](https://profs.etsmtl.ca/hlombaert)
 
