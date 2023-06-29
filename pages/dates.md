@@ -5,7 +5,7 @@ title: "Dates and program"
 <style>
 #program, #program th, #program td {
     border: 1px solid gray;
-    font-size: 85%;
+    font-size: 80%;
     border-collapse: separate;
     border-spacing: 1px;
     color: #222222;
@@ -21,7 +21,7 @@ title: "Dates and program"
   text-align: left;
 }
 #program div, #program a {
-    color: white;
+    color: #8f9da8;
 }
 #program a:hover {
     text-decoration: underline;
@@ -103,24 +103,30 @@ title: "Dates and program"
   background-color: #FFFFFF;
   font-weight: 350
 }
+
+
 #clr01 {
-  background-color: #E5CFAE; 
+  background-color: #b3cde3; 
 }
+
 #clr02 {
-  background-color: #41CC1C 
+  background-color: #fbb4ae; 
 }
 #clr03 {
-  background-color: #F1FF03
+  background-color: #ccebc5;
 }
+
 #clr04 {
-  background-color: #FF7D03
+  background-color: #decbe4;
 }
 #clr05 {
-  background-color: #034DFF 
+  background-color: #fed9a6; 
 }
+
 #clr06 {
-  background-color: #FE03FF 
+  background-color: #ffffcc;
 }
+
 #t01s {
   background-color: #FFFFFF;
 }
@@ -225,23 +231,32 @@ jQuery(document).ready(function($) {
 });
 </script>
 
-<table id="program" cellspacing="0" border="-1" style="table-layout: fixed; width: 100%">
-     <colgroup width="66"></colgroup>
-     <colgroup width="65"></colgroup>
-     <colgroup width="81"></colgroup>
-     <colgroup span="5" width="138"></colgroup>
-	 <tr>
-		<td id='t01' class='col1' colspan=1 rowspan=1 height="62" width="280" ></td>
-        <td id='t00' class='col2' style="text-align: center" align="center" width="350" rowspan=1 colspan=2 valign=center >Sunday<br>9-Jul</td>
-        <td id='t00' class='col3' style="text-align: center" align="center" width="300" rowspan=1 colspan=2 valign=center >Monday<br>10-Jul</td>
-        <td id='t00' class='col4' style="text-align: center" align="center" width="300" rowspan=1 colspan=2 valign=center >Tuesday<br>11-Jul</td>
-        <td id='t00' class='col5' style="text-align: center" align="center" width="300" rowspan=1 colspan=3 valign=center >Wednesday<br>12-Jul</td>
-        <td id='t00' class='col6' style="text-align: center" align="center" width="300" rowspan=1 colspan=1 valign=center >Thursday<br>13-Jul</td>
-     </tr>
-     <tr>
+<table id="program" cellspacing="0" border="0">
+    <colgroup>
+       <col span="1" style="width: 10%;"> <!-- small-->
+       <col span="1" style="width: 10%;"> <!-- sunday-->
+       <col span="1" style="width: 10%;"> <!-- sunday-->
+       <col span="1" style="width: 10%;"> <!-- monday-->
+       <col span="1" style="width: 10%;"> <!-- monday-->
+       <col span="1" style="width: 10%;"> <!-- tues-->
+       <col span="1" style="width: 10%;"> <!-- tues-->
+       <col span="1" style="width: 6.67%;"> <!-- wed-->
+       <col span="1" style="width: 6.67%;"> <!-- wed-->
+       <col span="1" style="width: 6.6%;"> <!-- wed-->
+       <col span="1" style="width: 10%;"> <!-- thursday-->
+    </colgroup>
+
+	  <tr>
+		<td id='t01' class='col1' colspan=1 rowspan=1 height="62" ></td>
+        <td id='t00' class='col2' style="text-align: center" align="center" rowspan=1 colspan=2 valign=center >Sunday<br>9-Jul</td>
+        <td id='t00' class='col3' style="text-align: center" align="center" rowspan=1 colspan=2 valign=center >Monday<br>10-Jul</td>
+        <td id='t00' class='col4' style="text-align: center" align="center" rowspan=1 colspan=2 valign=center >Tuesday<br>11-Jul</td>
+        <td id='t00' class='col5' style="text-align: center" align="center" rowspan=1 colspan=3 valign=center >Wednesday<br>12-Jul</td>
+        <td id='t00' class='col6' style="text-align: center" align="center" rowspan=1 colspan=1 valign=center >Thursday<br>13-Jul</td>
+    </tr>
+    <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>7:00 - 7:30</td>
-        <td id='t01s' class='col2' style="writing-mode: vertical-lr; text-align: center" align="center" valign=middle colspan=1 rowspan=21 width="150"><a href='doctoral.html'>Doctoral Symposium</a></td>
-        <td id='t01' class='col2' rowspan=3></td>
+        <td id='t01' class='col2' colspan=2 rowspan=3></td>
         <td id='clr01' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=4>Check-in at SLC Lobby</td>
         <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=2>Breakfast at Rand</td>
         <td id='clr02' class='col4' style="text-align: center" align="center" valign=center colspan=2 rowspan=2>Breakfast at Rand</td> 
@@ -262,11 +277,12 @@ jQuery(document).ready(function($) {
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>8:30 - 9:00</td>
-        <td id='clr01' class='col2' rowspan=1 style="text-align: center" align="center" valign=center>Check-in/coffee at FGH Atrium</td>
+        <td id='clr01' class='col2' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>Check-in/coffee at FGH Atrium</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>9:00 - 9:30</td> 
-        <td id='t01' class='col2' rowspan=17></td>
+        <!--<td id='t01' class='col2' rowspan=17></td>-->
+        <td id='t01s' class='col2' style="writing-mode: vertical-lr; text-align: center" align="center" valign=middle colspan=2 rowspan=17><a href='doctoral.html'>Doctoral Symposium</a></td>
         <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>Welcome at SLC B/C</td>
         <td id='clr03' class='col4' rowspan=3 colspan=2 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Neuroimaging (5 orals, session ends at 10:15) at SLC B/C</td>
         <td id='clr01' class='col5' rowspan=1 colspan=3 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Sponsor talk at SLC B/C</td>
@@ -282,13 +298,13 @@ jQuery(document).ready(function($) {
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>10:30 - 11:00</td> 
-        <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>MIDL Special Session at SLC B&C</td>
-        <td id='clr05' class='col4' rowspan=3 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
-        <td id='clr05' class='col5' rowspan=3 colspan=3 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters SLC A and BoT (starts at 10:15AM)</td>
+        <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>MIDL Special Session: SLC B&C</td>
+        <td id='clr05' class='col4' rowspan=3 colspan=2 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
+        <td id='clr05' class='col5' rowspan=3 colspan=3 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A and BoT (starts at 10:15AM)</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:00 - 11:30</td>
-        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
+        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:30 - 12:00</td>
@@ -304,9 +320,9 @@ jQuery(document).ready(function($) {
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:00 - 13:30</td> 
-        <td id='clr06' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. Rohde SLC B/C</td>
-        <td id='clr06' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote: Dr. Yesha SLC B/C</td>
-        <td id='clr06' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center><a href='keynotes.html' style='color:white'>Keynote Dr. Webster SLC B/C</td>
+        <td id='clr06' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html'>Keynote: Dr. Rohde SLC B/C</td>
+        <td id='clr06' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='keynotes.html'>Keynote: Dr. Yesha SLC B/C</td>
+        <td id='clr06' class='col5' rowspan=2 colspan=3 style="text-align: center" align="center" valign=center><a href='keynotes.html'>Keynote Dr. Webster SLC B/C</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:30 - 14:00</td>
@@ -323,9 +339,9 @@ jQuery(document).ready(function($) {
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>15:00 - 15:30</td>
-        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
-        <td id='clr05' class='col4' rowspan=2 colspan=2 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
-        <td id='clr05' class='col5' rowspan=2 colspan=3 style="text-align: center; color: white" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
+        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
+        <td id='clr05' class='col4' rowspan=2 colspan=2 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
+        <td id='clr05' class='col5' rowspan=2 colspan=3 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>15:30 - 16:00</td> 
