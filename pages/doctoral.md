@@ -28,4 +28,24 @@ Registration has reached its maximum capactity and is now closed!
 | &nbsp; 5:30 PM    | Drinks/dinner/music                   | | The Stillery   |
 
 
+---
+title: "Keynotes"
+page_class: "keynotes"
+---
+
+{% from "_macros.html" import button, youtube %}
+
+<!-- page_class: "keynotes-without-details" -->
+# Keynote speakers
+
+
+## Prof. Hervé Lombaert, Montreal ![Portrait of Hervé Lombaert](/images/keynotes/herve.jpeg){: width="180" }
+#### Medical Image Segmentation - from Cubicle to Lab
+
+**Abstract:** This talk gives a personal experience of what research could be from a company cubicle to a research lab. The questions never answered, the unexpected challenges. The presenter has worked in multiple environments from industry to academia, with positions ranging from intern to engineer to faculty, in teams of smaller to larger sizes. His research focuses on the statistics and analysis of shapes in the context of machine learning and medical imaging. His work on graph analysis has impacted the performance of several applications in medical imaging, from the early image segmentation techniques with graph cuts, to recent surface analysis with geometric deep learning.
+
+
+**Biography:** Hervé Lombaert is an Associate Professor at ETS Montreal, Canada, where he holds a Canada Research Chair in Shape Analysis in Medical Imaging. His research focuses on the statistics and analysis of shapes in the context of machine learning and medical imaging. His work on graph analysis has impacted the performance of several applications in medical imaging, from the early image segmentation techniques with graph cuts, to recent surface analysis with spectral graph theory and graph convolutional networks. Hervé has authored over 80 papers, 5 patents, and earned several awards, such as the IPMI Erbsmann Prize. He had the chance to work in multiple centers, including Inria (Sophia-Antipolis, France), Microsoft Research (Cambridge, UK), Siemens Corporate Research (Princeton, NJ), McGill University (Canada), and the University of Montreal (Canada).
+
+More at [https://profs.etsmtl.ca/hlombaert]
 
