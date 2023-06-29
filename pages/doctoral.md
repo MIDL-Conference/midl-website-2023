@@ -30,7 +30,7 @@ Registration has reached its maximum capactity and is now closed!
 
 # Keynote speaker
 
-## Prof. Hervé Lombaert, Montreal ![Portrait of Hervé Lombaert](/images/keynotes/herve.jpeg){: width="180" }
+## Prof. Hervé Lombaert, Montreal ![Portrait of Hervé Lombaert](/images/keynotes/herve.jpg){: width="180" }
 #### Medical Image Segmentation - from Cubicle to Lab
 
 **Abstract:** This talk gives a personal experience of what research could be from a company cubicle to a research lab. The questions never answered, the unexpected challenges. The presenter has worked in multiple environments from industry to academia, with positions ranging from intern to engineer to faculty, in teams of smaller to larger sizes. His research focuses on the statistics and analysis of shapes in the context of machine learning and medical imaging. His work on graph analysis has impacted the performance of several applications in medical imaging, from the early image segmentation techniques with graph cuts, to recent surface analysis with geometric deep learning.
