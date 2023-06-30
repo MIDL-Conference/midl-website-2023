@@ -34,7 +34,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * DRIMET: Deep Registration-based 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue
 [% / %]
 
-### Oral session 3 - Graph-based methods — 16:00–17:00
+### Oral session 3 - Graph-based methods — 16:00–16:45
 [% .papers %]
 * Tumor Budding T-cell Graphs: Assessing the Need for Resection in pT1 Colorectal Cancer Patients
 * A Geometric Deep Learning Framework for Generation of Virtual Left Ventricles as Graphs
@@ -128,7 +128,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Self-Supervised CSF Inpainting for Improved Accuracy Validation of Cortical Surface Analyses 
 [% / %]
 
-### Oral session 6 - Synthesis — 16:00–17:00
+### Oral session 6 - Synthesis — 16:00–16:45
 
 [% .papers %]
 * CP2Image: Generating high-quality single-cell images using CellProfiler representations
