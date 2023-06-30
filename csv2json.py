@@ -99,10 +99,10 @@ if __name__ == "__main__":
                 current_time: str = ""
                 cur_title: str
                 for line in program:
-                        if line.startswith("# "):
-                                current_day = line[2:-1]
-                        elif line.startswith("## "):
-                                current_time = line[3:]
+                        if line.startswith("## "):
+                                current_day = line[3:-1]
+                        elif line.startswith("### "):
+                                current_time = line[4:]
                         elif line.startswith("* "):
                                 cur_title = line[2:].strip().lower()
                                 json_dict[title_dict[cur_title]]["schedule"] += f"{current_day}: {current_time}"
