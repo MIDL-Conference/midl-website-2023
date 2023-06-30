@@ -13,10 +13,9 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 ## Monday, July 10
 
-### Oral session 1 - Segmentation 1 — 9:30–10:30
+### Oral session 1 - Segmentation 1 — 9:30–10:15
 
 [% .papers %]
-* MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation
 * SuperMask: Generating High-resolution object masks from multi-view, unaligned low-resolution MRIs
 * Model Adaptive Tooth Segmentation
 * Learning Clinically Acceptable Segmentation of Organs at Risk in Cervical Cancer Radiation Treatment from Clinically Available Annotations
@@ -52,7 +51,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels
 * Learning Clinically Acceptable Segmentation of Organs at Risk in Cervical Cancer Radiation Treatment from Clinically Available Annotations
 * Model Adaptive Tooth Segmentation
-* MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation
 * Reproducibility of the Methods in Medical Imaging with Deep Learning.
 * SuperMask: Generating High-resolution object masks from multi-view, unaligned low-resolution MRIs
 * Tumor Budding T-cell Graphs: Assessing the Need for Resection in pT1 Colorectal Cancer Patients
@@ -69,7 +67,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * MultiTask Learning for accelerated-MRI Reconstruction and Segmentation of Brain Lesions in Multiple Sclerosis
 * Multi PILOT: Feasible Learned Multiple Acquisition Trajectories For Dynamic MRI
 * Few Shot Hematopoietic Cell Classification
-* Prior Guided 3D Medical Image Landmark Localization
 * Calibration techniques for node classification using graph neural networks on medical image data
 * ST(OR)$^2$: Spatio-Temporal Object Level Reasoning for Activity Recognition in the Operating Room
 * Improved multi-site Parkinson's disease classification using neuroimaging data with counterfactual inference
@@ -237,6 +234,9 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Semi-supervised Learning with Contrastive and Topology Losses for Catheter Segmentation and Misplacement Prediction
 * DBGSL: Dynamic Brain Graph Structure Learning
 * DBGDGM: Dynamic Brain Graph Deep Generative Model
+* MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation
+* MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation
+* Prior Guided 3D Medical Image Landmark Localization
 * Evaluating Adversarial Robustness of Low dose CT Recovery
 * Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation
 * TransRP: Transformer-based PET/CT feature extraction incorporating clinical data for recurrence-free survival prediction in oropharyngeal cancer
@@ -256,11 +256,11 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion
 * Whole brain radiomics for clustered federated personalization in brain tumor segmentation
 * One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities
+* Caption generation from histopathology whole-slide images using pre-trained transformers
 [% / %]
 
-### Oral session 7 - Segmentation 2 — 9:30–10:15
+### Oral session 7 - Segmentation 2 — 9:30–10:00
 [% .papers %]
-* MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation
 * Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function
 * GeoLS: Geodesic Label Smoothing for Image Segmentation
 [% / %]
@@ -280,7 +280,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Frozen Language Model Helps ECG Zero-Shot Learning
 * GeoLS: Geodesic Label Smoothing for Image Segmentation
 * Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function
-* MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation
 * Simple and Efficient Confidence Score for Grading Whole Slide Images
 * Sparse Activations for Interpretable Disease Grading
 * Diffusion Models for Contrast Harmonization of Magnetic Resonance Images
@@ -317,7 +316,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model
 * Learning Patient Rotation Using Synthetic X-ray Images from 3D CT Volumes
 * On the robustness of regressing tumor percentage as an explainable detector in histopathology whole-slide images
-* Caption generation from histopathology whole-slide images using pre-trained transformers
 * Inter-Scale Dependency Modeling for Skin Lesion Segmentation with Transformer-based Networks
 * Visualizing chest X-ray dataset biases using GANs
 * Investigate Sex Dimorphism of Cerebral Myelination Across Lifespan by Leveraging Conditional Variational Autoencoder
