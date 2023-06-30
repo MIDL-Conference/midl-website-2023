@@ -2,6 +2,7 @@
 
 import json
 import pandas as pd
+from pathlib import Path
 from typing import Final
 from pprint import pprint
 
@@ -99,10 +100,10 @@ if __name__ == "__main__":
                 current_time: str = ""
                 cur_title: str
                 for line in program:
-                        if line.startswith("# "):
-                                current_day = line[2:-1]
-                        elif line.startswith("## "):
-                                current_time = line[3:]
+                        if line.startswith("## "):
+                                current_day = line[3:-1]
+                        elif line.startswith("### "):
+                                current_time = line[4:]
                         elif line.startswith("* "):
                                 cur_title = line[2:].strip().lower()
                                 json_dict[title_dict[cur_title]]["schedule"] += f"{current_day}: {current_time}"
@@ -113,6 +114,8 @@ if __name__ == "__main__":
                 # print(row["Paper #"], row["Video link"])
                 if str(row["Video link"]) != "nan":
                         json_dict[row["Paper #"]]["yt_full"] = row["Video link"]
+        for pdf_ in Path("static/virtual/poster").glob("*.pdf"):
+                json_dict[pdf_.stem]["slides"] = str(pdf_).replace("static", "")
 
         print(f">>> Writing {len(papers)} to papers.json...")
         with open("papers.json", 'w') as sink:

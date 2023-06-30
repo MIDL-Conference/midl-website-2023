@@ -111,7 +111,7 @@
         "pmlr_url": "",
         "schedule": "Monday, July 10: MIDL board special session \u2014 10:30\u201311:00\nMonday, July 10: Posters \u2014 11:00\u201312:00 & 15:00\u201316:00\nWednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/O029.pdf",
         "title": "Reproducibility of the Methods in Medical Imaging with Deep Learning.",
         "yt_full": "https://youtu.be/bNSsm0ptYmQ"
     },
@@ -651,7 +651,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P015.pdf",
         "title": "A Robust Mean Teacher Framework for Semi-Supervised Cell Detection in Histopathology Images",
         "yt_full": "https://youtu.be/SKtcmrrD6xo"
     },
@@ -696,7 +696,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P032.pdf",
         "title": "Rotation-Scale Equivariant Steerable Filters",
         "yt_full": "https://youtu.be/8PtZLo2Ihkw"
     },
@@ -756,7 +756,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P046.pdf",
         "title": "Video pretraining advances 3D deep learning on chest CT tasks",
         "yt_full": null
     },
@@ -861,7 +861,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P070.pdf",
         "title": "Semantic Segmentation of 3D Medical Images Through a Kaleidoscope: Data from the Osteoarthritis Initiative",
         "yt_full": "https://youtu.be/03tWDzQfWlg"
     },
@@ -921,7 +921,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P076.pdf",
         "title": "Multimodal Image-Text Matching Improves Retrieval-based Chest X-Ray Report Generation",
         "yt_full": "https://youtu.be/jqlCFoU-w2U"
     },
@@ -951,7 +951,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P082.pdf",
         "title": "Incomplete learning of multi-modal connectome for brain disorder diagnosis via modal-mixup and deep supervision",
         "yt_full": "https://youtu.be/4eLh_bwT_Tk"
     },
@@ -1011,7 +1011,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P090.pdf",
         "title": "Spatial Correspondence between Graph Neural Network-Segmented Images",
         "yt_full": "https://youtu.be/Sh0d9CWp9dE"
     },
@@ -1146,7 +1146,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P129.pdf",
         "title": "Semi-supervised Learning with Contrastive and Topology Losses for Catheter Segmentation and Misplacement Prediction",
         "yt_full": "https://youtu.be/pLRFWXEZqI0"
     },
@@ -1221,7 +1221,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P138.pdf",
         "title": "DBGSL: Dynamic Brain Graph Structure Learning",
         "yt_full": null
     },
@@ -1236,7 +1236,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P139.pdf",
         "title": "DBGDGM: Dynamic Brain Graph Deep Generative Model",
         "yt_full": null
     },
@@ -1386,7 +1386,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P166.pdf",
         "title": "Evaluating Adversarial Robustness of Low dose CT Recovery",
         "yt_full": "https://youtu.be/2kI-rHBoaIg"
     },
@@ -1446,7 +1446,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P187.pdf",
         "title": "TransRP: Transformer-based PET/CT feature extraction incorporating clinical data for recurrence-free survival prediction in oropharyngeal cancer",
         "yt_full": "https://youtu.be/eVOpC1VjZms"
     },
@@ -1461,7 +1461,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P189.pdf",
         "title": "Trainable Prototype Enhanced Multiple Instance Learning for Whole Slide Image Classification",
         "yt_full": "https://youtu.be/kXBiZna7TtA"
     },
@@ -1476,7 +1476,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P199.pdf",
         "title": "FUSQA: Fetal Ultrasound Segmentation Quality Assessment",
         "yt_full": "https://youtu.be/aTh7U5oZn2I"
     },
@@ -1491,7 +1491,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P200.pdf",
         "title": "SegPrompt: Using Segmentation Map as a Better Prompt to Finetune Deep Models for Kidney Stone Classification",
         "yt_full": "https://youtu.be/h7haeTLoBOg"
     },
@@ -1566,7 +1566,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P215.pdf",
         "title": "Domain adaptation using optimal transport for invariant learning using histopathology datasets",
         "yt_full": "https://youtu.be/GMYL3fUc2_o"
     },
@@ -1896,7 +1896,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S016.pdf",
         "title": "Real-Time Quantitative Ultrasound and Radar Knowledge-Based Medical Imaging",
         "yt_full": "https://youtu.be/IJH6QYnmvU0"
     },
@@ -1971,7 +1971,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S023.pdf",
         "title": "A Deep-Learning Based Approach to Accelerate Groundtruth Generation for Biomarker Status Identification in Chromogenic Duplex Images",
         "yt_full": "https://youtu.be/_uSRj0-Pqe4"
     },
@@ -2031,7 +2031,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S027.pdf",
         "title": "Generation of Multi-modal Brain Tumor MRIs with Disentangled Latent Diffusion Model",
         "yt_full": null
     },
@@ -2076,7 +2076,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S030.pdf",
         "title": "Data-Free One-Shot Federated Regression: An Application to Bone Age Assessment",
         "yt_full": "https://youtu.be/yBLyiUdDKYw"
     },
@@ -2271,7 +2271,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S050.pdf",
         "title": "High-Fidelity Image Synthesis from Pulmonary Nodule Lesion Maps using Semantic Diffusion Model",
         "yt_full": "https://youtu.be/06peLTLnmWg"
     },
@@ -2301,7 +2301,7 @@
         "pmlr_url": "",
         "schedule": "Monday, July 10: Posters \u2014 11:00\u201312:00 & 15:00\u201316:00\nWednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S055.pdf",
         "title": "Learning Retinal Representations from Multi-modal Imaging via Contrastive Pre-training",
         "yt_full": "https://youtu.be/8anDKyJuGe0"
     },
@@ -2511,7 +2511,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S082.pdf",
         "title": "Uncertainty for Proximal Femur Fractures Classification",
         "yt_full": "https://youtu.be/izOwvBHzejA"
     },
@@ -2571,7 +2571,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S087.pdf",
         "title": "Overcoming Interpretability and Accuracy Trade-off in Medical Imaging",
         "yt_full": "https://youtu.be/oYUIteM6cz0"
     },
@@ -2706,7 +2706,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S098.pdf",
         "title": "\u03b6-mixup: Richer, More Realistic Mixing of Multiple Images",
         "yt_full": "https://youtu.be/K1Y8kMdaqjo"
     },
@@ -2751,7 +2751,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S101.pdf",
         "title": "Facial AU-aid hypomimia diagnosis based on GNN",
         "yt_full": null
     },
@@ -2841,7 +2841,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S112.pdf",
         "title": "Automatic Contrast Phase Detection on Abdominal Computed Tomography using Clinically-Inspired Techniques",
         "yt_full": "https://youtu.be/LFzh_w15hSM"
     },
@@ -2871,7 +2871,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S114.pdf",
         "title": "Expansion Microscopy Imaging Isotropic Restoration by Unsupervised Deep Learning",
         "yt_full": "https://youtu.be/YFv548AxPy8"
     },
@@ -2901,7 +2901,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S117.pdf",
         "title": "An end-to-end Complex-valued Neural Network approach for k-space interpolation in Parallel MRI",
         "yt_full": "https://youtu.be/2PaXyy2Bwt4"
     },
@@ -2946,7 +2946,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S120.pdf",
         "title": "Improving Zero-Shot Detection of Low Prevalence Chest Pathologies using Domain Pre-trained Language Models",
         "yt_full": "https://youtu.be/mFRnZMp_X_k"
     },
@@ -2961,7 +2961,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S121.pdf",
         "title": "Bias Field Correction in MRI with Hampel Noise Denoising Diffusion Probabilistic Model",
         "yt_full": "https://youtu.be/EEXFKUhQdO4"
     },
@@ -2991,7 +2991,7 @@
         "pmlr_url": "",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S123.pdf",
         "title": "CSGAN: a consistent structural GAN for AS-OCT image despeckling by image translation",
         "yt_full": "https://youtu.be/gtY_1ATeWAo"
     },
