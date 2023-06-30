@@ -153,7 +153,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Ultra-NeRF: Neural Radiance Fields for Ultrasound Imaging
 * Vision-Language Modelling For Radiological Imaging and Reports In The Low Data Regime
 * Making Your First Choice: To Address Cold Start Problem in Medical Active Learning
-* Robust Detection Outcome: A Metric for Pathology Detection in Medical Images
 * SVD-DIP: Overcoming the Overfitting Problem in DIP-based CT Reconstruction
 * ViT-AE++: Improving Vision Transformer Autoencoder for Self-supervised Medical Image Representations
 * Deformable Image Registration with Geometry-informed Implicit Neural Representations
@@ -237,6 +236,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation
 * MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation
 * Prior Guided 3D Medical Image Landmark Localization
+* Robust Detection Outcome: A Metric for Pathology Detection in Medical Images
 * Evaluating Adversarial Robustness of Low dose CT Recovery
 * Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation
 * TransRP: Transformer-based PET/CT feature extraction incorporating clinical data for recurrence-free survival prediction in oropharyngeal cancer
