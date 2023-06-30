@@ -2,6 +2,7 @@
 
 import json
 import pandas as pd
+from pathlib import Path
 from typing import Final
 from pprint import pprint
 
@@ -113,6 +114,8 @@ if __name__ == "__main__":
                 # print(row["Paper #"], row["Video link"])
                 if str(row["Video link"]) != "nan":
                         json_dict[row["Paper #"]]["yt_full"] = row["Video link"]
+        for pdf_ in Path("static/virtual/poster").glob("*.pdf"):
+                json_dict[pdf_.stem]["slides"] = str(pdf_).replace("static", "")
 
         print(f">>> Writing {len(papers)} to papers.json...")
         with open("papers.json", 'w') as sink:

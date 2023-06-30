@@ -24,7 +24,7 @@ pages/program.md: pages/program.txt papers.json
 	$(CC) gen_scientific_program.py $^ $@
 
 pages/virtual_event.md: pages/virtual_event.txt papers.json
-	$(CC) gen_scientific_program.py $^ $@
+	$(CC) gen_virtual_program.py $^ $@
 
 
 FORCE:
