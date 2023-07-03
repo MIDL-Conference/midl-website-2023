@@ -79,7 +79,8 @@ class Paper():
         paper='{self.url}',
         proceedings='{self.pmlr_url}',
         abstract={sanitized_abstract},
-        video='{self.yt_full}')
+        video='{self.yt_full}',
+        lede='Poster location: {self.poster_loc}')
 }}}}'''
 
 
