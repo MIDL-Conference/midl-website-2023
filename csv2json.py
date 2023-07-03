@@ -130,19 +130,19 @@ if __name__ == "__main__":
 
         print(">>> Parsing poster locations")
         print(">> Monday")
-        monday_df = pd.read_csv("posterBoardNumbersMon.csv")
+        monday_df = pd.read_csv("posterBoardNumbersMon.csv", header=None)
         for _, row in monday_df.iterrows():
                 title_: str = row[1].strip().lower()
                 json_dict[title_dict[title_]]["poster_loc"] = row[0]
 
         print(">> Tuesday")
-        tuesday_df = pd.read_csv("posterBoardNumbersTue.csv")
+        tuesday_df = pd.read_csv("posterBoardNumbersTue.csv", header=None)
         for _, row in tuesday_df.iterrows():
                 title_ = row[1].strip().lower()
                 json_dict[title_dict[title_]]["poster_loc"] = row[0]
 
         print(">> Wednesday")
-        wednesday_df = pd.read_csv("posterBoardNumbersWeds.csv")
+        wednesday_df = pd.read_csv("posterBoardNumbersWeds.csv", header=None)
         for _, row in wednesday_df.iterrows():
                 title_ = row[1].strip().lower()
                 json_dict[title_dict[title_]]["poster_loc"] = row[0]
