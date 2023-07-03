@@ -54,8 +54,8 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         'Attila Simkó, Anders Garpebring, Joakim Jonsson, Tufve Nyholm, Tommy Löfstedt',
         openreview='https://openreview.net/forum?id=_P59zCfXOt',
         pdf='https://openreview.net/pdf?id=_P59zCfXOt',
-        id='P029',
-        paper='papers/P029',
+        id='O029',
+        paper='papers/O029',
         proceedings='',
         abstract='Concerns about the reproducibility of deep learning research are more prominent than ever, with no clear solution in sight. The Medical Imaging with Deep Learning (MIDL) conference has made advancements in employing empirical rigor with regards to reproducibility by advocating open access, and recently also recommending authors to make their code public---both aspects being adopted by the majority of the conference submissions.  We have evaluated all accepted full paper submissions to MIDL between 2018 and 2022 using established, but adjusted guidelines addressing the reproducibility and quality of the public repositories.  The evaluations show that publishing repositories and using public datasets are becoming more popular, which helps traceability, but the quality of the repositories shows room for improvement in every aspect. Merely 22% of all submissions contain a repository that was deemed repeatable using our evaluations.  From the commonly encountered issues during the evaluations, we propose a set of guidelines for machine learning-related research for medical imaging applications, adjusted specifically for future submissions to MIDL. We presented our results to future MIDL authors who were eager to continue an open discussion on the topic of code reproducibility.',
         video='https://youtu.be/bNSsm0ptYmQ')
@@ -208,8 +208,8 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         'Attila Simkó, Anders Garpebring, Joakim Jonsson, Tufve Nyholm, Tommy Löfstedt',
         openreview='https://openreview.net/forum?id=_P59zCfXOt',
         pdf='https://openreview.net/pdf?id=_P59zCfXOt',
-        id='P029',
-        paper='papers/P029',
+        id='O029',
+        paper='papers/O029',
         proceedings='',
         abstract='Concerns about the reproducibility of deep learning research are more prominent than ever, with no clear solution in sight. The Medical Imaging with Deep Learning (MIDL) conference has made advancements in employing empirical rigor with regards to reproducibility by advocating open access, and recently also recommending authors to make their code public---both aspects being adopted by the majority of the conference submissions.  We have evaluated all accepted full paper submissions to MIDL between 2018 and 2022 using established, but adjusted guidelines addressing the reproducibility and quality of the public repositories.  The evaluations show that publishing repositories and using public datasets are becoming more popular, which helps traceability, but the quality of the repositories shows room for improvement in every aspect. Merely 22% of all submissions contain a repository that was deemed repeatable using our evaluations.  From the commonly encountered issues during the evaluations, we propose a set of guidelines for machine learning-related research for medical imaging applications, adjusted specifically for future submissions to MIDL. We presented our results to future MIDL authors who were eager to continue an open discussion on the topic of code reproducibility.',
         video='https://youtu.be/bNSsm0ptYmQ')
@@ -1447,8 +1447,8 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         'Attila Simkó, Anders Garpebring, Joakim Jonsson, Tufve Nyholm, Tommy Löfstedt',
         openreview='https://openreview.net/forum?id=_P59zCfXOt',
         pdf='https://openreview.net/pdf?id=_P59zCfXOt',
-        id='P029',
-        paper='papers/P029',
+        id='O029',
+        paper='papers/O029',
         proceedings='',
         abstract='Concerns about the reproducibility of deep learning research are more prominent than ever, with no clear solution in sight. The Medical Imaging with Deep Learning (MIDL) conference has made advancements in employing empirical rigor with regards to reproducibility by advocating open access, and recently also recommending authors to make their code public---both aspects being adopted by the majority of the conference submissions.  We have evaluated all accepted full paper submissions to MIDL between 2018 and 2022 using established, but adjusted guidelines addressing the reproducibility and quality of the public repositories.  The evaluations show that publishing repositories and using public datasets are becoming more popular, which helps traceability, but the quality of the repositories shows room for improvement in every aspect. Merely 22% of all submissions contain a repository that was deemed repeatable using our evaluations.  From the commonly encountered issues during the evaluations, we propose a set of guidelines for machine learning-related research for medical imaging applications, adjusted specifically for future submissions to MIDL. We presented our results to future MIDL authors who were eager to continue an open discussion on the topic of code reproducibility.',
         video='https://youtu.be/bNSsm0ptYmQ')

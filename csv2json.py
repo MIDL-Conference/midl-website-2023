@@ -25,7 +25,7 @@ if __name__ == "__main__":
                                 cur_session = line[4:]
                         elif line.startswith("* "):
                                 cur_title = line[2:].strip().lower()
-                                if "Oral" in cur_session:
+                                if "Oral" in cur_session or "MIDL board" in cur_session:
                                         orals_list.append(cur_title)
 
         full_papers_df = pd.read_csv("full_papers.csv")
@@ -79,8 +79,10 @@ if __name__ == "__main__":
                                           sort_keys=True))
 
         # Hardcoded list here of retracted papers
-        for id_ in ['S074', 'S089', 'S128']:
+        RETRACTED: list[str] = ['S074', 'S089', 'S128']
+        for id_ in RETRACTED:
                 del json_dict[id_]
+        print(f">> Retrated {len(RETRACTED)} papers ({RETRACTED})")
 
         print(f">> Patched json with {patch_file}")
 
@@ -160,7 +162,7 @@ if __name__ == "__main__":
                 paper = Paper(**json_dict[id_])
                 if paper.oral and paper.poster_loc == "Virtual only":
                         print(f"WARNING: {paper.conf_id} - {paper.title} has no poster location")
-                if paper.oral and not any("Oral" in s for s in paper.schedule):
+                if paper.oral and not any("Oral" in s or "MIDL board" in s for s in paper.schedule):
                         print(f"WARNING: {paper.conf_id} - {paper.title} has no oral session")
 
         print(f">>> Writing {len(papers)} to papers.json...")

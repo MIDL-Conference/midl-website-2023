@@ -111,6 +111,22 @@
         "title": "Unsupervised Stain Decomposition via Inversion Regulation for Multiplex Immunohistochemistry Images",
         "yt_full": null
     },
+    "O029": {
+        "abstract": "Concerns about the reproducibility of deep learning research are more prominent than ever, with no clear solution in sight. The Medical Imaging with Deep Learning (MIDL) conference has made advancements in employing empirical rigor with regards to reproducibility by advocating open access, and recently also recommending authors to make their code public---both aspects being adopted by the majority of the conference submissions.  We have evaluated all accepted full paper submissions to MIDL between 2018 and 2022 using established, but adjusted guidelines addressing the reproducibility and quality of the public repositories.  The evaluations show that publishing repositories and using public datasets are becoming more popular, which helps traceability, but the quality of the repositories shows room for improvement in every aspect. Merely 22% of all submissions contain a repository that was deemed repeatable using our evaluations.  From the commonly encountered issues during the evaluations, we propose a set of guidelines for machine learning-related research for medical imaging applications, adjusted specifically for future submissions to MIDL. We presented our results to future MIDL authors who were eager to continue an open discussion on the topic of code reproducibility.",
+        "authors": "Attila Simk\u00f3, Anders Garpebring, Joakim Jonsson, Tufve Nyholm, Tommy L\u00f6fstedt",
+        "award": "",
+        "id": "29",
+        "melba": "False",
+        "or_id": "_P59zCfXOt",
+        "oral": "True",
+        "pmlr_url": "",
+        "poster_loc": "M07",
+        "schedule": "Monday, July 10: MIDL board special session \u2014 10:30\u201311:00\nMonday, July 10: Posters \u2014 11:00\u201312:00 & 15:00\u201316:00\nWednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
+        "short": "False",
+        "slides": "/virtual/poster/O029.pdf",
+        "title": "Reproducibility of the Methods in Medical Imaging with Deep Learning.",
+        "yt_full": "https://youtu.be/bNSsm0ptYmQ"
+    },
     "O037": {
         "abstract": "Due to the low signal-to-noise ratio and limited resolution of functional MRI data, and the high complexity of natural images, reconstructing a visual stimulus from human brain fMRI measurements is a challenging task. In this work, we propose a novel approach for this task, which we call Cortex2Image, to decode visual stimuli with high semantic fidelity and rich fine-grained detail. In particular, we train a surface-based convolutional network model that maps from brain response to semantic image features first (Cortex2Semantic).  We then combine this model with a high-quality image generator (Instance-Conditioned GAN) to train another mapping from brain response to fine-grained image features using a variational approach (Cortex2Detail). Image reconstructions obtained by our proposed method achieve state-of-the-art semantic fidelity, while yielding good fine-grained similarity with the ground-truth stimulus. Our code is available on \\url{https://github.com/zijin-gu/meshconv-decoding.git}.",
         "authors": "Zijin Gu, Keith Jamison, Amy Kuceyeski, Mert R. Sabuncu",
@@ -654,22 +670,6 @@
         "slides": "",
         "title": "ViT-AE++: Improving Vision Transformer Autoencoder for Self-supervised Medical Image Representations",
         "yt_full": null
-    },
-    "P029": {
-        "abstract": "Concerns about the reproducibility of deep learning research are more prominent than ever, with no clear solution in sight. The Medical Imaging with Deep Learning (MIDL) conference has made advancements in employing empirical rigor with regards to reproducibility by advocating open access, and recently also recommending authors to make their code public---both aspects being adopted by the majority of the conference submissions.  We have evaluated all accepted full paper submissions to MIDL between 2018 and 2022 using established, but adjusted guidelines addressing the reproducibility and quality of the public repositories.  The evaluations show that publishing repositories and using public datasets are becoming more popular, which helps traceability, but the quality of the repositories shows room for improvement in every aspect. Merely 22% of all submissions contain a repository that was deemed repeatable using our evaluations.  From the commonly encountered issues during the evaluations, we propose a set of guidelines for machine learning-related research for medical imaging applications, adjusted specifically for future submissions to MIDL. We presented our results to future MIDL authors who were eager to continue an open discussion on the topic of code reproducibility.",
-        "authors": "Attila Simk\u00f3, Anders Garpebring, Joakim Jonsson, Tufve Nyholm, Tommy L\u00f6fstedt",
-        "award": "",
-        "id": "29",
-        "melba": "False",
-        "or_id": "_P59zCfXOt",
-        "oral": "False",
-        "pmlr_url": "",
-        "poster_loc": "M07",
-        "schedule": "Monday, July 10: MIDL board special session \u2014 10:30\u201311:00\nMonday, July 10: Posters \u2014 11:00\u201312:00 & 15:00\u201316:00\nWednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
-        "short": "False",
-        "slides": "/virtual/poster/P029.pdf",
-        "title": "Reproducibility of the Methods in Medical Imaging with Deep Learning.",
-        "yt_full": "https://youtu.be/bNSsm0ptYmQ"
     },
     "P031": {
         "abstract": "Multi-scale representations have proven to be a powerful tool since they can take into account both the fine-grained details of objects in an image as well as the broader context. Inspired by this, we propose a novel dual-branch transformer network that operates on two different scales to encode global contextual dependencies while preserving local information. To learn in a self-supervised fashion, our approach considers the semantic dependency that exists between different scales to generate a supervisory signal for inter-scale consistency and also imposes a spatial stability loss within the scale for self-supervised content clustering. While intra-scale and inter-scale consistency losses aim to increase features similarly within the cluster, we propose to include a cross-entropy loss function on top of the clustering score map to effectively model each cluster distribution and increase the decision boundary between clusters. Iteratively our algorithm learns to assign each pixel to a semantically related cluster to produce the segmentation map. Extensive experiments on skin lesion and lung segmentation datasets show the superiority of our method compared to the state-of-the-art (SOTA) approaches. ",

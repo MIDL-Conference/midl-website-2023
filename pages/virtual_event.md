@@ -17,8 +17,8 @@ title: "Virtual event"
 
 | || |
 |:-:||:-:|
-| ![P015](/virtual/thumbnail/P015.jpg) |![P029](/virtual/thumbnail/P029.jpg) |
-| [P015 - A Robust Mean Teacher Framework for Semi-Supervised Cell Detection in Histopathology Images](papers/P015.html) |[P029 - Reproducibility of the Methods in Medical Imaging with Deep Learning.](papers/P029.html)  |
+| ![P015](/virtual/thumbnail/P015.jpg) |![O029](/virtual/thumbnail/O029.jpg) |
+| [P015 - A Robust Mean Teacher Framework for Semi-Supervised Cell Detection in Histopathology Images](papers/P015.html) |[O029 - Reproducibility of the Methods in Medical Imaging with Deep Learning.](papers/O029.html)  |
 | <hr> | <hr> |
 | ![P032](/virtual/thumbnail/P032.jpg) |![P046](/virtual/thumbnail/P046.jpg) |
 | [P032 - Rotation-Scale Equivariant Steerable Filters](papers/P032.html) |[P046 - Video pretraining advances 3D deep learning on chest CT tasks](papers/P046.html)  |
