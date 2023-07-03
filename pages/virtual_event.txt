@@ -9,6 +9,10 @@ title: "Virtual event"
         }
 </style>
 
+## Full-paper track
+
+| || |
+|:-:||:-:|
 * A Robust Mean Teacher Framework for Semi-Supervised Cell Detection in Histopathology Images
 * Reproducibility of the Methods in Medical Imaging with Deep Learning.
 * Rotation-Scale Equivariant Steerable Filters
@@ -33,6 +37,11 @@ title: "Virtual event"
 * Domain adaptation using optimal transport for invariant learning using histopathology datasets
 * One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities
 * MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging
+
+## Short paper track
+
+| || |
+|:-:||:-:|
 * Real-Time Quantitative Ultrasound and Radar Knowledge-Based Medical Imaging
 * A Deep-Learning Based Approach to Accelerate Groundtruth Generation for Biomarker Status Identification in Chromogenic Duplex Images
 * Generation of Multi-modal Brain Tumor MRIs with Disentangled Latent Diffusion Model
