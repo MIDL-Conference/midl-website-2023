@@ -42,49 +42,16 @@ give poster-presenters an opportunity to convince attendees to visit their poste
 
 Please consult the table for your speaking slot:
 
-<style>
-#teaser td {
-    border: 1px solid gray;
-    font-size: 80%;
-    border-collapse: separate;
-    border-spacing: 1px;
-    color: #222222;
-    padding: 5px;
-    text-align: left;
-}
-</style>
 
-<table id="teaser" cellspacing="0" border="0">
-    <tr>
-        <td> Poster Day/Type </td>
-        <td> Teaser Presentation Time </td>
-    </tr>
-    <tr>
-        <td> Monday Full Papers </td>
-        <td> Mon at 10:45 </td>
-    </tr>
-    <tr>
-        <td> Monday short papers </td>
-        <td> Mon at 11:00 </td>
-    </tr>
-    <tr>
-        <td> Tuesday short papers </td>
-        <td> Mon 4:45 </td>
-    </tr>
-    <tr>
-        <td> Tuesday full papers </td>
-        <td> Tues 10:15 </td>
-    </tr>
-    <tr>
-        <td> Wednesday short papers </td>
-        <td> Tues 4:45 </td>
-    </tr>
-    <tr>
-        <td> Wednesday full/MELBA papers</td>
-        <td> Weds 10:00 </td>
-    </tr>
-    <tr>
-</table>
+| Poster Day/Type |  Teaser Presentation Time |
+|:----------------|:-------------------------:|
+| Monday Full Papers |  Mon 10:45 |
+| Monday short papers |  Mon 11:00 |
+| Tuesday short papers |  Mon 16:45 |
+| Tuesday full papers |  Tues 10:15 |
+| Wednesday short papers |  Tues 16:45 |
+| Wednesday full/MELBA paper |  Weds 10:00 |
+
 
 &nbsp;
 
