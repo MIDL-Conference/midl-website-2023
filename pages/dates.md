@@ -283,27 +283,27 @@ jQuery(document).ready(function($) {
         <!--<td id='t01' class='col2' rowspan=17></td>-->
         <td id='t01s' class='col2' style="writing-mode: vertical-lr; text-align: center" align="center" valign=middle colspan=2 rowspan=17><a href='doctoral.html'>Doctoral Symposium</a></td>
         <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>Welcome at SLC B/C</td>
-        <td id='clr03' class='col4' rowspan=3 colspan=2 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Neuroimaging (5 orals, session ends at 10:15) at SLC B/C</td>
+        <td id='clr03' class='col4' rowspan=3 colspan=2 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Neuroimaging (5 orals) + poster teasers at SLC B/C  </td>
         <td id='clr01' class='col5' rowspan=1 colspan=3 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Sponsor talk at SLC B/C</td>
         <td id='t01' class='col6' rowspan=9 colspan=1 style="writing-mode: vertical-lr; text-align: center" align="center" valign=center colspan=1><a href="workshop_agenda.html">NVIDIA Workshop at FGH Atrium</a></td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>9:30 - 10:00</td>
-        <td id='clr03' class='col2' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Segmentation 1 (4 orals) at SLC B/C</td>
-        <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Segmentation 2 (3 orals) at SLC  B/C (ends at 10:15AM)</td>
+        <td id='clr03' class='col2' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Segmentation 1 (3 orals) + poster teasers at SLC B/C  </td>
+        <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align:center" align="center" valign=center><a href='program.html' style='color:black'>Segmentation 2 (2 orals) + poster teasers at SLC  B/C </td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>10:00 - 10:30</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>10:30 - 11:00</td> 
-        <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>MIDL Special Session: SLC B&C</td>
-        <td id='clr05' class='col4' rowspan=3 colspan=2 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
-        <td id='clr05' class='col5' rowspan=3 colspan=3 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A and BoT (starts at 10:15AM)</td>
+        <td id='clr01' class='col3' rowspan=1 colspan=2 style="text-align: center" align="center" valign=center>MIDL Special Session: SLC B/C</td>
+        <td id='clr05' class='col4' rowspan=3 colspan=2 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A/BoT</td>
+        <td id='clr05' class='col5' rowspan=3 colspan=3 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A/BoT </td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:00 - 11:30</td>
-        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
+        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center;" align="center" valign=center>Poster teasers + Coffee & Posters SLC A/BoT</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:30 - 12:00</td>
@@ -338,17 +338,17 @@ jQuery(document).ready(function($) {
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>15:00 - 15:30</td>
-        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
-        <td id='clr05' class='col4' rowspan=2 colspan=2 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
-        <td id='clr05' class='col5' rowspan=2 colspan=3 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A and BoT</td>
+        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A/BoT</td>
+        <td id='clr05' class='col4' rowspan=2 colspan=2 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A/BoT</td>
+        <td id='clr05' class='col5' rowspan=2 colspan=3 style="text-align: center;" align="center" valign=center>Coffee & Posters SLC A/BoT</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>15:30 - 16:00</td> 
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>16:00 - 16:30</td>
-        <td id='clr03' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Graph-based methods (3 orals, session ends at 4:45 PM) at SLC B/C</td>
-        <td id='clr03' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Synthesis (3 orals, session ends at 4:45 PM) at SLC B/C</td>
+        <td id='clr03' class='col3' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Graph-based methods (3 orals) + poster teasers at SLC B/C </td>
+        <td id='clr03' class='col4' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html' style='color:black'>Synthesis (3 orals) + poster teasers at SLC B/C </td>
         <td id='clr01' class='col5' rowspan=1 colspan=3 style="text-align: center" align="center" valign=center>Awards & closing SLC B/C</td>
      </tr>
      <tr>
