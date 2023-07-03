@@ -13,6 +13,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 ## Monday, July 10
 
+<a name="o1"></a>
 ### Oral session 1 - Segmentation 1 — 9:30–10:15
 
 [% .papers %]
@@ -62,6 +63,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 }}
 [% / %]
 
+<a name="o2"></a>
 ### Oral session 2 - Unsupervised/weakly supervised methods — 14:00–15:00
 [% .papers %]
 {{ paper('Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels',
@@ -106,6 +108,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 }}
 [% / %]
 
+<a name="o3"></a>
 ### Oral session 3 - Graph-based methods — 16:00–16:45
 [% .papers %]
 {{ paper('Tumor Budding T-cell Graphs: Assessing the Need for Resection in pT1 Colorectal Cancer Patients',
@@ -703,6 +706,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 ## Tuesday, July 11
 
+<a name="o4"></a>
 ### Oral session 4 - Neuroimaging — 9:00–10:15
 
 [% .papers %]
@@ -758,6 +762,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 }}
 [% / %]
 
+<a name="o5"></a>
 ### Oral session 5 - Semi-supervised/self-supervised methods — 14:00–15:00
 
 [% .papers %]
@@ -803,6 +808,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 }}
 [% / %]
 
+<a name="o6"></a>
 ### Oral session 6 - Synthesis — 16:00–16:45
 
 [% .papers %]
@@ -1915,7 +1921,9 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 }}
 [% / %]
 
+<a name="o7"></a>
 ### Oral session 7 - Segmentation 2 — 9:30–10:00
+
 [% .papers %]
 {{ paper('Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function',
         'Febrian Rachmadi, Charissa Poon, henrik skibbe',
@@ -1939,7 +1947,9 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 }}
 [% / %]
 
+<a name="o8"></a>
 ### Oral session 8 - Computer-assisted diagnosis — 14:00–15:00
+
 [% .papers %]
 {{ paper('Sparse Activations for Interpretable Disease Grading',
         'Kerol R. Djoumessi Donteu, Indu Ilanchezian, Laura Kühlewein, Hanna Faber, Christian F. Baumgartner, Bubacarr Bah, Philipp Berens, Lisa M. Koch',
