@@ -41,12 +41,12 @@ if __name__ == "__main__":
     long_: list[Paper] = [p for p in matched_papers if not p.short]
     short_: list[Paper] = [p for p in matched_papers if p.short]
 
-    print(">>> Long sorted papers")
-    for p_ in sorted(long_, key=lambda p: p.id):
-        print(f"* {p_.title}")
-    print(">>> Short sorted papers")
-    for p_ in sorted(short_, key=lambda p: p.id):
-        print(f"* {p_.title}")
+    # print(">>> Long sorted papers")
+    # for p_ in sorted(long_, key=lambda p: p.id):
+    #     print(f"* {p_.title}")
+    # print(">>> Short sorted papers")
+    # for p_ in sorted(short_, key=lambda p: p.id):
+    #     print(f"* {p_.title}")
 
     print(len(matches))
 

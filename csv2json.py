@@ -16,26 +16,30 @@ ORAL_SESSIONS: Final[list[str]] = ["(midl board session)", "Computer-assisted di
 if __name__ == "__main__":
         papers: list[Paper] = []
 
-        midl_orals_df = pd.read_csv("midl_oral_sessions.csv")
-
-        session_map: dict[str, str] = {}
-        for index, row in midl_orals_df.iterrows():
-                session_map[row["title"]] = row["session"]
-
-        # pprint(session_map)
-        assert set(session_map.values()) == set(ORAL_SESSIONS)
-        print(f">>> Loaded {len(set(session_map.values()))} sessions")
+        orals_list: list[str] = []
+        with open("pages/program.txt", 'r') as program:
+                cur_session: str = ""
+                cur_title: str
+                for line in program:
+                        if line.startswith("### "):
+                                cur_session = line[4:]
+                        elif line.startswith("* "):
+                                cur_title = line[2:].strip().lower()
+                                if "Oral" in cur_session:
+                                        orals_list.append(cur_title)
 
         full_papers_df = pd.read_csv("full_papers.csv")
 
         title: str
         for _, full_row in full_papers_df.iterrows():
                 title = full_row["title"]
-                is_oral = title in session_map
+                is_oral = title.strip().lower() in orals_list
 
                 paper = Paper(id=full_row["number"], title=title, authors=full_row["authors"],
                               or_id=full_row["forum"].split('=')[1], oral=str(is_oral),
                               short="False", abstract=full_row["abstract"], ignore_schedule=True)
+                if is_oral != (full_row["decision"] == 'Accept (Oral)'):
+                        print(f"NOTE: {paper.conf_id} downgraded from Oral to poster")
                 papers.append(paper)
 
         print(f">>> Loaded {len(full_papers_df)} full papers")
@@ -62,7 +66,7 @@ if __name__ == "__main__":
                 patch: dict = json.load(pf)
 
         print(">>> Patching")
-        pprint(patch)
+        # pprint(patch)
 
         for p in patch:
                 json_dict[p] |= patch[p]
@@ -73,6 +77,10 @@ if __name__ == "__main__":
                                           cls=PaperEncoder,
                                           indent=4,
                                           sort_keys=True))
+
+        # Hardcoded list here of retracted papers
+        for id_ in ['S074', 'S089', 'S128']:
+                del json_dict[id_]
 
         print(f">> Patched json with {patch_file}")
 
@@ -100,8 +108,8 @@ if __name__ == "__main__":
         title_dict: dict[str, str] = {json_dict[pid]["title"].strip().lower(): pid for pid in json_dict}
         with open("pages/program.txt", 'r') as program:
                 current_day: str = ""
-                current_time: str = ""
-                cur_title: str
+                current_time = ""
+                cur_title
                 for line in program:
                         if line.startswith("## "):
                                 current_day = line[3:-1]
@@ -139,6 +147,21 @@ if __name__ == "__main__":
                 title_ = row[1].strip().lower()
                 json_dict[title_dict[title_]]["poster_loc"] = row[0]
         del title_
+
+        print(">>> Regenerate IDs, final sanity checks...")
+        # Go back and forth, because some conf_id might have changed due to the patch, bit messy
+        # (for instance, orals that are downgrade to posters)
+        json_dict = json.loads(json.dumps({p.conf_id: p for p in [Paper(**v, ignore_schedule=True)
+                                                                  for v in json_dict.values()]},
+                                          cls=PaperEncoder,
+                                          indent=4,
+                                          sort_keys=True))
+        for id_ in json_dict:
+                paper = Paper(**json_dict[id_])
+                if paper.oral and paper.poster_loc == "Virtual only":
+                        print(f"WARNING: {paper.conf_id} - {paper.title} has no poster location")
+                if paper.oral and not any("Oral" in s for s in paper.schedule):
+                        print(f"WARNING: {paper.conf_id} - {paper.title} has no oral session")
 
         print(f">>> Writing {len(papers)} to papers.json...")
         with open("papers.json", 'w') as sink:

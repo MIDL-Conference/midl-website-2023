@@ -14,7 +14,7 @@ $(TARGET): FORCE
 
 all: papers.json pages/papers pages/program.md pages/virtual_event.md $(TARGET)
 
-papers.json: full_papers.csv short_papers.csv midl_oral_sessions.csv
+papers.json: full_papers.csv short_papers.csv
 	$(CC) csv2json.py
 
 pages/papers: pages/papers/paper.template papers.json

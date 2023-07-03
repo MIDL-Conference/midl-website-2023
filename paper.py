@@ -1,7 +1,6 @@
 #!/usr/bin/env python3.11
 
 import json
-from typing import List
 
 
 class Paper():
@@ -11,7 +10,7 @@ class Paper():
                  award: str = "", pmlr_url="", slides: str = "", yt_full: str | None = None):
         self.id: int = int(id)
         self.title: str = title
-        self.authors: List[str] = authors.split('|')
+        self.authors: list[str] = authors.split('|')
         self.or_id: str = or_id
         self.oral: bool = oral == "True"
         self.melba: bool = melba == "True"
@@ -34,7 +33,7 @@ class Paper():
             pmlr_id: str = self.pmlr_url.split('/')[-1].replace(".html", "")
             self.pdf_url = f"http://proceedings.mlr.press/v121/{pmlr_id}/{pmlr_id}.pdf"
 
-        self.schedule: List[str]
+        self.schedule: list[str]
         if not schedule:
             self.schedule = []
         else:

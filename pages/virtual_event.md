@@ -13,14 +13,14 @@ title: "Virtual event"
 
 | || |
 |:-:||:-:|
-| ![P015](/virtual/thumbnail/P015.jpg) |![O029](/virtual/thumbnail/O029.jpg) |
-| [P015 - A Robust Mean Teacher Framework for Semi-Supervised Cell Detection in Histopathology Images](papers/P015.html) |[O029 - Reproducibility of the Methods in Medical Imaging with Deep Learning.](papers/O029.html)  |
+| ![P015](/virtual/thumbnail/P015.jpg) |![P029](/virtual/thumbnail/P029.jpg) |
+| [P015 - A Robust Mean Teacher Framework for Semi-Supervised Cell Detection in Histopathology Images](papers/P015.html) |[P029 - Reproducibility of the Methods in Medical Imaging with Deep Learning.](papers/P029.html)  |
 | <hr> | <hr> |
 | ![P032](/virtual/thumbnail/P032.jpg) |![P046](/virtual/thumbnail/P046.jpg) |
 | [P032 - Rotation-Scale Equivariant Steerable Filters](papers/P032.html) |[P046 - Video pretraining advances 3D deep learning on chest CT tasks](papers/P046.html)  |
 | <hr> | <hr> |
-| ![O053](/virtual/thumbnail/O053.jpg) |![P055](/virtual/thumbnail/P055.jpg) |
-| [O053 - Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion](papers/O053.html) |[P055 - MEDIMP: 3D Medical Images and clinical Prompts for renal transplant representation learning](papers/P055.html)  |
+| ![P053](/virtual/thumbnail/P053.jpg) |![P055](/virtual/thumbnail/P055.jpg) |
+| [P053 - Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion](papers/P053.html) |[P055 - MEDIMP: 3D Medical Images and clinical Prompts for renal transplant representation learning](papers/P055.html)  |
 | <hr> | <hr> |
 | ![P070](/virtual/thumbnail/P070.jpg) |![P075](/assets/logos/logo_gold.png) |
 | [P070 - Semantic Segmentation of 3D Medical Images Through a Kaleidoscope: Data from the Osteoarthritis Initiative](papers/P070.html) |[P075 - Whole brain radiomics for clustered federated personalization in brain tumor segmentation](papers/P075.html)  |
@@ -37,8 +37,8 @@ title: "Virtual event"
 | ![P139](/virtual/thumbnail/P139.jpg) |![P166](/virtual/thumbnail/P166.jpg) |
 | [P139 - DBGDGM: Dynamic Brain Graph Deep Generative Model](papers/P139.html) |[P166 - Evaluating Adversarial Robustness of Low dose CT Recovery](papers/P166.html)  |
 | <hr> | <hr> |
-| ![O179](/assets/logos/logo_gold.png) |![P187](/virtual/thumbnail/P187.jpg) |
-| [O179 - Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation](papers/O179.html) |[P187 - TransRP: Transformer-based PET/CT feature extraction incorporating clinical data for recurrence-free survival prediction in oropharyngeal cancer](papers/P187.html)  |
+| ![P179](/assets/logos/logo_gold.png) |![P187](/virtual/thumbnail/P187.jpg) |
+| [P179 - Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation](papers/P179.html) |[P187 - TransRP: Transformer-based PET/CT feature extraction incorporating clinical data for recurrence-free survival prediction in oropharyngeal cancer](papers/P187.html)  |
 | <hr> | <hr> |
 | ![P189](/virtual/thumbnail/P189.jpg) |![P199](/virtual/thumbnail/P199.jpg) |
 | [P189 - Trainable Prototype Enhanced Multiple Instance Learning for Whole Slide Image Classification](papers/P189.html) |[P199 - FUSQA: Fetal Ultrasound Segmentation Quality Assessment](papers/P199.html)  |

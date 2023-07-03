@@ -3,7 +3,7 @@
         "abstract": "Using state-of-the-art deep learning (DL) models to diagnose cancer from histology data presents several challenges related to the nature and availability of labeled histology images, including image size, stain variations, and label ambiguity. In addition, cancer grading and the localization of regions of interest (ROIs) in such images normally rely on both image- and pixel-level labels, with the latter requiring a costly annotation process. Deep weakly-supervised object localization (WSOL) methods provide different strategies for low-cost training of DL models. Given only image-class annotations, these methods can be trained to simultaneously classify an image, and yield class activation maps (CAMs) for ROI localization. This paper provides a review of deep WSOL methods to identify and locate diseases in histology images, without the need for pixel-level annotations. We propose a taxonomy in which these methods are divided into bottom-up and top-down methods according to the information flow in models. Although the latter have seen only limited progress, recent bottom-up methods are currently  driving a lot of progress with the use of deep WSOL methods. Early works focused on designing different spatial pooling functions. However, those methods quickly peaked in term of localization accuracy and revealed a major limitation, namely, \u2013 the under-activation of CAMs, which leads to high false negative localization. Subsequent works aimed to alleviate this shortcoming and recover the complete object from the background, using different techniques such as perturbation, self-attention, shallow features, pseudo-annotation, and task decoupling.<br>In the present paper, representative deep WSOL methods from our taxonomy are also evaluated and compared in terms of classification and localization accuracy using two challenging public histology datasets \u2013 one for colon cancer (GlaS), and a second, for breast cancer (CAMELYON16). Overall, the results indicate poor localization performance, particularly for generic methods that were initially designed to process natural images. Methods designed to address the challenges posed by histology data often use priors such as ROI size, or additional pixel-wise supervision estimated from a pre-trained classifier, allowing them to achieve better results. However, all the methods suffer from high false positive/negative localization. Classification performance is mainly affected by the model selection process, which uses either the classification or the localization metric. Finally, four key challenges are identified in the application of deep WSOL methods in histology, namely, \u2013 under-/over-activation of CAMs, sensitivity to thresholding, and model selection \u2013 and research avenues are provided to mitigate them. Our code is publicly available at <a href='https://github.com/jeromerony/survey_wsl_histology'>https://github.com/jeromerony/survey_wsl_histology</a>",
         "authors": "J\u00e9r\u00f4me Rony, Soufiane Belharbi, Jose Dolz, Ismail, Ben Ayed, Luke McCaffrey, Eric Granger",
         "award": null,
-        "id": 4,
+        "id": "4",
         "melba": "True",
         "or_id": "",
         "oral": "False",
@@ -11,13 +11,15 @@
         "poster_loc": "W46",
         "schedule": "Wednesday, July 12: Posters \u2014 10:15\u201312:00 & 15:00\u201316:00\n",
         "short": "False",
-        "title": "Deep Weakly-Supervised Learning Methods for Classification and Localization in Histology Images: A Survey"
+        "slides": "",
+        "title": "Deep Weakly-Supervised Learning Methods for Classification and Localization in Histology Images: A Survey",
+        "yt_full": null
     },
     "M018": {
         "abstract": "We propose neural network layers that explicitly combine frequency and image feature representations and show that they can be used as a versatile building block for reconstruction from frequency space data. Our work is motivated by the challenges arising in MRI acquisition where the signal is a corrupted Fourier transform of the desired image. The proposed joint learning schemes enable both correction of artifacts native to the frequency space and manipulation of image space representations to reconstruct coherent image structures at every layer of the network. This is in contrast to most current deep learning approaches for image reconstruction that treat frequency and image space features separately and often operate exclusively in one of the two spaces. We demonstrate the advantages of joint convolutional learning for a variety of tasks, including motion correction, denoising, reconstruction from undersampled acquisitions, and combined undersampling and motion correction on simulated and real world multicoil MRI data. The joint models produce consistently high quality output images across all tasks and datasets. When integrated into a state of the art unrolled optimization network with physics-inspired data consistency constraints for undersampled reconstruction, the proposed architectures significantly improve the optimization landscape, which yields an order of magnitude reduction of training time. This result suggests that joint representations are particularly well suited for MRI signals in deep learning networks. Our code and pretrained models are publicly available at <a href='https://github.com/nalinimsingh/interlacer'>https://github.com/nalinimsingh/interlacer</a>.",
         "authors": "Nalini M., Singh, Juan Eugenio, Iglesias, Elfar Adalsteinsson, Adrian V., Dalca, Polina Golland",
         "award": null,
-        "id": 18,
+        "id": "18",
         "melba": "True",
         "or_id": "",
         "oral": "False",
@@ -25,7 +27,9 @@
         "poster_loc": "W45",
         "schedule": "Wednesday, July 12: Posters \u2014 10:15\u201312:00 & 15:00\u201316:00\n",
         "short": "False",
-        "title": "Joint Frequency and Image Space Learning for MRI Reconstruction and Analysis"
+        "slides": "",
+        "title": "Joint Frequency and Image Space Learning for MRI Reconstruction and Analysis",
+        "yt_full": null
     },
     "O006": {
         "abstract": "Interpreting deep learning models typically relies on post-hoc saliency map techniques. However, these techniques often fail to serve as actionable feedback to clinicians, and they do not directly explain the decision mechanism. Here, we propose an inherently interpretable model that combines the feature extraction capabilities of deep neural networks with advantages of sparse linear models in interpretability. Our approach relies on straightforward but effective changes to a deep bag-of-local-features model (BagNet). These modifications lead to fine-grained and sparse class evidence maps which, by design, correctly reflect the model's decision mechanism. Our model is particularly suited for tasks which rely on characterising regions of interests that are very small and distributed over the image. In this paper, we focus on the detection of Diabetic Retinopathy, which is characterised by the progressive presence of small retinal lesions on fundus images. We observed good classification accuracy despite our added sparseness constraint. In addition, our model precisely highlighted retinal lesions relevant for the disease grading task and excluded irrelevant regions from the decision mechanism. The results suggest our sparse BagNet model can be a useful tool for clinicians as it allows efficient inspection of the model predictions and facilitates clinicians' and patients' trust.",
@@ -107,38 +111,6 @@
         "title": "Unsupervised Stain Decomposition via Inversion Regulation for Multiplex Immunohistochemistry Images",
         "yt_full": null
     },
-    "O029": {
-        "abstract": "Concerns about the reproducibility of deep learning research are more prominent than ever, with no clear solution in sight. The Medical Imaging with Deep Learning (MIDL) conference has made advancements in employing empirical rigor with regards to reproducibility by advocating open access, and recently also recommending authors to make their code public---both aspects being adopted by the majority of the conference submissions.  We have evaluated all accepted full paper submissions to MIDL between 2018 and 2022 using established, but adjusted guidelines addressing the reproducibility and quality of the public repositories.  The evaluations show that publishing repositories and using public datasets are becoming more popular, which helps traceability, but the quality of the repositories shows room for improvement in every aspect. Merely 22% of all submissions contain a repository that was deemed repeatable using our evaluations.  From the commonly encountered issues during the evaluations, we propose a set of guidelines for machine learning-related research for medical imaging applications, adjusted specifically for future submissions to MIDL. We presented our results to future MIDL authors who were eager to continue an open discussion on the topic of code reproducibility.",
-        "authors": "Attila Simk\u00f3, Anders Garpebring, Joakim Jonsson, Tufve Nyholm, Tommy L\u00f6fstedt",
-        "award": "",
-        "id": "29",
-        "melba": "False",
-        "or_id": "_P59zCfXOt",
-        "oral": "True",
-        "pmlr_url": "",
-        "poster_loc": "M07",
-        "schedule": "Monday, July 10: MIDL board special session \u2014 10:30\u201311:00\nMonday, July 10: Posters \u2014 11:00\u201312:00 & 15:00\u201316:00\nWednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
-        "short": "False",
-        "slides": "/virtual/poster/O029.pdf",
-        "title": "Reproducibility of the Methods in Medical Imaging with Deep Learning.",
-        "yt_full": "https://youtu.be/bNSsm0ptYmQ"
-    },
-    "O031": {
-        "abstract": "Multi-scale representations have proven to be a powerful tool since they can take into account both the fine-grained details of objects in an image as well as the broader context. Inspired by this, we propose a novel dual-branch transformer network that operates on two different scales to encode global contextual dependencies while preserving local information. To learn in a self-supervised fashion, our approach considers the semantic dependency that exists between different scales to generate a supervisory signal for inter-scale consistency and also imposes a spatial stability loss within the scale for self-supervised content clustering. While intra-scale and inter-scale consistency losses aim to increase features similarly within the cluster, we propose to include a cross-entropy loss function on top of the clustering score map to effectively model each cluster distribution and increase the decision boundary between clusters. Iteratively our algorithm learns to assign each pixel to a semantically related cluster to produce the segmentation map. Extensive experiments on skin lesion and lung segmentation datasets show the superiority of our method compared to the state-of-the-art (SOTA) approaches. ",
-        "authors": "Sanaz Karimijafarbigloo, Reza Azad, Amirhossein Kazerouni, Dorit Merhof",
-        "award": "",
-        "id": "31",
-        "melba": "False",
-        "or_id": "pp2raGSU3Wx",
-        "oral": "True",
-        "pmlr_url": "",
-        "poster_loc": "Virtual only",
-        "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
-        "short": "False",
-        "slides": "",
-        "title": "MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation",
-        "yt_full": null
-    },
     "O037": {
         "abstract": "Due to the low signal-to-noise ratio and limited resolution of functional MRI data, and the high complexity of natural images, reconstructing a visual stimulus from human brain fMRI measurements is a challenging task. In this work, we propose a novel approach for this task, which we call Cortex2Image, to decode visual stimuli with high semantic fidelity and rich fine-grained detail. In particular, we train a surface-based convolutional network model that maps from brain response to semantic image features first (Cortex2Semantic).  We then combine this model with a high-quality image generator (Instance-Conditioned GAN) to train another mapping from brain response to fine-grained image features using a variational approach (Cortex2Detail). Image reconstructions obtained by our proposed method achieve state-of-the-art semantic fidelity, while yielding good fine-grained similarity with the ground-truth stimulus. Our code is available on \\url{https://github.com/zijin-gu/meshconv-decoding.git}.",
         "authors": "Zijin Gu, Keith Jamison, Amy Kuceyeski, Mert R. Sabuncu",
@@ -201,22 +173,6 @@
         "short": "False",
         "slides": "",
         "title": "Model Adaptive Tooth Segmentation",
-        "yt_full": null
-    },
-    "O053": {
-        "abstract": "We propose an image synthesis mechanism for multi-sequence prostate MR images conditioned on text, to control lesion presence and sequence, as well as to generate paired bi-parametric images conditioned on images e.g. for generating diffusion-weighted MR from T2-weighted MR for paired data, which are two challenging tasks in pathological image synthesis. Our proposed mechanism utilises and builds upon the recent stable diffusion model by proposing image-based conditioning for paired data generation. We validate our method using 2D image slices from real suspected prostate cancer patients. The realism of the synthesised images is validated by means of a blind expert evaluation for identifying real versus fake images, where a radiologist with 4 years experience reading urological MR only achieves 59.4\\% accuracy across all tested sequences (where chance is 50\\%). For the first time, we evaluate the realism of the generated pathology by blind expert identification of the presence of suspected lesions, where we find that the clinician performs similarly for both real and synthesised images, with a 2.9 percentage point difference in lesion identification accuracy between real and synthesised images, demonstrating the potentials in radiological training purposes. Furthermore, we also show that a machine learning model, trained for lesion identification, shows better performance (76.2\\% vs 70.4\\%, statistically significant improvement) when trained with real data augmented by synthesised data as opposed to training with only real images, demonstrating usefulness for model training.",
-        "authors": "Shaheer U. Saeed, Tom Syer, Wen Yan, Qianye Yang, Mark Emberton, Shonit Punwani, Matthew John Clarkson, Dean Barratt, Yipeng Hu",
-        "award": "",
-        "id": "53",
-        "melba": "False",
-        "or_id": "3QnxUSzR7iu",
-        "oral": "True",
-        "pmlr_url": "",
-        "poster_loc": "Virtual only",
-        "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
-        "short": "False",
-        "slides": "/virtual/poster/O053.pdf",
-        "title": "Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion",
         "yt_full": null
     },
     "O058": {
@@ -313,22 +269,6 @@
         "short": "False",
         "slides": "",
         "title": "Learning Clinically Acceptable Segmentation of Organs at Risk in Cervical Cancer Radiation Treatment from Clinically Available Annotations",
-        "yt_full": null
-    },
-    "O115": {
-        "abstract": "Human brain tumours and more specifically gliomas are amongst the most life-threatening cancers which usually arise from abnormal growth of the glial stem cells. In practice, Magnetic Resonance Imaging (MRI) modalities, which offer different contrasts to elucidate tissue properties, provide comprehensive information regarding the brain\u2019s structure and also potential clues for detecting tumors. Hence, multi-modal MRI is commonly utilized for the diagnosis of brain tumors. However, since the set of acquired modalities may vary between clinical sites, brain tumor studies may miss one or two MRI modalities. To address missing information in an end-to-end manner, we propose MMCFormer, a novel missing modality compensation network. Our strategy builds upon 3D efficient transformer blocks and uses a co-training strategy to effectively train a missing modality network. To ensure feature consistency in a multi-scale fashion, MMCFormer utilizes global contextual agreement modules in each scale of the encoders. Furthermore, to transfer modality-specific representations, we propose to incorporate auxiliary tokens in the bottleneck stage to model interaction between full and missing-modality paths. On top of that, we include feature consistency losses to reduce the domain gap in network prediction and increase the prediction reliability for the missing modality path. Extensive experiments on the BraTS 2018 dataset demonstrate the benefits of our approach compared to competing approaches. The implementation code will be publicly available after the paper acceptance.",
-        "authors": "Sanaz Karimijafarbigloo, Reza Azad, Amirhossein Kazerouni, Saeed Ebadollahi, Dorit Merhof",
-        "award": "",
-        "id": "115",
-        "melba": "False",
-        "or_id": "PD0ASSmvlE",
-        "oral": "True",
-        "pmlr_url": "",
-        "poster_loc": "Virtual only",
-        "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
-        "short": "False",
-        "slides": "",
-        "title": "MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation",
         "yt_full": null
     },
     "O125": {
@@ -441,22 +381,6 @@
         "short": "False",
         "slides": "",
         "title": "Data Consistent Deep Rigid MRI Motion Correction",
-        "yt_full": null
-    },
-    "O179": {
-        "abstract": "Semi-supervised medical image segmentation has attracted much attention in recent years because of the high cost of medical image annotations. In this paper, we propose a novel Inherent Consistent Learning (ICL) method, aims to learn robust semantic category representations through the semantic consistency guidance of labeled and unlabeled data to help segmentation. In practice, we introduce two external modules, namely Supervised Semantic Proxy Adaptor (SSPA) and Unsupervised Semantic Consistent Learner (USCL) that is based on the attention mechanism to align the semantic category representations of labeled and unlabeled data, as well as update the global semantic representations over the entire training set. The proposed ICL is a plug-and-play scheme for various network architectures, and the two modules are not involved in the testing stage. Experimental results on three public benchmarks show that the proposed method can outperform the state-of-the-art, especially when the number of annotated data is extremely limited. Code is available at: https://github.com/zhuye98/ICL.git",
-        "authors": "Ye Zhu, Jie Yang, Siqi Liu, Ruimao Zhang",
-        "award": "",
-        "id": "179",
-        "melba": "False",
-        "or_id": "diXhe9kUnQ",
-        "oral": "True",
-        "pmlr_url": "",
-        "poster_loc": "Virtual only",
-        "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
-        "short": "False",
-        "slides": "",
-        "title": "Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation",
         "yt_full": null
     },
     "O190": {
@@ -731,6 +655,38 @@
         "title": "ViT-AE++: Improving Vision Transformer Autoencoder for Self-supervised Medical Image Representations",
         "yt_full": null
     },
+    "P029": {
+        "abstract": "Concerns about the reproducibility of deep learning research are more prominent than ever, with no clear solution in sight. The Medical Imaging with Deep Learning (MIDL) conference has made advancements in employing empirical rigor with regards to reproducibility by advocating open access, and recently also recommending authors to make their code public---both aspects being adopted by the majority of the conference submissions.  We have evaluated all accepted full paper submissions to MIDL between 2018 and 2022 using established, but adjusted guidelines addressing the reproducibility and quality of the public repositories.  The evaluations show that publishing repositories and using public datasets are becoming more popular, which helps traceability, but the quality of the repositories shows room for improvement in every aspect. Merely 22% of all submissions contain a repository that was deemed repeatable using our evaluations.  From the commonly encountered issues during the evaluations, we propose a set of guidelines for machine learning-related research for medical imaging applications, adjusted specifically for future submissions to MIDL. We presented our results to future MIDL authors who were eager to continue an open discussion on the topic of code reproducibility.",
+        "authors": "Attila Simk\u00f3, Anders Garpebring, Joakim Jonsson, Tufve Nyholm, Tommy L\u00f6fstedt",
+        "award": "",
+        "id": "29",
+        "melba": "False",
+        "or_id": "_P59zCfXOt",
+        "oral": "False",
+        "pmlr_url": "",
+        "poster_loc": "M07",
+        "schedule": "Monday, July 10: MIDL board special session \u2014 10:30\u201311:00\nMonday, July 10: Posters \u2014 11:00\u201312:00 & 15:00\u201316:00\nWednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
+        "short": "False",
+        "slides": "/virtual/poster/P029.pdf",
+        "title": "Reproducibility of the Methods in Medical Imaging with Deep Learning.",
+        "yt_full": "https://youtu.be/bNSsm0ptYmQ"
+    },
+    "P031": {
+        "abstract": "Multi-scale representations have proven to be a powerful tool since they can take into account both the fine-grained details of objects in an image as well as the broader context. Inspired by this, we propose a novel dual-branch transformer network that operates on two different scales to encode global contextual dependencies while preserving local information. To learn in a self-supervised fashion, our approach considers the semantic dependency that exists between different scales to generate a supervisory signal for inter-scale consistency and also imposes a spatial stability loss within the scale for self-supervised content clustering. While intra-scale and inter-scale consistency losses aim to increase features similarly within the cluster, we propose to include a cross-entropy loss function on top of the clustering score map to effectively model each cluster distribution and increase the decision boundary between clusters. Iteratively our algorithm learns to assign each pixel to a semantically related cluster to produce the segmentation map. Extensive experiments on skin lesion and lung segmentation datasets show the superiority of our method compared to the state-of-the-art (SOTA) approaches. ",
+        "authors": "Sanaz Karimijafarbigloo, Reza Azad, Amirhossein Kazerouni, Dorit Merhof",
+        "award": "",
+        "id": "31",
+        "melba": "False",
+        "or_id": "pp2raGSU3Wx",
+        "oral": "False",
+        "pmlr_url": "",
+        "poster_loc": "Virtual only",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
+        "short": "False",
+        "slides": "",
+        "title": "MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation",
+        "yt_full": null
+    },
     "P032": {
         "abstract": "Incorporating either rotation equivariance or scale equivariance into CNNs has proved to be effective in improving models\u2019 generalization performance. However, jointly integrating rotation and scale equivariance into CNNs has not been widely explored. Digital histology imaging of biopsy tissue can be captured at arbitrary orientation and magnification and stored at different resolutions, resulting in cells appearing in different scales. When conventional CNNs are applied to histopathology image analysis, the generalization performance of models is limited because 1) a part of the parameters of filters are trained to fit rotation transformation, thus decreasing the capability of learning other discriminative features; 2) fixed-size filters trained on images at a given scale fail to generalize to those at different scales. To deal with these issues, we propose the Rotation-Scale Equivariant Steerable Filter (RSESF), which incorporates steerable filters and scale-space theory. The RSESF contains copies of filters that are linear combinations of Gaussian filters, whose direction is controlled by directional derivatives and whose scale parameters are trainable but constrained to span disjoint scales in successive layers of the network. Extensive experiments on two gland segmentation datasets demonstrate that our method outperforms other approaches, with much fewer trainable parameters and fewer GPU resources required. The source code is available at: https://github.com/ynulonger/RSESF.",
         "authors": "Yilong Yang, Srinandan Dasmahapatra, Sasan Mahmoodi",
@@ -825,6 +781,22 @@
         "short": "False",
         "slides": "",
         "title": "3D Medical Axial Transformer: A Lightweight Transformer Model for 3D Brain Tumor Segmentation",
+        "yt_full": null
+    },
+    "P053": {
+        "abstract": "We propose an image synthesis mechanism for multi-sequence prostate MR images conditioned on text, to control lesion presence and sequence, as well as to generate paired bi-parametric images conditioned on images e.g. for generating diffusion-weighted MR from T2-weighted MR for paired data, which are two challenging tasks in pathological image synthesis. Our proposed mechanism utilises and builds upon the recent stable diffusion model by proposing image-based conditioning for paired data generation. We validate our method using 2D image slices from real suspected prostate cancer patients. The realism of the synthesised images is validated by means of a blind expert evaluation for identifying real versus fake images, where a radiologist with 4 years experience reading urological MR only achieves 59.4\\% accuracy across all tested sequences (where chance is 50\\%). For the first time, we evaluate the realism of the generated pathology by blind expert identification of the presence of suspected lesions, where we find that the clinician performs similarly for both real and synthesised images, with a 2.9 percentage point difference in lesion identification accuracy between real and synthesised images, demonstrating the potentials in radiological training purposes. Furthermore, we also show that a machine learning model, trained for lesion identification, shows better performance (76.2\\% vs 70.4\\%, statistically significant improvement) when trained with real data augmented by synthesised data as opposed to training with only real images, demonstrating usefulness for model training.",
+        "authors": "Shaheer U. Saeed, Tom Syer, Wen Yan, Qianye Yang, Mark Emberton, Shonit Punwani, Matthew John Clarkson, Dean Barratt, Yipeng Hu",
+        "award": "",
+        "id": "53",
+        "melba": "False",
+        "or_id": "3QnxUSzR7iu",
+        "oral": "False",
+        "pmlr_url": "",
+        "poster_loc": "Virtual only",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
+        "short": "False",
+        "slides": "/virtual/poster/P053.pdf",
+        "title": "Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion",
         "yt_full": null
     },
     "P054": {
@@ -1129,6 +1101,22 @@
         "short": "False",
         "slides": "",
         "title": "Convolutional-recurrent neural networks approximate diffusion tractography from T1-weighted MRI and associated anatomical context",
+        "yt_full": null
+    },
+    "P115": {
+        "abstract": "Human brain tumours and more specifically gliomas are amongst the most life-threatening cancers which usually arise from abnormal growth of the glial stem cells. In practice, Magnetic Resonance Imaging (MRI) modalities, which offer different contrasts to elucidate tissue properties, provide comprehensive information regarding the brain\u2019s structure and also potential clues for detecting tumors. Hence, multi-modal MRI is commonly utilized for the diagnosis of brain tumors. However, since the set of acquired modalities may vary between clinical sites, brain tumor studies may miss one or two MRI modalities. To address missing information in an end-to-end manner, we propose MMCFormer, a novel missing modality compensation network. Our strategy builds upon 3D efficient transformer blocks and uses a co-training strategy to effectively train a missing modality network. To ensure feature consistency in a multi-scale fashion, MMCFormer utilizes global contextual agreement modules in each scale of the encoders. Furthermore, to transfer modality-specific representations, we propose to incorporate auxiliary tokens in the bottleneck stage to model interaction between full and missing-modality paths. On top of that, we include feature consistency losses to reduce the domain gap in network prediction and increase the prediction reliability for the missing modality path. Extensive experiments on the BraTS 2018 dataset demonstrate the benefits of our approach compared to competing approaches. The implementation code will be publicly available after the paper acceptance.",
+        "authors": "Sanaz Karimijafarbigloo, Reza Azad, Amirhossein Kazerouni, Saeed Ebadollahi, Dorit Merhof",
+        "award": "",
+        "id": "115",
+        "melba": "False",
+        "or_id": "PD0ASSmvlE",
+        "oral": "False",
+        "pmlr_url": "",
+        "poster_loc": "Virtual only",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
+        "short": "False",
+        "slides": "",
+        "title": "MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation",
         "yt_full": null
     },
     "P117": {
@@ -1497,6 +1485,22 @@
         "short": "False",
         "slides": "",
         "title": "OFDVDnet: A Sensor Fusion Approach for Video Denoising in Fluorescence-Guided Surgery",
+        "yt_full": null
+    },
+    "P179": {
+        "abstract": "Semi-supervised medical image segmentation has attracted much attention in recent years because of the high cost of medical image annotations. In this paper, we propose a novel Inherent Consistent Learning (ICL) method, aims to learn robust semantic category representations through the semantic consistency guidance of labeled and unlabeled data to help segmentation. In practice, we introduce two external modules, namely Supervised Semantic Proxy Adaptor (SSPA) and Unsupervised Semantic Consistent Learner (USCL) that is based on the attention mechanism to align the semantic category representations of labeled and unlabeled data, as well as update the global semantic representations over the entire training set. The proposed ICL is a plug-and-play scheme for various network architectures, and the two modules are not involved in the testing stage. Experimental results on three public benchmarks show that the proposed method can outperform the state-of-the-art, especially when the number of annotated data is extremely limited. Code is available at: https://github.com/zhuye98/ICL.git",
+        "authors": "Ye Zhu, Jie Yang, Siqi Liu, Ruimao Zhang",
+        "award": "",
+        "id": "179",
+        "melba": "False",
+        "or_id": "diXhe9kUnQ",
+        "oral": "False",
+        "pmlr_url": "",
+        "poster_loc": "Virtual only",
+        "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
+        "short": "False",
+        "slides": "",
+        "title": "Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation",
         "yt_full": null
     },
     "P181": {
@@ -2587,22 +2591,6 @@
         "title": "3D Supervised Contrastive-Learning Network for Classification of Ovarian Neoplasms",
         "yt_full": null
     },
-    "S074": {
-        "abstract": " Deep learning models are effective for medical image analysis tasks such as segmentation. However, training these models requires substantial amounts of labeled data, most often annotated manually. This labelling process is tedious and time-consuming for human annotators. Interactive segmentation tools seek to alleviate this problem, most often by predicting completed segmentations from limited user inputs. But for a new domain or task, the segmentation task is ambiguous. To address this setting, we propose PRISM, a model for PRobabilistic Interactive Segmentation for Medical images that takes an input image and partial segmentation, and predicts possible next steps for the segmentation. The user can choose among multiple predicted larger segmentations and perhaps make a small number of corrections before inputting the updated segmentation back into the system. By predicting multiple larger partial segmentations at each iteration rather than attempting to fully complete the segmentation in one step, the system enables users to produce accurate segmentations for not previously seen objects with fewer corrections. We demonstrate PRISM can be used to interactively complete unseen ambiguous segmentation tasks through experiments with abdominal CT from WORD.",
-        "authors": "Hallee E. Wong, Marianne Rakic, John Guttag, Adrian V Dalca",
-        "award": "",
-        "id": "74",
-        "melba": "False",
-        "or_id": "JomCgnkmlX",
-        "oral": "False",
-        "pmlr_url": "",
-        "poster_loc": "Virtual only",
-        "schedule": "",
-        "short": "True",
-        "slides": "",
-        "title": "PRISM: Probabilistic Interactive Segmentation for Medical Images",
-        "yt_full": null
-    },
     "S076": {
         "abstract": "Diffusion models have recently delivered state-of-the-art performance for MRI reconstruction with improved robustness. However, these models still fail when there is a large distribution shift, and their long inference times impede their clinical utility. In this paper, we present regularization by denoising diffusion processes for MRI reconstruction (RED-diff). RED-diff formulates sampling as stochastic optimization, and outperforms diffusion baselines in PSNR/SSIM with 3x faster inference while using the same amount of memory.",
         "authors": "Batu Ozturkler, Morteza Mardani, Arash Vahdat, Jan Kautz, John M. Pauly",
@@ -2761,22 +2749,6 @@
         "short": "True",
         "slides": "",
         "title": "Assessing Deep Learning Methodologies for Automatic Segmentation of the Velopharyngeal Mechanism",
-        "yt_full": null
-    },
-    "S089": {
-        "abstract": "Semantic segmentation is a crucial task in computational pathology (CPath), but deep learning (DL) methods often struggle to generalise well to different domains due to colour variations and domain shifts. Multicentric data acquisition can help mitigate this challenge, but it is often difficult to obtain large-scale pathology data. In this study, we propose a framework incorporating logit perturbations, a form of logit augmentation that leverages predictive uncertainty, stain normalisation and class weights to improve segmentation performance when trained on limited unicentric annotated data. Our experiments demonstrate that the proposed framework boosts the baseline Dice-score by 6\\% when trained with unicentric centre data.",
-        "authors": "Raja Muhammad Saad Bashir, Talha Qaiser, SHAN E AHMED RAZA, Nasir Rajpoot",
-        "award": "",
-        "id": "89",
-        "melba": "False",
-        "or_id": "lfcgIxHsvG",
-        "oral": "False",
-        "pmlr_url": "",
-        "poster_loc": "Virtual only",
-        "schedule": "",
-        "short": "True",
-        "slides": "",
-        "title": "Mitigating Representation Shift in Unicentric Data through Logit Perturbation for Robust Histology Image Segmentation",
         "yt_full": null
     },
     "S090": {
@@ -3225,22 +3197,6 @@
         "short": "True",
         "slides": "",
         "title": "Semi-supervised learning in perivascular space segmentation using MRI images",
-        "yt_full": null
-    },
-    "S128": {
-        "abstract": "Generative models have been very popular in generating real high-quality images. Diffusion probabilistic models in particular, have generated realistic natural images from textual input. However, they do not perform that well for medical data. Synthetic images may play a crucial role in privacy-preserving artificial intelligence and can also be used to augment small datasets. In this work, we propose using Large Language Language Models (LLMs) as prompt refiners for text-to-image latent diffusion models. We train the StableDiffusion model on the MedICaT dataset to generate medically correct images. Our results indicate that using an LLM to refine the prompts and input it to the latent diffusion model assists in generating accurate medical images.",
-        "authors": "Krishna Sri Ipsit Mantri, Nevasini Sasikumar",
-        "award": "",
-        "id": "128",
-        "melba": "False",
-        "or_id": "EyVbjdbQZwt",
-        "oral": "False",
-        "pmlr_url": "",
-        "poster_loc": "Virtual only",
-        "schedule": "",
-        "short": "True",
-        "slides": "",
-        "title": "Synthetic Medical Image Generation Using Latent Diffusion Models and Large Language Models",
         "yt_full": null
     },
     "S129": {
