@@ -13,19 +13,9 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 ## Monday, July 10
 
-### Oral session 1 - Segmentation 1 — 9:30–10:30
+### Oral session 1 - Segmentation 1 — 9:30–10:15
 
 [% .papers %]
-{{ paper('MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation',
-        'Sanaz Karimijafarbigloo, Reza Azad, Amirhossein Kazerouni, Dorit Merhof',
-        openreview='https://openreview.net/forum?id=pp2raGSU3Wx',
-        pdf='https://openreview.net/pdf?id=pp2raGSU3Wx',
-        id='O031',
-        paper='papers/O031',
-        proceedings='',
-        abstract='Multi-scale representations have proven to be a powerful tool since they can take into account both the fine-grained details of objects in an image as well as the broader context. Inspired by this, we propose a novel dual-branch transformer network that operates on two different scales to encode global contextual dependencies while preserving local information. To learn in a self-supervised fashion, our approach considers the semantic dependency that exists between different scales to generate a supervisory signal for inter-scale consistency and also imposes a spatial stability loss within the scale for self-supervised content clustering. While intra-scale and inter-scale consistency losses aim to increase features similarly within the cluster, we propose to include a cross-entropy loss function on top of the clustering score map to effectively model each cluster distribution and increase the decision boundary between clusters. Iteratively our algorithm learns to assign each pixel to a semantically related cluster to produce the segmentation map. Extensive experiments on skin lesion and lung segmentation datasets show the superiority of our method compared to the state-of-the-art (SOTA) approaches. ',
-        video='None')
-}}
 {{ paper('SuperMask: Generating High-resolution object masks from multi-view, unaligned low-resolution MRIs',
         'Hanxue Gu, Hongyu He, Roy Colglazier, Jordan Axelrod, Robert French, Maciej A Mazurowski',
         openreview='https://openreview.net/forum?id=oi5psB9R_l',
@@ -116,7 +106,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 }}
 [% / %]
 
-### Oral session 3 - Graph-based methods — 16:00–17:00
+### Oral session 3 - Graph-based methods — 16:00–16:45
 [% .papers %]
 {{ paper('Tumor Budding T-cell Graphs: Assessing the Need for Resection in pT1 Colorectal Cancer Patients',
         'Linda Studer, JM Bokhorst, I Nagtegaal, Inti Zlobec, Heather Dawson, Andreas Fischer',
@@ -212,16 +202,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         paper='papers/O048',
         proceedings='',
         abstract='Automatic 3-dimensional tooth segmentation on intraoral scans (IOS) plays a pivotal role in computer-aided orthodontic treatments. In practice, deploying existing well-trained models to different medical centers suffers from two main problems: (1) the data distribution shifts between existing and new centers, (2) the data in the existing center is usually not allowed to share while annotating additional data in the new center is time-consuming and expensive. In this paper, we propose a Model Adaptive Tooth Segmentation (MATS) framework to alleviate these issues. Taking the trained model from a source center as input, MATS adapts it to different target centers without data transmission or additional annotations, as inspired by the source data-free domain adaptation (SFDA) paradigm. The model adaptation in MATS is realized by a tooth-level feature prototype learning module, a progressive pseudo-labeling module and a tooth-prior regularized information maximization loss. Experiments on a dataset with tooth abnormalities and a real-world cross-center dataset show that MATS can consistently surpass existing baselines. The effectiveness is further verified with extensive ablation studies and statistical analysis, demonstrating its applicability for privacy-preserving tooth segmentation in real-world digital dentistry. ',
-        video='None')
-}}
-{{ paper('MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation',
-        'Sanaz Karimijafarbigloo, Reza Azad, Amirhossein Kazerouni, Dorit Merhof',
-        openreview='https://openreview.net/forum?id=pp2raGSU3Wx',
-        pdf='https://openreview.net/pdf?id=pp2raGSU3Wx',
-        id='O031',
-        paper='papers/O031',
-        proceedings='',
-        abstract='Multi-scale representations have proven to be a powerful tool since they can take into account both the fine-grained details of objects in an image as well as the broader context. Inspired by this, we propose a novel dual-branch transformer network that operates on two different scales to encode global contextual dependencies while preserving local information. To learn in a self-supervised fashion, our approach considers the semantic dependency that exists between different scales to generate a supervisory signal for inter-scale consistency and also imposes a spatial stability loss within the scale for self-supervised content clustering. While intra-scale and inter-scale consistency losses aim to increase features similarly within the cluster, we propose to include a cross-entropy loss function on top of the clustering score map to effectively model each cluster distribution and increase the decision boundary between clusters. Iteratively our algorithm learns to assign each pixel to a semantically related cluster to produce the segmentation map. Extensive experiments on skin lesion and lung segmentation datasets show the superiority of our method compared to the state-of-the-art (SOTA) approaches. ',
         video='None')
 }}
 {{ paper('Reproducibility of the Methods in Medical Imaging with Deep Learning.',
@@ -382,16 +362,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         paper='papers/P101',
         proceedings='',
         abstract='We propose a few shot learning approach for the problem of hematopoietic cell classification in digital pathology. In hematopoiesis cell classification, the classes correspond to the different stages of the cellular maturation process. Two  consecutive stage categories are considered to have a neighborhood relationship, which implies a visual similarity between the two categories. We propose RelationVAE which incorporates these relationships between hematopoietic cell classes to robustly generate more data for the classes with limited training data. Specifically, we first model these relationships using a graphical model, and propose RelationVAE, a deep generative model which implements the graphical model. RelationVAE is trained to optimize the lower bound of the pairwise data likelihood of the graphical model. In this way, it can identify class level features of a specific class from a small number of input images together with the knowledge transferred from visually similar classes, leading to more robust sample synthesis. The experiments on our collected hematopoietic dataset show the improved results of our proposed RelationVAE over a baseline VAE model and other few shot learning methods.',
-        video='None')
-}}
-{{ paper('Prior Guided 3D Medical Image Landmark Localization',
-        'yijie pang, Pujin Cheng, Junyan Lyu, FAN lin, Xiaoying Tang',
-        openreview='https://openreview.net/forum?id=Ae1KAltzEd',
-        pdf='https://openreview.net/pdf?id=Ae1KAltzEd',
-        id='P117',
-        paper='papers/P117',
-        proceedings='',
-        abstract='Accurate detection of 3D landmarks is critical for evaluating and characterizing anatomical features and performing preoperative diagnostic screening. However, detecting 3D landmarks can be challenging due to the local structural homogeneity of medical images. To address this issue, physicians often annotate multiple landmarks in a single slice, particularly when estimating 3D distance or volume. In this study, we present a prior guided coarse-to-fine framework for efficient and accurate 3D medical landmark detection; we make use of the prior information that in specific settings physicians annotate multiple landmarks on a same slice. The coarse stage uses coordinate regression on downsampled 3D images to maintain the structural relationships across different landmarks. The fine stage categorizes landmarks as correlated and independent landmarks based on their annotation prior. For independent landmarks, we train multiple models to capture local features and ensure reliable local predictions. For correlated landmarks, we mimic the manual annotation process and propose a correlated landmark detection model that merges information from various patches to query key slices and identify correlated landmarks. Our method is extensively evaluated on two datasets, exhibiting superior performance with an average detection error of respective 3.29 mm and 2.13 mm.',
         video='None')
 }}
 {{ paper('Calibration techniques for node classification using graph neural networks on medical image data',
@@ -833,7 +803,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 }}
 [% / %]
 
-### Oral session 6 - Synthesis — 16:00–17:00
+### Oral session 6 - Synthesis — 16:00–16:45
 
 [% .papers %]
 {{ paper('CP2Image: Generating high-quality single-cell images using CellProfiler representations',
@@ -1000,16 +970,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         paper='papers/P003',
         proceedings='',
         abstract='Active learning promises to improve annotation efficiency by iteratively selecting the most important data to be annotated first. However, we uncover a striking contradiction to this promise: at the first few choices, active learning fails to select data as efficiently as random selection. We identify this as the cold start problem in active learning, caused by a biased and outlier initial query. This paper seeks to address the cold start problem and develops a novel active querying strategy, named HaCon, that can exploit the three advantages of contrastive learning: (1) no annotation is required; (2) label diversity is ensured by pseudo-labels to mitigate bias; (3) typical data is determined by contrastive features to reduce outliers. Experiments on three public medical datasets show that HaCon not only significantly outperforms existing active querying strategies but also surpasses random selection by a large margin. Code is available at https://github.com/liangyuch/CSVAL.',
-        video='None')
-}}
-{{ paper('Robust Detection Outcome: A Metric for Pathology Detection in Medical Images',
-        'Felix Meissen, Philip Müller, Georgios Kaissis, Daniel Rueckert',
-        openreview='https://openreview.net/forum?id=zyiJi4sJ7dZ',
-        pdf='https://openreview.net/pdf?id=zyiJi4sJ7dZ',
-        id='P010',
-        paper='papers/P010',
-        proceedings='',
-        abstract='Detection of pathologies is a fundamental task in medical imaging and the evaluation of algorithms that can perform this task automatically is crucial. However, current object detection metrics for natural images do not reflect the specific clinical requirements in pathology detection sufficiently. To tackle this problem, we propose Robust Detection Outcome (RoDeO); a novel metric for evaluating algorithms for pathology detection in medical images, especially in chest X-rays. RoDeO evaluates different errors directly and individually, and reflects clinical needs better than current metrics. Extensive evaluation on the ChestX-ray8 dataset shows the superiority of our metrics compared to existing ones. We released the code at [https://github.com/FeliMe/RoDeO](https://github.com/FeliMe/RoDeO) and published RoDeO as pip package ($rodeometric$).',
         video='None')
 }}
 {{ paper('SVD-DIP: Overcoming the Overfitting Problem in DIP-based CT Reconstruction',
@@ -1713,6 +1673,46 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         abstract='Graphs are a natural representation of brain activity derived from functional magnetic imaging (fMRI) data. It is well known that clusters of anatomical brain regions, known as functional connectivity networks (FCNs), encode temporal relationships which can serve as useful biomarkers for understanding brain function and dysfunction. Previous works, however, ignore the temporal dynamics of the brain and focus on static graphs. In this paper, we propose a dynamic brain graph deep generative model (DBGDGM) which simultaneously clusters brain regions into temporally evolving communities and learns dynamic unsupervised node embeddings. Specifically, DBGDGM represents brain graph nodes as embeddings sampled from a distribution over communities that evolve over time. We parameterise this community distribution using neural networks that learn from subject and node embeddings as well as past community assignments. Experiments demonstrate DBGDGM outperforms baselines in graph generation, dynamic link prediction, and is comparable for graph classification. Finally, an analysis of the learnt community distributions reveals overlap with known FCNs reported in neuroscience literature.',
         video='None')
 }}
+{{ paper('MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation',
+        'Sanaz Karimijafarbigloo, Reza Azad, Amirhossein Kazerouni, Dorit Merhof',
+        openreview='https://openreview.net/forum?id=pp2raGSU3Wx',
+        pdf='https://openreview.net/pdf?id=pp2raGSU3Wx',
+        id='O031',
+        paper='papers/O031',
+        proceedings='',
+        abstract='Multi-scale representations have proven to be a powerful tool since they can take into account both the fine-grained details of objects in an image as well as the broader context. Inspired by this, we propose a novel dual-branch transformer network that operates on two different scales to encode global contextual dependencies while preserving local information. To learn in a self-supervised fashion, our approach considers the semantic dependency that exists between different scales to generate a supervisory signal for inter-scale consistency and also imposes a spatial stability loss within the scale for self-supervised content clustering. While intra-scale and inter-scale consistency losses aim to increase features similarly within the cluster, we propose to include a cross-entropy loss function on top of the clustering score map to effectively model each cluster distribution and increase the decision boundary between clusters. Iteratively our algorithm learns to assign each pixel to a semantically related cluster to produce the segmentation map. Extensive experiments on skin lesion and lung segmentation datasets show the superiority of our method compared to the state-of-the-art (SOTA) approaches. ',
+        video='None')
+}}
+{{ paper('MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation',
+        'Sanaz Karimijafarbigloo, Reza Azad, Amirhossein Kazerouni, Saeed Ebadollahi, Dorit Merhof',
+        openreview='https://openreview.net/forum?id=PD0ASSmvlE',
+        pdf='https://openreview.net/pdf?id=PD0ASSmvlE',
+        id='O115',
+        paper='papers/O115',
+        proceedings='',
+        abstract='Human brain tumours and more specifically gliomas are amongst the most life-threatening cancers which usually arise from abnormal growth of the glial stem cells. In practice, Magnetic Resonance Imaging (MRI) modalities, which offer different contrasts to elucidate tissue properties, provide comprehensive information regarding the brain’s structure and also potential clues for detecting tumors. Hence, multi-modal MRI is commonly utilized for the diagnosis of brain tumors. However, since the set of acquired modalities may vary between clinical sites, brain tumor studies may miss one or two MRI modalities. To address missing information in an end-to-end manner, we propose MMCFormer, a novel missing modality compensation network. Our strategy builds upon 3D efficient transformer blocks and uses a co-training strategy to effectively train a missing modality network. To ensure feature consistency in a multi-scale fashion, MMCFormer utilizes global contextual agreement modules in each scale of the encoders. Furthermore, to transfer modality-specific representations, we propose to incorporate auxiliary tokens in the bottleneck stage to model interaction between full and missing-modality paths. On top of that, we include feature consistency losses to reduce the domain gap in network prediction and increase the prediction reliability for the missing modality path. Extensive experiments on the BraTS 2018 dataset demonstrate the benefits of our approach compared to competing approaches. The implementation code will be publicly available after the paper acceptance.',
+        video='None')
+}}
+{{ paper('Prior Guided 3D Medical Image Landmark Localization',
+        'yijie pang, Pujin Cheng, Junyan Lyu, FAN lin, Xiaoying Tang',
+        openreview='https://openreview.net/forum?id=Ae1KAltzEd',
+        pdf='https://openreview.net/pdf?id=Ae1KAltzEd',
+        id='P117',
+        paper='papers/P117',
+        proceedings='',
+        abstract='Accurate detection of 3D landmarks is critical for evaluating and characterizing anatomical features and performing preoperative diagnostic screening. However, detecting 3D landmarks can be challenging due to the local structural homogeneity of medical images. To address this issue, physicians often annotate multiple landmarks in a single slice, particularly when estimating 3D distance or volume. In this study, we present a prior guided coarse-to-fine framework for efficient and accurate 3D medical landmark detection; we make use of the prior information that in specific settings physicians annotate multiple landmarks on a same slice. The coarse stage uses coordinate regression on downsampled 3D images to maintain the structural relationships across different landmarks. The fine stage categorizes landmarks as correlated and independent landmarks based on their annotation prior. For independent landmarks, we train multiple models to capture local features and ensure reliable local predictions. For correlated landmarks, we mimic the manual annotation process and propose a correlated landmark detection model that merges information from various patches to query key slices and identify correlated landmarks. Our method is extensively evaluated on two datasets, exhibiting superior performance with an average detection error of respective 3.29 mm and 2.13 mm.',
+        video='None')
+}}
+{{ paper('Robust Detection Outcome: A Metric for Pathology Detection in Medical Images',
+        'Felix Meissen, Philip Müller, Georgios Kaissis, Daniel Rueckert',
+        openreview='https://openreview.net/forum?id=zyiJi4sJ7dZ',
+        pdf='https://openreview.net/pdf?id=zyiJi4sJ7dZ',
+        id='P010',
+        paper='papers/P010',
+        proceedings='',
+        abstract='Detection of pathologies is a fundamental task in medical imaging and the evaluation of algorithms that can perform this task automatically is crucial. However, current object detection metrics for natural images do not reflect the specific clinical requirements in pathology detection sufficiently. To tackle this problem, we propose Robust Detection Outcome (RoDeO); a novel metric for evaluating algorithms for pathology detection in medical images, especially in chest X-rays. RoDeO evaluates different errors directly and individually, and reflects clinical needs better than current metrics. Extensive evaluation on the ChestX-ray8 dataset shows the superiority of our metrics compared to existing ones. We released the code at [https://github.com/FeliMe/RoDeO](https://github.com/FeliMe/RoDeO) and published RoDeO as pip package ($rodeometric$).',
+        video='None')
+}}
 {{ paper('Evaluating Adversarial Robustness of Low dose CT Recovery',
         'Kanchana Vaishnavi Gandikota, Paramanand Chandramouli, Hannah Dröge, Michael Moeller',
         openreview='https://openreview.net/forum?id=L-N1uAxfQk1',
@@ -1903,20 +1903,20 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         abstract='Anomaly detection remains a challenging task in neuroimaging when little to no supervision is available and when lesions can be very small or with subtle contrast. Patch-based representation learning has shown powerful representation capacities when applied to industrial or medical imaging and outlier detection methods have been applied successfully to these images. In this work, we propose an unsupervised anomaly detection (UAD) method based on a latent space constructed by a siamese patch-based auto-encoder and perform the outlier detection with a One-Class SVM training paradigm tailored to the lesion detection task in multi-modality neuroimaging. We evaluate performances of this model on a public database, the White Matter Hyperintensities (WMH) challenge and show in par performance with the two best performing state-of-the-art methods reported so far. ',
         video='None')
 }}
-[% / %]
-
-### Oral session 7 - Segmentation 2 — 9:30–10:15
-[% .papers %]
-{{ paper('MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation',
-        'Sanaz Karimijafarbigloo, Reza Azad, Amirhossein Kazerouni, Saeed Ebadollahi, Dorit Merhof',
-        openreview='https://openreview.net/forum?id=PD0ASSmvlE',
-        pdf='https://openreview.net/pdf?id=PD0ASSmvlE',
-        id='O115',
-        paper='papers/O115',
+{{ paper('Caption generation from histopathology whole-slide images using pre-trained transformers',
+        'Bryan Cardenas Guevara, Niccolò Marini, Stefano Marchesin, Witali Aswolinskiy, Robert-Jan Schlimbach, Damian Podareanu, Francesco Ciompi',
+        openreview='https://openreview.net/forum?id=gpsfGAOUs58',
+        pdf='https://openreview.net/pdf?id=gpsfGAOUs58',
+        id='S085',
+        paper='papers/S085',
         proceedings='',
-        abstract='Human brain tumours and more specifically gliomas are amongst the most life-threatening cancers which usually arise from abnormal growth of the glial stem cells. In practice, Magnetic Resonance Imaging (MRI) modalities, which offer different contrasts to elucidate tissue properties, provide comprehensive information regarding the brain’s structure and also potential clues for detecting tumors. Hence, multi-modal MRI is commonly utilized for the diagnosis of brain tumors. However, since the set of acquired modalities may vary between clinical sites, brain tumor studies may miss one or two MRI modalities. To address missing information in an end-to-end manner, we propose MMCFormer, a novel missing modality compensation network. Our strategy builds upon 3D efficient transformer blocks and uses a co-training strategy to effectively train a missing modality network. To ensure feature consistency in a multi-scale fashion, MMCFormer utilizes global contextual agreement modules in each scale of the encoders. Furthermore, to transfer modality-specific representations, we propose to incorporate auxiliary tokens in the bottleneck stage to model interaction between full and missing-modality paths. On top of that, we include feature consistency losses to reduce the domain gap in network prediction and increase the prediction reliability for the missing modality path. Extensive experiments on the BraTS 2018 dataset demonstrate the benefits of our approach compared to competing approaches. The implementation code will be publicly available after the paper acceptance.',
+        abstract='The recent advent of foundation models and large language models has enabled scientists to leverage large-scale knowledge of pretrained (vision) transformers and efficiently tailor it to downstream tasks. This technology can potentially automate multiple aspects of cancer diagnosis in digital pathology, from whole-slide image classification to generating pathology reports while training with pairs of images and text from the diagnostic conclusion. In this work, we orchestrate a set of weakly-supervised transformer-based models with a first aim to address both whole-slide image classification and captioning, addressing the automatic generation of the conclusion of pathology reports in the form of image captions. We report our first results on a multicentric multilingual dataset of colon polyps and biopsies. We achieve high diagnostic accuracy with no supervision and cheap computational adaptation.',
         video='None')
 }}
+[% / %]
+
+### Oral session 7 - Segmentation 2 — 9:30–10:00
+[% .papers %]
 {{ paper('Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function',
         'Febrian Rachmadi, Charissa Poon, henrik skibbe',
         openreview='https://openreview.net/forum?id=8o83y0_YtE',
@@ -2024,16 +2024,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         paper='papers/O130',
         proceedings='',
         abstract='In this paper, we propose a novel two-component loss for biomedical image segmentation tasks called the Instance-wise and Center-of-Instance (ICI) loss, a loss function that addresses the instance imbalance problem commonly encountered when using pixel-wise loss functions such as the Dice loss. The Instance-wise component improves the detection of small instances or blobs\\" in image datasets with both large and small instances. The Center-of-Instance component improves the overall detection accuracy. We compared the ICI loss with two existing losses, the Dice loss and the blob loss, in the task of stroke lesion segmentation using the ATLAS R2.0 challenge dataset from MICCAI 2022. Compared to the other losses, the ICI loss provided a better balanced segmentation, and significantly outperformed the Dice loss with an improvement of $1.7-3.7\\%$ and the blob loss by $0.6-5.0\\%$ in terms of the Dice similarity coefficient on both validation and test set, suggesting that the ICI loss is a potential solution to the instance imbalance problem.',
-        video='None')
-}}
-{{ paper('MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation',
-        'Sanaz Karimijafarbigloo, Reza Azad, Amirhossein Kazerouni, Saeed Ebadollahi, Dorit Merhof',
-        openreview='https://openreview.net/forum?id=PD0ASSmvlE',
-        pdf='https://openreview.net/pdf?id=PD0ASSmvlE',
-        id='O115',
-        paper='papers/O115',
-        proceedings='',
-        abstract='Human brain tumours and more specifically gliomas are amongst the most life-threatening cancers which usually arise from abnormal growth of the glial stem cells. In practice, Magnetic Resonance Imaging (MRI) modalities, which offer different contrasts to elucidate tissue properties, provide comprehensive information regarding the brain’s structure and also potential clues for detecting tumors. Hence, multi-modal MRI is commonly utilized for the diagnosis of brain tumors. However, since the set of acquired modalities may vary between clinical sites, brain tumor studies may miss one or two MRI modalities. To address missing information in an end-to-end manner, we propose MMCFormer, a novel missing modality compensation network. Our strategy builds upon 3D efficient transformer blocks and uses a co-training strategy to effectively train a missing modality network. To ensure feature consistency in a multi-scale fashion, MMCFormer utilizes global contextual agreement modules in each scale of the encoders. Furthermore, to transfer modality-specific representations, we propose to incorporate auxiliary tokens in the bottleneck stage to model interaction between full and missing-modality paths. On top of that, we include feature consistency losses to reduce the domain gap in network prediction and increase the prediction reliability for the missing modality path. Extensive experiments on the BraTS 2018 dataset demonstrate the benefits of our approach compared to competing approaches. The implementation code will be publicly available after the paper acceptance.',
         video='None')
 }}
 {{ paper('Simple and Efficient Confidence Score for Grading Whole Slide Images',
@@ -2358,16 +2348,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         paper='papers/S077',
         proceedings='',
         abstract='In recent years, Multiple Instance Learning (MIL) approaches have gained popularity to address the task of weakly-supervised tumor detection in whole-slide images (WSIs). However, standard MIL relies on classification methods for tumor detection that require negative control, i.e., tumor-free cases, which are challenging to obtain in real-world clinical scenarios, especially when considering surgical resection specimens. Inspired by recent work, in this paper we tackle tumor detection via a MIL-like weakly-supervised regression approach to predict the percentage of tumor present in WSIs, a clinically available target that allows to overcome the problem of need for manual annotations or presence of tumor-free slides. We characterize the quality of such a target by investigating its robustness in the presence of noise on regression percentages and provide explainability through attention maps. We test our approach on breast cancer data from primary tumor and lymph node metastases.',
-        video='None')
-}}
-{{ paper('Caption generation from histopathology whole-slide images using pre-trained transformers',
-        'Bryan Cardenas Guevara, Niccolò Marini, Stefano Marchesin, Witali Aswolinskiy, Robert-Jan Schlimbach, Damian Podareanu, Francesco Ciompi',
-        openreview='https://openreview.net/forum?id=gpsfGAOUs58',
-        pdf='https://openreview.net/pdf?id=gpsfGAOUs58',
-        id='S085',
-        paper='papers/S085',
-        proceedings='',
-        abstract='The recent advent of foundation models and large language models has enabled scientists to leverage large-scale knowledge of pretrained (vision) transformers and efficiently tailor it to downstream tasks. This technology can potentially automate multiple aspects of cancer diagnosis in digital pathology, from whole-slide image classification to generating pathology reports while training with pairs of images and text from the diagnostic conclusion. In this work, we orchestrate a set of weakly-supervised transformer-based models with a first aim to address both whole-slide image classification and captioning, addressing the automatic generation of the conclusion of pathology reports in the form of image captions. We report our first results on a multicentric multilingual dataset of colon polyps and biopsies. We achieve high diagnostic accuracy with no supervision and cheap computational adaptation.',
         video='None')
 }}
 {{ paper('Inter-Scale Dependency Modeling for Skin Lesion Segmentation with Transformer-based Networks',
