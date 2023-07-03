@@ -2107,7 +2107,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o7"></a>
 ### Oral session 7 - Segmentation 2 — 9:30–10:00
-
 [% .papers %]
 {{ paper('Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function',
         'Febrian Rachmadi, Charissa Poon, henrik skibbe',
@@ -2135,7 +2134,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o8"></a>
 ### Oral session 8 - Computer-assisted diagnosis — 14:00–15:00
-
 [% .papers %]
 {{ paper('Sparse Activations for Interpretable Disease Grading',
         'Kerol R. Djoumessi Donteu, Indu Ilanchezian, Laura Kühlewein, Hanna Faber, Christian F. Baumgartner, Bubacarr Bah, Philipp Berens, Lisa M. Koch',
