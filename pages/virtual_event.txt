@@ -24,6 +24,7 @@ title: "Virtual event"
 * Multimodal Image-Text Matching Improves Retrieval-based Chest X-Ray Report Generation
 * Incomplete learning of multi-modal connectome for brain disorder diagnosis via modal-mixup and deep supervision
 * Spatial Correspondence between Graph Neural Network-Segmented Images
+* Prior Guided 3D Medical Image Landmark Localization
 * Semi-supervised Learning with Contrastive and Topology Losses for Catheter Segmentation and Misplacement Prediction
 * DBGSL: Dynamic Brain Graph Structure Learning
 * DBGDGM: Dynamic Brain Graph Deep Generative Model

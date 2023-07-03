@@ -215,7 +215,7 @@
         "poster_loc": "Virtual only",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/O053.pdf",
         "title": "Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion",
         "yt_full": null
     },
@@ -855,7 +855,7 @@
         "poster_loc": "M17",
         "schedule": "Monday, July 10: Posters \u2014 11:00\u201312:00 & 15:00\u201316:00\nWednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P055.pdf",
         "title": "MEDIMP: 3D Medical Images and clinical Prompts for renal transplant representation learning",
         "yt_full": null
     },
@@ -1143,7 +1143,7 @@
         "poster_loc": "Virtual only",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P117.pdf",
         "title": "Prior Guided 3D Medical Image Landmark Localization",
         "yt_full": null
     },
@@ -2583,7 +2583,7 @@
         "poster_loc": "Virtual only",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S073.pdf",
         "title": "3D Supervised Contrastive-Learning Network for Classification of Ovarian Neoplasms",
         "yt_full": null
     },
@@ -2839,7 +2839,7 @@
         "poster_loc": "Virtual only",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S093.pdf",
         "title": "Characterizing Continual Learning Scenarios for Tumor Classification in Histopathology Images",
         "yt_full": null
     },

@@ -57,22 +57,36 @@ if __name__ == "__main__":
         content: str
 
         p1: Paper = title_lookup[m1[1].lower().strip()]
-        p2: Paper = title_lookup[m2[1].lower().strip()] if m2 else p1
+        p2: Paper | None = title_lookup[m2[1].lower().strip()] if m2 else None
+
+        content = ''
 
         t1: str = f"/virtual/thumbnail/{p1.conf_id}.jpg"
         if not Path("static/" + t1).exists():
             print(Path("static/" + t1))
             t1 = default_thumbnail[:]
-        t2: str = f"/virtual/thumbnail/{p2.conf_id}.jpg"
-        if not Path("static/" + t2).exists():
-            print(Path("static/" + t2))
-            t2 = default_thumbnail[:]
 
-        content = f'''| ![{p1.conf_id}]({t1}) | ![{p2.conf_id}]({t2}) |
-| [{p1.conf_id} - {p1.title}](papers/{p1.conf_id}.html) | [{p2.conf_id} - {p2.title}](papers/{p2.conf_id}.html)  |
-| <hr> | <hr> |
-'''
-        filled = filled.replace(f"{m1[0]}\n{m2[0]}\n", content)
+        content += f'| ![{p1.conf_id}]({t1}) |'
+        if p2:
+            t2: str = f"/virtual/thumbnail/{p2.conf_id}.jpg"
+            if not Path("static/" + t2).exists():
+                print(Path("static/" + t2))
+                t2 = default_thumbnail[:]
+            content += f'![{p2.conf_id}]({t2}) |\n'
+        else:
+            content += '|\n'
+
+        content += f'| [{p1.conf_id} - {p1.title}](papers/{p1.conf_id}.html) |'
+        if p2:
+            content += f'[{p2.conf_id} - {p2.title}](papers/{p2.conf_id}.html)  |\n'
+        else:
+            content += '|\n'
+
+        content += '| <hr> | <hr> |\n'
+
+        to_replace: str = f"{m1[0]}\n{m2[0]}\n" if m2 else f"{m1[0]}\n"
+
+        filled = filled.replace(to_replace, content)
 
     with open(dest_path, 'w') as sink:
         sink.write(filled)
