@@ -34,6 +34,68 @@ Poster session assignments can be found on the program page:
 At least one author should be present at the poster for the duration of
 the session. Posters should remain up for the entire day.
 
+## Poster Teaser Presentations
+
+MIDL 2023 is introducing short 1-slide/30-second presentations for each
+non-oral paper. These presentations are entirely optional, but are meant to
+give poster-presenters an opportunity to convince attendees to visit their poster.
+
+Please consult the table for your speaking slot:
+
+<style>
+#teaser td {
+    border: 1px solid gray;
+    font-size: 80%;
+    border-collapse: separate;
+    border-spacing: 1px;
+    color: #222222;
+    padding: 5px;
+    text-align: left;
+}
+</style>
+
+<table id="teaser" cellspacing="0" border="0">
+    <tr>
+        <td> Poster Day/Type </td>
+        <td> Teaser Presentation Time </td>
+    </tr>
+    <tr>
+        <td> Monday Full Papers </td>
+        <td> Mon at 10:45 </td>
+    </tr>
+    <tr>
+        <td> Monday short papers </td>
+        <td> Mon at 11:00 </td>
+    </tr>
+    <tr>
+        <td> Tuesday short papers </td>
+        <td> Mon 4:45 </td>
+    </tr>
+    <tr>
+        <td> Tuesday full papers </td>
+        <td> Tues 10:15 </td>
+    </tr>
+    <tr>
+        <td> Wednesday short papers </td>
+        <td> Tues 4:45 </td>
+    </tr>
+    <tr>
+        <td> Wednesday full/MELBA papers</td>
+        <td> Weds 10:00 </td>
+    </tr>
+    <tr>
+</table>
+
+&nbsp;
+
+Slides must include the paper number (i.e., P000 or S000), and be submitted in
+PDF or Powerpoint format. All slides will be converted to a single Powerpoint
+slide deck, and presented in increasing number order (so please walk up to
+the dias as we approach your number). Slide submission has been sent via email,
+and closes at 6pm the day before each presentation.
+Time will be capped at exactly 30-seconds.
+
+
 ## Virtual Poster Presentations
 
 [Click here for the Virtual Poster Presentation Form](https://forms.gle/y62iqgJJTts5bmJt9).
