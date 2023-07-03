@@ -245,7 +245,6 @@ jQuery(document).ready(function($) {
        <col span="1" style="width: 6.6%;"> <!-- wed-->
        <col span="1" style="width: 10%;"> <!-- thursday-->
     </colgroup>
-
 	  <tr>
 		<td id='t01' class='col1' colspan=1 rowspan=1 height="62" ></td>
         <td id='t00' class='col2' style="text-align: center" align="center" rowspan=1 colspan=2 valign=center >Sunday<br>9-Jul</td>
@@ -372,25 +371,19 @@ jQuery(document).ready(function($) {
      </tr>
 </table>
 
-
-<br><strong>SLC-A, SLC-B&C, SLC Lobby:</strong> Student Life Center - A. Student Life Center -B, Student Life Center Lobby
-<br><strong>SLC BoT:</strong> SLC Board of Trust Meeting Room
-<br><strong>FGH:</strong> Featheringill Hall
-
-<br>![VUMAP](images/Vandy_walk_map.png)
-
-<br><a href="https://goo.gl/maps/RST8v5mrsRLp43vv7">SLC(Student Life Center): 310, 25th Avenue South, Nashville, TN 37240</a><br>
-
-The buses that will go to the Reception at NMAAM will stop in front of the SLC.<br>
-<a href="https://goo.gl/maps/tiaWtWRMnmbs1fCx7">NMAMM: 510 Broadway, Nashville, TN 37203</a><br>
-
-<a href="https://goo.gl/maps/K5P3wbDXpSRrATcD8">Parthenon: 2500 West End Ave, Nashville, TN 37203</a><br>
-
-<a href="https://goo.gl/maps/BibtMigmEVRTxZTm9">Rand Dining Hall</a><br>
-
-<a href="https://goo.gl/maps/kgsXjChubP9QYb7D6">Featheringill Hall</a><br>
-
 Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/zone/usa/nashville).
+
+---
+
+* **SLC-A**: Student Life Center - A
+* **SLC-B&C**: tudent Life Center - B
+* **SLC Lobby**:  Student Life Center Lobby
+* **SLC BoT**: SLC Board of Trust Meeting Room
+* **FGH**: Featheringill Hall
+
+A detailed map of the campus can be found on the [Venue page](/venue.html)
+
+---
 
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**.
 

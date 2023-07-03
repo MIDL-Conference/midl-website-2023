@@ -5,9 +5,17 @@ title: "Venue"
 
 # Conference Venue
 
-## Vanderbilt University, Nashville, TN, USA
+![VUMAP](images/Vandy_walk_map.png)
 
-<img alt="Nashville picture" src="images/nashville.jpg">
+The buses that will go to the Reception at NMAAM will stop in front of the SLC.
+
+* [SLC (Student Life Center): 310, 25th Avenue South, Nashville, TN 37240](https://goo.gl/maps/RST8v5mrsRLp43vv7)
+* [NMAMM: 510 Broadway, Nashville, TN 37203](https://goo.gl/maps/tiaWtWRMnmbs1fCx7)
+* [Parthenon: 2500 West End Ave, Nashville, TN 37203](https://goo.gl/maps/K5P3wbDXpSRrATcD8)
+* [Rand Dining Hall](https://goo.gl/maps/BibtMigmEVRTxZTm9)
+* [Featheringill Hall](https://goo.gl/maps/kgsXjChubP9QYb7D6)
+
+## Vanderbilt University, Nashville, TN, USA
 
 Vanderbilt's hometown of Nashville is a vibrant, engaging city known as "Music City, U.S.A.”
 
@@ -21,8 +29,6 @@ The city was settled in 1779 and permanently became state capital in 1843. The c
 
 The conference will be held in the [VU Student Life Center](https://www.vanderbilt.edu/studentcenters/explore/floor-1/)
 ![VUSLC](images/vustudentlifecenter_1591090503553.jpg)
-
-![VUMAP](images/Vandy_walk_map.png)
 
 ## Nashville Parthenon (Gala venue)
 
