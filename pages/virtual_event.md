@@ -1,13 +1,17 @@
 ---
 title: "Virtual event"
 ---
-{% from "_macros.html" import paper %}
+{% from "_macros.html" import paper, button %}
 # Virtual event
 <style>
         td {
         width: 50%;
         }
 </style>
+
+### Wednesday, July 12 - 8:00–9:00
+
+{{ button('GatherTown', 'https://app.gather.town/app/0nZxkYtl4V2FXwnK/MIDL%202023%20Virtual%20Event') }}
 
 ## Full-paper track
 
@@ -89,3 +93,5 @@ title: "Virtual event"
 | ![S123](/virtual/thumbnail/S123.jpg) ||
 | [S123 - CSGAN: a consistent structural GAN for AS-OCT image despeckling by image translation](papers/S123.html) ||
 | <hr> | <hr> |
+
+{{ button('GatherTown', 'https://app.gather.town/app/0nZxkYtl4V2FXwnK/MIDL%202023%20Virtual%20Event') }}

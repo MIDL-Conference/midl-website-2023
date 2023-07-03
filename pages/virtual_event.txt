@@ -1,13 +1,17 @@
 ---
 title: "Virtual event"
 ---
-{% from "_macros.html" import paper %}
+{% from "_macros.html" import paper, button %}
 # Virtual event
 <style>
         td {
         width: 50%;
         }
 </style>
+
+### Wednesday, July 12 - 8:00–9:00
+
+{{ button('GatherTown', 'https://app.gather.town/app/0nZxkYtl4V2FXwnK/MIDL%202023%20Virtual%20Event') }}
 
 ## Full-paper track
 
@@ -65,3 +69,5 @@ title: "Virtual event"
 * Improving Zero-Shot Detection of Low Prevalence Chest Pathologies using Domain Pre-trained Language Models
 * Bias Field Correction in MRI with Hampel Noise Denoising Diffusion Probabilistic Model
 * CSGAN: a consistent structural GAN for AS-OCT image despeckling by image translation
+
+{{ button('GatherTown', 'https://app.gather.town/app/0nZxkYtl4V2FXwnK/MIDL%202023%20Virtual%20Event') }}
