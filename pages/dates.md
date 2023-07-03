@@ -376,7 +376,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 ---
 
 * **SLC-A**: Student Life Center - A
-* **SLC-B&C**: tudent Life Center - B
+* **SLC-B&C**: Student Life Center - B
 * **SLC Lobby**:  Student Life Center Lobby
 * **SLC BoT**: SLC Board of Trust Meeting Room
 * **FGH**: Featheringill Hall
