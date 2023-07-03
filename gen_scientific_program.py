@@ -31,6 +31,9 @@ if __name__ == "__main__":
 
     title_lookup: dict[str, Paper] = {p.title.lower().strip(): p for p in papers}
 
+    # for p in ["P015", "S016", "S023", "S027", "O029", "S030", "P032", "S044", "S045", "P046", "S055", "S067", "P070", "P076", "S082", "P082", "S087", "S098", "S101", "S112", "S114", "S120", "S121", "S123", "P129", "P138", "P139", "P166", "O179", "P187", "P189", "P199", "P200", "P201", "P215", "S050", "P009", "S110", "S117", "P090", "S073", "S093", "P218"]:
+    #     print(f"* {p=} {raw_papers[p]['title']}")
+
     template: str
     with open(template_path, 'r') as f:
         template = f.read()

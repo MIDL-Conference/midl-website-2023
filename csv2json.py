@@ -49,6 +49,7 @@ if __name__ == "__main__":
                               or_id=short_row["forum"].split('=')[1], oral="False",
                               short="True", abstract=short_row["abstract"], ignore_schedule=True)
                 papers.append(paper)
+        del title
 
         print(f">>> Loaded {len(short_papers_df)} short papers")
 
@@ -92,6 +93,8 @@ if __name__ == "__main__":
                                             'short': "False",
                                             'melba': "True",
                                             'title': mp['title']}
+        del id_
+        del authors_
         print(f">>> Loaded {len(melba_json)} for melba to journal to conf")
 
         title_dict: dict[str, str] = {json_dict[pid]["title"].strip().lower(): pid for pid in json_dict}
@@ -116,6 +119,26 @@ if __name__ == "__main__":
                         json_dict[row["Paper #"]]["yt_full"] = row["Video link"]
         for pdf_ in Path("static/virtual/poster").glob("*.pdf"):
                 json_dict[pdf_.stem]["slides"] = str(pdf_).replace("static", "")
+
+        print(">>> Parsing poster locations")
+        print(">> Monday")
+        monday_df = pd.read_csv("posterBoardNumbersMon.csv")
+        for _, row in monday_df.iterrows():
+                title_: str = row[1].strip().lower()
+                json_dict[title_dict[title_]]["poster_loc"] = row[0]
+
+        print(">> Tuesday")
+        tuesday_df = pd.read_csv("posterBoardNumbersTue.csv")
+        for _, row in tuesday_df.iterrows():
+                title_ = row[1].strip().lower()
+                json_dict[title_dict[title_]]["poster_loc"] = row[0]
+
+        print(">> Wednesday")
+        wednesday_df = pd.read_csv("posterBoardNumbersWeds.csv")
+        for _, row in wednesday_df.iterrows():
+                title_ = row[1].strip().lower()
+                json_dict[title_dict[title_]]["poster_loc"] = row[0]
+        del title_
 
         print(f">>> Writing {len(papers)} to papers.json...")
         with open("papers.json", 'w') as sink:

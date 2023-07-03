@@ -9,9 +9,9 @@ page_class: "paper"
 
 #### AUTHORS
 
+
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>
-- <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
 - <a href="https://openreview.net/pdf?id=ORID">PDF</a>
 - <a href="https://openreview.net/forum?id=ORID">Reviews</a>
 
@@ -22,18 +22,14 @@ page_class: "paper"
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
     </span>
 </p>
-
-<p>
-    <span class="schedule">
-        SCHEDULE
-        <br>
-        <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
-    </span>
-</p>
 [% / %]
 
 ---
 
 AWARD
 ### ORAL
+
+**Schedule**: SCHEDULE
+**Poster location**: __POSTERLOC__
+
 PRESENTATION

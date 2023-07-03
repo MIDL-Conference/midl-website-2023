@@ -6,7 +6,8 @@ from typing import List
 
 class Paper():
     def __init__(self, id: str, title: str, authors: str, or_id: str, oral: str, short: str,
-                 abstract: str, schedule: str = "", ignore_schedule: bool = False, melba: str = "False",
+                 abstract: str, poster_loc: str = "Virtual only", schedule: str = "",
+                 ignore_schedule: bool = False, melba: str = "False",
                  award: str = "", pmlr_url="", slides: str = "", yt_full: str | None = None):
         self.id: int = int(id)
         self.title: str = title
@@ -21,6 +22,7 @@ class Paper():
         # self.yt_teaser: str = yt_teaser
         self.yt_full: str | None = yt_full
         self.award: str = award
+        self.poster_loc: str = poster_loc
 
         self.pmlr_url: str = pmlr_url
         assert not (self.short and self.pmlr_url)
@@ -92,6 +94,7 @@ class PaperEncoder(json.JSONEncoder):
                     "oral": str(paper.oral),
                     "short": str(paper.short),
                     "melba": str(paper.melba),
+                    "poster_loc": paper.poster_loc,
                     "abstract": paper.abstract,
                     "schedule": "\n".join(paper.schedule),
                     "award": paper.award,

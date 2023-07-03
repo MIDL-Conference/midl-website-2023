@@ -1,0 +1,55 @@
+M01,Learning Clinically Acceptable Segmentation of Organs at Risk in Cervical Cancer Radiation Treatment from Clinically Available Annotations
+M02,Unsupervised Stain Decomposition via Inversion Regulation for Multiplex Immunohistochemistry Images
+M03,Model Adaptive Tooth Segmentation
+M04,Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels
+M05,"SuperMask: Generating High-resolution object masks from multi-view, unaligned low-resolution MRIs"
+M06,Generalizing Unsupervised Anomaly Detection: Towards Unbiased Pathology Screening
+M07,Reproducibility of the Methods in Medical Imaging with Deep Learning.
+M08,DRIMET: Deep Registration-based 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue
+M09,Interpretable histopathology-based prediction of disease relevant features in Inflammatory Bowel Disease biopsies using weakly-supervised deep learning
+M10,A Geometric Deep Learning Framework for Generation of Virtual Left Ventricles as Graphs
+M11,Reference-based MRI Reconstruction Using Texture Transformer
+M12,Tumor Budding T-cell Graphs: Assessing the Need for Resection in pT1 Colorectal Cancer Patients
+M13,Denoising Diffusion Models for Memory-efficient Processing of 3D Medical Images
+M14,Vesselformer: Towards Complete 3D Vessel Graph Generation from Images
+M15,Domain Adaptation using Silver Standard Labels for Ki-67 Scoring in Digital Pathology A Step Closer to Widescale Deployment
+M16,DeepBrainPrint: A Novel Contrastive Framework for Brain MRI Re-Identification
+M17,MEDIMP: 3D Medical Images and clinical Prompts for renal transplant representation learning
+M18,Stage Detection of Mild Cognitive Impairment: Region-dependent Graph Representation Learning on Brain Morphable Meshes
+M19,Inherently Interpretable Multi-Label Classification Using Class-Specific Counterfactuals
+M20,MultiTask Learning for accelerated-MRI Reconstruction and Segmentation of Brain Lesions in Multiple Sclerosis
+M21,Multi PILOT: Feasible Learned Multiple Acquisition Trajectories For Dynamic MRI
+M22,Few Shot Hematopoietic Cell Classification
+M23,Calibration techniques for node classification using graph neural networks on medical image data
+M24,ST(OR)$^2$: Spatio-Temporal Object Level Reasoning for Activity Recognition in the Operating Room
+M25,Improved multi-site Parkinson's disease classification using neuroimaging data with counterfactual inference
+M26,Radiology Reports Improve Visual Representations Learned from Radiographs
+M27,Federated Cross Learning for Medical Image Segmentation
+M28,A comparative evaluation of image-to-image translation methods for stain transfer in histopathology
+M29,OFDVDnet: A Sensor Fusion Approach for Video Denoising in Fluorescence-Guided Surgery
+M30,On Sensitivity and Robustness of Normalization Schemes to Input Distribution Shifts in Automatic MR Image Diagnosis
+M31,nnUNet meets pathology: Bridging the gap for application to whole slide images and computational biomarkers
+M32,Image2SSM: Localization-aware Deep Learning Framework for Statistical Shape Modeling Directly from Images
+M33,Implementation considerations for deep learning with diffusion MRI streamline tractography
+M34,Uncertainty-based Quality Controlled T1 Mapping and ECV Analysis using Bayesian Vision Transformer
+M35,Human-Guided Design to Explain Deep Learning-based Pneumothorax Classifier
+M36,End-to-End Spermatozoid Detection in Cytology WSI for Forensic Pathology Workflow
+M37,Exploring the Role of Explainability for Uncovering Bias in Deep Learning-based Medical Image Analysis
+M38,Distributed learning effectiveness in medical image analysis when trained with limited dataset
+M39,Segmentation of seventy-one anatomical structures necessary for the evaluation of guideline-conform clinical target volumes in head and neck cancers
+M40,Automatic renal perfusion estimation on postoperative PCASL MRI based on deep learning image analysis and segmentation
+M41,A General Stitching Solution for Whole-Brain 3D Nuclei Instance Segmentation from Microscopy Images
+M42,Active learning for medical image segmentation with stochastic batches
+M43,Learning Retinal Representations from Multi-modal Imaging via Contrastive Pre-training
+M44,Combining Anomaly Detection and Supervised Learning for Medical Image Segmentation
+M45,Interactive Cell Detection in H&E-stained slides of Diffuse Gastric Cancer
+M46,Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging
+M47,Deep Learning-Based Segmentation of Locally Advanced Breast Cancer on MRI in Relation to Residual Cancer Burden: A Multi-Institutional Cohort Study
+M48,Image Entropy and Numeric Representation for MRI Semantic Segmentation
+M49,Transforming Radiology Workflows: Pretraining for Automated Chest X-ray Report Generation
+M50,A Novel Approach for Assessment of Clonal Hematopoiesis of Indeterminate Potential Using Deep Neural Networks
+M51,Deep Learning based Automatic Segmentation of the Levator Ani Muscle from 3D Endovaginal Ultrasound Images
+M52,Radiomics using disentangled latent features from deep representation learning in soft-tissue sarcoma
+M53,Semi-supervised learning in perivascular space segmentation using MRI images
+M54,Benchmark and Boosted Segmentation on Dental Panoramic Radiographs
+M55,Uncovering Structural-Functional Coupling Alterations for Neurodegenerative Diseases

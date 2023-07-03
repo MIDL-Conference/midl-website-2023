@@ -41,6 +41,7 @@ if __name__ == "__main__":
         result = result.replace("ORID", paper.or_id)
         result = result.replace("ABSTRACT", paper.sanitized_abstract)
         result = result.replace("SCHEDULE", "<br>".join(paper.schedule))
+        result = result.replace("__POSTERLOC__", paper.poster_loc)
 
         if paper.award:
             result = result.replace("AWARD", f"## {paper.award}")
