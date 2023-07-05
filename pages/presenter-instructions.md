@@ -31,8 +31,7 @@ on each board, with a small margin.
 Poster session assignments can be found on the program page:
 [https://2023.midl.io/program.html](https://2023.midl.io/program.html)
 
-At least one author should be present at the poster for the duration of
-the session. Posters should remain up for the entire day.
+Each day has two poster sessions, one in the morning and one in the afternoon. Poster locations can be found on the program page above. If your poster location  (e.g., M05, not to be confused with your Open Review paper number, e.g., O039) is odd, you are assigned to the morning session. If it is even, you are assigned to the afternoon session. At least one author should be present at the poster for the duration of the assigned session. Posters should remain up for the entire day (both sessions).
 
 ## Poster Teaser Presentations
 
