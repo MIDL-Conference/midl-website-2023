@@ -241,6 +241,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * DBGDGM: Dynamic Brain Graph Deep Generative Model
 * MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation
 * MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation
+* Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI
 * Prior Guided 3D Medical Image Landmark Localization
 * Robust Detection Outcome: A Metric for Pathology Detection in Medical Images
 * Evaluating Adversarial Robustness of Low dose CT Recovery
@@ -296,7 +297,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Reverse Engineering Breast MRIs: Predicting Acquisition Parameters Directly from Images
 * Whole-slide-imaging Cancer Metastases Detection and Localization with Limited Tumorous Data
 * Metadata-guided Consistency Learning for High Content Images
-* Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI
 * Convolutional-recurrent neural networks approximate diffusion tractography from T1-weighted MRI and associated anatomical context
 * Addressing Chest Radiograph Projection Bias in Deep Classification Models
 * Generative Adversarial Networks for Coronary CT Angiography Acquisition Protocol Correction with Explicit Attenuation Constraints
