@@ -44,6 +44,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Vesselformer: Towards Complete 3D Vessel Graph Generation from Images
 [% / %]
 
+<a name="pm"></a>
 ### Posters — 11:00–12:00 & 15:00–16:00
 #### Full paper track
 
@@ -142,6 +143,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Know Your Space: Inlier and Outlier Construction for Calibrating Medical OOD Detectors
 [% / %]
 
+<a name="pt"></a>
 ### Posters — 10:30–12:00 & 15:00–16:00
 
 #### Full paper track
@@ -209,6 +211,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 ## Wednesday, July 12
 
+<a name="pv"></a>
 ### Virtual poster session - 8:00–9:00
 
 [% .papers %]
@@ -282,6 +285,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * An end-to-end framework for diagnosing COVID-19 pneumonia via Parallel Recursive MLP module and Bi-LTSM correlation
 [% / %]
 
+<a name="pw"></a>
 ### Posters — 10:15–12:00 & 15:00–16:00
 #### Full paper track
 [% .papers %]
