@@ -44,8 +44,8 @@ Please consult the table for your speaking slot:
 
 | Poster Day/Type |  Teaser Presentation Time |
 |:----------------|:-------------------------:|
-| Monday full papers |  Mon 10:15 |
-| Monday short papers |  Mon 11:00 |
+| Monday full papers |  Mon 10:00 |
+| Monday short papers |  Mon 10:15 |
 | Tuesday short papers |  Mon 16:45 |
 | Tuesday full papers |  Tues 10:15 |
 | Wednesday short papers |  Tues 16:45 |
