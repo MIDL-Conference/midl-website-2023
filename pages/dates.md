@@ -289,7 +289,7 @@ jQuery(document).ready(function($) {
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>9:30 - 10:00</td>
-        <td id='clr03' class='col2' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html#o1' style='color:black'>Segmentation 1 (3 orals) + poster teasers at SLC B/C  </td>
+        <td id='clr03' class='col2' rowspan=2 colspan=2 style="text-align: center" align="center" valign=center><a href='program.html#o1' style='color:black'>Segmentation 1 (2 orals) + poster teasers at SLC B/C  </td>
         <td id='clr03' class='col5' rowspan=2 colspan=3 style="text-align:center" align="center" valign=center><a href='program.html#o7' style='color:black'>Segmentation 2 (2 orals) + poster teasers at SLC  B/C </td>
      </tr>
      <tr>
@@ -303,7 +303,7 @@ jQuery(document).ready(function($) {
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:00 - 11:30</td>
-        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center;" align="center" valign=center><a href='program.html#pm' style='color:black'>Poster teasers + Coffee & Posters SLC A/BoT</td>
+        <td id='clr05' class='col3' rowspan=2 colspan=2 style="text-align: center;" align="center" valign=center><a href='program.html#pm' style='color:black'>Coffee & Posters SLC A/BoT</td>
      </tr>
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>11:30 - 12:00</td>
