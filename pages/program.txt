@@ -14,11 +14,10 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 ## Monday, July 10
 
 <a name="o1"></a>
-### Oral session 1 - Segmentation 1 — 9:30–10:15 - Session chairs: Hoel Kervadec, Guorong Wu
+### Oral session 1 - Segmentation 1 — 9:30–10:00 - Session chairs: Hoel Kervadec, Guorong Wu
 
 [% .papers %]
 * SuperMask: Generating High-resolution object masks from multi-view, unaligned low-resolution MRIs
-* Model Adaptive Tooth Segmentation
 * Learning Clinically Acceptable Segmentation of Organs at Risk in Cervical Cancer Radiation Treatment from Clinically Available Annotations
 [% / %]
 
@@ -56,7 +55,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Generalizing Unsupervised Anomaly Detection: Towards Unbiased Pathology Screening
 * Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels
 * Learning Clinically Acceptable Segmentation of Organs at Risk in Cervical Cancer Radiation Treatment from Clinically Available Annotations
-* Model Adaptive Tooth Segmentation
 * Reproducibility of the Methods in Medical Imaging with Deep Learning.
 * SuperMask: Generating High-resolution object masks from multi-view, unaligned low-resolution MRIs
 * Tumor Budding T-cell Graphs: Assessing the Need for Resection in pT1 Colorectal Cancer Patients
@@ -244,6 +242,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Semi-supervised Learning with Contrastive and Topology Losses for Catheter Segmentation and Misplacement Prediction
 * DBGSL: Dynamic Brain Graph Structure Learning
 * DBGDGM: Dynamic Brain Graph Deep Generative Model
+* Model Adaptive Tooth Segmentation
 * MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation
 * MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation
 * Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI
