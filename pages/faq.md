@@ -13,6 +13,9 @@ Please bring either an ID or the receipt with your name and the word "paid" to t
 * **Are meals included with the registration?**
 Yes, Meals are included with MIDL registration. Meal schedule is included in the [Program schedule](/dates.html). Coffee, tea, water, & snacks will be available Monday – Thursday during all programs.
 
+* **What is the best way to get to campus from the airport?**
+Nashville is not known for its public transportation.  We typically take taxi/uber/lyft. There are also private multi-passenger shuttles that can be arranged.
+
 * **General accommodation instructions:**
 Please note that Vanderbilt Accommodations is separate from MIDL and Vanderbilt MIDL team, so please reach out to the contact information. If you have difficulty, we are happy to help connect you to the Accommodations team and will be on-site at the MIDL registration desks. However, we do not have keys, “lock-out” security access, etc. Please note that the accommodations are full, so additional days or visitors are not possible. 
 
