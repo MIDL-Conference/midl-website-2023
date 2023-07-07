@@ -9,7 +9,10 @@ title: "Virtual event"
         }
 </style>
 
-### Wednesday, July 12 - 8:00–9:00
+The virtual event will be hosted on GatherTown
+
+- Time: Wednesday, July 12 - 8:00–9:00 AM, CST
+- Link: [https://app.gather.town/app/0nZxkYtl4V2FXwnK/MIDL%202023%20Virtual%20Event](https://app.gather.town/app/0nZxkYtl4V2FXwnK/MIDL%202023%20Virtual%20Event) or click the GatherTown button
 
 {{ button('GatherTown', 'https://app.gather.town/app/0nZxkYtl4V2FXwnK/MIDL%202023%20Virtual%20Event') }}
 
