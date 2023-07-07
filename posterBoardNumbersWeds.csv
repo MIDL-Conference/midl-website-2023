@@ -9,35 +9,34 @@ W08,Sparse Activations for Interpretable Disease Grading
 W09,MTSR-MRI: Combined Modality Translation and Super-Resolution of Magnetic Resonance Images
 W10,Reverse Engineering Breast MRIs: Predicting Acquisition Parameters Directly from Images
 W11,Whole-slide-imaging Cancer Metastases Detection and Localization with Limited Tumorous Data
-W12,Metadata-guided Consistency Learning for High Content Images
+W35,Metadata-guided Consistency Learning for High Content Images
 W13,Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI
 W14,Convolutional-recurrent neural networks approximate diffusion tractography from T1-weighted MRI and associated anatomical context
 W15,Addressing Chest Radiograph Projection Bias in Deep Classification Models
-W16,Generative Adversarial Networks for Coronary CT Angiography Acquisition Protocol Correction with Explicit Attenuation Constraints
+W59,Generative Adversarial Networks for Coronary CT Angiography Acquisition Protocol Correction with Explicit Attenuation Constraints
 W17,TransNetR: Transformer-based Residual Network for Polyp Segmentation with Multi-Center Out-of-Distribution Testing
 W18,SFT-KD-Recon: Learning a Student-friendly Teacher for Knowledge Distillation in Magnetic Resonance Image Reconstruction
 W19,FlexR: Few-shot Classification with Language Embeddings for Structured Reporting of Chest X-rays
-W20,MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model
+W57,MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model
 W21,Zero-Shot Self-Supervised Joint Temporal Image and Sensitivity Map Reconstruction via Linear Latent Space
-W22,A comparison of self-supervised pretraining approaches for predicting disease risk from chest radiograph images
+W55,A comparison of self-supervised pretraining approaches for predicting disease risk from chest radiograph images
 W23,Domain Adaptation using Silver Standard Masks for Lateral Ventricle Segmentation in FLAIR MRI
 W24,Segmentation of Lipid Droplets in Histological Images
 W25,High Frequency Structural MRI Signal conditioned MRA Synthesis with Denoising Diffusion probabilistic Model
-W26,Deep model-based optoacoustic image reconstruction (DeepMB)
+W53,Deep model-based optoacoustic image reconstruction (DeepMB)
 W27,Towards Robust Computation of Cardiothoracic Ratio from Chest X-Ray
 W28,Temporal Monte Carlo Dropout for Robust Uncertainty Quantification: Application to Point-of-Care Ultrasound-guided Nerve Blocks
 W29,3D Body Composition Segmentation in Abdomen and Pelvis CT using Subdivided Labels and Random Patch
 W30,Automatic quantification of TSR as a prognostic marker for pancreatic cancer.
 W31,Local and global feature aggregation for accurate epithelial cell classification using graph attention mechanisms in histopathology images
-W32,Make nnUNets Small Again
+W51,Make nnUNets Small Again
 W33,Brain age prediction using multi-hop graph attention module(MGA) with convolutional neural network
-W34,SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model
-W35,Learning Patient Rotation Using Synthetic X-ray Images from 3D CT Volumes
+W49,SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model
 W36,On the robustness of regressing tumor percentage as an explainable detector in histopathology whole-slide images
 W37,Inter-Scale Dependency Modeling for Skin Lesion Segmentation with Transformer-based Networks
 W38,Visualizing chest X-ray dataset biases using GANs
 W39,Investigate Sex Dimorphism of Cerebral Myelination Across Lifespan by Leveraging Conditional Variational Autoencoder
-W40,FFCL: Forward-Forward Contrastive Learning for Improved Medical Image Classification
+W47,FFCL: Forward-Forward Contrastive Learning for Improved Medical Image Classification
 W41,Deep Learning Regression of Cardiac Phase on Real-Time MRI
 W42,Applying spatial attention-based autoencoder learning of latent representation for unsupervised characterization of tumor microenvironment
 W43,Artificial Intelligence and Radiologists at Prostate Cancer Detection in MRI - The PI-CAI Challenge
