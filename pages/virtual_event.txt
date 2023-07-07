@@ -59,6 +59,7 @@ The virtual event will be hosted on GatherTown
 * High-Fidelity Image Synthesis from Pulmonary Nodule Lesion Maps using Semantic Diffusion Model
 * Learning Retinal Representations from Multi-modal Imaging via Contrastive Pre-training
 * Nearest Neighbor Radiomics for Self-Supervised Chest X-ray Pneumonia Identification
+* Learning Patient Rotation Using Synthetic X-ray Images from 3D CT Volumes
 * 3D Supervised Contrastive-Learning Network for Classification of Ovarian Neoplasms
 * Uncertainty for Proximal Femur Fractures Classification
 * Overcoming Interpretability and Accuracy Trade-off in Medical Imaging

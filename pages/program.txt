@@ -275,6 +275,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Whole brain radiomics for clustered federated personalization in brain tumor segmentation
 * One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities
 * Caption generation from histopathology whole-slide images using pre-trained transformers
+* Learning Patient Rotation Using Synthetic X-ray Images from 3D CT Volumes
 [% / %]
 
 <a name="o7"></a>
@@ -337,7 +338,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Make nnUNets Small Again
 * Brain age prediction using multi-hop graph attention module(MGA) with convolutional neural network
 * SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model
-* Learning Patient Rotation Using Synthetic X-ray Images from 3D CT Volumes
 * On the robustness of regressing tumor percentage as an explainable detector in histopathology whole-slide images
 * Inter-Scale Dependency Modeling for Skin Lesion Segmentation with Transformer-based Networks
 * Visualizing chest X-ray dataset biases using GANs

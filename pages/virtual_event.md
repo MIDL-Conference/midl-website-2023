@@ -76,26 +76,29 @@ The virtual event will be hosted on GatherTown
 | ![S050](/virtual/thumbnail/S050.jpg) |![S055](/virtual/thumbnail/S055.jpg) |
 | [S050 - High-Fidelity Image Synthesis from Pulmonary Nodule Lesion Maps using Semantic Diffusion Model](papers/S050.html) |[S055 - Learning Retinal Representations from Multi-modal Imaging via Contrastive Pre-training](papers/S055.html)  |
 | <hr> | <hr> |
-| ![S067](/assets/logos/logo_gold.png) |![S073](/virtual/thumbnail/S073.jpg) |
-| [S067 - Nearest Neighbor Radiomics for Self-Supervised Chest X-ray Pneumonia Identification](papers/S067.html) |[S073 - 3D Supervised Contrastive-Learning Network for Classification of Ovarian Neoplasms](papers/S073.html)  |
+| ![S067](/assets/logos/logo_gold.png) |![S069](/assets/logos/logo_gold.png) |
+| [S067 - Nearest Neighbor Radiomics for Self-Supervised Chest X-ray Pneumonia Identification](papers/S067.html) |[S069 - Learning Patient Rotation Using Synthetic X-ray Images from 3D CT Volumes](papers/S069.html)  |
 | <hr> | <hr> |
-| ![S082](/virtual/thumbnail/S082.jpg) |![S087](/virtual/thumbnail/S087.jpg) |
-| [S082 - Uncertainty for Proximal Femur Fractures Classification](papers/S082.html) |[S087 - Overcoming Interpretability and Accuracy Trade-off in Medical Imaging](papers/S087.html)  |
+| ![S073](/virtual/thumbnail/S073.jpg) |![S082](/virtual/thumbnail/S082.jpg) |
+| [S073 - 3D Supervised Contrastive-Learning Network for Classification of Ovarian Neoplasms](papers/S073.html) |[S082 - Uncertainty for Proximal Femur Fractures Classification](papers/S082.html)  |
 | <hr> | <hr> |
-| ![S093](/virtual/thumbnail/S093.jpg) |![S098](/virtual/thumbnail/S098.jpg) |
-| [S093 - Characterizing Continual Learning Scenarios for Tumor Classification in Histopathology Images](papers/S093.html) |[S098 - ζ-mixup: Richer, More Realistic Mixing of Multiple Images](papers/S098.html)  |
+| ![S087](/virtual/thumbnail/S087.jpg) |![S093](/virtual/thumbnail/S093.jpg) |
+| [S087 - Overcoming Interpretability and Accuracy Trade-off in Medical Imaging](papers/S087.html) |[S093 - Characterizing Continual Learning Scenarios for Tumor Classification in Histopathology Images](papers/S093.html)  |
 | <hr> | <hr> |
-| ![S101](/virtual/thumbnail/S101.jpg) |![S110](/assets/logos/logo_gold.png) |
-| [S101 - Facial AU-aid hypomimia diagnosis based on GNN](papers/S101.html) |[S110 - Deep Learning Regression of Cardiac Phase on Real-Time MRI](papers/S110.html)  |
+| ![S098](/virtual/thumbnail/S098.jpg) |![S101](/virtual/thumbnail/S101.jpg) |
+| [S098 - ζ-mixup: Richer, More Realistic Mixing of Multiple Images](papers/S098.html) |[S101 - Facial AU-aid hypomimia diagnosis based on GNN](papers/S101.html)  |
 | <hr> | <hr> |
-| ![S112](/virtual/thumbnail/S112.jpg) |![S114](/virtual/thumbnail/S114.jpg) |
-| [S112 - Automatic Contrast Phase Detection on Abdominal Computed Tomography using Clinically-Inspired Techniques](papers/S112.html) |[S114 - Expansion Microscopy Imaging Isotropic Restoration by Unsupervised Deep Learning](papers/S114.html)  |
+| ![S110](/assets/logos/logo_gold.png) |![S112](/virtual/thumbnail/S112.jpg) |
+| [S110 - Deep Learning Regression of Cardiac Phase on Real-Time MRI](papers/S110.html) |[S112 - Automatic Contrast Phase Detection on Abdominal Computed Tomography using Clinically-Inspired Techniques](papers/S112.html)  |
 | <hr> | <hr> |
-| ![S117](/virtual/thumbnail/S117.jpg) |![S120](/virtual/thumbnail/S120.jpg) |
-| [S117 - An end-to-end Complex-valued Neural Network approach for k-space interpolation in Parallel MRI](papers/S117.html) |[S120 - Improving Zero-Shot Detection of Low Prevalence Chest Pathologies using Domain Pre-trained Language Models](papers/S120.html)  |
+| ![S114](/virtual/thumbnail/S114.jpg) |![S117](/virtual/thumbnail/S117.jpg) |
+| [S114 - Expansion Microscopy Imaging Isotropic Restoration by Unsupervised Deep Learning](papers/S114.html) |[S117 - An end-to-end Complex-valued Neural Network approach for k-space interpolation in Parallel MRI](papers/S117.html)  |
 | <hr> | <hr> |
-| ![S121](/virtual/thumbnail/S121.jpg) |![S123](/virtual/thumbnail/S123.jpg) |
-| [S121 - Bias Field Correction in MRI with Hampel Noise Denoising Diffusion Probabilistic Model](papers/S121.html) |[S123 - CSGAN: a consistent structural GAN for AS-OCT image despeckling by image translation](papers/S123.html)  |
+| ![S120](/virtual/thumbnail/S120.jpg) |![S121](/virtual/thumbnail/S121.jpg) |
+| [S120 - Improving Zero-Shot Detection of Low Prevalence Chest Pathologies using Domain Pre-trained Language Models](papers/S120.html) |[S121 - Bias Field Correction in MRI with Hampel Noise Denoising Diffusion Probabilistic Model](papers/S121.html)  |
+| <hr> | <hr> |
+| ![S123](/virtual/thumbnail/S123.jpg) ||
+| [S123 - CSGAN: a consistent structural GAN for AS-OCT image despeckling by image translation](papers/S123.html) ||
 | <hr> | <hr> |
 
 {{ button('GatherTown', 'https://app.gather.town/app/0nZxkYtl4V2FXwnK/MIDL%202023%20Virtual%20Event') }}

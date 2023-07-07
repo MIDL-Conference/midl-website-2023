@@ -2125,6 +2125,17 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         video='None',
         lede='Poster location: Virtual only')
 }}
+{{ paper('Learning Patient Rotation Using Synthetic X-ray Images from 3D CT Volumes',
+        'Wai Yan Ryana Fok, Andreas Fieselmann, Magdalena Herbst, Dominik Eckert, Marcel Beister, Steffen Kappler, Sylvia Saalfeld',
+        openreview='https://openreview.net/forum?id=rE5kyC31IXQ',
+        pdf='https://openreview.net/pdf?id=rE5kyC31IXQ',
+        id='S069',
+        paper='papers/S069',
+        proceedings='',
+        abstract='Curation of large-scale annotated clinical data for training could be challenging due to scarcity or ethical issues. As an alternative, synthetically generated data can be used to train network for recognising basic features. In this work, we propose the novel training scheme using synthetic chest X-rays generated from 3D photon-counting CT volumes for quantifying the internal patient rotation $\\alpha$. This can automatically inform the technician if and how re-exposure is needed without the need of extensive image analysis. X-ray images were forward projected with a step size of 2$\\degree$ rotation along patient axis. 1167 images and labels were trained on a modified DenseNet-121 to detect $\\alpha$. Results on 252 test images showed good correlation between true and predicted $\\alpha$, with $R^2$= 0.992, with 95% confidence level of $\\approx \\pm$2$\\degree $. ',
+        video='None',
+        lede='Poster location: W35')
+}}
 [% / %]
 
 <a name="o7"></a>
@@ -2576,17 +2587,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         abstract='Foundation models have taken over natural language processing and image generation domains due to the flexibility of prompting. With the recent introduction of the Segment Anything Model (SAM), this prompt-driven paradigm has entered image segmentation with a hitherto unexplored abundance of capabilities. The purpose of this paper is to conduct an initial evaluation of the out-of-the-box zero-shot capabilities of SAM for medical image segmentation, by evaluating its performance on an abdominal CT organ segmentation task, via point or bounding box based prompting.  We show that SAM generalizes well to CT data, making it a potential catalyst for the advancement of semi-automatic segmentation tools for clinicians.  We believe that this foundation model, while not reaching state-of-the-art segmentation performance in our investigations, can serve as a highly potent starting point for further adaptations of such models to the intricacies of the medical domain.',
         video='None',
         lede='Poster location: W34')
-}}
-{{ paper('Learning Patient Rotation Using Synthetic X-ray Images from 3D CT Volumes',
-        'Wai Yan Ryana Fok, Andreas Fieselmann, Magdalena Herbst, Dominik Eckert, Marcel Beister, Steffen Kappler, Sylvia Saalfeld',
-        openreview='https://openreview.net/forum?id=rE5kyC31IXQ',
-        pdf='https://openreview.net/pdf?id=rE5kyC31IXQ',
-        id='S069',
-        paper='papers/S069',
-        proceedings='',
-        abstract='Curation of large-scale annotated clinical data for training could be challenging due to scarcity or ethical issues. As an alternative, synthetically generated data can be used to train network for recognising basic features. In this work, we propose the novel training scheme using synthetic chest X-rays generated from 3D photon-counting CT volumes for quantifying the internal patient rotation $\\alpha$. This can automatically inform the technician if and how re-exposure is needed without the need of extensive image analysis. X-ray images were forward projected with a step size of 2$\\degree$ rotation along patient axis. 1167 images and labels were trained on a modified DenseNet-121 to detect $\\alpha$. Results on 252 test images showed good correlation between true and predicted $\\alpha$, with $R^2$= 0.992, with 95% confidence level of $\\approx \\pm$2$\\degree $. ',
-        video='None',
-        lede='Poster location: W35')
 }}
 {{ paper('On the robustness of regressing tumor percentage as an explainable detector in histopathology whole-slide images',
         'Marina D\'Amato, Maschenka Balkenhol, Mart van Rijthoven, Jeroen van der Laak, Francesco Ciompi',
