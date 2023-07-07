@@ -14,7 +14,8 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 ## Monday, July 10
 
 <a name="o1"></a>
-### Oral session 1 - Segmentation 1 — 9:30–10:15
+### Oral session 1 - Segmentation 1 — 9:30–10:00
+#### Session chairs: Hoel Kervadec, Guorong Wu
 
 [% .papers %]
 {{ paper('SuperMask: Generating High-resolution object masks from multi-view, unaligned low-resolution MRIs',
@@ -27,17 +28,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         abstract='Three-dimensional segmentation in magnetic resonance images (MRI), which reflects the true shape of the objects, is challenging since high-resolution isotropic MRIs are rare and typical MRIs are anisotropic, with the out-of-plane dimension having a much lower resolution. A potential remedy to this issue lies in the fact that often multiple sequences are acquired on different planes. However, in practice, these sequences are not orthogonal to each other, limiting the applicability of many previous solutions to reconstruct higher-resolution images from multiple lower-resolution ones. We propose a novel deep learning-based solution to generating high-resolution masks from multiple low-resolution images. Our method combines segmentation and unsupervised registration networks by introducing two new regularizations to make registration and segmentation reinforce each other. Finally, we introduce a multi-view fusion method to generate high-resolution target object masks. The experimental results on two datasets show the superiority of our methods. Importantly, the advantage of not using high-resolution images in the training process makes our method applicable to a wide variety of MRI segmentation tasks.',
         video='None',
         lede='Poster location: M05')
-}}
-{{ paper('Model Adaptive Tooth Segmentation',
-        'Ruizhe Chen, Jianfei Yang, YANG FENG, Jin Hao, Zuozhu Liu',
-        openreview='https://openreview.net/forum?id=O2DerS5oQ1',
-        pdf='https://openreview.net/pdf?id=O2DerS5oQ1',
-        id='O048',
-        paper='papers/O048',
-        proceedings='',
-        abstract='Automatic 3-dimensional tooth segmentation on intraoral scans (IOS) plays a pivotal role in computer-aided orthodontic treatments. In practice, deploying existing well-trained models to different medical centers suffers from two main problems: (1) the data distribution shifts between existing and new centers, (2) the data in the existing center is usually not allowed to share while annotating additional data in the new center is time-consuming and expensive. In this paper, we propose a Model Adaptive Tooth Segmentation (MATS) framework to alleviate these issues. Taking the trained model from a source center as input, MATS adapts it to different target centers without data transmission or additional annotations, as inspired by the source data-free domain adaptation (SFDA) paradigm. The model adaptation in MATS is realized by a tooth-level feature prototype learning module, a progressive pseudo-labeling module and a tooth-prior regularized information maximization loss. Experiments on a dataset with tooth abnormalities and a real-world cross-center dataset show that MATS can consistently surpass existing baselines. The effectiveness is further verified with extensive ablation studies and statistical analysis, demonstrating its applicability for privacy-preserving tooth segmentation in real-world digital dentistry. ',
-        video='None',
-        lede='Poster location: M03')
 }}
 {{ paper('Learning Clinically Acceptable Segmentation of Organs at Risk in Cervical Cancer Radiation Treatment from Clinically Available Annotations',
         'Monika Grewal, Dustin van Weersel, Henrike Westerveld, Peter Bosman, Tanja Alderliesten',
@@ -69,6 +59,8 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o2"></a>
 ### Oral session 2 - Unsupervised/weakly supervised methods — 14:00–15:00
+#### Session chairs: Mert Sabuncu, Jack Noble
+
 [% .papers %]
 {{ paper('Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels',
         'Adam Casson, Siqi Liu, Ran A Godrich, Hamed Aghdam, Brandon Rothrock, Kasper Malfroid, Christopher Kanan, Thomas Fuchs',
@@ -118,6 +110,8 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o3"></a>
 ### Oral session 3 - Graph-based methods — 16:00–16:45
+#### Session chairs: Soheil Kolouri, Hervé Lombaert
+
 [% .papers %]
 {{ paper('Tumor Budding T-cell Graphs: Assessing the Need for Resection in pT1 Colorectal Cancer Patients',
         'Linda Studer, JM Bokhorst, I Nagtegaal, Inti Zlobec, Heather Dawson, Andreas Fischer',
@@ -154,6 +148,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 }}
 [% / %]
 
+<a name="pm"></a>
 ### Posters — 11:00–12:00 & 15:00–16:00
 #### Full paper track
 
@@ -212,17 +207,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         abstract='Deep learning models benefit from training with a large dataset (labeled or unlabeled). Following this motivation, we present an approach to learn a deep learning model for the automatic segmentation of Organs at Risk (OARs) in cervical cancer radiation treatment from a large clinically available dataset of Computed Tomography (CT) scans containing data inhomogeneity, label noise, and missing annotations. We employ simple heuristics for automatic data cleaning to minimize data inhomogeneity and label noise. Further, we develop a semi-supervised learning approach utilizing a teacher-student setup, annotation imputation, and uncertainty-guided training to learn in presence of missing annotations. Our experimental results show that learning from a large dataset with our approach yields a significant improvement in the test performance despite missing annotations in the data. Further, the contours generated from the segmentation masks predicted by our model are found to be equally clinically acceptable as manually generated contours.',
         video='None',
         lede='Poster location: M01')
-}}
-{{ paper('Model Adaptive Tooth Segmentation',
-        'Ruizhe Chen, Jianfei Yang, YANG FENG, Jin Hao, Zuozhu Liu',
-        openreview='https://openreview.net/forum?id=O2DerS5oQ1',
-        pdf='https://openreview.net/pdf?id=O2DerS5oQ1',
-        id='O048',
-        paper='papers/O048',
-        proceedings='',
-        abstract='Automatic 3-dimensional tooth segmentation on intraoral scans (IOS) plays a pivotal role in computer-aided orthodontic treatments. In practice, deploying existing well-trained models to different medical centers suffers from two main problems: (1) the data distribution shifts between existing and new centers, (2) the data in the existing center is usually not allowed to share while annotating additional data in the new center is time-consuming and expensive. In this paper, we propose a Model Adaptive Tooth Segmentation (MATS) framework to alleviate these issues. Taking the trained model from a source center as input, MATS adapts it to different target centers without data transmission or additional annotations, as inspired by the source data-free domain adaptation (SFDA) paradigm. The model adaptation in MATS is realized by a tooth-level feature prototype learning module, a progressive pseudo-labeling module and a tooth-prior regularized information maximization loss. Experiments on a dataset with tooth abnormalities and a real-world cross-center dataset show that MATS can consistently surpass existing baselines. The effectiveness is further verified with extensive ablation studies and statistical analysis, demonstrating its applicability for privacy-preserving tooth segmentation in real-world digital dentistry. ',
-        video='None',
-        lede='Poster location: M03')
 }}
 {{ paper('Reproducibility of the Methods in Medical Imaging with Deep Learning.',
         'Attila Simkó, Anders Garpebring, Joakim Jonsson, Tufve Nyholm, Tommy Löfstedt',
@@ -774,6 +758,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o4"></a>
 ### Oral session 4 - Neuroimaging — 9:00–10:15
+#### Session chairs: Catie Chang, Daniel Moyer
 
 [% .papers %]
 {{ paper('Decoding natural image stimuli from fMRI data with a surface-based convolutional network',
@@ -835,6 +820,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o5"></a>
 ### Oral session 5 - Semi-supervised/self-supervised methods — 14:00–15:00
+#### Session chairs: Tal Arbel, Francesco Ciompi
 
 [% .papers %]
 {{ paper('Vision-Language Modelling For Radiological Imaging and Reports In The Low Data Regime',
@@ -885,6 +871,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o6"></a>
 ### Oral session 6 - Synthesis — 16:00–16:45
+#### Session chairs: Jie Ying Wu, April Khademi
 
 [% .papers %]
 {{ paper('CP2Image: Generating high-quality single-cell images using CellProfiler representations',
@@ -922,6 +909,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 }}
 [% / %]
 
+<a name="pt"></a>
 ### Posters — 10:30–12:00 & 15:00–16:00
 
 #### Full paper track
@@ -1539,6 +1527,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 ## Wednesday, July 12
 
+<a name="pv"></a>
 ### Virtual poster session - 8:00–9:00
 
 [% .papers %]
@@ -1839,6 +1828,17 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         video='None',
         lede='Poster location: Virtual only')
 }}
+{{ paper('Model Adaptive Tooth Segmentation',
+        'Ruizhe Chen, Jianfei Yang, YANG FENG, Jin Hao, Zuozhu Liu',
+        openreview='https://openreview.net/forum?id=O2DerS5oQ1',
+        pdf='https://openreview.net/pdf?id=O2DerS5oQ1',
+        id='P048',
+        paper='papers/P048',
+        proceedings='',
+        abstract='Automatic 3-dimensional tooth segmentation on intraoral scans (IOS) plays a pivotal role in computer-aided orthodontic treatments. In practice, deploying existing well-trained models to different medical centers suffers from two main problems: (1) the data distribution shifts between existing and new centers, (2) the data in the existing center is usually not allowed to share while annotating additional data in the new center is time-consuming and expensive. In this paper, we propose a Model Adaptive Tooth Segmentation (MATS) framework to alleviate these issues. Taking the trained model from a source center as input, MATS adapts it to different target centers without data transmission or additional annotations, as inspired by the source data-free domain adaptation (SFDA) paradigm. The model adaptation in MATS is realized by a tooth-level feature prototype learning module, a progressive pseudo-labeling module and a tooth-prior regularized information maximization loss. Experiments on a dataset with tooth abnormalities and a real-world cross-center dataset show that MATS can consistently surpass existing baselines. The effectiveness is further verified with extensive ablation studies and statistical analysis, demonstrating its applicability for privacy-preserving tooth segmentation in real-world digital dentistry. ',
+        video='None',
+        lede='Poster location: M03')
+}}
 {{ paper('MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation',
         'Sanaz Karimijafarbigloo, Reza Azad, Amirhossein Kazerouni, Dorit Merhof',
         openreview='https://openreview.net/forum?id=pp2raGSU3Wx',
@@ -1860,6 +1860,17 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         abstract='Human brain tumours and more specifically gliomas are amongst the most life-threatening cancers which usually arise from abnormal growth of the glial stem cells. In practice, Magnetic Resonance Imaging (MRI) modalities, which offer different contrasts to elucidate tissue properties, provide comprehensive information regarding the brain’s structure and also potential clues for detecting tumors. Hence, multi-modal MRI is commonly utilized for the diagnosis of brain tumors. However, since the set of acquired modalities may vary between clinical sites, brain tumor studies may miss one or two MRI modalities. To address missing information in an end-to-end manner, we propose MMCFormer, a novel missing modality compensation network. Our strategy builds upon 3D efficient transformer blocks and uses a co-training strategy to effectively train a missing modality network. To ensure feature consistency in a multi-scale fashion, MMCFormer utilizes global contextual agreement modules in each scale of the encoders. Furthermore, to transfer modality-specific representations, we propose to incorporate auxiliary tokens in the bottleneck stage to model interaction between full and missing-modality paths. On top of that, we include feature consistency losses to reduce the domain gap in network prediction and increase the prediction reliability for the missing modality path. Extensive experiments on the BraTS 2018 dataset demonstrate the benefits of our approach compared to competing approaches. The implementation code will be publicly available after the paper acceptance.',
         video='None',
         lede='Poster location: Virtual only')
+}}
+{{ paper('Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI',
+        'Finn Behrendt, Debayan Bhattacharya, Julia Krüger, Roland Opfer, Alexander Schlaefer',
+        openreview='https://openreview.net/forum?id=O-uZr5S1tJE',
+        pdf='https://openreview.net/pdf?id=O-uZr5S1tJE',
+        id='P083',
+        paper='papers/P083',
+        proceedings='',
+        abstract='The use of supervised deep learning techniques to detect pathologies in brain MRI scans can be challenging due to the diversity of brain anatomy and the need for annotated data sets. An alternative approach is to use unsupervised anomaly detection, which only requires sample-level labels of healthy brains to create a reference representation. This reference representation can then be compared to unhealthy brain anatomy in a pixel-wise manner to identify abnormalities. To accomplish this, generative models are needed to create anatomically consistent MRI scans of healthy brains. While recent diffusion models have shown promise in this task, accurately generating the complex structure of the human brain remains a challenge. In this paper, we propose a method that reformulates the generation task of diffusion models as a patch-based estimation of healthy brain anatomy, using spatial context to guide and improve reconstruction. We evaluate our approach on data of tumors and multiple sclerosis lesions and demonstrate a relative improvement of 25.1% compared to existing baselines.',
+        video='None',
+        lede='Poster location: W13')
 }}
 {{ paper('Prior Guided 3D Medical Image Landmark Localization',
         'yijie pang, Pujin Cheng, Junyan Lyu, FAN lin, Xiaoying Tang',
@@ -2107,6 +2118,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o7"></a>
 ### Oral session 7 - Segmentation 2 — 9:30–10:00
+#### Session chairs: Jose Dolz, Yuankai Huo
 [% .papers %]
 {{ paper('Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function',
         'Febrian Rachmadi, Charissa Poon, henrik skibbe',
@@ -2134,6 +2146,8 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o8"></a>
 ### Oral session 8 - Computer-assisted diagnosis — 14:00–15:00
+#### Session chairs: Bram van Ginneken, Bubacarr Bah
+
 [% .papers %]
 {{ paper('Sparse Activations for Interpretable Disease Grading',
         'Kerol R. Djoumessi Donteu, Indu Ilanchezian, Laura Kühlewein, Hanna Faber, Christian F. Baumgartner, Bubacarr Bah, Philipp Berens, Lisa M. Koch',
@@ -2181,6 +2195,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 }}
 [% / %]
 
+<a name="pw"></a>
 ### Posters — 10:15–12:00 & 15:00–16:00
 #### Full paper track
 [% .papers %]
@@ -2315,17 +2330,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         abstract='High content imaging assays can capture rich phenotypic response data for large sets of compound treatments, aiding in the characterization and discovery of novel drugs. However, extracting representative features from high content images that can capture subtle nuances in phenotypes remains challenging. The lack of high-quality labels makes it difficult to achieve satisfactory results with supervised deep learning. Self-Supervised learning methods have shown great success on natural images, and offer an attractive alternative also to microscopy images. However, we find that self-supervised learning techniques underperform on high content imaging assays. One challenge is the undesirable domain shifts present in the data known as batch effects, which may be caused by biological noise or uncontrolled experimental conditions. To this end, we introduce Cross-Domain Consistency Learning (CDCL), a novel approach that is able to learn in the presence of batch effects. CDCL enforces the learning of biological similarities while disregarding undesirable batch-specific signals, which leads to more useful and versatile representations. These features are organised according to their morphological changes and are more useful for downstream tasks - such as distinguishing treatments and mechanism of action.',
         video='None',
         lede='Poster location: W12')
-}}
-{{ paper('Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI',
-        'Finn Behrendt, Debayan Bhattacharya, Julia Krüger, Roland Opfer, Alexander Schlaefer',
-        openreview='https://openreview.net/forum?id=O-uZr5S1tJE',
-        pdf='https://openreview.net/pdf?id=O-uZr5S1tJE',
-        id='P083',
-        paper='papers/P083',
-        proceedings='',
-        abstract='The use of supervised deep learning techniques to detect pathologies in brain MRI scans can be challenging due to the diversity of brain anatomy and the need for annotated data sets. An alternative approach is to use unsupervised anomaly detection, which only requires sample-level labels of healthy brains to create a reference representation. This reference representation can then be compared to unhealthy brain anatomy in a pixel-wise manner to identify abnormalities. To accomplish this, generative models are needed to create anatomically consistent MRI scans of healthy brains. While recent diffusion models have shown promise in this task, accurately generating the complex structure of the human brain remains a challenge. In this paper, we propose a method that reformulates the generation task of diffusion models as a patch-based estimation of healthy brain anatomy, using spatial context to guide and improve reconstruction. We evaluate our approach on data of tumors and multiple sclerosis lesions and demonstrate a relative improvement of 25.1% compared to existing baselines.',
-        video='None',
-        lede='Poster location: W13')
 }}
 {{ paper('Convolutional-recurrent neural networks approximate diffusion tractography from T1-weighted MRI and associated anatomical context',
         'Leon Yichen Cai, Ho Hin Lee, Nancy Rose Newlin, Cailey Irene Kerley, Praitayini Kanakaraj, Qi Yang, Graham Walter Johnson, Daniel Moyer, Kurt Gregory Schilling, Francois Rheault, Bennett A. Landman',

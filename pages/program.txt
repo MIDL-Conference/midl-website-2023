@@ -14,7 +14,8 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 ## Monday, July 10
 
 <a name="o1"></a>
-### Oral session 1 - Segmentation 1 — 9:30–10:00 - Session chairs: Hoel Kervadec, Guorong Wu
+### Oral session 1 - Segmentation 1 — 9:30–10:00
+#### Session chairs: Hoel Kervadec, Guorong Wu
 
 [% .papers %]
 * SuperMask: Generating High-resolution object masks from multi-view, unaligned low-resolution MRIs
@@ -27,7 +28,8 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 [% / %]
 
 <a name="o2"></a>
-### Oral session 2 - Unsupervised/weakly supervised methods — 14:00–15:00 - Session chairs: Mert Sabuncu, Jack Noble
+### Oral session 2 - Unsupervised/weakly supervised methods — 14:00–15:00
+#### Session chairs: Mert Sabuncu, Jack Noble
 
 [% .papers %]
 * Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels
@@ -37,7 +39,8 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 [% / %]
 
 <a name="o3"></a>
-### Oral session 3 - Graph-based methods — 16:00–16:45 - Session chairs: Soheil Kolouri, Hervé Lombaert
+### Oral session 3 - Graph-based methods — 16:00–16:45
+#### Session chairs: Soheil Kolouri, Hervé Lombaert
 
 [% .papers %]
 * Tumor Budding T-cell Graphs: Assessing the Need for Resection in pT1 Colorectal Cancer Patients
@@ -114,7 +117,8 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 ## Tuesday, July 11
 
 <a name="o4"></a>
-### Oral session 4 - Neuroimaging — 9:00–10:15 - Session chairs: Catie Chang, Daniel Moyer
+### Oral session 4 - Neuroimaging — 9:00–10:15
+#### Session chairs: Catie Chang, Daniel Moyer
 
 [% .papers %]
 * Decoding natural image stimuli from fMRI data with a surface-based convolutional network
@@ -125,7 +129,8 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 [% / %]
 
 <a name="o5"></a>
-### Oral session 5 - Semi-supervised/self-supervised methods — 14:00–15:00 - Session chairs: Tal Arbel, Francesco Ciompi
+### Oral session 5 - Semi-supervised/self-supervised methods — 14:00–15:00
+#### Session chairs: Tal Arbel, Francesco Ciompi
 
 [% .papers %]
 * Vision-Language Modelling For Radiological Imaging and Reports In The Low Data Regime
@@ -135,7 +140,8 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 [% / %]
 
 <a name="o6"></a>
-### Oral session 6 - Synthesis — 16:00–16:45 - Session chairs: Jie Ying Wu, April Khademi
+### Oral session 6 - Synthesis — 16:00–16:45
+#### Session chairs: Jie Ying Wu, April Khademi
 
 [% .papers %]
 * CP2Image: Generating high-quality single-cell images using CellProfiler representations
@@ -271,14 +277,16 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 [% / %]
 
 <a name="o7"></a>
-### Oral session 7 - Segmentation 2 — 9:30–10:00 - Session chairs: Jose Dolz, Yuankai Huo
+### Oral session 7 - Segmentation 2 — 9:30–10:00
+#### Session chairs: Jose Dolz, Yuankai Huo
 [% .papers %]
 * Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function
 * GeoLS: Geodesic Label Smoothing for Image Segmentation
 [% / %]
 
 <a name="o8"></a>
-### Oral session 8 - Computer-assisted diagnosis — 14:00–15:00 - Session chairs: Bram van Ginneken, Bubacarr Bah
+### Oral session 8 - Computer-assisted diagnosis — 14:00–15:00
+#### Session chairs: Bram van Ginneken, Bubacarr Bah
 
 [% .papers %]
 * Sparse Activations for Interpretable Disease Grading
