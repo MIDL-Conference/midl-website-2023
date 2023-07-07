@@ -25,6 +25,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 ### MIDL board special session — 10:30–11:00
 [% .papers %]
 * Reproducibility of the Methods in Medical Imaging with Deep Learning.
+* Artificial Intelligence and Radiologists at Prostate Cancer Detection in MRI - The PI-CAI Challenge
 [% / %]
 
 <a name="o2"></a>

@@ -55,6 +55,17 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         video='https://youtu.be/bNSsm0ptYmQ',
         lede='Poster location: M07')
 }}
+{{ paper('Artificial Intelligence and Radiologists at Prostate Cancer Detection in MRI - The PI-CAI Challenge',
+        'Anindo Saha, Joeran Bosma, Jasper Twilt, Bram van Ginneken, Derya Yakar, Mattijs Elschot, Jeroen Veltman, Jurgen Fütterer, Maarten de Rooij, henkjan huisman',
+        openreview='https://openreview.net/forum?id=XfXcA9-0XxR',
+        pdf='https://openreview.net/pdf?id=XfXcA9-0XxR',
+        id='S126',
+        paper='papers/S126',
+        proceedings='',
+        abstract='We hypothesized that state-of-the-art AI models, trained using thousands of patient cases, are non-inferior to radiologists at clinically significant prostate cancer diagnosis using MRI. To test the same, we designed an international comparative study titled the PI-CAI challenge, where we investigated AI models that were independently developed, trained and externally tested using a large multi-center cohort of 10,207 patient exams. Preliminary results indicate that when trained on 1,500 cases only, such models already achieve diagnostic performance comparable to that of radiologists reported in literature.',
+        video='None',
+        lede='Poster location: W43')
+}}
 [% / %]
 
 <a name="o2"></a>
