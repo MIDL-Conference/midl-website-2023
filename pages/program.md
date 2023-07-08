@@ -1848,7 +1848,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         proceedings='',
         abstract='Automatic 3-dimensional tooth segmentation on intraoral scans (IOS) plays a pivotal role in computer-aided orthodontic treatments. In practice, deploying existing well-trained models to different medical centers suffers from two main problems: (1) the data distribution shifts between existing and new centers, (2) the data in the existing center is usually not allowed to share while annotating additional data in the new center is time-consuming and expensive. In this paper, we propose a Model Adaptive Tooth Segmentation (MATS) framework to alleviate these issues. Taking the trained model from a source center as input, MATS adapts it to different target centers without data transmission or additional annotations, as inspired by the source data-free domain adaptation (SFDA) paradigm. The model adaptation in MATS is realized by a tooth-level feature prototype learning module, a progressive pseudo-labeling module and a tooth-prior regularized information maximization loss. Experiments on a dataset with tooth abnormalities and a real-world cross-center dataset show that MATS can consistently surpass existing baselines. The effectiveness is further verified with extensive ablation studies and statistical analysis, demonstrating its applicability for privacy-preserving tooth segmentation in real-world digital dentistry. ',
         video='None',
-        lede='Poster location: M03')
+        lede='Poster location: Virtual only')
 }}
 {{ paper('MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation',
         'Sanaz Karimijafarbigloo, Reza Azad, Amirhossein Kazerouni, Dorit Merhof',
@@ -2134,7 +2134,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         proceedings='',
         abstract='Curation of large-scale annotated clinical data for training could be challenging due to scarcity or ethical issues. As an alternative, synthetically generated data can be used to train network for recognising basic features. In this work, we propose the novel training scheme using synthetic chest X-rays generated from 3D photon-counting CT volumes for quantifying the internal patient rotation $\\alpha$. This can automatically inform the technician if and how re-exposure is needed without the need of extensive image analysis. X-ray images were forward projected with a step size of 2$\\degree$ rotation along patient axis. 1167 images and labels were trained on a modified DenseNet-121 to detect $\\alpha$. Results on 252 test images showed good correlation between true and predicted $\\alpha$, with $R^2$= 0.992, with 95% confidence level of $\\approx \\pm$2$\\degree $. ',
         video='None',
-        lede='Poster location: W35')
+        lede='Poster location: Virtual only')
 }}
 [% / %]
 
@@ -2351,7 +2351,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         proceedings='',
         abstract='High content imaging assays can capture rich phenotypic response data for large sets of compound treatments, aiding in the characterization and discovery of novel drugs. However, extracting representative features from high content images that can capture subtle nuances in phenotypes remains challenging. The lack of high-quality labels makes it difficult to achieve satisfactory results with supervised deep learning. Self-Supervised learning methods have shown great success on natural images, and offer an attractive alternative also to microscopy images. However, we find that self-supervised learning techniques underperform on high content imaging assays. One challenge is the undesirable domain shifts present in the data known as batch effects, which may be caused by biological noise or uncontrolled experimental conditions. To this end, we introduce Cross-Domain Consistency Learning (CDCL), a novel approach that is able to learn in the presence of batch effects. CDCL enforces the learning of biological similarities while disregarding undesirable batch-specific signals, which leads to more useful and versatile representations. These features are organised according to their morphological changes and are more useful for downstream tasks - such as distinguishing treatments and mechanism of action.',
         video='None',
-        lede='Poster location: W12')
+        lede='Poster location: W35')
 }}
 {{ paper('Convolutional-recurrent neural networks approximate diffusion tractography from T1-weighted MRI and associated anatomical context',
         'Leon Yichen Cai, Ho Hin Lee, Nancy Rose Newlin, Cailey Irene Kerley, Praitayini Kanakaraj, Qi Yang, Graham Walter Johnson, Daniel Moyer, Kurt Gregory Schilling, Francois Rheault, Bennett A. Landman',
@@ -2384,7 +2384,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         proceedings='',
         abstract='The image quality of coronary CT angiography (CCTA) is important for the correct diagnosis of patients with suspected coronary artery disease, which is heavily influenced by image acquisition. Timing of the contrast media injection specifically influences the level of arterial enhancement, and it is aimed to allow optimal assessment of the coronary artery morphology. However, a consensus on an optimal acquisition protocol that can account for the large variety in patient cohorts has not been reached, commonly resulting in suboptimal arterial enhancement. In this work, we propose a generative adversarial network for the retrospective correction of contrast media attenuation in CCTA, thus reducing the dependency on an optimal timing protocol at acquisition. We develop and evaluate the method in a set of 1,179 CCTA scans with varying levels of contrast enhancement. We evaluate the consistency of intensity values in the coronary arteries and evaluate performance of coronary centerline extraction as a commonly performed analysis task. Results show that correction of contrast media attenuation values in CCTA scans is feasible, and that it improves the performance of automatic centerline extraction. The method may allow improved analysis of coronary arteries  in CCTA scans with suboptimal contrast enhancement.',
         video='None',
-        lede='Poster location: W16')
+        lede='Poster location: W59')
 }}
 {{ paper('TransNetR: Transformer-based Residual Network for Polyp Segmentation with Multi-Center Out-of-Distribution Testing',
         'Debesh Jha, Nikhil Kumar Tomar, Vanshali Sharma, Ulas Bagci',
@@ -2428,7 +2428,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         proceedings='',
         abstract='Diffusion Probabilistic Model (DPM) has recently become one of the hottest topics in computer vision. Its image generation applications, such as Imagen, Latent Diffusion Models, and Stable Diffusion, have demonstrated impressive generation capabilities, which have sparked extensive discussions in the community. Furthermore, many recent studies have found DPM to be useful in a variety of other vision tasks, including image deblurring, super-resolution, and anomaly detection. Inspired by the success of DPM, we propose MedSegDiff, the first DPM-based model for general medical image segmentation tasks. To enhance the step-wise regional attention in DPM for medical image segmentation, we propose Dynamic Conditional Encoding, which establishes state-adaptive conditions for each sampling step. Additionally, we propose the Feature Frequency Parser (FF-Parser) to eliminate the negative effect of high-frequency noise components in this process. We verify the effectiveness of MedSegDiff on three medical segmentation tasks with different image modalities, including optic cup segmentation over fundus images, brain tumor segmentation over MRI images, and thyroid nodule segmentation over ultrasound images. Our experimental results show that MedSegDiff outperforms state-of-the-art (SOTA) methods by a considerable performance gap, demonstrating the generalization and effectiveness of the proposed model.',
         video='None',
-        lede='Poster location: W20')
+        lede='Poster location: W57')
 }}
 {{ paper('Zero-Shot Self-Supervised Joint Temporal Image and Sensitivity Map Reconstruction via Linear Latent Space',
         'Molin Zhang, Junshen Xu, Yamin Arefeen, Elfar Adalsteinsson',
@@ -2450,7 +2450,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         proceedings='',
         abstract='Deep learning is the state-of-the-art for medical imaging tasks, but requires large, labeled datasets. For risk prediction, large datasets are rare since they require both imaging and follow-up (e.g., diagnosis codes). However, the release of publicly available imaging data with diagnostic labels presents an opportunity for self and semi-supervised approaches to improve label efficiency for risk prediction. Though several studies have compared self-supervised approaches in natural image classification, object detection, and medical image interpretation, there is limited data on which approaches learn robust representations for risk prediction. We present a comparison of semi- and self-supervised learning to predict mortality risk using chest x-ray images. We find that a semi-supervised autoencoder outperforms contrastive and transfer learning in internal and external validation. ',
         video='None',
-        lede='Poster location: W22')
+        lede='Poster location: W55')
 }}
 {{ paper('Domain Adaptation using Silver Standard Masks for Lateral Ventricle Segmentation in FLAIR MRI',
         'Owen Crystal, April Khademi, Alan R Moody, Pejman J Maralani, Sandra E Black',
@@ -2498,7 +2498,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         proceedings='',
         abstract='Multispectral optoacoustic tomography requires image feedback in real-time to locate and identify relevant tissue structures during clinical interventions. Backprojection methods are commonly used for optoacoustic image reconstruction in real-time but only afford imprecise images due to oversimplified modelling assumptions. Herein, we present a deep learning framework, termed DeepMB, that infers optoacoustic images with state-of-the-art quality in 31 ms per image.',
         video='None',
-        lede='Poster location: W26')
+        lede='Poster location: W53')
 }}
 {{ paper('Towards Robust Computation of Cardiothoracic Ratio from Chest X-Ray',
         'Matilde Bodritti, Adriyana Danudibroto, Jan Aelterman',
@@ -2564,7 +2564,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         proceedings='',
         abstract='Automatic high-quality segmentations have become ubiquitous in numerous downstream tasks of medical image analysis, i.e. shape-based pathology classification or semantically guided image registration. Public frameworks for 3D U-Nets provide numerous pre-trained models for nearly all anatomies in CT scans. Yet, the great generalisation comes at the cost of very heavy networks with millions of parameter and trillions of floating point operations for every single model in even larger ensembles. We present a novel combination of two orthogonal approaches to lower the computational (and environmental) burden of U-Nets: namely partial convolution and structural re-parameterization that tackle the intertwined challenges while keeping real world latency small.',
         video='None',
-        lede='Poster location: W32')
+        lede='Poster location: W51')
 }}
 {{ paper('Brain age prediction using multi-hop graph attention module(MGA) with convolutional neural network',
         'Heejoo Lim, Yoonji Joo, Eunji Ha, Yumi Song, Sujung Yoon, In Kyoon Lyoo, Taehoon Shin',
@@ -2586,7 +2586,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         proceedings='',
         abstract='Foundation models have taken over natural language processing and image generation domains due to the flexibility of prompting. With the recent introduction of the Segment Anything Model (SAM), this prompt-driven paradigm has entered image segmentation with a hitherto unexplored abundance of capabilities. The purpose of this paper is to conduct an initial evaluation of the out-of-the-box zero-shot capabilities of SAM for medical image segmentation, by evaluating its performance on an abdominal CT organ segmentation task, via point or bounding box based prompting.  We show that SAM generalizes well to CT data, making it a potential catalyst for the advancement of semi-automatic segmentation tools for clinicians.  We believe that this foundation model, while not reaching state-of-the-art segmentation performance in our investigations, can serve as a highly potent starting point for further adaptations of such models to the intricacies of the medical domain.',
         video='None',
-        lede='Poster location: W34')
+        lede='Poster location: W49')
 }}
 {{ paper('On the robustness of regressing tumor percentage as an explainable detector in histopathology whole-slide images',
         'Marina D\'Amato, Maschenka Balkenhol, Mart van Rijthoven, Jeroen van der Laak, Francesco Ciompi',
@@ -2641,7 +2641,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         proceedings='',
         abstract='Medical image classification is one of the most important tasks for computer-aided diagnosis. Deep learning models, particularly convolutional neural networks have been successfully used for disease classification from medical images, facilitated with automated feature learning. However, the diverse imaging modalities and clinical pathologies makes it challenging to generalized and robust classification. Towards improving the model performance, we propose a novel pretraining approach, namely \\textbf{Forward Forward Contrastive Learning (FFCL)} which leverages the Forward-Forward Algorithm in a contrastive learning framework--both locally and globally. Our experimental results on chest X-ray dataset indicate that the proposed FFCL achieves superior performance (\\textbf{3.69\\%} accuracy over ImageNet pretrained ResNet-18) over existing pretraining models in pneumonia classification task. Moreover, an extensive ablation experiments support the particular local and global contrastive pretraining design in FFCL.',
         video='None',
-        lede='Poster location: W40')
+        lede='Poster location: W47')
 }}
 {{ paper('Deep Learning Regression of Cardiac Phase on Real-Time MRI',
         'Samira Masoudi, Amin Mahmoodi, Hafsa Babar, Albert Hsiao',
