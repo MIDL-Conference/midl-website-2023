@@ -31,7 +31,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 #### Session chairs: Yuankai Huo, Jack Noble
 
 [% .papers %]
-* Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels
 * Generalizing Unsupervised Anomaly Detection: Towards Unbiased Pathology Screening
 * Unsupervised Stain Decomposition via Inversion Regulation for Multiplex Immunohistochemistry Images
 * DRIMET: Deep Registration-based 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue
@@ -55,7 +54,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * A Geometric Deep Learning Framework for Generation of Virtual Left Ventricles as Graphs
 * DRIMET: Deep Registration-based 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue
 * Generalizing Unsupervised Anomaly Detection: Towards Unbiased Pathology Screening
-* Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels
 * Learning Clinically Acceptable Segmentation of Organs at Risk in Cervical Cancer Radiation Treatment from Clinically Available Annotations
 * Reproducibility of the Methods in Medical Imaging with Deep Learning.
 * SuperMask: Generating High-resolution object masks from multi-view, unaligned low-resolution MRIs
@@ -274,11 +272,12 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 [% / %]
 
 <a name="o7"></a>
-### Oral session 7 - Segmentation 2 — 9:30–10:00
+### Oral session 7 - Segmentation 2 — 9:30–10:15
 #### Session chairs: Jose Dolz, Gustavo Rohde
 [% .papers %]
 * Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function
 * GeoLS: Geodesic Label Smoothing for Image Segmentation
+* Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels
 [% / %]
 
 <a name="o8"></a>
@@ -320,6 +319,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Domain Adaptation using Silver Standard Masks for Lateral Ventricle Segmentation in FLAIR MRI
 * A deep learning method trained on synthetic data for digital breast tomosynthesis reconstruction
 * MEDIMP: 3D Medical Images and clinical Prompts for renal transplant representation learning
+* Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels
 [% / %]
 
 #### Short paper track
