@@ -2,13 +2,16 @@
 title: Medical Imaging with Deep Learning conference 2023
 page_class: home
 ---
-{% from "_macros.html" import button %}
+{% from "_macros.html" import button, youtube %}
 # Medical Imaging with Deep Learning
 ## Nashville, 10—12 July 2023
-<p class="primary-photo centered">
+<!-- <p class="primary-photo centered">
     <img alt="Nashville (Tennessee)" src="/images/nashville.jpg">
-</p>
+</p> -->
 
+{{ youtube('tNxQWfHgu-4') }}
+
+[Streaming day 1](https://youtube.com/live/tNxQWfHgu-4) [Streaming day 2](https://youtube.com/live/S1z7zbSDmmI) [Streaming day 3](https://youtube.com/live/6T5TCBJaYl4)
 
 <p class="centered">
     <a href="/program.html" class="button">Scientific program</a>
