@@ -20,21 +20,28 @@ The virtual event will be hosted on GatherTown
 
 | || |
 |:-:||:-:|
+* Robust Detection Outcome: A Metric for Pathology Detection in Medical Images
 * A Robust Mean Teacher Framework for Semi-Supervised Cell Detection in Histopathology Images
 * Reproducibility of the Methods in Medical Imaging with Deep Learning.
+* MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation
 * Rotation-Scale Equivariant Steerable Filters
 * Video pretraining advances 3D deep learning on chest CT tasks
+* Model Adaptive Tooth Segmentation
 * Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion
 * MEDIMP: 3D Medical Images and clinical Prompts for renal transplant representation learning
 * Semantic Segmentation of 3D Medical Images Through a Kaleidoscope: Data from the Osteoarthritis Initiative
+* Inherently Interpretable Multi-Label Classification Using Class-Specific Counterfactuals
 * Whole brain radiomics for clustered federated personalization in brain tumor segmentation
 * Multimodal Image-Text Matching Improves Retrieval-based Chest X-Ray Report Generation
 * Incomplete learning of multi-modal connectome for brain disorder diagnosis via modal-mixup and deep supervision
+* Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI
 * Spatial Correspondence between Graph Neural Network-Segmented Images
+* MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation
 * Prior Guided 3D Medical Image Landmark Localization
 * Semi-supervised Learning with Contrastive and Topology Losses for Catheter Segmentation and Misplacement Prediction
 * DBGSL: Dynamic Brain Graph Structure Learning
 * DBGDGM: Dynamic Brain Graph Deep Generative Model
+* Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation
 * Evaluating Adversarial Robustness of Low dose CT Recovery
 * Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation
 * TransRP: Transformer-based PET/CT feature extraction incorporating clinical data for recurrence-free survival prediction in oropharyngeal cancer
@@ -62,6 +69,7 @@ The virtual event will be hosted on GatherTown
 * Learning Patient Rotation Using Synthetic X-ray Images from 3D CT Volumes
 * 3D Supervised Contrastive-Learning Network for Classification of Ovarian Neoplasms
 * Uncertainty for Proximal Femur Fractures Classification
+* Caption generation from histopathology whole-slide images using pre-trained transformers
 * Overcoming Interpretability and Accuracy Trade-off in Medical Imaging
 * Characterizing Continual Learning Scenarios for Tumor Classification in Histopathology Images
 * ζ-mixup: Richer, More Realistic Mixing of Multiple Images
