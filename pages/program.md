@@ -70,7 +70,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o2"></a>
 ### Oral session 2 - Unsupervised/weakly supervised methods — 14:00–15:00
-#### Session chairs: Mert Sabuncu, Jack Noble
+#### Session chairs: Yuankai Huo, Jack Noble
 
 [% .papers %]
 {{ paper('Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels',
@@ -642,17 +642,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         video='None',
         lede='Poster location: M44')
 }}
-{{ paper('Interactive Cell Detection in H&E-stained slides of Diffuse Gastric Cancer',
-        'Robin Lomans, Rachel van der Post, Francesco Ciompi',
-        openreview='https://openreview.net/forum?id=J06Ap1NYWE',
-        pdf='https://openreview.net/pdf?id=J06Ap1NYWE',
-        id='S071',
-        paper='papers/S071',
-        proceedings='',
-        abstract='We present an interactive detection model to improve the cell annotation workflow of diffuse gastric cancer. The model relates image and user inputs and is trained to detect three types of cells in diffuse gastric cancer histology. We measure model multi-class cell detection performance as per-class F1 score and we show that it increases with the number of user input clicks. Moreover, we show that the proposed interactive annotation approach substantially reduces the number of required user actions needed for complete image annotation, achieving a 17\\% reduction for the multi-class case. Future work will implement an iterative approach to filter out recurring false positives for further performance improvement.',
-        video='None',
-        lede='Poster location: M45')
-}}
 {{ paper('Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging',
         'Ruining Deng, Can Cui, Quan Liu, Tianyuan Yao, Lucas Walker Remedios, Shunxing Bao, Bennett A. Landman, Yucheng Tang, Lee E. Wheless, Lori A. Coburn, Keith T. Wilson, Yaohong Wang, Agnes B. Fogo, Haichun Yang, Yuankai Huo',
         openreview='https://openreview.net/forum?id=lUZGyTRzxq',
@@ -696,17 +685,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         abstract='Automated chest X-ray report generation using machine learning has emerged as a promising technology for improving the accuracy and efficiency of chest X-ray interpretation. In this paper, we present a novel approach for automated report generation that combines the power of vision transformers for image information encoding and PubMedBERT for text decoding. Our model extracts image features using a vision transformer and text features using PubMedBERT. The encoded features are then fed into a text decoder to generate standardized reports. We trained our model on a  dataset of chest X-rays and corresponding report findings (IU dataset)  and evaluated its performance on a small subset of the MIMIC-CXR dataset. ',
         video='None',
         lede='Poster location: M49')
-}}
-{{ paper('A Novel Approach for Assessment of Clonal Hematopoiesis of Indeterminate Potential Using Deep Neural Networks',
-        'Sangeon Ryu, Shawn Ahn, Jeacy Espinoza, Alokkumar Jha, Stephanie Halene, James s Duncan, Jennifer Kwan, Nicha C Dvornek',
-        openreview='https://openreview.net/forum?id=B97_xzj69FK',
-        pdf='https://openreview.net/pdf?id=B97_xzj69FK',
-        id='S116',
-        paper='papers/S116',
-        proceedings='',
-        abstract='We propose a novel diagnostic method for clonal hematopoiesis of indeterminate potential (CHIP), a condition characterized by the presence of somatic mutations in hematopoietic stem cells without detectable hematologic malignancy, using deep-learning techniques. We developed a convolutional neural network (CNN) to predict CHIP status using 4 different views from standard delayed gadolinium-enhanced cardiac MRI. We used 5-fold cross validation on 82 patients to assess the performance of our model. Different algorithms were compared to find the optimal patient-level prediction method using the image-level CNN predictions. We found that the best model had an AUC of 0.85 and an accuracy of 82%. We conclude that a deep learning-based diagnostic approach for CHIP is promising.',
-        video='None',
-        lede='Poster location: M50')
 }}
 {{ paper('Deep Learning based Automatic Segmentation of the Levator Ani Muscle from 3D Endovaginal Ultrasound Images',
         'Amad Qureshi, Nada Rabbat, Ko-Tsung Hsu, Zara Asif, Parag Chitnis, Abbas Shobeiri, Qi Wei',
@@ -1233,17 +1211,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         video='None',
         lede='Poster location: T28')
 }}
-{{ paper('A deep learning method trained on synthetic data for digital breast tomosynthesis reconstruction',
-        'Arnaud Quillent, Vincent Jonas Bismuth, Isabelle Bloch, Christophe Kervazo, Said Ladjal',
-        openreview='https://openreview.net/forum?id=xcMTcyk2v69',
-        pdf='https://openreview.net/pdf?id=xcMTcyk2v69',
-        id='P219',
-        paper='papers/P219',
-        proceedings='',
-        abstract='Digital Breast Tomosynthesis (DBT) is an X-ray imaging modality enabling the reconstruction of 3D volumes of breasts. DBT is mainly used for cancer screening, and is intended to replace conventional mammography in the coming years. However, DBT reconstructions are impeded by several types of artefacts induced by the geometry of the device itself, degrading the image quality and limiting its resolution along the thickness of the compressed breast. In this study, we propose a deep-learning-based pipeline to address the DBT reconstruction problem, focusing on the removal of sparse-view and limited-angle artefacts. Specifically, this procedure is composed of two steps: a classic reconstruction algorithm is first applied on normalised projections, then a deep neural network is tasked with erasing the artefacts present in the obtained volumes. A major difficulty to solve our problem is the lack of real conditions artefact-free data. To overcome this complication, we resort to a new dataset comprised of synthetic breast texture phantoms. We then show that our training method and database strategy are promising to tackle the problem as they improve the informational value of planes orthogonal to the detector, which are not currently used by radiologists due to their poor quality. Eventually, we assess the impact of removing the bias components from the network and using stacks of slices as inputs, with regard to the generalisation ability of our approach on both synthetic and clinical data.',
-        video='None',
-        lede='Poster location: T29')
-}}
 {{ paper('Estimating Uncertainty in PET Image Reconstruction via Deep Posterior Sampling',
         'Tin Vlašić, Tomislav Matulić, Damir Seršić',
         openreview='https://openreview.net/forum?id=oqPQke7xz2',
@@ -1533,6 +1500,17 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         abstract='In limited data settings, transfer learning has proven useful in initializing model parameters. In this work, we compare random initialization, pre-training on ImageNet, and pre-training on histopathology datasets for 2 model architectures across 4 segmentation histopathology datasets. We show that pre-training on histopathology datasets does not always significantly improve performance relative to ImageNet pre-trained weights for both model architectures. We conclude that unless larger labeled datasets or semi-supervised techniques are leveraged, ImageNet pre-trained weights should be used in initializing segmentation models for histopathology.  ',
         video='None',
         lede='Poster location: T55')
+}}
+{{ paper('Interactive Cell Detection in H&E-stained slides of Diffuse Gastric Cancer',
+        'Robin Lomans, Rachel van der Post, Francesco Ciompi',
+        openreview='https://openreview.net/forum?id=J06Ap1NYWE',
+        pdf='https://openreview.net/pdf?id=J06Ap1NYWE',
+        id='S071',
+        paper='papers/S071',
+        proceedings='',
+        abstract='We present an interactive detection model to improve the cell annotation workflow of diffuse gastric cancer. The model relates image and user inputs and is trained to detect three types of cells in diffuse gastric cancer histology. We measure model multi-class cell detection performance as per-class F1 score and we show that it increases with the number of user input clicks. Moreover, we show that the proposed interactive annotation approach substantially reduces the number of required user actions needed for complete image annotation, achieving a 17\\% reduction for the multi-class case. Future work will implement an iterative approach to filter out recurring false positives for further performance improvement.',
+        video='None',
+        lede='Poster location: T56')
 }}
 [% / %]
 
@@ -2140,7 +2118,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o7"></a>
 ### Oral session 7 - Segmentation 2 — 9:30–10:00
-#### Session chairs: Jose Dolz, Yuankai Huo
+#### Session chairs: Jose Dolz, TBA
 [% .papers %]
 {{ paper('Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function',
         'Febrian Rachmadi, Charissa Poon, henrik skibbe',
@@ -2463,6 +2441,17 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         video='None',
         lede='Poster location: W23')
 }}
+{{ paper('A deep learning method trained on synthetic data for digital breast tomosynthesis reconstruction',
+        'Arnaud Quillent, Vincent Jonas Bismuth, Isabelle Bloch, Christophe Kervazo, Said Ladjal',
+        openreview='https://openreview.net/forum?id=xcMTcyk2v69',
+        pdf='https://openreview.net/pdf?id=xcMTcyk2v69',
+        id='P219',
+        paper='papers/P219',
+        proceedings='',
+        abstract='Digital Breast Tomosynthesis (DBT) is an X-ray imaging modality enabling the reconstruction of 3D volumes of breasts. DBT is mainly used for cancer screening, and is intended to replace conventional mammography in the coming years. However, DBT reconstructions are impeded by several types of artefacts induced by the geometry of the device itself, degrading the image quality and limiting its resolution along the thickness of the compressed breast. In this study, we propose a deep-learning-based pipeline to address the DBT reconstruction problem, focusing on the removal of sparse-view and limited-angle artefacts. Specifically, this procedure is composed of two steps: a classic reconstruction algorithm is first applied on normalised projections, then a deep neural network is tasked with erasing the artefacts present in the obtained volumes. A major difficulty to solve our problem is the lack of real conditions artefact-free data. To overcome this complication, we resort to a new dataset comprised of synthetic breast texture phantoms. We then show that our training method and database strategy are promising to tackle the problem as they improve the informational value of planes orthogonal to the detector, which are not currently used by radiologists due to their poor quality. Eventually, we assess the impact of removing the bias components from the network and using stacks of slices as inputs, with regard to the generalisation ability of our approach on both synthetic and clinical data.',
+        video='None',
+        lede='Poster location: W16')
+}}
 [% / %]
 
 #### Short paper track
@@ -2686,6 +2675,17 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         abstract='Automated dental diagnosis requires accurate segmentation of tooth from cone-beam computed tomography (CBCT) images. However, existing segmentation methods often neglect incorporating prior information and symptoms of tooth, which can cause unsatisfactory segmentation performance on tooth with symptoms. To this respect, we propose Tooth Symptom Network (TSNet), consisting of Dental Prior Guiding Data Augmentation (DPGDA) and Dental Symptom Shape Loss (DSSL), to improve segmentation performance for tooth with different clinical symptoms. Experiments show that TSNet outperforms all state-of-the-art methods across datasets with all kinds of symptoms with an average increase of 1.13\\% in Dice and 2.00\\% in IoU.',
         video='None',
         lede='Poster location: W44')
+}}
+{{ paper('A Novel Approach for Assessment of Clonal Hematopoiesis of Indeterminate Potential Using Deep Neural Networks',
+        'Sangeon Ryu, Shawn Ahn, Jeacy Espinoza, Alokkumar Jha, Stephanie Halene, James s Duncan, Jennifer Kwan, Nicha C Dvornek',
+        openreview='https://openreview.net/forum?id=B97_xzj69FK',
+        pdf='https://openreview.net/pdf?id=B97_xzj69FK',
+        id='S116',
+        paper='papers/S116',
+        proceedings='',
+        abstract='We propose a novel diagnostic method for clonal hematopoiesis of indeterminate potential (CHIP), a condition characterized by the presence of somatic mutations in hematopoietic stem cells without detectable hematologic malignancy, using deep-learning techniques. We developed a convolutional neural network (CNN) to predict CHIP status using 4 different views from standard delayed gadolinium-enhanced cardiac MRI. We used 5-fold cross validation on 82 patients to assess the performance of our model. Different algorithms were compared to find the optimal patient-level prediction method using the image-level CNN predictions. We found that the best model had an AUC of 0.85 and an accuracy of 82%. We conclude that a deep learning-based diagnostic approach for CHIP is promising.',
+        video='None',
+        lede='Poster location: W12')
 }}
 [% / %]
 
