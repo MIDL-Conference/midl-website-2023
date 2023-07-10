@@ -1,6 +1,5 @@
 M01,Learning Clinically Acceptable Segmentation of Organs at Risk in Cervical Cancer Radiation Treatment from Clinically Available Annotations
 M02,Unsupervised Stain Decomposition via Inversion Regulation for Multiplex Immunohistochemistry Images
-M04,Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels
 M05,"SuperMask: Generating High-resolution object masks from multi-view, unaligned low-resolution MRIs"
 M06,Generalizing Unsupervised Anomaly Detection: Towards Unbiased Pathology Screening
 M07,Reproducibility of the Methods in Medical Imaging with Deep Learning.
