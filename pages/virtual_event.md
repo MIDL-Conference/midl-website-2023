@@ -20,37 +20,37 @@ The virtual event will be hosted on GatherTown
 
 | || |
 |:-:||:-:|
-| ![P010](/assets/logos/logo_gold.png) |![P015](/virtual/thumbnail/P015.jpg) |
+| ![P010](/virtual/thumbnail/P010.jpg) |![P015](/virtual/thumbnail/P015.jpg) |
 | [P010 - Robust Detection Outcome: A Metric for Pathology Detection in Medical Images](papers/P010.html) |[P015 - A Robust Mean Teacher Framework for Semi-Supervised Cell Detection in Histopathology Images](papers/P015.html)  |
 | <hr> | <hr> |
-| ![O029](/virtual/thumbnail/O029.jpg) |![P031](/assets/logos/logo_gold.png) |
+| ![O029](/virtual/thumbnail/O029.jpg) |![P031](/virtual/thumbnail/P031.jpg) |
 | [O029 - Reproducibility of the Methods in Medical Imaging with Deep Learning.](papers/O029.html) |[P031 - MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation](papers/P031.html)  |
 | <hr> | <hr> |
 | ![P032](/virtual/thumbnail/P032.jpg) |![P046](/virtual/thumbnail/P046.jpg) |
 | [P032 - Rotation-Scale Equivariant Steerable Filters](papers/P032.html) |[P046 - Video pretraining advances 3D deep learning on chest CT tasks](papers/P046.html)  |
 | <hr> | <hr> |
-| ![P048](/assets/logos/logo_gold.png) |![P053](/virtual/thumbnail/P053.jpg) |
+| ![P048](/virtual/thumbnail/P048.jpg) |![P053](/virtual/thumbnail/P053.jpg) |
 | [P048 - Model Adaptive Tooth Segmentation](papers/P048.html) |[P053 - Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion](papers/P053.html)  |
 | <hr> | <hr> |
 | ![P055](/virtual/thumbnail/P055.jpg) |![P070](/virtual/thumbnail/P070.jpg) |
 | [P055 - MEDIMP: 3D Medical Images and clinical Prompts for renal transplant representation learning](papers/P055.html) |[P070 - Semantic Segmentation of 3D Medical Images Through a Kaleidoscope: Data from the Osteoarthritis Initiative](papers/P070.html)  |
 | <hr> | <hr> |
-| ![P073](/assets/logos/logo_gold.png) |![P075](/assets/logos/logo_gold.png) |
+| ![P073](/virtual/thumbnail/P073.jpg) |![P075](/virtual/thumbnail/P075.jpg) |
 | [P073 - Inherently Interpretable Multi-Label Classification Using Class-Specific Counterfactuals](papers/P073.html) |[P075 - Whole brain radiomics for clustered federated personalization in brain tumor segmentation](papers/P075.html)  |
 | <hr> | <hr> |
 | ![P076](/virtual/thumbnail/P076.jpg) |![P082](/virtual/thumbnail/P082.jpg) |
 | [P076 - Multimodal Image-Text Matching Improves Retrieval-based Chest X-Ray Report Generation](papers/P076.html) |[P082 - Incomplete learning of multi-modal connectome for brain disorder diagnosis via modal-mixup and deep supervision](papers/P082.html)  |
 | <hr> | <hr> |
-| ![P083](/assets/logos/logo_gold.png) |![P090](/virtual/thumbnail/P090.jpg) |
+| ![P083](/virtual/thumbnail/P083.jpg) |![P090](/virtual/thumbnail/P090.jpg) |
 | [P083 - Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI](papers/P083.html) |[P090 - Spatial Correspondence between Graph Neural Network-Segmented Images](papers/P090.html)  |
 | <hr> | <hr> |
-| ![P115](/assets/logos/logo_gold.png) |![P117](/virtual/thumbnail/P117.jpg) |
+| ![P115](/virtual/thumbnail/P115.jpg) |![P117](/virtual/thumbnail/P117.jpg) |
 | [P115 - MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation](papers/P115.html) |[P117 - Prior Guided 3D Medical Image Landmark Localization](papers/P117.html)  |
 | <hr> | <hr> |
 | ![P129](/virtual/thumbnail/P129.jpg) |![P138](/virtual/thumbnail/P138.jpg) |
 | [P129 - Semi-supervised Learning with Contrastive and Topology Losses for Catheter Segmentation and Misplacement Prediction](papers/P129.html) |[P138 - DBGSL: Dynamic Brain Graph Structure Learning](papers/P138.html)  |
 | <hr> | <hr> |
-| ![P139](/virtual/thumbnail/P139.jpg) |![P165](/assets/logos/logo_gold.png) |
+| ![P139](/virtual/thumbnail/P139.jpg) |![P165](/virtual/thumbnail/P165.jpg) |
 | [P139 - DBGDGM: Dynamic Brain Graph Deep Generative Model](papers/P139.html) |[P165 - Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation](papers/P165.html)  |
 | <hr> | <hr> |
 | ![P166](/virtual/thumbnail/P166.jpg) |![P179](/assets/logos/logo_gold.png) |
@@ -65,7 +65,7 @@ The virtual event will be hosted on GatherTown
 | ![P201](/assets/logos/logo_gold.png) |![P215](/virtual/thumbnail/P215.jpg) |
 | [P201 - Intra- and Inter-Cellular Awareness for 3D Neuron Tracking and Segmentation in Large-Scale Connectomics](papers/P201.html) |[P215 - Domain adaptation using optimal transport for invariant learning using histopathology datasets](papers/P215.html)  |
 | <hr> | <hr> |
-| ![P217](/assets/logos/logo_gold.png) |![P218](/assets/logos/logo_gold.png) |
+| ![P217](/virtual/thumbnail/P217.jpg) |![P218](/assets/logos/logo_gold.png) |
 | [P217 - One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities](papers/P217.html) |[P218 - MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging](papers/P218.html)  |
 | <hr> | <hr> |
 
@@ -85,13 +85,13 @@ The virtual event will be hosted on GatherTown
 | ![S050](/virtual/thumbnail/S050.jpg) |![S055](/virtual/thumbnail/S055.jpg) |
 | [S050 - High-Fidelity Image Synthesis from Pulmonary Nodule Lesion Maps using Semantic Diffusion Model](papers/S050.html) |[S055 - Learning Retinal Representations from Multi-modal Imaging via Contrastive Pre-training](papers/S055.html)  |
 | <hr> | <hr> |
-| ![S067](/assets/logos/logo_gold.png) |![S069](/assets/logos/logo_gold.png) |
+| ![S067](/assets/logos/logo_gold.png) |![S069](/virtual/thumbnail/S069.jpg) |
 | [S067 - Nearest Neighbor Radiomics for Self-Supervised Chest X-ray Pneumonia Identification](papers/S067.html) |[S069 - Learning Patient Rotation Using Synthetic X-ray Images from 3D CT Volumes](papers/S069.html)  |
 | <hr> | <hr> |
 | ![S073](/virtual/thumbnail/S073.jpg) |![S082](/virtual/thumbnail/S082.jpg) |
 | [S073 - 3D Supervised Contrastive-Learning Network for Classification of Ovarian Neoplasms](papers/S073.html) |[S082 - Uncertainty for Proximal Femur Fractures Classification](papers/S082.html)  |
 | <hr> | <hr> |
-| ![S085](/assets/logos/logo_gold.png) |![S087](/virtual/thumbnail/S087.jpg) |
+| ![S085](/virtual/thumbnail/S085.jpg) |![S087](/virtual/thumbnail/S087.jpg) |
 | [S085 - Caption generation from histopathology whole-slide images using pre-trained transformers](papers/S085.html) |[S087 - Overcoming Interpretability and Accuracy Trade-off in Medical Imaging](papers/S087.html)  |
 | <hr> | <hr> |
 | ![S093](/virtual/thumbnail/S093.jpg) |![S098](/virtual/thumbnail/S098.jpg) |

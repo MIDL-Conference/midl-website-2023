@@ -555,9 +555,9 @@
         "poster_loc": "Virtual only",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P010.pdf",
         "title": "Robust Detection Outcome: A Metric for Pathology Detection in Medical Images",
-        "yt_full": null
+        "yt_full": "https://youtu.be/A_pOOc8lKFY"
     },
     "P011": {
         "abstract": "One major problem in deep learning-based solutions for medical imaging is the drop in performance when a model is tested on a data distribution different from the one that it is trained on.  Adapting the source model to target data distribution at test-time is an efficient solution for the data-shift problem. Previous methods solve this by adapting the model to target distribution by using techniques like entropy minimization or regularization. In these methods, the models are still updated by back-propagation using an unsupervised loss on complete test data distribution. In real-world clinical settings, it makes more sense to adapt a model to a new test image on-the-fly and avoid model update during inference due to privacy concerns and lack of computing resource at deployment. To this end, we propose a new setting - On-the-Fly Adaptation which is zero-shot and episodic i.e., the model is adapted to a single image at a time and also does not perform any back-propagation during test-time). To achieve this, we propose a new framework called Adaptive UNet where each convolutional block is equipped with an adaptive batch normalization layer to adapt the features with respect to a domain code. The domain code is generated using a pre-trained encoder trained on a large corpus of medical images. During test-time, the model takes in just the new test image and generates a domain code to adapt the features of source model according to the test data. We validate the performance on both 2D and 3D data distribution shifts where we get a better performance compared to previous test-time adaptation methods.",
@@ -667,9 +667,9 @@
         "poster_loc": "Virtual only",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P031.pdf",
         "title": "MS-Former: Multi-Scale Self-Guided Transformer for Medical Image Segmentation",
-        "yt_full": null
+        "yt_full": "https://youtu.be/8zK8o7b8Bw4"
     },
     "P032": {
         "abstract": "Incorporating either rotation equivariance or scale equivariance into CNNs has proved to be effective in improving models\u2019 generalization performance. However, jointly integrating rotation and scale equivariance into CNNs has not been widely explored. Digital histology imaging of biopsy tissue can be captured at arbitrary orientation and magnification and stored at different resolutions, resulting in cells appearing in different scales. When conventional CNNs are applied to histopathology image analysis, the generalization performance of models is limited because 1) a part of the parameters of filters are trained to fit rotation transformation, thus decreasing the capability of learning other discriminative features; 2) fixed-size filters trained on images at a given scale fail to generalize to those at different scales. To deal with these issues, we propose the Rotation-Scale Equivariant Steerable Filter (RSESF), which incorporates steerable filters and scale-space theory. The RSESF contains copies of filters that are linear combinations of Gaussian filters, whose direction is controlled by directional derivatives and whose scale parameters are trainable but constrained to span disjoint scales in successive layers of the network. Extensive experiments on two gland segmentation datasets demonstrate that our method outperforms other approaches, with much fewer trainable parameters and fewer GPU resources required. The source code is available at: https://github.com/ynulonger/RSESF.",
@@ -763,9 +763,9 @@
         "poster_loc": "Virtual only",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P048.pdf",
         "title": "Model Adaptive Tooth Segmentation",
-        "yt_full": null
+        "yt_full": "https://youtu.be/bkF1lfFwWd0"
     },
     "P050": {
         "abstract": "In recent years, Transformer-based models have gained attention in the field of medical image segmentation, with research exploring ways to integrate them with established architectures such as Unet. However, the high computational demands of these models have led most current approaches to focus on segmenting 2D slices of MRI or CT images, which can limit the ability of the model to learn semantic information in the depth axis and result in output with uneven edges. Additionally, the small size of medical image datasets, particularly those for brain tumor segmentation, poses a challenge for training transformer models. To address these issues, we propose 3D Medical Axial Transformer (MAT), a lightweight, end-to-end model for 3D brain tumor segmentation that employs an axial attention mechanism to reduce computational demands and self-distillation to improve performance on small datasets. Results indicate that our approach, which has fewer parameters and a simpler structure than other models, achieves superior performance and produces clearer output boundaries, making it more suitable for clinical applications.",
@@ -797,7 +797,7 @@
         "short": "False",
         "slides": "/virtual/poster/P053.pdf",
         "title": "Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion",
-        "yt_full": null
+        "yt_full": "https://youtu.be/4lqgp8BKcfg"
     },
     "P054": {
         "abstract": "The image acquisition parameters (IAPs) used to create MRI scans are central to defining the appearance of the images. Deep learning models trained on data acquired using certain parameters might not generalize well to images acquired with different parameters. Being able to recover such parameters directly from an image could help determine whether a deep learning model is applicable, and could assist with data harmonization and/or domain adaptation. Here, we introduce a neural network model that can predict many complex IAPs used to generate an MR image with high accuracy solely using the image, with a single forward pass. These predicted parameters include field strength, echo and repetition times, acquisition matrix, scanner model, scan options, and others. Even challenging parameters such as contrast agent type can be predicted with good accuracy. We perform a variety of experiments and analyses of our model's ability to predict IAPs on many MRI scans of new patients, and demonstrate its usage in a realistic application. Predicting IAPs from the images is an important step toward better understanding the relationship between image appearance and IAPs. This in turn will advance the understanding of many concepts related to the generalizability of neural network models on medical images, including domain shift, domain adaptation, and data harmonization. ",
@@ -829,7 +829,7 @@
         "short": "False",
         "slides": "/virtual/poster/P055.pdf",
         "title": "MEDIMP: 3D Medical Images and clinical Prompts for renal transplant representation learning",
-        "yt_full": null
+        "yt_full": "https://youtu.be/PgGGqhpntTs"
     },
     "P062": {
         "abstract": "Brain surface-based image registration, an important component of brain image analysis, establishes spatial correspondence between cortical surfaces. Existing iterative and learning-based approaches focus on accurate registration of folding patterns of the cerebral cortex, and assume that geometry predicts function and thus functional areas will also be well aligned. However, structure/functional variability of anatomically corresponding areas across subjects has been widely reported. In this work, we introduce a learning-based cortical registration framework, JOSA, which jointly aligns folding patterns and functional maps while simultaneously learning an optimal atlas. We demonstrate that JOSA can substantially improve registration performance in both anatomical and functional domains over existing methods. By employing a semi-supervised training strategy, the proposed framework obviates the need for functional data during inference, enabling its use in broad neuroscientific domains where functional data may not be observed. The source code of JOSA will be released to the public at https://voxelmorph.net.",
@@ -923,9 +923,9 @@
         "poster_loc": "M19",
         "schedule": "Monday, July 10: Posters \u2014 11:00\u201312:00 & 15:00\u201316:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P073.pdf",
         "title": "Inherently Interpretable Multi-Label Classification Using Class-Specific Counterfactuals",
-        "yt_full": null
+        "yt_full": "https://youtu.be/x44gbPrkWl8"
     },
     "P075": {
         "abstract": "Federated learning and its application to medical image segmentation have recently become a popular research topic. This training paradigm suffers from statistical heterogeneity between participating institutions\u2019 local datasets, incurring convergence slowdown as well as potential accuracy loss compared to classical training.  To mitigate this effect, federated personalization emerged as the federated optimization of one model per distribution. We propose a novel personalization algorithm tailored to the feature shift induced by the usage of different scanners and acquisition parameters by different institutions. This method is the first to account for both inter and intra-institution feature shifts (multiple scanners used in a single institution). It is based on the computation, within each centre, of a series of radiomic features capturing the global texture of each 3D image volume, followed by a clustering analysis pooling all feature vectors transferred from the local institutions to the central server. Each computed clustered decentralized dataset (potentially including data from different institutions) then serves to finetune a global model obtained through classical federated learning. We validate our approach on the Federated Brain Tumor Segmentation 2022 Challenge dataset (FeTS2022).",
@@ -939,9 +939,9 @@
         "poster_loc": "Virtual only",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P075.pdf",
         "title": "Whole brain radiomics for clustered federated personalization in brain tumor segmentation",
-        "yt_full": null
+        "yt_full": "https://youtu.be/NCbSwfMRPzg"
     },
     "P076": {
         "abstract": "Automated generation of clinically accurate radiology reports can improve patient care. Previous report generation methods that rely on image captioning models often generate incoherent and incorrect text due to their lack of relevant domain knowledge, while retrieval-based attempts frequently retrieve reports that are irrelevant to the input image. In this work, we propose Contrastive X-Ray REport Match (X-REM), a novel retrieval-based radiology report generation module that uses an image-text matching score to measure the similarity of a chest X-ray image and radiology report for report retrieval. We observe that computing the image-text matching score with a language-image model can effectively capture the fine-grained interaction between image and text that is often lost when using cosine similarity. X-REM outperforms multiple prior radiology report generation modules in terms of both natural language and clinical metrics. Human evaluation of the generated reports suggests that X-REM increased the number of zero-error reports and decreased the average error severity compared to the baseline retrieval approach. Our code is available at: https://github.com/rajpurkarlab/X-REM",
@@ -1003,9 +1003,9 @@
         "poster_loc": "W13",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P083.pdf",
         "title": "Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI",
-        "yt_full": null
+        "yt_full": "https://youtu.be/tiS7ciIOG3I"
     },
     "P085": {
         "abstract": "Dynamic Magnetic Resonance Imaging (MRI) is known to be a powerful and reliable technique for the dynamic imaging of internal organs and tissues, making it a leading diagnostic tool. A major difficulty in using MRI in this setting is the relatively long acquisition time (and, hence, increased cost) required for imaging in high spatio-temporal resolution, leading to the appearance of related motion artifacts and decrease in resolution. Compressed Sensing (CS) techniques have become a common tool to reduce MRI acquisition time by subsampling images in the $k$-space according to some acquisition trajectory. Several studies have particularly focused on applying deep learning techniques to learn these acquisition trajectories in order to attain better image reconstruction, rather than using some predefined set of trajectories. To the best of our knowledge, learning acquisition trajectories has been only explored in the context of static MRI. In this study, we consider acquisition trajectory learning in the dynamic imaging setting. We design an end-to-end pipeline for the joint optimization of multiple per-frame acquisition trajectories along with a reconstruction neural network, and demonstrate improved image reconstruction quality in shorter acquisition times. The code for reproducing all experiments will accompany the paper.",
@@ -1115,9 +1115,9 @@
         "poster_loc": "Virtual only",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P115.pdf",
         "title": "MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation",
-        "yt_full": null
+        "yt_full": "https://youtu.be/_V7RsdtVSpo"
     },
     "P117": {
         "abstract": "Accurate detection of 3D landmarks is critical for evaluating and characterizing anatomical features and performing preoperative diagnostic screening. However, detecting 3D landmarks can be challenging due to the local structural homogeneity of medical images. To address this issue, physicians often annotate multiple landmarks in a single slice, particularly when estimating 3D distance or volume. In this study, we present a prior guided coarse-to-fine framework for efficient and accurate 3D medical landmark detection; we make use of the prior information that in specific settings physicians annotate multiple landmarks on a same slice. The coarse stage uses coordinate regression on downsampled 3D images to maintain the structural relationships across different landmarks. The fine stage categorizes landmarks as correlated and independent landmarks based on their annotation prior. For independent landmarks, we train multiple models to capture local features and ensure reliable local predictions. For correlated landmarks, we mimic the manual annotation process and propose a correlated landmark detection model that merges information from various patches to query key slices and identify correlated landmarks. Our method is extensively evaluated on two datasets, exhibiting superior performance with an average detection error of respective 3.29 mm and 2.13 mm.",
@@ -1133,7 +1133,7 @@
         "short": "False",
         "slides": "/virtual/poster/P117.pdf",
         "title": "Prior Guided 3D Medical Image Landmark Localization",
-        "yt_full": null
+        "yt_full": "https://youtu.be/NhIr89da0bc"
     },
     "P118": {
         "abstract": "Variability in staining protocols, such as different slide preparation techniques, chemicals, and scanner configurations, can result in a diverse set of whole slide images (WSIs). This distribution shift can negatively impact the performance of deep learning models on unseen samples, presenting a significant challenge for developing new computational pathology applications. In this study, we propose a method for improving the generalizability of convolutional neural networks (CNNs) to stain changes in a single-source setting for semantic segmentation. Recent studies indicate that style features mainly exist as covariances in earlier network layers. We design a channel attention mechanism based on these findings that detects stain-specific features and modify the previously proposed stain-invariant training scheme. We reweigh the outputs of earlier layers and pass them to the stain-adversarial training branch. We evaluate our method on multi-center, multi-stain datasets and demonstrate its effectiveness through interpretability analysis. Our approach achieves substantial improvements over baselines and competitive performance compared to other methods, as measured by various evaluation metrics. We also show that combining our method with stain augmentation leads to mutually beneficial results and outperforms other techniques. Overall, our study makes significant contributions to the field of computational pathology.",
@@ -1451,9 +1451,9 @@
         "poster_loc": "T26",
         "schedule": "Tuesday, July 11: Posters \u2014 10:30\u201312:00 & 15:00\u201316:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P165.pdf",
         "title": "Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation",
-        "yt_full": null
+        "yt_full": "https://youtu.be/DYwsK2lmhm4"
     },
     "P166": {
         "abstract": "Low dose computer tomography (CT) acquisition using reduced radiation or sparse angle measurements is recommended to decrease the harmful effects of X-ray radiation. Recent works successfully apply deep networks to the problem of low dose CT recovery on benchmark datasets. However, their robustness needs a thorough evaluation before use in clinical settings. In this work, we evaluate the robustness of different deep learning  approaches and classical methods for CT recovery.We show that deep networks, including model based networks encouraging data consistency are more susceptible to untargeted attacks. Surprisingly, we observe that data consistency is not heavily affected  even for these poor quality reconstructions, motivating the need for better regularization for the networks. We demonstrate the feasibility of  universal attacks and study attack transferability across different methods.  We analyze robustness to attacks causing localized changes in clinically relevant regions. Both classical approaches and deep networks are affected by such attacks leading to change in  visual appearance of localized lesions, for extremely small perturbations. As the resulting reconstructions have high data consistency with original measurements, these localized attacks can be used to explore the solution space of CT recovery problem. ",
@@ -1691,9 +1691,9 @@
         "poster_loc": "Virtual only",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P217.pdf",
         "title": "One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities",
-        "yt_full": null
+        "yt_full": "https://youtu.be/koaJ808Gtkw"
     },
     "P218": {
         "abstract": "Recent applications of deep convolutional neural networks in medical imaging raise concerns about their interpretability. While most explainable deep learning applications use post hoc methods (such as GradCAM) to generate feature attribution maps, there is a new type of case-based reasoning models, namely ProtoPNet and its variants, which identify prototypes during training and compare input image patches with those prototypes. We propose the first medical prototype network (MProtoNet) to extend ProtoPNet to brain tumor classification with 3D multi-parametric magnetic resonance imaging (mpMRI) data. To address different requirements between 2D natural images and 3D mpMRIs especially in terms of localizing attention regions, a new attention module with soft masking and online-CAM loss is introduced. Soft masking helps sharpen attention maps, while online-CAM loss directly utilizes image-level labels when training the attention module. MProtoNet achieves statistically significant improvements in interpretability metrics of both correctness and localization coherence (with a best activation precision of $0.713\\pm0.058$) without human-annotated labels during training, when compared with GradCAM and several ProtoPNet variants. The source code is available at https://github.com/aywi/mprotonet.",
@@ -1707,9 +1707,9 @@
         "poster_loc": "Virtual only",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "False",
-        "slides": "",
+        "slides": "/virtual/poster/P218.pdf",
         "title": "MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging",
-        "yt_full": null
+        "yt_full": "https://youtu.be/DtfXwrliVQg"
     },
     "P219": {
         "abstract": "Digital Breast Tomosynthesis (DBT) is an X-ray imaging modality enabling the reconstruction of 3D volumes of breasts. DBT is mainly used for cancer screening, and is intended to replace conventional mammography in the coming years. However, DBT reconstructions are impeded by several types of artefacts induced by the geometry of the device itself, degrading the image quality and limiting its resolution along the thickness of the compressed breast. In this study, we propose a deep-learning-based pipeline to address the DBT reconstruction problem, focusing on the removal of sparse-view and limited-angle artefacts. Specifically, this procedure is composed of two steps: a classic reconstruction algorithm is first applied on normalised projections, then a deep neural network is tasked with erasing the artefacts present in the obtained volumes. A major difficulty to solve our problem is the lack of real conditions artefact-free data. To overcome this complication, we resort to a new dataset comprised of synthetic breast texture phantoms. We then show that our training method and database strategy are promising to tackle the problem as they improve the informational value of planes orthogonal to the detector, which are not currently used by radiologists due to their poor quality. Eventually, we assess the impact of removing the bias components from the network and using stacks of slices as inputs, with regard to the generalisation ability of our approach on both synthetic and clinical data.",
@@ -2539,9 +2539,9 @@
         "poster_loc": "Virtual only",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S069.pdf",
         "title": "Learning Patient Rotation Using Synthetic X-ray Images from 3D CT Volumes",
-        "yt_full": null
+        "yt_full": "https://youtu.be/PuUKcUmDilE"
     },
     "S071": {
         "abstract": "We present an interactive detection model to improve the cell annotation workflow of diffuse gastric cancer. The model relates image and user inputs and is trained to detect three types of cells in diffuse gastric cancer histology. We measure model multi-class cell detection performance as per-class F1 score and we show that it increases with the number of user input clicks. Moreover, we show that the proposed interactive annotation approach substantially reduces the number of required user actions needed for complete image annotation, achieving a 17\\% reduction for the multi-class case. Future work will implement an iterative approach to filter out recurring false positives for further performance improvement.",
@@ -2589,7 +2589,7 @@
         "short": "True",
         "slides": "/virtual/poster/S073.pdf",
         "title": "3D Supervised Contrastive-Learning Network for Classification of Ovarian Neoplasms",
-        "yt_full": null
+        "yt_full": "https://youtu.be/0172QwDwr_U"
     },
     "S076": {
         "abstract": "Diffusion models have recently delivered state-of-the-art performance for MRI reconstruction with improved robustness. However, these models still fail when there is a large distribution shift, and their long inference times impede their clinical utility. In this paper, we present regularization by denoising diffusion processes for MRI reconstruction (RED-diff). RED-diff formulates sampling as stochastic optimization, and outperforms diffusion baselines in PSNR/SSIM with 3x faster inference while using the same amount of memory.",
@@ -2715,9 +2715,9 @@
         "poster_loc": "Virtual only",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S085.pdf",
         "title": "Caption generation from histopathology whole-slide images using pre-trained transformers",
-        "yt_full": null
+        "yt_full": "https://youtu.be/NNQlClrNWkg"
     },
     "S087": {
         "abstract": "Neural networks are considered black boxes. Deploying them into the healthcare domain poses a challenge in understanding model behavior beyond final prediction. There have been recent attempts to establish the trustworthiness of a model. Concept learning models provide insight into the model by introducing a bottleneck layer before the final prediction. They encourage interpretable insights into deep learning models by conditioning final predictions on intermediate predictions of explainable high-level concepts. However, using concept-based models causes a drop in performance which poses an accuracy vs explainability trade-off. To overcome this challenge we propose Coop-CBM, a novel concept learning model. We validate the performance of Coop-CBM on diverse dermatology and histopathology images. ",
@@ -2813,7 +2813,7 @@
         "short": "True",
         "slides": "/virtual/poster/S093.pdf",
         "title": "Characterizing Continual Learning Scenarios for Tumor Classification in Histopathology Images",
-        "yt_full": null
+        "yt_full": "https://youtu.be/gKZtkHgN2vQ"
     },
     "S094": {
         "abstract": "Detection of anomalies before they are included in the downstream diagnosis/prognosis models is an important criterion for maintaining the medical AI imaging model performance across internal and external datasets. However, the core challenges are: (i) given the infinite variations of possible anomaly, curation of training data is in-feasible; (ii) making assumptions about the types of anomalies are often hypothetical. We propose an unsupervised anomaly detection model using a cascade variational autoencoder coupled with a zero-shot learning (ZSL) network that maps the latent vectors to semantic attribute space. We present the performance of the proposed model on two different use cases \u2013 skin images and chest radiographs and also compare against the same class of state-of-the art generative OOD detection models. ",
@@ -2987,9 +2987,9 @@
         "poster_loc": "W41",
         "schedule": "Wednesday, July 12: Virtual poster session - 8:00\u20139:00\nWednesday, July 12: Posters \u2014 10:15\u201312:00 & 15:00\u201316:00\n",
         "short": "True",
-        "slides": "",
+        "slides": "/virtual/poster/S110.pdf",
         "title": "Deep Learning Regression of Cardiac Phase on Real-Time MRI",
-        "yt_full": null
+        "yt_full": "https://youtu.be/_V7RsdtVSpo"
     },
     "S112": {
         "abstract": "Accurately determining contrast phase in an abdominal computed tomography (CT) series is an important step prior to deploying downstream artificial intelligence methods trained to operateon the specific series. Inspired by how radiologists assess contrast phase status, this paper presents a simple approach to automatically detect the contrast phase. This method combines features extracted from the segmentation of key anatomical structures with a gradient boosting classifier for this task. The algorithm demonstrates high accuracy in categorizing the images into non-contrast (96.6\\% F1 score), arterial (78.9\\% F1 score), venous (92.2\\% F1 score), and delayed phases (95.0\\% F1 score), making it a valuable tool for enhancing AI applicability in medical imaging.",
