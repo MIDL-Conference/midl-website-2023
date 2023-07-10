@@ -7,8 +7,6 @@ title: "Detailed program"
 
 # Scientific program
 
-Please note the program is tentative.
-
 Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/zone/usa/nashville).
 
 ## Monday, July 10
