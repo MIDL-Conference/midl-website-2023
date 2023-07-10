@@ -69,7 +69,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Reference-based MRI Reconstruction Using Texture Transformer
 * Domain Adaptation using Silver Standard Labels for Ki-67 Scoring in Digital Pathology A Step Closer to Widescale Deployment
 * DeepBrainPrint: A Novel Contrastive Framework for Brain MRI Re-Identification
-* MEDIMP: 3D Medical Images and clinical Prompts for renal transplant representation learning
 * Stage Detection of Mild Cognitive Impairment: Region-dependent Graph Representation Learning on Brain Morphable Meshes
 * Inherently Interpretable Multi-Label Classification Using Class-Specific Counterfactuals
 * MultiTask Learning for accelerated-MRI Reconstruction and Segmentation of Brain Lesions in Multiple Sclerosis
@@ -205,7 +204,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Digital Staining of Unpaired White and Blue Light Cystoscopy Videos for Bladder Cancer Detection in the Clinic
 * Towards Realistic Ultrasound Fetal Brain Imaging Synthesis
 * Assessing Deep Learning Methodologies for Automatic Segmentation of the Velopharyngeal Mechanism
-* On the dice loss variants and sub-patching
 * Anomaly Detection using Cascade Variational Autoencoder Coupled with Zero Shot Learning
 * Virtual staining overlay enabled combined morphological and spatial transcriptomic analysis of individual malignant B cells and local tumor microenvironments
 * Exploring the Optimal Operating MR Contrast for Brain Ventricle Parcellation
@@ -322,6 +320,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * A comparison of self-supervised pretraining approaches for predicting disease risk from chest radiograph images
 * Domain Adaptation using Silver Standard Masks for Lateral Ventricle Segmentation in FLAIR MRI
 * A deep learning method trained on synthetic data for digital breast tomosynthesis reconstruction
+* MEDIMP: 3D Medical Images and clinical Prompts for renal transplant representation learning
 [% / %]
 
 #### Short paper track
@@ -347,6 +346,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Artificial Intelligence and Radiologists at Prostate Cancer Detection in MRI - The PI-CAI Challenge
 * TSNet: Integrating Dental Position Prior and Symptoms for Tooth Segmentation from CBCT Images
 * A Novel Approach for Assessment of Clonal Hematopoiesis of Indeterminate Potential Using Deep Neural Networks
+* On the dice loss variants and sub-patching
 [% / %]
 
 #### Melba journal to conference track
