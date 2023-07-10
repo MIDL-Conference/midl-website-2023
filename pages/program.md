@@ -2094,7 +2094,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o7"></a>
 ### Oral session 7 - Segmentation 2 — 9:30–10:00
-#### Session chairs: Jose Dolz, TBA
+#### Session chairs: Jose Dolz, Gustavo Rohde
 [% .papers %]
 {{ paper('Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function',
         'Febrian Rachmadi, Charissa Poon, henrik skibbe',
