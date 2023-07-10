@@ -181,7 +181,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation
 * Toward Unpaired Multi-modal Medical Image Segmentation via Learning Structured Semantic Consistency
 * Selective experience replay compression using coresets for lifelong deep reinforcement learning in medical imaging
-* A deep learning method trained on synthetic data for digital breast tomosynthesis reconstruction
 * Estimating Uncertainty in PET Image Reconstruction via Deep Posterior Sampling
 * Effect of Intensity Standardization on Deep Learning for WML Segmentation in Multi-Centre FLAIR MRI
 [% / %]
@@ -322,6 +321,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Zero-Shot Self-Supervised Joint Temporal Image and Sensitivity Map Reconstruction via Linear Latent Space
 * A comparison of self-supervised pretraining approaches for predicting disease risk from chest radiograph images
 * Domain Adaptation using Silver Standard Masks for Lateral Ventricle Segmentation in FLAIR MRI
+* A deep learning method trained on synthetic data for digital breast tomosynthesis reconstruction
 [% / %]
 
 #### Short paper track
