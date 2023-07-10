@@ -1220,6 +1220,17 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         video='None',
         lede='Poster location: T31')
 }}
+{{ paper('Robust Detection Outcome: A Metric for Pathology Detection in Medical Images',
+        'Felix Meissen, Philip Müller, Georgios Kaissis, Daniel Rueckert',
+        openreview='https://openreview.net/forum?id=zyiJi4sJ7dZ',
+        pdf='https://openreview.net/pdf?id=zyiJi4sJ7dZ',
+        id='P010',
+        paper='papers/P010',
+        proceedings='',
+        abstract='Detection of pathologies is a fundamental task in medical imaging and the evaluation of algorithms that can perform this task automatically is crucial. However, current object detection metrics for natural images do not reflect the specific clinical requirements in pathology detection sufficiently. To tackle this problem, we propose Robust Detection Outcome (RoDeO); a novel metric for evaluating algorithms for pathology detection in medical images, especially in chest X-rays. RoDeO evaluates different errors directly and individually, and reflects clinical needs better than current metrics. Extensive evaluation on the ChestX-ray8 dataset shows the superiority of our metrics compared to existing ones. We released the code at [https://github.com/FeliMe/RoDeO](https://github.com/FeliMe/RoDeO) and published RoDeO as pip package ($rodeometric$).',
+        video='https://youtu.be/A_pOOc8lKFY',
+        lede='Poster location: T29')
+}}
 [% / %]
 
 #### Short paper track
@@ -1857,7 +1868,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         proceedings='',
         abstract='Detection of pathologies is a fundamental task in medical imaging and the evaluation of algorithms that can perform this task automatically is crucial. However, current object detection metrics for natural images do not reflect the specific clinical requirements in pathology detection sufficiently. To tackle this problem, we propose Robust Detection Outcome (RoDeO); a novel metric for evaluating algorithms for pathology detection in medical images, especially in chest X-rays. RoDeO evaluates different errors directly and individually, and reflects clinical needs better than current metrics. Extensive evaluation on the ChestX-ray8 dataset shows the superiority of our metrics compared to existing ones. We released the code at [https://github.com/FeliMe/RoDeO](https://github.com/FeliMe/RoDeO) and published RoDeO as pip package ($rodeometric$).',
         video='https://youtu.be/A_pOOc8lKFY',
-        lede='Poster location: Virtual only')
+        lede='Poster location: T29')
 }}
 {{ paper('Evaluating Adversarial Robustness of Low dose CT Recovery',
         'Kanchana Vaishnavi Gandikota, Paramanand Chandramouli, Hannah Dröge, Michael Moeller',
