@@ -180,6 +180,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Selective experience replay compression using coresets for lifelong deep reinforcement learning in medical imaging
 * Estimating Uncertainty in PET Image Reconstruction via Deep Posterior Sampling
 * Effect of Intensity Standardization on Deep Learning for WML Segmentation in Multi-Centre FLAIR MRI
+* Robust Detection Outcome: A Metric for Pathology Detection in Medical Images
 [% / %]
 
 #### Short paper track
