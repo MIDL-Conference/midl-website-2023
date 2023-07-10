@@ -2,6 +2,7 @@
 
 import json
 import re
+from pprint import pprint
 from sys import argv
 from pathlib import Path
 from typing import Match, Pattern
@@ -25,6 +26,10 @@ if __name__ == "__main__":
     with open(papers_path, 'r') as pf:
         raw_papers = json.load(pf)
 
+    # for key in ["P010", "P031", "P075", "P115", "P217", "P218", "P048", "P083", "P165", "P073"]:
+    # for key in ["S085", "S110", "S069"]:
+    #     print(f"* {raw_papers[key]['title']}")
+
     papers: list[Paper] = [Paper(**v) for (k, v) in raw_papers.items()]
 
     title_lookup: dict[str, Paper] = {p.title.lower().strip(): p for p in papers}
@@ -36,6 +41,7 @@ if __name__ == "__main__":
 
     regexp: Pattern = re.compile("\* (.*)")
     matches: list[Match] = list(regexp.finditer(template))
+    # pprint(matches)
 
     matched_papers: list[Paper] = [title_lookup[m[1].lower().strip()] for m in matches]
     long_: list[Paper] = [p for p in matched_papers if not p.short]
@@ -48,7 +54,7 @@ if __name__ == "__main__":
     # for p_ in sorted(short_, key=lambda p: p.id):
     #     print(f"* {p_.title}")
 
-    print(len(matches))
+    # print(len(matches))
 
     default_thumbnail: str = "/assets/logos/logo_gold.png"
 
