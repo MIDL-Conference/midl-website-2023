@@ -30,7 +30,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o2"></a>
 ### Oral session 2 - Unsupervised/weakly supervised methods — 14:00–15:00
-#### Session chairs: Mert Sabuncu, Jack Noble
+#### Session chairs: Yuankai Huo, Jack Noble
 
 [% .papers %]
 * Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels
@@ -102,12 +102,10 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Active learning for medical image segmentation with stochastic batches
 * Learning Retinal Representations from Multi-modal Imaging via Contrastive Pre-training
 * Combining Anomaly Detection and Supervised Learning for Medical Image Segmentation
-* Interactive Cell Detection in H&E-stained slides of Diffuse Gastric Cancer
 * Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging
 * Deep Learning-Based Segmentation of Locally Advanced Breast Cancer on MRI in Relation to Residual Cancer Burden: A Multi-Institutional Cohort Study
 * Image Entropy and Numeric Representation for MRI Semantic Segmentation
 * Transforming Radiology Workflows: Pretraining for Automated Chest X-ray Report Generation
-* A Novel Approach for Assessment of Clonal Hematopoiesis of Indeterminate Potential Using Deep Neural Networks
 * Deep Learning based Automatic Segmentation of the Levator Ani Muscle from 3D Endovaginal Ultrasound Images
 * Radiomics using disentangled latent features from deep representation learning in soft-tissue sarcoma
 * Semi-supervised learning in perivascular space segmentation using MRI images
@@ -214,6 +212,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Exploring the Optimal Operating MR Contrast for Brain Ventricle Parcellation
 * High-resolution 3D Maps of Left Atrial Displacements using an Unsupervised Image Registration Neural Network
 * Pre-training Segmentation Models for Histopathology
+* Interactive Cell Detection in H&E-stained slides of Diffuse Gastric Cancer
 [% / %]
 
 ## Wednesday, July 12
@@ -280,7 +279,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o7"></a>
 ### Oral session 7 - Segmentation 2 — 9:30–10:00
-#### Session chairs: Jose Dolz, Yuankai Huo
+#### Session chairs: Jose Dolz, Mystery Co-Chair
 [% .papers %]
 * Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function
 * GeoLS: Geodesic Label Smoothing for Image Segmentation
@@ -347,6 +346,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Applying spatial attention-based autoencoder learning of latent representation for unsupervised characterization of tumor microenvironment
 * Artificial Intelligence and Radiologists at Prostate Cancer Detection in MRI - The PI-CAI Challenge
 * TSNet: Integrating Dental Position Prior and Symptoms for Tooth Segmentation from CBCT Images
+* A Novel Approach for Assessment of Clonal Hematopoiesis of Indeterminate Potential Using Deep Neural Networks
 [% / %]
 
 #### Melba journal to conference track
