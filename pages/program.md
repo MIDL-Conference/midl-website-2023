@@ -329,17 +329,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         video='None',
         lede='Poster location: M16')
 }}
-{{ paper('MEDIMP: 3D Medical Images and clinical Prompts for renal transplant representation learning',
-        'Leo Milecki, Vicky Kalogeiton, Sylvain Bodard, Dany Anglicheau, Jean-Michel Correas, Marc-Olivier Timsit, Maria Vakalopoulou',
-        openreview='https://openreview.net/forum?id=jt-ochRhqG',
-        pdf='https://openreview.net/pdf?id=jt-ochRhqG',
-        id='P055',
-        paper='papers/P055',
-        proceedings='',
-        abstract='Renal transplantation emerges as the most effective solution for end-stage renal disease. Occurring from complex causes, a substantial risk of transplant chronic dysfunction persists and may lead to graft loss. Medical imaging plays a substantial role in renal transplant monitoring in clinical practice. However, graft supervision is multi-disciplinary, notably joining nephrology, urology, and radiology, while identifying robust biomarkers from such high-dimensional and complex data for prognosis is challenging. In this work, taking inspiration from the recent success of Large Language Models (LLMs), we propose MEDIMP -- Medical Images and clinical Prompts -- a model to learn meaningful multi-modal representations of renal transplant Dynamic Contrast-Enhanced Magnetic Resonance Imaging (DCE MRI) by incorporating structural clinicobiological data after translating them into text prompts. MEDIMP is based on contrastive learning from joint text-image paired embeddings to perform this challenging task. Moreover, we propose a framework that generates medical prompts using automatic textual data augmentations from LLMs. Our goal is to learn meaningful manifolds of renal transplant DCE MRI, interesting for the prognosis of the transplant or patient status (2, 3, and 4 years after the transplant), fully exploiting the limited available multi-modal data most efficiently. Extensive experiments and comparisons with other renal transplant representation learning methods with limited data prove the effectiveness of MEDIMP in a relevant clinical setting, giving new directions toward medical prompts. Our code is available at https://github.com/leomlck/MEDIMP.',
-        video='None',
-        lede='Poster location: M17')
-}}
 {{ paper('Stage Detection of Mild Cognitive Impairment: Region-dependent Graph Representation Learning on Brain Morphable Meshes',
         'Jiaqi Guo, Emanuel Azcona, Santiago Lopez-Tapia, Aggelos Katsaggelos',
         openreview='https://openreview.net/forum?id=J4JWTCq14u',
@@ -1435,17 +1424,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         video='None',
         lede='Poster location: T49')
 }}
-{{ paper('On the dice loss variants and sub-patching',
-        'Hoel Kervadec, Marleen de Bruijne',
-        openreview='https://openreview.net/forum?id=d1O5xjKX_yd',
-        pdf='https://openreview.net/pdf?id=d1O5xjKX_yd',
-        id='S091',
-        paper='papers/S091',
-        proceedings='',
-        abstract='The soft-Dice loss is a very popular loss for image semantic segmentation in the medical field, and is often combined with the cross-entropy loss. It has recently been shown that the gradient of the dice loss is a “negative” of the ground truth, and its supervision can be trivially mimicked by multiplying the predicted probabilities with a pre-computed “gradient-map” (Kervadec and de Bruijne, 2023). In this short paper, we study the properties of the dice loss, and two of its variants (Milletari et al., 2016a; Sudre et al., 2017b) when sub-patching is required, and no foreground is present. As theory and experiments show, this introduce divisions by zero which are difficult to handle gracefully while maintaining good performances. On the contrary, the mime loss of (Kervadec and de Bruijne, 2023) proved to be far more suited for sub-patching and handling of empty patches.',
-        video='None',
-        lede='Poster location: T50')
-}}
 {{ paper('Anomaly Detection using Cascade Variational Autoencoder Coupled with Zero Shot Learning ',
         'Gokul Ramasamy, Bhavik N. Patel, Imon Banerjee',
         openreview='https://openreview.net/forum?id=VmFdXXpVx8',
@@ -2057,7 +2035,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         proceedings='',
         abstract='Renal transplantation emerges as the most effective solution for end-stage renal disease. Occurring from complex causes, a substantial risk of transplant chronic dysfunction persists and may lead to graft loss. Medical imaging plays a substantial role in renal transplant monitoring in clinical practice. However, graft supervision is multi-disciplinary, notably joining nephrology, urology, and radiology, while identifying robust biomarkers from such high-dimensional and complex data for prognosis is challenging. In this work, taking inspiration from the recent success of Large Language Models (LLMs), we propose MEDIMP -- Medical Images and clinical Prompts -- a model to learn meaningful multi-modal representations of renal transplant Dynamic Contrast-Enhanced Magnetic Resonance Imaging (DCE MRI) by incorporating structural clinicobiological data after translating them into text prompts. MEDIMP is based on contrastive learning from joint text-image paired embeddings to perform this challenging task. Moreover, we propose a framework that generates medical prompts using automatic textual data augmentations from LLMs. Our goal is to learn meaningful manifolds of renal transplant DCE MRI, interesting for the prognosis of the transplant or patient status (2, 3, and 4 years after the transplant), fully exploiting the limited available multi-modal data most efficiently. Extensive experiments and comparisons with other renal transplant representation learning methods with limited data prove the effectiveness of MEDIMP in a relevant clinical setting, giving new directions toward medical prompts. Our code is available at https://github.com/leomlck/MEDIMP.',
         video='None',
-        lede='Poster location: M17')
+        lede='Poster location: W22')
 }}
 {{ paper('Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion',
         'Shaheer U. Saeed, Tom Syer, Wen Yan, Qianye Yang, Mark Emberton, Shonit Punwani, Matthew John Clarkson, Dean Barratt, Yipeng Hu',
@@ -2452,6 +2430,17 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         video='None',
         lede='Poster location: W16')
 }}
+{{ paper('MEDIMP: 3D Medical Images and clinical Prompts for renal transplant representation learning',
+        'Leo Milecki, Vicky Kalogeiton, Sylvain Bodard, Dany Anglicheau, Jean-Michel Correas, Marc-Olivier Timsit, Maria Vakalopoulou',
+        openreview='https://openreview.net/forum?id=jt-ochRhqG',
+        pdf='https://openreview.net/pdf?id=jt-ochRhqG',
+        id='P055',
+        paper='papers/P055',
+        proceedings='',
+        abstract='Renal transplantation emerges as the most effective solution for end-stage renal disease. Occurring from complex causes, a substantial risk of transplant chronic dysfunction persists and may lead to graft loss. Medical imaging plays a substantial role in renal transplant monitoring in clinical practice. However, graft supervision is multi-disciplinary, notably joining nephrology, urology, and radiology, while identifying robust biomarkers from such high-dimensional and complex data for prognosis is challenging. In this work, taking inspiration from the recent success of Large Language Models (LLMs), we propose MEDIMP -- Medical Images and clinical Prompts -- a model to learn meaningful multi-modal representations of renal transplant Dynamic Contrast-Enhanced Magnetic Resonance Imaging (DCE MRI) by incorporating structural clinicobiological data after translating them into text prompts. MEDIMP is based on contrastive learning from joint text-image paired embeddings to perform this challenging task. Moreover, we propose a framework that generates medical prompts using automatic textual data augmentations from LLMs. Our goal is to learn meaningful manifolds of renal transplant DCE MRI, interesting for the prognosis of the transplant or patient status (2, 3, and 4 years after the transplant), fully exploiting the limited available multi-modal data most efficiently. Extensive experiments and comparisons with other renal transplant representation learning methods with limited data prove the effectiveness of MEDIMP in a relevant clinical setting, giving new directions toward medical prompts. Our code is available at https://github.com/leomlck/MEDIMP.',
+        video='None',
+        lede='Poster location: W22')
+}}
 [% / %]
 
 #### Short paper track
@@ -2686,6 +2675,17 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         abstract='We propose a novel diagnostic method for clonal hematopoiesis of indeterminate potential (CHIP), a condition characterized by the presence of somatic mutations in hematopoietic stem cells without detectable hematologic malignancy, using deep-learning techniques. We developed a convolutional neural network (CNN) to predict CHIP status using 4 different views from standard delayed gadolinium-enhanced cardiac MRI. We used 5-fold cross validation on 82 patients to assess the performance of our model. Different algorithms were compared to find the optimal patient-level prediction method using the image-level CNN predictions. We found that the best model had an AUC of 0.85 and an accuracy of 82%. We conclude that a deep learning-based diagnostic approach for CHIP is promising.',
         video='None',
         lede='Poster location: W12')
+}}
+{{ paper('On the dice loss variants and sub-patching',
+        'Hoel Kervadec, Marleen de Bruijne',
+        openreview='https://openreview.net/forum?id=d1O5xjKX_yd',
+        pdf='https://openreview.net/pdf?id=d1O5xjKX_yd',
+        id='S091',
+        paper='papers/S091',
+        proceedings='',
+        abstract='The soft-Dice loss is a very popular loss for image semantic segmentation in the medical field, and is often combined with the cross-entropy loss. It has recently been shown that the gradient of the dice loss is a “negative” of the ground truth, and its supervision can be trivially mimicked by multiplying the predicted probabilities with a pre-computed “gradient-map” (Kervadec and de Bruijne, 2023). In this short paper, we study the properties of the dice loss, and two of its variants (Milletari et al., 2016a; Sudre et al., 2017b) when sub-patching is required, and no foreground is present. As theory and experiments show, this introduce divisions by zero which are difficult to handle gracefully while maintaining good performances. On the contrary, the mime loss of (Kervadec and de Bruijne, 2023) proved to be far more suited for sub-patching and handling of empty patches.',
+        video='None',
+        lede='Poster location: W20')
 }}
 [% / %]
 
