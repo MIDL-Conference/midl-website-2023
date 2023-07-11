@@ -65,7 +65,7 @@ The virtual event will be hosted on GatherTown
 | ![P201](/assets/logos/logo_gold.png) |![P215](/virtual/thumbnail/P215.jpg) |
 | [P201 - Intra- and Inter-Cellular Awareness for 3D Neuron Tracking and Segmentation in Large-Scale Connectomics](papers/P201.html) |[P215 - Domain adaptation using optimal transport for invariant learning using histopathology datasets](papers/P215.html)  |
 | <hr> | <hr> |
-| ![P217](/virtual/thumbnail/P217.jpg) |![P218](/assets/logos/logo_gold.png) |
+| ![P217](/virtual/thumbnail/P217.jpg) |![P218](/virtual/thumbnail/P218.jpg) |
 | [P217 - One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities](papers/P217.html) |[P218 - MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging](papers/P218.html)  |
 | <hr> | <hr> |
 
