@@ -48,4 +48,6 @@ W16,A deep learning method trained on synthetic data for digital breast tomosynt
 W20,On the dice loss variants and sub-patching
 W22,MEDIMP: 3D Medical Images and clinical Prompts for renal transplant representation learning
 W26,Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels
+W32,Interactive Cell Detection in H&E-stained slides of Diffuse Gastric Cancer
+
 
