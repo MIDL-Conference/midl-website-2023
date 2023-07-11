@@ -271,7 +271,7 @@ jQuery(document).ready(function($) {
         <td id='clr01' class='col4' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center>Check-in at SLC Lobby</td>
         <td id='clr01' class='col4' style="text-align: center" align="center" valign=center colspan=1 rowspan=2>Poster setup time</td>
         <td id='clr01' class='col5' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center>Check-in at SLC Lobby</td>
-        <td id='clr01' class='col5' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center><a href='program.html#pv' style='color:black'>Gathertown virtual posters</td>
+        <td id='clr01' class='col5' rowspan=2 colspan=1 style="text-align: center" align="center" valign=center><a href='/virtual_event.html' style='color:black'>Gathertown virtual posters</td>
         <td id='clr01' class='col5' style="text-align: center" align="center" valign=center colspan=1 rowspan=2>Poster setup time</td>
      </tr>
      <tr>
