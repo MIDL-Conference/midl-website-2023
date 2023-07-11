@@ -268,6 +268,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities
 * Caption generation from histopathology whole-slide images using pre-trained transformers
 * Learning Patient Rotation Using Synthetic X-ray Images from 3D CT Volumes
+* Towards Realistic Ultrasound Fetal Brain Imaging Synthesis
 [% / %]
 
 <a name="o7"></a>
