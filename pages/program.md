@@ -71,17 +71,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 #### Session chairs: Yuankai Huo, Jack Noble
 
 [% .papers %]
-{{ paper('Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels',
-        'Adam Casson, Siqi Liu, Ran A Godrich, Hamed Aghdam, Brandon Rothrock, Kasper Malfroid, Christopher Kanan, Thomas Fuchs',
-        openreview='https://openreview.net/forum?id=rXVtHHFLRIz',
-        pdf='https://openreview.net/pdf?id=rXVtHHFLRIz',
-        id='O007',
-        paper='papers/O007',
-        proceedings='',
-        abstract='Breast cancer is the most commonly diagnosed cancer and the use of artificial intelligence (AI) to help diagnose the disease from digital pathology images has the potential to greatly improve patient outcomes. However, current methods for detecting, segmenting, and sub-typing breast neoplasms and other proliferative lesions often rely on costly and time-consuming manual annotation efforts, which can be impractical for large-scale datasets. In this work, we propose an annotation-free learning framework to jointly detect, segment, and subtype breast neoplasms. Our approach leverages top-k multiple instance learning to train an initial neoplasm detection backbone network from weakly-labeled whole slide images, which is then used to automatically generate pixel-level pseudo-labels for whole slides with only one subtype. A second network is trained using these pseudo-labels, and slide-level classification is performed by training an aggregator network that fuses the embeddings from both backbone networks. We trained and validated our framework on large-scale datasets with more than 100k whole slide images and demonstrate its effectiveness on tasks including breast neoplasms detection, segmentation, and subtyping.',
-        video='None',
-        lede='Poster location: M04')
-}}
 {{ paper('Generalizing Unsupervised Anomaly Detection: Towards Unbiased Pathology Screening',
         'Cosmin I. Bercea, Benedikt Wiestler, Daniel Rueckert, Julia A Schnabel',
         openreview='https://openreview.net/forum?id=8ojx-Ld3yjR',
@@ -194,17 +183,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         abstract='The main benefit of unsupervised anomaly detection is the ability to identify arbitrary, rare data instances of pathologies even in the absence of training labels or sufficient examples of the rare class(es). In the clinical workflow, such methods have the potential to assist in screening and pre-filtering exams for potential pathologies and thus meaningfully support radiologists. Even though much work has been done on using auto-encoders (AE) for anomaly detection, there are still two critical challenges to overcome: First, learning compact and detailed representations of the healthy distribution is cumbersome. Recent work shows that AEs can reconstruct some types of anomalies even better than actual samples from the training distribution. Second, while the majority of unsupervised algorithms are tailored to detect hyperintense lesions on FLAIR brain MR scans, recent improvements in basic intensity thresholding techniques have outperformed them.  Moreover, we found that even state-of-the-art (SOTA) AEs fail to detect several classes of non-hyperintense anomalies on T1w brain MRIs, such as brain atrophy, edema, or resections. In this work, we propose reversed AEs (RA) to generate pseudo-healthy reconstructions and localize various brain pathologies. We extensively evaluate our method on T1w brain scans and increase the detection of global pathology and artefacts from 73.1 to 89.4 AUROC and the amount of detected local pathologies from 52.6% to 86.0% compared to SOTA methods.',
         video='None',
         lede='Poster location: M06')
-}}
-{{ paper('Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels',
-        'Adam Casson, Siqi Liu, Ran A Godrich, Hamed Aghdam, Brandon Rothrock, Kasper Malfroid, Christopher Kanan, Thomas Fuchs',
-        openreview='https://openreview.net/forum?id=rXVtHHFLRIz',
-        pdf='https://openreview.net/pdf?id=rXVtHHFLRIz',
-        id='O007',
-        paper='papers/O007',
-        proceedings='',
-        abstract='Breast cancer is the most commonly diagnosed cancer and the use of artificial intelligence (AI) to help diagnose the disease from digital pathology images has the potential to greatly improve patient outcomes. However, current methods for detecting, segmenting, and sub-typing breast neoplasms and other proliferative lesions often rely on costly and time-consuming manual annotation efforts, which can be impractical for large-scale datasets. In this work, we propose an annotation-free learning framework to jointly detect, segment, and subtype breast neoplasms. Our approach leverages top-k multiple instance learning to train an initial neoplasm detection backbone network from weakly-labeled whole slide images, which is then used to automatically generate pixel-level pseudo-labels for whole slides with only one subtype. A second network is trained using these pseudo-labels, and slide-level classification is performed by training an aggregator network that fuses the embeddings from both backbone networks. We trained and validated our framework on large-scale datasets with more than 100k whole slide images and demonstrate its effectiveness on tasks including breast neoplasms detection, segmentation, and subtyping.',
-        video='None',
-        lede='Poster location: M04')
 }}
 {{ paper('Learning Clinically Acceptable Segmentation of Organs at Risk in Cervical Cancer Radiation Treatment from Clinically Available Annotations',
         'Monika Grewal, Dustin van Weersel, Henrike Westerveld, Peter Bosman, Tanja Alderliesten',
@@ -2104,7 +2082,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 [% / %]
 
 <a name="o7"></a>
-### Oral session 7 - Segmentation 2 — 9:30–10:00
+### Oral session 7 - Segmentation 2 — 9:30–10:15
 #### Session chairs: Jose Dolz, Gustavo Rohde
 [% .papers %]
 {{ paper('Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function',
@@ -2128,6 +2106,17 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         abstract='Smoothing hard-label assignments has emerged as a popular strategy in training discriminative models. Nevertheless, most existing approaches are typically designed for classification tasks, ignoring underlying properties of dense prediction problems, such as medical image segmentation. First, these strategies often ignore the spatial relations between a given pixel and its neighbours. And second, the image context associated with each label is overlooked, which can convey important information about potential errors or ambiguities in the segmentation masks. To address these limitations, we propose in this work geodesic label smoothing (GeoLS), which integrates image information into the label smoothing process by leveraging the geodesic distance transform of the images. As the resulting label assignment is based on the computed geodesic map, class-wise relationships in the soft-labels are better modeled, as it considers image gradients at the boundary of two or more categories. Furthermore, spatial pixel-wise relationships are captured in the geodesic distance transform, integrating richer information than resorting to the Euclidean distance between pixels. We evaluate our method on two publicly available segmentation benchmarks and compare them to popular segmentation loss functions that directly modify the standard hard-label assignments. The proposed geodesic label smoothing improves the segmentation accuracy over existing soft-labeling strategies, demonstrating the validity of integrating image information into the label smoothing process. The code to reproduce our results is available at: https://github.com/anonymous35783578/GeoLS.',
         video='None',
         lede='Poster location: W01')
+}}
+{{ paper('Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels',
+        'Adam Casson, Siqi Liu, Ran A Godrich, Hamed Aghdam, Brandon Rothrock, Kasper Malfroid, Christopher Kanan, Thomas Fuchs',
+        openreview='https://openreview.net/forum?id=rXVtHHFLRIz',
+        pdf='https://openreview.net/pdf?id=rXVtHHFLRIz',
+        id='O007',
+        paper='papers/O007',
+        proceedings='',
+        abstract='Breast cancer is the most commonly diagnosed cancer and the use of artificial intelligence (AI) to help diagnose the disease from digital pathology images has the potential to greatly improve patient outcomes. However, current methods for detecting, segmenting, and sub-typing breast neoplasms and other proliferative lesions often rely on costly and time-consuming manual annotation efforts, which can be impractical for large-scale datasets. In this work, we propose an annotation-free learning framework to jointly detect, segment, and subtype breast neoplasms. Our approach leverages top-k multiple instance learning to train an initial neoplasm detection backbone network from weakly-labeled whole slide images, which is then used to automatically generate pixel-level pseudo-labels for whole slides with only one subtype. A second network is trained using these pseudo-labels, and slide-level classification is performed by training an aggregator network that fuses the embeddings from both backbone networks. We trained and validated our framework on large-scale datasets with more than 100k whole slide images and demonstrate its effectiveness on tasks including breast neoplasms detection, segmentation, and subtyping.',
+        video='None',
+        lede='Poster location: W26')
 }}
 [% / %]
 
@@ -2449,6 +2438,17 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         abstract='Renal transplantation emerges as the most effective solution for end-stage renal disease. Occurring from complex causes, a substantial risk of transplant chronic dysfunction persists and may lead to graft loss. Medical imaging plays a substantial role in renal transplant monitoring in clinical practice. However, graft supervision is multi-disciplinary, notably joining nephrology, urology, and radiology, while identifying robust biomarkers from such high-dimensional and complex data for prognosis is challenging. In this work, taking inspiration from the recent success of Large Language Models (LLMs), we propose MEDIMP -- Medical Images and clinical Prompts -- a model to learn meaningful multi-modal representations of renal transplant Dynamic Contrast-Enhanced Magnetic Resonance Imaging (DCE MRI) by incorporating structural clinicobiological data after translating them into text prompts. MEDIMP is based on contrastive learning from joint text-image paired embeddings to perform this challenging task. Moreover, we propose a framework that generates medical prompts using automatic textual data augmentations from LLMs. Our goal is to learn meaningful manifolds of renal transplant DCE MRI, interesting for the prognosis of the transplant or patient status (2, 3, and 4 years after the transplant), fully exploiting the limited available multi-modal data most efficiently. Extensive experiments and comparisons with other renal transplant representation learning methods with limited data prove the effectiveness of MEDIMP in a relevant clinical setting, giving new directions toward medical prompts. Our code is available at https://github.com/leomlck/MEDIMP.',
         video='https://youtu.be/PgGGqhpntTs',
         lede='Poster location: W22')
+}}
+{{ paper('Joint Breast Neoplasm Detection and Subtyping using Multi-Resolution Network Trained on Large-Scale H&E Whole Slide Images with Weak Labels',
+        'Adam Casson, Siqi Liu, Ran A Godrich, Hamed Aghdam, Brandon Rothrock, Kasper Malfroid, Christopher Kanan, Thomas Fuchs',
+        openreview='https://openreview.net/forum?id=rXVtHHFLRIz',
+        pdf='https://openreview.net/pdf?id=rXVtHHFLRIz',
+        id='O007',
+        paper='papers/O007',
+        proceedings='',
+        abstract='Breast cancer is the most commonly diagnosed cancer and the use of artificial intelligence (AI) to help diagnose the disease from digital pathology images has the potential to greatly improve patient outcomes. However, current methods for detecting, segmenting, and sub-typing breast neoplasms and other proliferative lesions often rely on costly and time-consuming manual annotation efforts, which can be impractical for large-scale datasets. In this work, we propose an annotation-free learning framework to jointly detect, segment, and subtype breast neoplasms. Our approach leverages top-k multiple instance learning to train an initial neoplasm detection backbone network from weakly-labeled whole slide images, which is then used to automatically generate pixel-level pseudo-labels for whole slides with only one subtype. A second network is trained using these pseudo-labels, and slide-level classification is performed by training an aggregator network that fuses the embeddings from both backbone networks. We trained and validated our framework on large-scale datasets with more than 100k whole slide images and demonstrate its effectiveness on tasks including breast neoplasms detection, segmentation, and subtyping.',
+        video='None',
+        lede='Poster location: W26')
 }}
 [% / %]
 
