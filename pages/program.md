@@ -825,7 +825,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o6"></a>
 ### Oral session 6 - Synthesis — 16:00–16:45
-#### Session chairs: Jie Ying Wu, April Khademi
+#### Session chairs: Jie Ying Wu, Jose Dolz
 
 [% .papers %]
 {{ paper('CP2Image: Generating high-quality single-cell images using CellProfiler representations',
@@ -1466,17 +1466,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         video='None',
         lede='Poster location: T55')
 }}
-{{ paper('Interactive Cell Detection in H&E-stained slides of Diffuse Gastric Cancer',
-        'Robin Lomans, Rachel van der Post, Francesco Ciompi',
-        openreview='https://openreview.net/forum?id=J06Ap1NYWE',
-        pdf='https://openreview.net/pdf?id=J06Ap1NYWE',
-        id='S071',
-        paper='papers/S071',
-        proceedings='',
-        abstract='We present an interactive detection model to improve the cell annotation workflow of diffuse gastric cancer. The model relates image and user inputs and is trained to detect three types of cells in diffuse gastric cancer histology. We measure model multi-class cell detection performance as per-class F1 score and we show that it increases with the number of user input clicks. Moreover, we show that the proposed interactive annotation approach substantially reduces the number of required user actions needed for complete image annotation, achieving a 17\\% reduction for the multi-class case. Future work will implement an iterative approach to filter out recurring false positives for further performance improvement.',
-        video='None',
-        lede='Poster location: T56')
-}}
 [% / %]
 
 ## Wednesday, July 12
@@ -2079,11 +2068,22 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         video='https://youtu.be/PuUKcUmDilE',
         lede='Poster location: Virtual only')
 }}
+{{ paper('Towards Realistic Ultrasound Fetal Brain Imaging Synthesis',
+        'Michelle Iskandar, Harvey Mannering, Zhanxiang Sun, Jacqueline Matthew, Hamideh Kerdegari, Laura Peralta, Miguel Xochicale',
+        openreview='https://openreview.net/forum?id=mad9Y_7khs',
+        pdf='https://openreview.net/pdf?id=mad9Y_7khs',
+        id='S084',
+        paper='papers/S084',
+        proceedings='',
+        abstract='Prenatal ultrasound imaging is the first-choice modality to assess fetal health. Medical image datasets for AI and ML methods must be diverse (i.e. diagnoses, diseases, pathologies, scanners, demographics, etc), however there are few public ultrasound fetal imaging datasets due to insufficient amounts of clinical data, patient privacy, rare occurrence of abnormalities in general practice, and limited experts for data collection and validation. To address such data scarcity, we proposed generative adversarial networks (GAN)-based models, diffusion-super-resolution-GAN and transformer-based-GAN, to synthesise images of fetal ultrasound brain planes from one public dataset. We reported that GAN-based methods can generate 256x256 pixel size of fetal ultrasound trans-cerebellum brain image plane with stable training losses, resulting in lower FID values for diffusion-super-resolution-GAN (average 7.04 and lower FID 5.09 at epoch 10) than the FID values of transformer-based-GAN (average 36.02 and lower 28.93 at epoch 60). The results of this work illustrate the potential of GAN-based methods to synthesise realistic high-resolution ultrasound images, leading to future work with other fetal brain planes, anatomies, devices and the need of a pool of experts to evaluate synthesised images. Code, data and other resources to reproduce this work are available at \\url{https://github.com/budai4medtech/midl2023}.',
+        video='None',
+        lede='Poster location: T48')
+}}
 [% / %]
 
 <a name="o7"></a>
 ### Oral session 7 - Segmentation 2 — 9:30–10:15
-#### Session chairs: Jose Dolz, Gustavo Rohde
+#### Session chairs: Maciej A Mazurowski, Gustavo Rohde
 [% .papers %]
 {{ paper('Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function',
         'Febrian Rachmadi, Charissa Poon, henrik skibbe',
@@ -2695,6 +2695,17 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
         abstract='The soft-Dice loss is a very popular loss for image semantic segmentation in the medical field, and is often combined with the cross-entropy loss. It has recently been shown that the gradient of the dice loss is a “negative” of the ground truth, and its supervision can be trivially mimicked by multiplying the predicted probabilities with a pre-computed “gradient-map” (Kervadec and de Bruijne, 2023). In this short paper, we study the properties of the dice loss, and two of its variants (Milletari et al., 2016a; Sudre et al., 2017b) when sub-patching is required, and no foreground is present. As theory and experiments show, this introduce divisions by zero which are difficult to handle gracefully while maintaining good performances. On the contrary, the mime loss of (Kervadec and de Bruijne, 2023) proved to be far more suited for sub-patching and handling of empty patches.',
         video='None',
         lede='Poster location: W20')
+}}
+{{ paper('Interactive Cell Detection in H&E-stained slides of Diffuse Gastric Cancer',
+        'Robin Lomans, Rachel van der Post, Francesco Ciompi',
+        openreview='https://openreview.net/forum?id=J06Ap1NYWE',
+        pdf='https://openreview.net/pdf?id=J06Ap1NYWE',
+        id='S071',
+        paper='papers/S071',
+        proceedings='',
+        abstract='We present an interactive detection model to improve the cell annotation workflow of diffuse gastric cancer. The model relates image and user inputs and is trained to detect three types of cells in diffuse gastric cancer histology. We measure model multi-class cell detection performance as per-class F1 score and we show that it increases with the number of user input clicks. Moreover, we show that the proposed interactive annotation approach substantially reduces the number of required user actions needed for complete image annotation, achieving a 17\\% reduction for the multi-class case. Future work will implement an iterative approach to filter out recurring false positives for further performance improvement.',
+        video='None',
+        lede='Poster location: W32')
 }}
 [% / %]
 
