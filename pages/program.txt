@@ -135,7 +135,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o6"></a>
 ### Oral session 6 - Synthesis — 16:00–16:45
-#### Session chairs: Jie Ying Wu, April Khademi
+#### Session chairs: Jie Ying Wu, Jose Dolz
 
 [% .papers %]
 * CP2Image: Generating high-quality single-cell images using CellProfiler representations
@@ -273,7 +273,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 
 <a name="o7"></a>
 ### Oral session 7 - Segmentation 2 — 9:30–10:15
-#### Session chairs: Jose Dolz, Gustavo Rohde
+#### Session chairs: Maciej A Mazurowski, Gustavo Rohde
 [% .papers %]
 * Improving Segmentation of Objects with Varying Sizes in Biomedical Images using Instance-wise and Center-of-Instance Segmentation Loss Function
 * GeoLS: Geodesic Label Smoothing for Image Segmentation
