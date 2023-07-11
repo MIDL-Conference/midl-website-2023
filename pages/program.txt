@@ -206,7 +206,6 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * Exploring the Optimal Operating MR Contrast for Brain Ventricle Parcellation
 * High-resolution 3D Maps of Left Atrial Displacements using an Unsupervised Image Registration Neural Network
 * Pre-training Segmentation Models for Histopathology
-* Interactive Cell Detection in H&E-stained slides of Diffuse Gastric Cancer
 [% / %]
 
 ## Wednesday, July 12
@@ -346,6 +345,7 @@ Note that Nashville is on the [UTC-5 timezone](https://www.timeanddate.com/time/
 * TSNet: Integrating Dental Position Prior and Symptoms for Tooth Segmentation from CBCT Images
 * A Novel Approach for Assessment of Clonal Hematopoiesis of Indeterminate Potential Using Deep Neural Networks
 * On the dice loss variants and sub-patching
+* Interactive Cell Detection in H&E-stained slides of Diffuse Gastric Cancer
 [% / %]
 
 #### Melba journal to conference track
