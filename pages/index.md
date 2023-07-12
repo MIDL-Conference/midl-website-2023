@@ -17,12 +17,6 @@ page_class: home
     <a href="/program.html" class="button">Scientific program</a>
 </p>
 
-#####<u>**TUESDAY JUL 11: CHANGE IN SCHEDULE**</u>
-**Lunch  - <u>11:30 AM to 1PM</u><br>**
-**Semi-supervised/self-supervised methods (4 orals) at SLC B/C - <u>1PM to 2PM</u>**<br>
-**Keynote: Dr. Yesha at SLC B/C- <u>2PM to 3PM</u>**
-
-
 ---
 
 #### Supporting academic organization
