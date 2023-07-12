@@ -9,7 +9,7 @@ page_class: home
     <img alt="Nashville (Tennessee)" src="/images/nashville.jpg">
 </p> -->
 
-{{ youtube('S1z7zbSDmmI') }}
+{{ youtube('6T5TCBJaYl4') }}
 
 [Streaming day 1](https://youtube.com/live/tNxQWfHgu-4) [Streaming day 2](https://youtube.com/live/S1z7zbSDmmI) [Streaming day 3](https://youtube.com/live/6T5TCBJaYl4)
 
