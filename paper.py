@@ -7,7 +7,7 @@ class Paper():
     def __init__(self, id: str, title: str, authors: str, or_id: str, oral: str, short: str,
                  abstract: str, poster_loc: str = "Virtual only", schedule: str = "",
                  ignore_schedule: bool = False, melba: str = "False",
-                 award: str = "", pmlr_url="", slides: str = "", yt_full: str | None = None):
+                 award: str = "", pmlr_url="", slides: str = "", yt_full: str = ""):
         self.id: int = int(id)
         self.title: str = title
         self.authors: list[str] = authors.split('|')
@@ -19,7 +19,7 @@ class Paper():
         self.abstract: str = abstract
         self.slides: str = slides
         # self.yt_teaser: str = yt_teaser
-        self.yt_full: str | None = yt_full
+        self.yt_full: str = yt_full
         self.award: str = award
         self.poster_loc: str = poster_loc
 
