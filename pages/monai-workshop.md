@@ -38,8 +38,8 @@ Date: 13th July, 2023
 | 09:40 | | Metrics Reloaded                      | | Annika Reinke (DKFZ)                           |
 | 10:15 | | Generative AI                         | | Mark Graham (KCL)                              |
 | 10:45 | | Coffee Break                          | |                                                |
-| 11:00 | | Segment Anything Medical Model (SAMM) | | Wenqi Li / Pengfei Guo / Yucheng Tang (NVIDIA) |
-| 11:35 | | Federated Learning                    | | Holger Roth (NVIDIA)                           |
+| 11:00 | | Federated Learning                    | |  Holger Roth (NVIDIA) |
+| 11:35 | | MONAI VISTA(Versatile Imaging SegmenTation and Annotation) Model                    | | Wenqi Li / Pengfei Guo / Yucheng Tang (NVIDIA)                          |
 | 12:10 | | Hands-On: Auto3DSeg                   | | Dong Yang / Vishwesh Nath (NVIDIA)             |
 | 13:00 | | Q&A and Closing Remarks               | | Michael Zephyr (NVIDIA)                        |
 
