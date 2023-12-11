@@ -26,5 +26,7 @@ pages/program.md: pages/program.txt papers.json
 pages/virtual_event.md: pages/virtual_event.txt papers.json
 	$(CC) gen_virtual_program.py $^ $@
 
+MIDL2023.bib: papers.json FORCE
+	$(CC) gen_bib_proceedings.py $< $@
 
 FORCE:

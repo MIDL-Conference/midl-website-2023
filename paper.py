@@ -56,6 +56,8 @@ class Paper():
         self.conf_id: str = f"{self.conf_sign}{self.id:03d}"
         self.url: str = f"papers/{self.conf_id}"
 
+        self.first_author = self.authors[0].split(' ')[-1]
+
         if not ignore_schedule and not self.schedule:
                 print(self.conf_id, self.title, self.schedule)
         # self.__class__.__name__: str = "Paper"
