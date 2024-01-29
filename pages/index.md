@@ -15,6 +15,7 @@ page_class: home
 
 <p class="centered">
     <a href="/program.html" class="button">Scientific program</a>
+    <a href="https://proceedings.mlr.press/v227/" class="button">Proceedings</a>
 </p>
 
 ---
