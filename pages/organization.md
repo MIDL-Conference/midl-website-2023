@@ -79,6 +79,49 @@ title: "Organization"
 * Xing Yao
 * Yike Zhang
 
+## Area chairs
+
+* Adrian V. Dalca
+* Baiying Lei
+* Carole Frindel
+* Caroline Petitjean
+* Catie Chang
+* Daniel Moyer
+* Dwarikanath Mahapatra
+* Emma C. Robinson
+* Enzo Ferrante
+* Francesco Ciompi
+* Guang Yang
+* Hao Chen
+* Herve Lombaert
+* Huazhu Fu
+* Ilker Hacihaliloglu
+* Ismail Ben Ayed
+* Jelmer M. Wolterink
+* Jianming Liang
+* Jonas Richiardi
+* Jose Dolz
+* Juan Eugenio Iglesias
+* Konstantinos Kamnitsas
+* Liangchen Liu
+* Lisa M. Koch
+* Mathias Unberath
+* Miaomiao Zhang
+* Minjeong Kim
+* Nicha C. Dvornek
+* Ninon Burgos
+* Pierrick Coupe
+* Pritam Mukherjee
+* Ryutaro Tanno
+* Sandy Engelhardt
+* Shireen Elhabian
+* Sila Kurugol
+* Tolga Tasdizen
+* Veronika Cheplygina
+* Xiahai Zhuang
+* Yan Zhuang
+* Yuankai Huo
+
 ## Reviewers
 * Abdulah Fawaz
 * Adrian Galdran
