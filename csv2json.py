@@ -91,7 +91,7 @@ if __name__ == "__main__":
 
         for mp in melba_json:
                 id_: int = int(mp['melba_id'].split(':')[1])
-                authors_: str = ", ".join(a.split('#')[0] for a in mp['authors'])
+                authors_: str = "|".join(a.split('#')[0] for a in mp['authors'])
                 json_dict[f"M{id_:03d}"] = {'abstract': mp['abstract'],
                                             'authors': authors_,
                                             'award': None,

@@ -26,15 +26,30 @@ if __name__ == "__main__":
         entries: dict[str, Entry] = {}
         paper: Paper
         for paper in papers.values():
-                if paper.short:
+                if paper.short or paper.melba:
                         continue
                 
-                entry_id: str = f"{paper.first_author}2023{paper.title.split(' ')[0]}".lower()
+                # entry_id: str = f"{paper.first_author}2023{paper.title,.split(' ')[0]}".lower()
+                old_id: str = f"midl23_{paper.id:03d}".lower()
+                new_id_root: str = f"{paper.first_author}2023".lower()
+                new_id: str
 
-                entries[entry_id] = Entry('InProceedings',
-                                          [('title', paper.title),
-                                           ('author', ' and '.join(paper.authors)),
-                                           ('abstract', paper.sanitized_abstract)])
+                for chr_code in range(ord('a'), ord('z')):
+                        letter: str = chr(chr_code)
+                        new_id = new_id_root + letter
+
+                        if new_id not in entries:
+                                break
+
+                # print(f"git mv {old_id} {new_id}")
+                print(f"git mv {new_id}/{old_id}.bib {new_id}/{new_id}.bib")
+                # print(f"rm {new_id}/{old_id}.pdf")
+                # print(new_id)
+
+                entries[new_id] = Entry('InProceedings',
+                                        [('author', ' and '.join(paper.authors)),
+                                         ('title', paper.title),
+                                         ('abstract', paper.sanitized_abstract)])
 
         bibdata = BibliographyData(entries)
         bibdata.to_file(dest_path)

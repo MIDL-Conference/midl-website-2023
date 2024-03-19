@@ -11,6 +11,10 @@ class Paper():
         self.id: int = int(id)
         self.title: str = title
         self.authors: list[str] = authors.split('|')
+        # try:
+        #     assert len(self.authors) > 1, self.authors
+        # except:
+        #     if self.authors == ['Tamir Shor']
         self.or_id: str = or_id
         self.oral: bool = oral == "True"
         self.melba: bool = melba == "True"
@@ -91,7 +95,7 @@ class PaperEncoder(json.JSONEncoder):
         if isinstance(paper, Paper):
             return {"id": str(paper.id),
                     "title": paper.title,
-                    "authors": ", ".join(paper.authors),
+                    "authors": "|".join(paper.authors),
                     "or_id": paper.or_id,
                     "oral": str(paper.oral),
                     "short": str(paper.short),
